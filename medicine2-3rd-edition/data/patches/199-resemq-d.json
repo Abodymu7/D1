@@ -1,0 +1,478 @@
+[
+ {
+  "id": "resemq-0037",
+  "status": "corrected",
+  "set": {
+   "theme": "Management of asthma",
+   "topics": [
+    "Asthma",
+    "Acute severe asthma",
+    "Inhaled corticosteroids"
+   ],
+   "options": [
+    "Inhaled high-dose corticosteroid",
+    "Inhaled low-dose corticosteroid",
+    "Inhaled short-acting β2-agonist",
+    "Intravenous magnesium sulphate",
+    "Nebulised short-acting β2-agonist",
+    "Oral amoxicillin",
+    "No treatment required",
+    "Oral leukotriene receptor antagonist",
+    "Oral corticosteroid",
+    "Oxygen via face mask and inhaled short-acting β2-agonist",
+    "Oxygen via face mask, inhaled short-acting β2-agonist and corticosteroid",
+    "Oxygen via face mask and nebulised short-acting β2-agonist",
+    "Oxygen via face mask, nebulised short-acting β2-agonist and corticosteroid"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "explanation": "Six months of nocturnal cough and wheeze in an atopic child is asthma with night-time symptoms, which warrants regular preventer therapy from the outset: NICE (2024) and BTS/SIGN recommend a paediatric low-dose inhaled corticosteroid plus an as-needed short-acting β2-agonist. A reliever alone is no longer appropriate for symptoms this frequent."
+   },
+   "2": {
+    "answer": "H",
+    "explanation": "Asthma uncontrolled on high-dose inhaled corticosteroid plus a long-acting β2-agonist warrants a trial of an add-on such as a leukotriene receptor antagonist (montelukast), after checking adherence and inhaler technique, with specialist referral if control remains poor. Maintenance oral steroids are the last step."
+   },
+   "3": {
+    "stem": "A 14-year-old girl attends the GP with poorly controlled chronic asthma despite good adherence and inhaler technique. She is taking an inhaled long-acting β2-agonist, a high-dose inhaled corticosteroid and montelukast. Her parents want to know if anything else can be done.",
+    "answer": "I",
+    "explanation": "When asthma remains uncontrolled on high-dose ICS, LABA and montelukast, the remaining step among these options is a daily oral corticosteroid at the lowest effective dose, under specialist care. Such patients should be referred to a severe-asthma clinic, where biologics (e.g. anti-IL-5 or anti-IgE) can be considered to spare steroids."
+   },
+   "4": {
+    "answer": "M",
+    "explanation": "Inability to complete sentences, heart rate ≥110/min and respiratory rate ≥25/min define acute severe asthma. Treatment is controlled oxygen to SpO2 94–98%, nebulised (oxygen-driven) salbutamol and steroids (prednisolone 40–50 mg orally or IV hydrocortisone), adding nebulised ipratropium."
+   },
+   "5": {
+    "stem": "A 21-year-old woman with known asthma is brought to the emergency department with shortness of breath. She can barely talk, has a silent chest and a respiratory rate of 36/min. Despite some improvement with oxygen, nebulised salbutamol and steroids, her peak flow is still 30% of her best.",
+    "answer": "D",
+    "explanation": "A silent chest and PEF below 33% of best are life-threatening features; with a poor response to initial treatment, a single dose of IV magnesium sulphate (1.2–2 g over 20 minutes) is given after senior discussion. Early ICU referral is needed in case intubation is required."
+   }
+  },
+  "why": "Item 1 re-keyed from reliever alone to low-dose ICS (NICE 2024/BTS: nocturnal symptoms need a preventer); duplicate 'no further management' option replaced"
+ },
+ {
+  "id": "resemq-0038",
+  "status": "expanded",
+  "set": {
+   "theme": "Respiratory diseases of childhood",
+   "topics": [
+    "Croup",
+    "Epiglottitis",
+    "Bronchiolitis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "I",
+    "explanation": "Paroxysmal bursts of coughing with cyanosis and post-tussive vomiting, persisting for months (the '100-day cough') after a coryzal onset in an unimmunised child, is pertussis (Bordetella pertussis). Macrolide treatment in the first 3 weeks reduces spread, and the case must be notified."
+   },
+   "2": {
+    "answer": "H",
+    "explanation": "A sudden-onset cough in an afebrile, otherwise well toddler with unilateral reduced breath sounds (usually right, as the right main bronchus is more vertical) suggests an inhaled foreign body. An expiratory chest X-ray may show air trapping, and rigid bronchoscopy is both diagnostic and therapeutic."
+   },
+   "3": {
+    "answer": "D",
+    "explanation": "A barking cough and stridor with mild fever in a child aged 6 months–3 years, without toxicity, is croup (viral laryngotracheobronchitis, usually parainfluenza). A single dose of oral dexamethasone 0.15 mg/kg is the treatment, with nebulised adrenaline for severe stridor."
+   },
+   "4": {
+    "answer": "F",
+    "explanation": "Rapid onset of high fever, sore throat, drooling, an upright posture, soft stridor and toxicity in an unimmunised child is acute epiglottitis (Haemophilus influenzae type b). The throat must not be examined; senior anaesthetic and ENT help should secure the airway before IV cefotaxime or ceftriaxone is started."
+   },
+   "5": {
+    "answer": "C",
+    "explanation": "Coryza progressing to cough, wheeze and widespread fine crackles in an infant under 1 year is bronchiolitis, usually from respiratory syncytial virus. Management is supportive, with oxygen if SpO2 is below 90–92% and feeding support."
+   }
+  }
+ },
+ {
+  "id": "resemq-0039",
+  "status": "expanded",
+  "set": {
+   "theme": "Scoring the severity of pneumonia (CURB-65)",
+   "topics": [
+    "CURB-65",
+    "Community-acquired pneumonia"
+   ],
+   "options": [
+    "CURB-65 score 0",
+    "CURB-65 score 1",
+    "CURB-65 score 2",
+    "CURB-65 score 3",
+    "CURB-65 score 4",
+    "CURB-65 score 5",
+    "Not a pneumonia"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 55-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows left basal consolidation. His blood pressure is 118/78 mmHg, respiratory rate 18/min and urea 5.4 mmol/L. He scores 10/10 on the Abbreviated Mental Test Score (AMTS).",
+    "answer": "A",
+    "explanation": "No criterion is met: he is under 65, alert, with urea not above 7 mmol/L, respiratory rate below 30/min and blood pressure not low, so CURB-65 is 0 (low severity). He can usually be treated at home with oral amoxicillin."
+   },
+   "2": {
+    "stem": "A 69-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows left basal consolidation. His blood pressure is 86/62 mmHg, respiratory rate 34/min and urea 9.6 mmol/L. He scores 6/10 on the AMTS.",
+    "answer": "F",
+    "explanation": "He scores one point each for confusion (AMTS ≤8), urea >7 mmol/L, respiratory rate ≥30/min, systolic BP <90 mmHg and age ≥65, giving CURB-65 of 5. This is high-severity pneumonia needing IV antibiotics and assessment for critical care."
+   },
+   "3": {
+    "stem": "A 71-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows no consolidation. His blood pressure is 96/68 mmHg, respiratory rate 28/min and urea 6.6 mmol/L. He scores 9/10 on the AMTS.",
+    "answer": "G",
+    "explanation": "Pneumonia requires new radiological shadowing; a purulent cough with a clear chest X-ray is a lower respiratory tract infection (e.g. acute bronchitis or an exacerbation of airways disease). CURB-65 is validated only for radiologically confirmed pneumonia."
+   },
+   "4": {
+    "stem": "A 71-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows left basal consolidation. His blood pressure is 96/68 mmHg, respiratory rate 32/min and urea 8.3 mmol/L. He scores 9/10 on the AMTS.",
+    "answer": "D",
+    "explanation": "Points are scored for urea >7 mmol/L, respiratory rate ≥30/min and age ≥65, giving CURB-65 of 3; the blood pressure does not score (systolic ≥90 and diastolic >60 mmHg) and AMTS 9 is not confusion. A score of 3 or more is high severity, needing admission, IV antibiotics and consideration of critical care."
+   },
+   "5": {
+    "stem": "A 42-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows left basal consolidation. His blood pressure is 106/78 mmHg, respiratory rate 24/min and urea 7.3 mmol/L. He scores 10/10 on the AMTS.",
+    "answer": "B",
+    "explanation": "Only the urea (>7 mmol/L) scores, giving CURB-65 of 1; respiratory rate 24/min, BP 106/78 mmHg, age 42 and a normal AMTS do not score. Scores 0–1 are low severity and usually suitable for home treatment, taking social circumstances into account."
+   }
+  }
+ },
+ {
+  "id": "resemq-0040",
+  "status": "corrected",
+  "set": {
+   "theme": "Causes of pneumonia",
+   "topics": [
+    "Pneumonia",
+    "Pseudomonas aeruginosa",
+    "Legionnaires' disease"
+   ],
+   "options": [
+    "Mycoplasma pneumoniae",
+    "Chlamydia psittaci",
+    "Staphylococcus aureus",
+    "Legionella pneumophila",
+    "Haemophilus influenzae",
+    "Aspiration pneumonia",
+    "Pseudomonas aeruginosa",
+    "Pneumocystis jirovecii",
+    "Streptococcus pneumoniae",
+    "Mycobacterium avium complex"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 32-year-old man with known cystic fibrosis presents with shortness of breath and feels generally unwell.",
+    "answer": "G",
+    "explanation": "Adults with cystic fibrosis are chronically colonised by Pseudomonas aeruginosa, which drives most infective exacerbations. Treatment is with two intravenous antipseudomonal agents (e.g. ceftazidime plus tobramycin)."
+   },
+   "2": {
+    "stem": "A Gram-negative coccobacillus that is a common cause of infective exacerbations and pneumonia in patients with COPD.",
+    "answer": "E",
+    "explanation": "Haemophilus influenzae (non-typeable) is the commonest bacterium isolated in COPD exacerbations and a frequent cause of pneumonia in COPD; it is a Gram-negative coccobacillus. Streptococcus pneumoniae is a Gram-positive diplococcus."
+   },
+   "3": {
+    "stem": "A middle-aged man presents with a cough and generalised muscle pains. He is a keen collector of rare birds.",
+    "answer": "B",
+    "explanation": "Atypical pneumonia with myalgia in a bird keeper suggests psittacosis caused by Chlamydia psittaci. Serology confirms it and doxycycline is the treatment."
+   },
+   "4": {
+    "stem": "A man who injects drugs presents with shortness of breath and fever.",
+    "answer": "C",
+    "explanation": "People who inject drugs are prone to Staphylococcus aureus bacteraemia, right-sided (tricuspid) endocarditis and septic pulmonary emboli causing multiple cavitating lesions. Blood cultures and an echocardiogram are needed."
+   },
+   "5": {
+    "stem": "A middle-aged woman who has recently returned from a hotel stay in Las Vegas presents with a non-productive cough, fever and diarrhoea.",
+    "answer": "D",
+    "explanation": "Pneumonia after hotel travel (contaminated water or air-conditioning systems) with dry cough and gastrointestinal upset is typical of Legionella pneumophila. Look for hyponatraemia and deranged liver tests; the urinary antigen test is diagnostic."
+   }
+  },
+  "why": "Item 2 rewritten (Gram-negative coccobacillus) because S. pneumoniae was an equally defensible cause of pneumonia in COPD; stems tidied"
+ },
+ {
+  "id": "resemq-0041",
+  "status": "corrected",
+  "set": {
+   "theme": "Respiratory drugs",
+   "topics": [
+    "Antituberculous drugs",
+    "Rifampicin",
+    "Ethambutol"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A drug associated with induction of hepatic enzymes.",
+    "answer": "D",
+    "explanation": "Rifampicin is a potent inducer of cytochrome P450 enzymes, reducing levels of warfarin, the combined oral contraceptive, antiretrovirals and corticosteroids. It also turns urine and tears orange-red."
+   },
+   "2": {
+    "stem": "A drug associated with blurred vision and red–green colour blindness.",
+    "answer": "A",
+    "explanation": "Ethambutol causes dose-related optic neuritis with reduced acuity and red–green colour blindness. Visual acuity and colour vision should be checked before and during treatment, with caution in renal impairment."
+   },
+   "3": {
+    "stem": "A man who injects drugs is diagnosed with pneumonia with patchy consolidation on his chest X-ray; blood cultures grow meticillin-sensitive Staphylococcus aureus.",
+    "answer": "H",
+    "explanation": "Staphylococcal pneumonia in people who inject drugs (often from septic emboli) is treated with high-dose intravenous flucloxacillin when the organism is meticillin-sensitive. Vancomycin or teicoplanin would be used for MRSA."
+   },
+   "4": {
+    "stem": "A first-line antituberculous drug that causes hepatitis and can precipitate gout.",
+    "answer": "B",
+    "explanation": "Pyrazinamide is hepatotoxic and reduces renal urate excretion, causing hyperuricaemia and gout. Isoniazid is also hepatotoxic but causes peripheral neuropathy rather than gout."
+   },
+   "5": {
+    "stem": "A middle-aged woman with a recent stroke and an unsafe swallow aspirates and develops pneumonia with foul-smelling sputum. A drug with anaerobic cover is to be added to amoxicillin.",
+    "answer": "E",
+    "explanation": "Metronidazole is active against anaerobes, which are important in aspiration pneumonia with foul sputum or abscess formation, and is combined with amoxicillin (or co-amoxiclav is used alone). Macrolides and aminoglycosides have little anaerobic activity."
+   }
+  },
+  "why": "Items 3 and 5 rewritten to describe a treatable infection (MSSA pneumonia; aspiration pneumonia needing anaerobic cover) so each has a single best answer"
+ },
+ {
+  "id": "resemq-0042",
+  "status": "corrected",
+  "set": {
+   "theme": "Complications of lung cancer",
+   "topics": [
+    "Lung cancer",
+    "Paraneoplastic syndromes",
+    "Pancoast tumour"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 75-year-old man recently diagnosed with lung cancer complains of painful, swollen wrists and ankles.",
+    "answer": "E",
+    "explanation": "Hypertrophic pulmonary osteoarthropathy causes painful swelling of wrists and ankles from periostitis of distal long bones, usually with clubbing, and is most associated with non-small cell lung cancer (especially adenocarcinoma). X-ray or bone scan shows periosteal new bone formation."
+   },
+   "2": {
+    "stem": "A middle-aged man presents with haemoptysis and pain in the shoulder radiating down the inner arm.",
+    "answer": "G",
+    "explanation": "A Pancoast (superior sulcus) tumour at the lung apex invades the brachial plexus (C8–T1), causing shoulder and ulnar-sided arm pain and small-muscle wasting, and may involve the sympathetic chain to cause Horner syndrome. MRI best defines local invasion."
+   },
+   "3": {
+    "stem": "A 65-year-old woman presents with breathlessness, haemoptysis and velvety, pigmented thickening of the skin in her axillae.",
+    "answer": "D",
+    "explanation": "Acanthosis nigricans (velvety hyperpigmented skin in the flexures) of sudden onset in an older adult is a paraneoplastic marker of internal malignancy, including lung cancer. The generalised pigmentation of ectopic ACTH syndrome is not confined to the flexures."
+   },
+   "4": {
+    "stem": "A middle-aged woman with known lung cancer presents with drooping of the right upper eyelid, a constricted right pupil and apparent sinking of the right eye.",
+    "answer": "F",
+    "explanation": "Ptosis, miosis and (apparent) enophthalmos, often with anhidrosis, form Horner syndrome from interruption of the sympathetic chain, typically by an apical tumour. Look for signs of brachial plexus involvement suggesting a Pancoast tumour."
+   },
+   "5": {
+    "stem": "A patient recently diagnosed with small cell lung cancer has proximal lower-limb weakness and difficulty climbing stairs. Tendon reflexes are absent but reappear after sustained muscle contraction; there is no rash.",
+    "answer": "A",
+    "explanation": "Proximal weakness with depressed reflexes that improve after repeated contraction (post-tetanic potentiation), often with autonomic symptoms, is Lambert–Eaton myasthenic syndrome, caused by antibodies to presynaptic voltage-gated calcium channels and associated with small cell carcinoma. Dermatomyositis would have a heliotrope or Gottron rash; Cushing myopathy lacks reflex changes."
+   }
+  },
+  "why": "Item 5: reflex findings and absent rash added to distinguish LEMS from dermatomyositis and Cushing myopathy"
+ },
+ {
+  "id": "resemq-0043",
+  "status": "corrected",
+  "set": {
+   "theme": "Diseases of the respiratory tract",
+   "topics": [
+    "Emphysema",
+    "Influenza",
+    "Acute bronchitis"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "Permanent enlargement of the airspaces distal to the terminal bronchioles, with destruction of their walls.",
+    "answer": "G",
+    "explanation": "This is the pathological definition of emphysema; centriacinar emphysema is related to smoking and panacinar emphysema to alpha-1 antitrypsin deficiency. Bronchiectasis, by contrast, is permanent dilatation of the bronchi themselves."
+   },
+   "2": {
+    "stem": "A 23-year-old man presents in winter with sudden-onset fever, dry cough and muscle aches.",
+    "answer": "F",
+    "explanation": "Abrupt fever, myalgia and dry cough during the winter season is influenza; antivirals (oseltamivir) are given to at-risk patients within 48 hours of onset. The common cold (rhinitis) causes coryza without prominent fever and myalgia."
+   },
+   "3": {
+    "stem": "A condition associated with a hoarse voice, barking cough and stridor.",
+    "answer": "E",
+    "explanation": "Viral laryngotracheobronchitis (croup), usually due to parainfluenza virus in young children, causes hoarseness, a barking 'seal-like' cough and inspiratory stridor. It is treated with oral dexamethasone."
+   },
+   "4": {
+    "stem": "An 18-year-old woman with cystic fibrosis has a persistent cough productive of yellow–green sputum.",
+    "answer": "A",
+    "explanation": "Thick secretions and recurrent infection in cystic fibrosis produce bronchiectasis, with chronic daily purulent sputum. Management includes airway clearance physiotherapy, mucolytics and antibiotics guided by sputum culture."
+   },
+   "5": {
+    "stem": "A previously well middle-aged man develops a cough productive of sputum, mild chest tightness and wheeze a few days after a cold. He is afebrile, his symptoms resolve over 2–3 weeks and his chest X-ray is normal.",
+    "answer": "H",
+    "explanation": "A self-limiting productive cough with transient wheeze following a viral upper respiratory infection, with a normal chest X-ray, is acute bronchitis. It is usually viral and managed symptomatically without antibiotics; recurrent or persistent wheeze would instead suggest asthma."
+   }
+  },
+  "why": "Item 5 rewritten (cough, chest tightness and wheeze alone equally described asthma) so acute bronchitis is the single best answer"
+ },
+ {
+  "id": "resemq-0044",
+  "status": "corrected",
+  "set": {
+   "theme": "Investigation findings in respiratory disease",
+   "topics": [
+    "Interstitial lung disease",
+    "Spirometry",
+    "Granulomatosis with polyangiitis"
+   ],
+   "options": [
+    "COPD",
+    "Obstructive sleep apnoea",
+    "Sarcoidosis",
+    "Granulomatosis with polyangiitis (Wegener)",
+    "Bronchiectasis",
+    "Cystic fibrosis",
+    "Extrinsic allergic alveolitis",
+    "Asthma",
+    "Idiopathic pulmonary fibrosis (cryptogenic fibrosing alveolitis)",
+    "Pneumonia"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 68-year-old woman has progressive breathlessness, finger clubbing and fine bibasal inspiratory crackles. HRCT shows subpleural, basal reticulation with honeycombing.",
+    "answer": "I",
+    "explanation": "Basal subpleural reticulation with honeycombing is the usual interstitial pneumonia pattern of idiopathic pulmonary fibrosis, which is diagnostic in the right clinical setting without biopsy. Spirometry is restrictive with reduced transfer factor (TLCO)."
+   },
+   "2": {
+    "answer": "G",
+    "explanation": "Farmer's lung is extrinsic allergic alveolitis from inhaled thermophilic actinomycetes in mouldy hay, giving cough, breathlessness and fever several hours after exposure, with diffuse fluffy nodular shadowing on the chest X-ray. Precipitating IgG antibodies support the diagnosis."
+   },
+   "3": {
+    "stem": "A lifelong smoker has an FEV1/FVC ratio of 62%, with an increase in FEV1 of only 60 mL (4%) after salbutamol.",
+    "answer": "A",
+    "explanation": "A post-bronchodilator FEV1/FVC below 0.7 with minimal reversibility in a smoker indicates COPD. A large bronchodilator response (≥12% and ≥200 mL, particularly >400 mL) would instead point to asthma."
+   },
+   "4": {
+    "stem": "A 23-year-old woman presents with fever, cough and shortness of breath. Her white cell count is 23 × 10^9/L and a chest X-ray shows patchy consolidation.",
+    "answer": "J",
+    "explanation": "Acute fever, cough and a marked neutrophil leucocytosis with new consolidation indicate bacterial pneumonia. CURB-65 guides severity and management."
+   },
+   "5": {
+    "stem": "A 45-year-old man presents with haemoptysis. His chest X-ray shows cavitating lesions and blood tests show a positive c-ANCA (anti-PR3) antibody.",
+    "answer": "D",
+    "explanation": "Cavitating lung nodules with haemoptysis and PR3-ANCA (c-ANCA) are typical of granulomatosis with polyangiitis, which also involves the upper airways and kidneys. Treatment is induction with corticosteroids plus rituximab or cyclophosphamide."
+   }
+  },
+  "why": "Item 1: ground-glass change was non-specific, so an HRCT UIP pattern was substituted; item 3: reversibility of 12% met the asthma threshold, now 60 mL (4%)"
+ },
+ {
+  "id": "resemq-0045",
+  "status": "corrected",
+  "set": {
+   "theme": "Lung diseases",
+   "topics": [
+    "COPD",
+    "Pneumothorax",
+    "Asbestosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 65-year-old woman has tar-stained fingers, central cyanosis and widespread wheeze.",
+    "answer": "D",
+    "explanation": "Heavy smoking with central cyanosis and diffuse wheeze indicates COPD (the chronic bronchitic 'blue bloater' pattern with hypoxaemia). Spirometry with FEV1/FVC below 0.7 confirms it."
+   },
+   "2": {
+    "stem": "A 30-year-old man involved in a road traffic accident has bruising over the left chest and is short of breath. The left side is hyper-resonant to percussion with reduced breath sounds; the trachea is central and he is haemodynamically stable.",
+    "answer": "J",
+    "explanation": "Blunt chest trauma (often with rib fractures) causing hyper-resonance and reduced breath sounds without tracheal shift or shock is a simple traumatic pneumothorax, treated with a chest drain. Tracheal deviation and hypotension would indicate tension."
+   },
+   "3": {
+    "stem": "A 55-year-old smoker with weight loss and a cough has stony dullness to percussion, reduced vocal resonance and absent breath sounds at the right base. The underlying cause is thought to be a bronchial carcinoma.",
+    "answer": "F",
+    "explanation": "Stony dullness with absent breath sounds and reduced vocal resonance is a pleural effusion, and malignancy (lung, breast or mesothelioma) is a leading cause in smokers. Diagnostic aspiration for cytology, protein and LDH is the next step."
+   },
+   "4": {
+    "stem": "A 24-year-old male master's student is admitted acutely short of breath for the past day. He had a similar episode during his first year at university. He returned from a summer tour of Australasia 1 week ago. His oxygen saturation is 93% on air and he is haemodynamically stable. There are reduced breath sounds on the left, with asymmetrical chest expansion and hyper-resonance. A medical student tells you that 'the lungs look different' on the chest X-ray.",
+    "answer": "J",
+    "explanation": "A recurrent episode of breathlessness in a young man with unilateral reduced breath sounds and asymmetrical expansion is a recurrent primary spontaneous pneumothorax; the long flight is a distractor for PE, which does not cause focal signs or a visibly asymmetric chest X-ray. A second pneumothorax warrants referral for definitive surgical pleurodesis."
+   },
+   "5": {
+    "stem": "A 73-year-old woman who worked for many years in an asbestos textile mill is admitted breathless with mild haemoptysis. She has had three similar admissions in the last 5 months. She is thin, with finger clubbing, an increased anteroposterior chest diameter, scattered wheeze and fine bibasal crackles (right more than left). Arterial blood gas on 28% oxygen: PaO2 13.6 kPa, PaCO2 5.6 kPa. Chest X-ray: borderline cardiomegaly, blunted right costophrenic angle, chronic changes throughout and a bulky left hilum.",
+    "answer": "A",
+    "explanation": "Clubbing with fine basal crackles and pleural disease (blunted costophrenic angle) after prolonged asbestos exposure indicates asbestosis, basal interstitial fibrosis that also raises the risk of lung cancer (the bulky hilum and haemoptysis need CT and bronchoscopy). Cor pulmonale is not supported: there are no signs of right heart failure and she is not hypercapnic."
+   }
+  },
+  "why": "Source key scrambled: item 4 (recurrent spontaneous pneumothorax) was keyed rheumatoid lung and item 5 cor pulmonale; exposure detail added to item 5 and clinical signs to items 2–3 for a single best answer"
+ },
+ {
+  "id": "resemq-0046",
+  "status": "corrected",
+  "set": {
+   "theme": "Causes of shortness of breath",
+   "topics": [
+    "Aortic stenosis",
+    "Pleural effusion",
+    "Pneumonia"
+   ],
+   "options": [
+    "Pulmonary embolism",
+    "Aortic stenosis",
+    "Congestive cardiac failure",
+    "Asthma",
+    "Idiopathic pulmonary fibrosis (cryptogenic fibrosing alveolitis)",
+    "Pleural effusion",
+    "Bronchial carcinoma",
+    "COPD",
+    "Right middle lobe pneumonia",
+    "Pneumothorax"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 55-year-old baker is admitted with increasing shortness of breath over the past 6 weeks, with exertional chest tightness and two episodes of syncope while at work. He had asthma as a child and has smoked 20 pack-years. He has a slow-rising pulse. Admission blood tests, including D-dimer, are unremarkable. Chest X-ray: no active disease. Peak expiratory flow rate 450 L/min.",
+    "answer": "B",
+    "explanation": "The triad of exertional breathlessness, angina-like chest tightness and exertional syncope, with a slow-rising pulse, is severe aortic stenosis; the normal peak flow argues against (occupational) asthma and a normal D-dimer against PE. Echocardiography confirms it and symptomatic severe stenosis needs valve replacement (surgical or TAVI)."
+   },
+   "2": {
+    "stem": "A 32-year-old woman has recently returned from a 2-month sabbatical in Thailand. She has been short of breath for the past week. There is reduced air entry in the right middle and lower zones and no calf swelling. Oxygen saturation 92%, D-dimer 0.45 mg/L (normal <0.5), white cell count 13.6 × 10^9/L. Chest X-ray: indistinct right heart border.",
+    "answer": "I",
+    "explanation": "Loss of the right heart border silhouette localises consolidation to the right middle lobe, which lies against the right atrium; with a neutrophilia this indicates right middle lobe pneumonia. The normal D-dimer makes PE unlikely despite the recent travel."
+   },
+   "3": {
+    "stem": "A 61-year-old retired plumber is admitted with increasing shortness of breath over the past 2 months, associated with mild pleuritic chest pain. He smokes 20 cigarettes a day. There is stony dullness, reduced breath sounds and reduced vocal resonance at the left base. Chest X-ray: a homogeneous opacity with a meniscus obscuring the left hemidiaphragm.",
+    "answer": "F",
+    "explanation": "Stony dullness with reduced breath sounds and vocal resonance, and a basal meniscus-shaped opacity obscuring the hemidiaphragm, is a pleural effusion; in a smoker and plumber (possible asbestos exposure) it must be tapped for cytology to look for lung cancer or mesothelioma. Lobar collapse would show volume loss and tracheal shift towards the lesion."
+   }
+  },
+  "why": "Stems given discriminating signs (slow-rising pulse; meniscus and stony dullness) because the original descriptions were compatible with asthma or collapse/carcinoma"
+ },
+ {
+  "id": "resemq-0047",
+  "status": "corrected",
+  "set": {
+   "theme": "Respiratory infections",
+   "topics": [
+    "Ventilator-associated pneumonia",
+    "Hospital-acquired pneumonia",
+    "Legionnaires' disease"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A patient has been ventilated on the intensive care unit for a week after a complicated laparotomy and now has new lung infiltrates and mucopurulent secretions from the endotracheal tube.",
+    "answer": "C",
+    "explanation": "Late ventilator-associated pneumonia (after 5 days) is commonly caused by Gram-negative organisms, especially Pseudomonas aeruginosa, requiring antipseudomonal therapy such as piperacillin–tazobactam or meropenem guided by local resistance patterns."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Pneumonia with multiple small abscesses (cavitating lesions) in a previously fit young adult, often after influenza, is characteristic of Staphylococcus aureus, including PVL-producing strains that cause necrotising pneumonia. Intensive-care support and antistaphylococcal antibiotics (with anti-toxin agents such as clindamycin or linezolid) are needed."
+   },
+   "3": {
+    "stem": "A middle-aged man is admitted to intensive care with severe acute pneumonia. He is the second intensive care admission and the third case of pneumonia among workers at the same factory in town.",
+    "answer": "E",
+    "explanation": "A cluster of severe pneumonia linked to a common building suggests Legionella pneumophila spread from contaminated cooling towers or water systems. The urinary antigen test confirms it; cases are notified so the source can be traced."
+   },
+   "4": {
+    "stem": "A 71-year-old woman develops a chest infection 3 days after an uncomplicated resection of a Dukes A colonic carcinoma. Blood cultures and a catheter urine specimen both grow the same lactose-fermenting Gram-negative bacillus.",
+    "answer": "D",
+    "explanation": "A lactose-fermenting Gram-negative bacillus from both blood and urine after bowel surgery is Escherichia coli; hospital-acquired infection after abdominal surgery is often caused by enteric Gram-negative bacilli. Pseudomonas is a non-lactose fermenter."
+   },
+   "5": {
+    "answer": "F",
+    "explanation": "Acute fever, pleuritic pain, purulent blood-stained (rusty) sputum, a pleural rub and segmental consolidation in a healthy adult is typical pneumococcal pneumonia, the commonest cause of community-acquired pneumonia. Oral or IV amoxicillin is the treatment, depending on severity."
+   }
+  },
+  "why": "Item 4: microbiology added because early postoperative pneumonia is usually due to community-type organisms, so E. coli was not otherwise the single best answer"
+ }
+]

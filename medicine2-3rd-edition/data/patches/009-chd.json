@@ -1,0 +1,290 @@
+[
+{
+"id": "chd-0001",
+"status": "expanded",
+"set": {
+"topics": [
+"Atrial septal defect"
+],
+"explanation": "A secundum ASD gives a pulmonary flow (ejection systolic) murmur and fixed, wide splitting of S2, because the left-to-right shunt equalises right ventricular filling throughout respiration. The ECG shows RSR' in V1 (incomplete RBBB) with right axis deviation, and the X-ray shows plethora and a prominent pulmonary artery. Pulmonary stenosis causes oligaemia with a soft P2, and a VSD or PDA gives a pansystolic or continuous murmur."
+}
+},
+{
+"id": "chd-0002",
+"set": {
+"bank": "End-Block Exams"
+},
+"why": "Bank corrected from heading misread (End Blocks 2025)"
+},
+{
+"id": "chd-0002",
+"delete": true,
+"dup_of": "chd-0001",
+"why": "Same question as chd-0001 (ASD)"
+},
+{
+"id": "chd-0003",
+"status": "expanded",
+"set": {
+"bank": "Formative & Previous Years",
+"stem": "Which of the following congenital heart defects is most associated with a bicuspid aortic valve?",
+"topics": [
+"Coarctation of the aorta",
+"Bicuspid aortic valve"
+],
+"explanation": "About half of patients with coarctation of the aorta also have a bicuspid aortic valve, and both are common in Turner syndrome. Bicuspid valves predispose to aortic stenosis or regurgitation, endocarditis and ascending aortic dilatation and dissection. ASD, VSD and tetralogy of Fallot are not specifically associated."
+},
+"why": "Bank corrected from heading misread (Previous CVS)"
+},
+{
+"id": "chd-0004",
+"status": "expanded",
+"set": {
+"topics": [
+"Coarctation of the aorta",
+"Secondary hypertension"
+],
+"explanation": "Hypertension in a young man with a difference in arm blood pressures or radiofemoral delay suggests coarctation of the aorta. When the narrowing is at or just proximal to the origin of the left subclavian artery, the left arm pressure is lower than the right. Essential hypertension, renal artery stenosis and phaeochromocytoma do not cause an inter-arm gradient, and aortic regurgitation widens the pulse pressure."
+}
+},
+{
+"id": "chd-0005",
+"status": "expanded",
+"set": {
+"stem": "An 18-year-old man with poorly controlled hypertension has a blood pressure of 160/90 mmHg in the right arm and 120/80 mmHg in the left arm. What best explains the difference between the two arms?",
+"topics": [
+"Coarctation of the aorta"
+],
+"explanation": "Coarctation at or around the origin of the left subclavian artery reduces flow and pressure in the left arm, while the right arm, supplied from the brachiocephalic trunk proximal to the narrowing, remains hypertensive. More commonly the coarctation is distal to the left subclavian, and then both arms are hypertensive with weak, delayed femoral pulses. Subclavian stenosis from atheroma causes an arm difference in older smokers."
+}
+},
+{
+"id": "chd-0006",
+"status": "expanded",
+"set": {
+"topics": [
+"Coarctation of the aorta",
+"Chest X-ray"
+],
+"explanation": "Notching of the inferior borders of the 3rd–8th ribs is caused by dilated, tortuous intercostal collateral arteries in long-standing coarctation, and it is rarely seen before about 8 years of age. The '3 sign' (indentation of the aortic contour) is another classic finding; cardiomegaly and pulmonary oedema appear only with heart failure."
+}
+},
+{
+"id": "chd-0007",
+"status": "corrected",
+"set": {
+"stem": "What is the definitive treatment for significant coarctation of the aorta (with hypertension or a large gradient)?",
+"options": [
+"Lifelong medical management with beta-blockers",
+"Repair of the coarctation (endovascular stenting or surgery)",
+"Angioplasty with a drug-eluting balloon",
+"Observation only"
+],
+"answer": "B",
+"topics": [
+"Coarctation of the aorta",
+"Stenting"
+],
+"explanation": "A haemodynamically significant coarctation (gradient of 20 mmHg or more, or hypertension with an upper-to-lower limb gradient) should be repaired. In adults, catheter-based stenting is usually first-line when anatomically suitable, and surgery (resection with end-to-end anastomosis) is used in infants and in unsuitable anatomy. Antihypertensives alone do not remove the obstruction, and lifelong follow-up is needed for recoarctation, aneurysm and persistent hypertension."
+},
+"why": "Stenting and surgery are both definitive repairs (stenting preferred in adults per ESC 2020); options merged so only one answer is correct"
+},
+{
+"id": "chd-0008",
+"status": "expanded",
+"set": {
+"topics": [
+"Atrial septal defect",
+"Pregnancy"
+],
+"explanation": "A small secundum ASD without pulmonary hypertension or RV failure is well tolerated in pregnancy (modified WHO class II), with a small risk of arrhythmia and paradoxical embolism; routine follow-up is enough. Pregnancy is contraindicated only with Eisenmenger physiology or severe pulmonary hypertension, and small ASDs rarely need closure before pregnancy."
+}
+},
+{
+"id": "chd-0009",
+"status": "expanded",
+"set": {
+"stem": "A 24-year-old woman has a small, unrepaired secundum atrial septal defect. Is antibiotic prophylaxis against infective endocarditis indicated for a routine dental extraction?",
+"topics": [
+"Atrial septal defect",
+"Endocarditis prophylaxis"
+],
+"explanation": "An isolated secundum ASD has a very low endocarditis risk (the shunt is low-velocity), and prophylaxis is not recommended. NICE does not recommend routine prophylaxis for any dental procedure, and ESC limits it to high-risk patients: prosthetic valves or material, previous endocarditis, and unrepaired cyanotic or recently repaired congenital heart disease. Good oral hygiene matters more."
+}
+},
+{
+"id": "chd-0010",
+"status": "expanded",
+"set": {
+"topics": [
+"Atrial septal defect",
+"Second heart sound"
+],
+"explanation": "In ASD, the left-to-right shunt keeps right ventricular volume high in both phases of respiration, so pulmonary valve closure is delayed equally and S2 is widely split with a fixed interval. Paradoxical splitting occurs in LBBB and severe AS, and wide but varying splitting in RBBB or pulmonary stenosis."
+}
+},
+{
+"id": "chd-0011",
+"status": "expanded",
+"set": {
+"topics": [
+"Atrial septal defect",
+"ECG"
+],
+"explanation": "Secundum ASD typically shows an RSR' pattern in V1 (incomplete RBBB) from RV volume overload, often with right axis deviation. Left axis deviation with RBBB suggests a primum ASD (AV septal defect). AF becomes common in older adults with unrepaired ASD but is not the most common ECG finding."
+}
+},
+{
+"id": "chd-0012",
+"status": "expanded",
+"set": {
+"topics": [
+"Eisenmenger syndrome",
+"Atrial septal defect"
+],
+"explanation": "Eisenmenger syndrome (pulmonary vascular disease with shunt reversal) develops in a minority of large, unrepaired shunts, in fewer than 10% of adults with ASD and much sooner with large VSDs or PDAs. A small secundum ASD carries a low risk. The risk is not zero, and pregnancy or other causes of pulmonary hypertension add to it."
+}
+},
+{
+"id": "chd-0013",
+"status": "expanded",
+"set": {
+"topics": [
+"Tetralogy of Fallot",
+"Cyanotic spell"
+],
+"explanation": "Collapse with deep cyanosis on exertion in a young person with congenital heart disease suggests tetralogy of Fallot (VSD, overriding aorta, RV outflow obstruction, RV hypertrophy): infundibular spasm or a fall in systemic resistance increases right-to-left shunting. Coarctation and WPW do not cause cyanosis, a PFO causes cyanosis only if right pressures rise, and congenital heart block causes syncope without cyanosis."
+}
+},
+{
+"id": "chd-0014",
+"status": "expanded",
+"set": {
+"topics": [
+"Eisenmenger syndrome"
+],
+"explanation": "In Eisenmenger syndrome, pulmonary vascular disease reverses a left-to-right shunt (VSD, PDA, large ASD) to right-to-left, causing central cyanosis, clubbing, erythrocytosis, breathlessness and fatigue. Life expectancy is markedly reduced (many die in their 30s–50s), and pregnancy carries a high maternal mortality. A PFO alone does not cause it."
+}
+},
+{
+"id": "chd-0015",
+"status": "expanded",
+"set": {
+"topics": [
+"Ventricular septal defect"
+],
+"explanation": "A small (restrictive) VSD generates a high-velocity jet from the high-pressure left ventricle into the right ventricle, causing a loud, harsh pansystolic murmur at the left sternal edge, often with a thrill, even though the shunt is haemodynamically trivial ('maladie de Roger'). ASD gives a soft flow murmur with fixed S2 splitting, and a PDA gives a continuous machinery murmur."
+}
+},
+{
+"id": "chd-0016",
+"status": "expanded",
+"set": {
+"topics": [
+"Patent ductus arteriosus",
+"Eisenmenger syndrome",
+"Differential cyanosis"
+],
+"explanation": "Cyanosis and clubbing of the toes but not the fingers (differential cyanosis) indicates a PDA with pulmonary hypertension and shunt reversal: deoxygenated blood enters the aorta distal to the left subclavian artery and reaches only the lower body. In tetralogy and VSD with Eisenmenger physiology, cyanosis is equal in hands and feet, and transposition causes cyanosis from birth."
+}
+},
+{
+"id": "chd-0017",
+"status": "expanded",
+"set": {
+"topics": [
+"Congenital heart block",
+"Neonatal lupus"
+],
+"explanation": "Maternal anti-Ro (SSA) and anti-La (SSB) antibodies cross the placenta and can damage the fetal conduction system, causing congenital complete heart block, which is often permanent and may need pacing. Fetal heart-rate monitoring from 16 weeks is advised, and hydroxychloroquine may reduce the risk. The other options are not typical neonatal complications."
+}
+},
+{
+"id": "chd-0018",
+"status": "expanded",
+"set": {
+"topics": [
+"Paradoxical embolism",
+"Atrial septal defect"
+],
+"explanation": "Acute limb ischaemia in a young woman without vascular risk factors, with a childhood murmur, suggests paradoxical embolism: venous thrombus crossing an ASD or PFO into the systemic circulation. A transthoracic or transoesophageal echo with agitated-saline bubble contrast shows the shunt, and the source DVT should also be sought. Endocarditis would cause fever and a changing murmur."
+}
+},
+{
+"id": "chd-0019",
+"status": "expanded",
+"set": {
+"topics": [
+"Atrial septal defect",
+"Paradoxical embolism",
+"Stroke"
+],
+"explanation": "A pulmonary flow murmur, a tricuspid flow diastolic rumble and fixed splitting of S2 indicate a large ASD, and a stroke in a young adult suggests paradoxical embolism across it. Echo with bubble contrast confirms the defect, and closure is considered. A VSD gives a pansystolic murmur, a PDA a continuous murmur, and coarctation causes hypertension with radiofemoral delay."
+}
+},
+{
+"id": "chd-0020",
+"status": "expanded",
+"set": {
+"topics": [
+"Ventricular septal defect",
+"Infective endocarditis"
+],
+"explanation": "A small restrictive VSD does not cause significant volume overload, heart failure or pulmonary hypertension. Its main long-term risk is infective endocarditis on the right ventricular side of the jet, so good dental hygiene is important. Aortic regurgitation from cusp prolapse can occur with outlet VSDs, and many small muscular VSDs close spontaneously in childhood."
+}
+},
+{
+"id": "chd-0021",
+"status": "expanded",
+"set": {
+"topics": [
+"Ventricular septal defect",
+"Murmurs"
+],
+"explanation": "A VSD produces a harsh holosystolic murmur at the lower (mid) left sternal border. The other options describe aortic stenosis (crescendo–decrescendo at the upper right sternal border radiating to the carotids), ASD (pulmonary flow murmur with a tricuspid diastolic rumble), aortic regurgitation (diastolic decrescendo at the left sternal border) and PDA (continuous machinery murmur at the upper left sternal border)."
+}
+},
+{
+"id": "chd-0022",
+"status": "expanded",
+"set": {
+"topics": [
+"Patent ductus arteriosus",
+"Prematurity"
+],
+"explanation": "A haemodynamically significant PDA in a preterm infant (ventilator dependence, cardiomegaly, pulmonary congestion) is first treated medically with a cyclo-oxygenase inhibitor (IV ibuprofen or indomethacin, or paracetamol), which reduces prostaglandin E2 and encourages ductal closure. Surgical ligation or catheter closure is used if this fails. Prostaglandin E1 does the opposite: it keeps the duct open in duct-dependent lesions."
+}
+},
+{
+"id": "chd-0023",
+"status": "expanded",
+"set": {
+"topics": [
+"Ventricular septal defect",
+"Complications"
+],
+"explanation": "VSD complications include heart failure (large shunts), pulmonary hypertension leading to Eisenmenger syndrome, aortic regurgitation from cusp prolapse (outlet or perimembranous defects), infective endocarditis and, rarely, RV outflow obstruction. Atrial fibrillation is typical of atrial volume overload (ASD, mitral disease) rather than VSD."
+}
+},
+{
+"id": "chd-0024",
+"delete": true,
+"dup_of": "chd-0021",
+"silent": true,
+"why": "Page 80 of the source duplicates page 79 (same questions printed twice)"
+},
+{
+"id": "chd-0025",
+"delete": true,
+"dup_of": "chd-0022",
+"silent": true,
+"why": "Page 80 of the source duplicates page 79"
+},
+{
+"id": "chd-0026",
+"delete": true,
+"dup_of": "chd-0023",
+"silent": true,
+"why": "Page 80 of the source duplicates page 79"
+}
+]

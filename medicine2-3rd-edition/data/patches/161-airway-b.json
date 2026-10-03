@@ -1,0 +1,274 @@
+[
+{
+"id": "airway-0046",
+"status": "expanded",
+"set": {
+"options": [
+"PEF 35% of predicted",
+"pH 7.33",
+"Patient preference after informed consent",
+"Respiratory rate of 50/min",
+"Oxygen saturations of 95% on 100% high-flow oxygen"
+],
+"topics": [
+"Life-threatening asthma",
+"Mechanical ventilation",
+"Arterial blood gas"
+],
+"explanation": "In acute asthma the patient hyperventilates, so PaCO2 should be low; an acidosis (pH 7.33) means CO2 is now accumulating because the patient is tiring, which is a near-fatal feature and the strongest indicator that intubation and ventilation are needed. A PEF of 35% is a small improvement, and saturations of 95% on high-flow oxygen are acceptable. A respiratory rate of 50/min is alarming but less specific than a rising PaCO2 with acidosis; exhaustion, drowsiness, worsening hypoxaemia and respiratory arrest are the other indications. Intubation should be done early in ICU by an experienced anaesthetist."
+}
+},
+{
+"id": "airway-0047",
+"delete": true,
+"why": "Parse fragment: first part of the stem of airway-0049 (question rejoined there)"
+},
+{
+"id": "airway-0048",
+"delete": true,
+"why": "Parse fragment: middle part of the stem of airway-0049 (question rejoined there)"
+},
+{
+"id": "airway-0049",
+"status": "corrected",
+"set": {
+"stem": "A 37-year-old woman with known asthma presents to the emergency department with severe shortness of breath. Her respiratory rate is 35/min, she is unable to complete a sentence and there is widespread wheeze. Initial ABG on air: pH 7.46, PaCO2 3.9 kPa, PaO2 11.2 kPa, HCO3− 22 mmol/L. She is given oral prednisolone and back-to-back nebulised salbutamol and ipratropium. An hour later she is alert, but her chest is silent on auscultation. Repeat ABG: pH 7.35, PaCO2 5.7 kPa, PaO2 11.0 kPa, HCO3− 24 mmol/L. Chest X-ray is unremarkable. What is the best next step in her management?",
+"topics": [
+"Life-threatening asthma",
+"Magnesium sulfate",
+"Arterial blood gas"
+],
+"explanation": "A silent chest and a PaCO2 that has risen from 3.9 to a 'normal' 5.7 kPa are life-threatening features: a breathless asthmatic should be hypocapnic, so a normal PaCO2 means she is tiring. BTS/NICE/SIGN recommends a single dose of IV magnesium sulfate 1.2–2 g over 20 minutes for life-threatening asthma or a poor response to nebulised bronchodilators, with continued nebulisers and urgent ICU review. She has already had a systemic steroid (IV hydrocortisone adds nothing over oral prednisolone), NIV is not recommended in acute asthma, omalizumab is a maintenance biologic, and intubation is for near-fatal features such as a raised PaCO2, exhaustion or drowsiness.",
+"answer": "D",
+"options": [
+"Non-invasive ventilation",
+"Invasive mechanical ventilation",
+"Intravenous hydrocortisone",
+"Intravenous magnesium sulfate",
+"Omalizumab"
+]
+},
+"why": "Stem rejoined from three parse fragments (airway-0047, -0048 and this item); source key (NIV) is not recommended in acute asthma — key set to IV magnesium sulfate, and 'she is alert' added to separate it from intubation"
+},
+{
+"id": "airway-0050",
+"status": "corrected",
+"set": {
+"stem": "A 50-year-old woman has breathlessness on exertion that has been worsening for a year, with wheeze that is worse with exercise and during the summer, when she also has severe hay fever. She has never smoked. The chest X-ray shows mild hyperinflation but is otherwise unremarkable. Lung function: FEV1 1.1 L (predicted 1.7–3.0), FVC 2.7 L (2.0–3.5), FEV1/FVC 41%, FRC 4.2 L (1.7–3.4), TLC 6.5 L (3.6–5.6), TLCO 5.86 mmol/min/kPa (5.7–9.5), KCO 1.63 mmol/min/kPa/L (predicted 1.66). What is the most likely diagnosis?",
+"answer": "A",
+"topics": [
+"Asthma",
+"Pulmonary function tests",
+"Gas transfer"
+],
+"explanation": "The tests show obstruction (FEV1/FVC 41%) with gas trapping and hyperinflation (raised FRC and TLC) but normal gas transfer (TLCO and KCO), which in a never-smoker with seasonal, exercise-related wheeze and hay fever points to asthma. In emphysematous COPD the destroyed alveolar–capillary surface lowers TLCO and KCO, and she has no smoking history. Bronchiectasis would present with chronic purulent sputum, interstitial lung disease causes restriction with low gas transfer, and pulmonary haemorrhage raises KCO. The next step is reversibility testing or FeNO to confirm asthma."
+},
+"why": "Source key (bronchiectasis) is unsupported: obstruction with normal gas transfer in an atopic never-smoker indicates asthma; lung-function table rewritten in words with SI units"
+},
+{
+"id": "airway-0051",
+"status": "expanded",
+"set": {
+"stem": "A 25-year-old man presents with breathlessness. Lung function tests show a PEFR of 300 L/min and a reduced FEV1/FVC ratio. He is otherwise healthy, smokes five cigarettes a day and keeps a pet cat. What is the most likely diagnosis?",
+"topics": [
+"Asthma",
+"Peak expiratory flow"
+],
+"explanation": "A young adult with an obstructive pattern (reduced FEV1/FVC), a low peak flow and a potential allergen exposure (cat dander) most likely has asthma; a light smoking habit makes COPD very unlikely at 25. Kyphoscoliosis causes a restrictive defect with a normal or high ratio, bronchiectasis presents with chronic purulent sputum, bronchial carcinoma is rare at this age, and whooping cough causes paroxysmal cough rather than fixed obstruction. The diagnosis should be confirmed objectively with FeNO, bronchodilator reversibility or PEF variability."
+}
+},
+{
+"id": "airway-0052",
+"status": "expanded",
+"set": {
+"stem": "Cough productive of sputum on most days for at least 3 months in each of 2 consecutive years is the clinical definition of which condition?",
+"options": [
+"Bronchial asthma",
+"COPD (chronic bronchitis)",
+"Pulmonary oedema",
+"Pneumonia",
+"Pulmonary tuberculosis"
+],
+"topics": [
+"Chronic bronchitis",
+"COPD"
+],
+"explanation": "Chronic bronchitis is defined clinically (MRC definition) as a productive cough on most days for at least 3 months of 2 successive years, after other causes have been excluded; it reflects mucous gland hypertrophy and goblet-cell hyperplasia, usually from smoking. COPD itself is defined by a post-bronchodilator FEV1/FVC below 0.70. Asthma typically causes variable wheeze and dry or nocturnal cough, pulmonary oedema causes pink frothy sputum and orthopnoea, and pneumonia and tuberculosis are infections with a shorter or systemic course."
+}
+},
+{
+"id": "airway-0055",
+"status": "corrected",
+"set": {
+"options": [
+"When sputum is purulent, simple antibiotic regimens such as amoxicillin or a macrolide are advised",
+"Oral prednisolone reduces symptoms but cannot improve lung function",
+"Mechanical ventilation may be considered in those with a reversible cause for deterioration (e.g. pneumonia) or no prior history of respiratory failure",
+"Nebulised short-acting beta2-agonists can be combined with an anticholinergic agent"
+],
+"answer": "B",
+"topics": [
+"COPD exacerbation",
+"Prednisolone",
+"Antibiotics"
+],
+"explanation": "Systemic corticosteroids (prednisolone 30–40 mg for 5 days) in a COPD exacerbation shorten recovery, reduce treatment failure and do improve FEV1 and oxygenation, so the statement that they cannot improve lung function is false. Antibiotics are indicated when sputum becomes purulent (amoxicillin, doxycycline or clarithromycin), nebulised salbutamol with ipratropium is standard, and invasive ventilation is appropriate when there is a reversible cause and a reasonable baseline; NIV is used first for hypercapnic acidosis."
+},
+"why": "Source key (antibiotics statement) is a true statement; the false statement is that prednisolone cannot improve lung function, so key changed and antibiotic option clarified"
+},
+{
+"id": "airway-0056",
+"status": "expanded",
+"set": {
+"topics": [
+"COPD",
+"Barrel chest"
+],
+"explanation": "A heavy smoker with chronic productive cough, progressive breathlessness, pursed-lip breathing (which creates positive end-expiratory pressure to splint small airways open) and a barrel chest from hyperinflation has COPD, to be confirmed by a post-bronchodilator FEV1/FVC below 0.70. Asthma is variable and usually begins earlier, interstitial lung disease and pulmonary fibrosis cause restriction with fine basal crackles and clubbing, and bronchiectasis causes copious daily purulent sputum."
+}
+},
+{
+"id": "airway-0057",
+"delete": true,
+"dup_of": "airway-0066",
+"why": "Same idea and level as airway-0066 (expected pulmonary function pattern in COPD: obstructive, reduced FEV1/FVC)"
+},
+{
+"id": "airway-0059",
+"status": "expanded",
+"set": {
+"stem": "A 55-year-old taxi driver has smoked 30 cigarettes a day since the age of 15 and is increasingly breathless on exertion. SpO2 is 98% on air. Examination shows tracheal tug, a reduced cricosternal distance, a barrel chest, reduced cardiac dullness and symmetrically reduced air entry. The chest X-ray shows hyperinflation and spirometry shows moderate airflow obstruction. He walks 300 m on an incremental shuttle walk test before becoming breathless, and his saturations are maintained. Which pathological change best explains why he is breathless on exertion?",
+"topics": [
+"Emphysema",
+"Dynamic hyperinflation",
+"Elastic recoil"
+],
+"explanation": "Emphysema destroys elastin in the alveolar walls, so loss of elastic recoil removes the radial traction that holds small airways open; they collapse during expiration, trapping air. On exertion the faster respiratory rate shortens expiratory time, causing dynamic hyperinflation, so he breathes at high lung volumes with flattened, mechanically disadvantaged diaphragms and a greatly increased work of breathing. Maintained saturations argue against pulmonary hypertension or chemoreceptor-driven hypoxaemia, and exercise-induced bronchospasm is a feature of asthma."
+}
+},
+{
+"id": "airway-0060",
+"status": "corrected",
+"set": {
+"stem": "A 67-year-old woman, an ex-smoker, has progressive exertional breathlessness. Spirometry is normal (FEV1/FVC 0.74), but gas transfer (TLCO) is reduced to 55% of predicted. A CT scan of her chest is shown. What is the most likely cause of her breathlessness?",
+"options": [
+"Asthma",
+"Cardiac failure",
+"Emphysema",
+"Interstitial lung disease",
+"Pulmonary thromboembolism"
+],
+"topics": [
+"Emphysema",
+"Pre-COPD",
+"CT chest"
+],
+"explanation": "The CT shows multiple small areas of low attenuation without visible walls in the upper lobes — centrilobular emphysema. Emphysema can cause considerable breathlessness and a low TLCO before spirometry becomes abnormal, and GOLD 2025 calls this 'pre-COPD': symptoms or structural lung disease with a post-bronchodilator FEV1/FVC still ≥0.70; many such patients progress to COPD, so smoking abstinence and follow-up spirometry are essential. Interstitial lung disease would show reticulation or ground-glass change, and asthma would not reduce gas transfer."
+},
+"why": "Option 'COPD' renamed 'emphysema' because COPD requires FEV1/FVC <0.70 (normal spirometry = pre-COPD, GOLD 2025); reduced TLCO added and image described"
+},
+{
+"id": "airway-0061",
+"status": "expanded",
+"set": {
+"topics": [
+"COPD",
+"LAMA/LABA",
+"Dual bronchodilator therapy"
+],
+"explanation": "GOLD 2025 recommends escalating from a single long-acting bronchodilator to a LABA+LAMA combination (e.g. umeclidinium–vilanterol) when breathlessness persists; dual bronchodilation improves FEV1, symptoms and exercise tolerance. An ICS/LABA is reserved for patients with exacerbations and blood eosinophils ≥300 cells/µL (or asthma features), ambulatory oxygen needs exertional desaturation, maintenance oral steroids are harmful, and nebulised salbutamol offers no advantage over a correctly used inhaler. Pulmonary rehabilitation should also be offered."
+}
+},
+{
+"id": "airway-0062",
+"status": "expanded",
+"set": {
+"topics": [
+"Asbestosis",
+"Obstructive lung disease",
+"Restrictive lung disease"
+],
+"explanation": "Asbestosis is diffuse interstitial fibrosis caused by asbestos fibres and produces a restrictive defect (reduced TLC and FVC with a normal or raised FEV1/FVC) and reduced gas transfer. Asthma, bronchiectasis, chronic bronchitis and emphysema all narrow or collapse the airways, reducing FEV1 more than FVC and lowering the FEV1/FVC ratio. Asbestos exposure is also linked to pleural plaques, diffuse pleural thickening, mesothelioma and lung cancer."
+}
+},
+{
+"id": "airway-0063",
+"delete": true,
+"dup_of": "airway-0066",
+"why": "Same idea and level as airway-0066 (COPD pulmonary function pattern: raised TLC with reduced FEV1/FVC)"
+},
+{
+"id": "airway-0064",
+"status": "corrected",
+"set": {
+"stem": "A 69-year-old man, an ex-smoker with COPD (FEV1 45% of predicted), has had three exacerbations in the past year despite good adherence and inhaler technique on triple therapy (LAMA/LABA/ICS) and completion of pulmonary rehabilitation. Resting SpO2 is 94% on air, PaCO2 is normal and his ECG shows a normal QT interval. Which treatment is most likely to reduce the frequency of his exacerbations?",
+"options": [
+"Azithromycin 250 mg three times weekly",
+"Continuous oxygen 2 L/min",
+"Nocturnal BiPAP therapy",
+"Montelukast 10 mg daily",
+"Theophylline 300 mg daily"
+],
+"topics": [
+"COPD exacerbation",
+"Azithromycin",
+"Prophylactic antibiotics"
+],
+"explanation": "Long-term macrolide prophylaxis reduces exacerbations by about a quarter in patients who keep exacerbating despite optimised treatment, particularly former smokers (GOLD 2025; NICE NG115 suggests azithromycin 250 mg three times a week). Before starting, check the ECG for QT prolongation and liver function, send sputum for mycobacterial culture and warn about hearing loss. Oxygen does not reduce exacerbations in patients who are not hypoxaemic, home NIV is for persistent hypercapnia, montelukast has no role in COPD and theophylline has little effect on exacerbations. Roflumilast is the alternative in chronic bronchitis with FEV1 <50%."
+},
+"why": "Roflumilast also reduces exacerbations, so two options were defensible; roflumilast replaced by montelukast and the stem given optimised therapy and normal QT to make azithromycin the single best answer"
+},
+{
+"id": "airway-0065",
+"status": "corrected",
+"set": {
+"options": [
+"Airway hyperresponsiveness",
+"Coal dust exposure",
+"Passive cigarette smoke exposure",
+"Recurrent respiratory infections in adulthood",
+"Use of biomass fuels in poorly ventilated areas"
+],
+"topics": [
+"COPD",
+"Risk factors"
+],
+"explanation": "Tobacco smoke (active and passive), occupational dusts such as coal, and biomass fuel smoke in poorly ventilated homes are established causes of COPD, and airway hyperresponsiveness is an independent risk factor for accelerated FEV1 decline. Respiratory infections in adults trigger exacerbations, but they have not been proven to cause COPD (Harrison). GOLD 2025 does list severe respiratory infection in childhood, which impairs lung growth, among the early-life risk factors."
+},
+"why": "Option clarified to 'in adulthood' because severe childhood respiratory infection is a recognised risk factor (GOLD 2025)"
+},
+{
+"id": "airway-0066",
+"status": "corrected",
+"set": {
+"images": [],
+"topics": [
+"COPD",
+"Pulmonary function tests",
+"Diffusing capacity"
+],
+"explanation": "COPD is obstructive: FEV1 falls more than FVC, so the FEV1/FVC ratio is below 0.70. Loss of elastic recoil and airway collapse cause gas trapping (raised RV) and hyperinflation (raised TLC), and emphysematous alveolar destruction lowers DLCO. A reduced TLC with a normal or high ratio indicates restriction, a raised DLCO suggests alveolar haemorrhage, polycythaemia or asthma, and normal results would not fit symptomatic COPD."
+},
+"why": "Attached table image lists a different set of options from the text options, so it was removed"
+},
+{
+"id": "airway-0067",
+"delete": true,
+"dup_of": "airway-0081",
+"why": "Same idea and level as airway-0081 (COPD symptomatic on SABA alone — start long-acting bronchodilator therapy)"
+},
+{
+"id": "airway-0068",
+"status": "corrected",
+"set": {
+"stem": "A 56-year-old man has a severe COPD exacerbation with acute hypercapnic respiratory failure (pH 7.28, PaCO2 8.2 kPa) despite controlled oxygen and nebulised bronchodilators. Which therapy has been shown to produce the greatest reduction in mortality?",
+"topics": [
+"COPD exacerbation",
+"Non-invasive ventilation",
+"Hypercapnic respiratory failure"
+],
+"explanation": "In acute hypercapnic respiratory failure due to COPD (pH <7.35, PaCO2 >6.5 kPa persisting after initial therapy), NIV (bilevel positive airway pressure) reduces mortality by about half, lowers intubation rates and shortens hospital stay. Bronchodilators, systemic steroids and antibiotics speed recovery but have not shown a comparable survival benefit, and routine early intubation carries ventilator-associated complications; invasive ventilation is for patients who fail or cannot tolerate NIV."
+},
+"why": "Stem specified hypercapnic acidosis, the indication for NIV, so the key is unambiguous"
+}
+]

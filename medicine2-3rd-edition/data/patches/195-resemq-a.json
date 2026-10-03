@@ -1,0 +1,570 @@
+[
+ {
+  "id": "resemq-0001",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Breathlessness",
+    "Pulmonary oedema",
+    "Pneumothorax"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "explanation": "Chronic productive cough after a severe childhood lower respiratory infection (measles, pertussis), with clubbing and coarse crackles, is typical of bronchiectasis. HRCT confirms it by showing dilated bronchi larger than the accompanying artery (signet-ring sign); COPD does not cause clubbing."
+   },
+   "2": {
+    "answer": "H",
+    "explanation": "Haemoptysis, anaemia and a fixed localised (monophonic) wheeze from a partly obstructed bronchus point to bronchial carcinoma; gynaecomastia is a paraneoplastic effect (ectopic hCG). Chest X-ray and staging contrast CT, then tissue diagnosis, are the next steps."
+   },
+   "3": {
+    "answer": "M",
+    "explanation": "Sudden breathlessness with pink frothy sputum, bilateral fine crackles, cold clammy peripheries and hypotension is acute cardiogenic pulmonary oedema with cardiogenic shock. Pneumonia is less abrupt and gives purulent sputum and focal signs."
+   },
+   "4": {
+    "answer": "C",
+    "explanation": "Fever, rigors, rusty sputum and pleuritic pain with dullness and bronchial breathing over one lobe are the signs of consolidation from lobar pneumonia, classically Streptococcus pneumoniae. An effusion or empyema would give stony dullness with absent, not bronchial, breath sounds."
+   },
+   "5": {
+    "answer": "T",
+    "explanation": "Recurrent fever, dry cough and breathlessness beginning 4–8 hours after exposure to mouldy hay (farmer's lung) is acute extrinsic allergic alveolitis (hypersensitivity pneumonitis). Asthma causes immediate wheeze without fever or crackles; treatment is antigen avoidance, with steroids if severe."
+   },
+   "6": {
+    "answer": "I",
+    "explanation": "Stony dullness with absent breath sounds and reduced expansion is a pleural effusion; in a young person with fever, night sweats and weight loss it is most likely tuberculous. Diagnostic aspiration (lymphocytic exudate) and pleural biopsy follow."
+   },
+   "7": {
+    "answer": "O",
+    "explanation": "Sudden pleuritic pain in a young man with a hyper-resonant percussion note and absent breath sounds on one side is a primary spontaneous pneumothorax. Normal oxygen saturation and blood pressure show it is not under tension; a chest X-ray confirms it."
+   },
+   "8": {
+    "answer": "R",
+    "explanation": "Sudden breathlessness after surgery with hypoxaemia, raised JVP, tachycardia and hypotension but a clear chest is a massive pulmonary embolism causing acute right ventricular failure. High-risk PE with shock is treated with systemic thrombolysis."
+   },
+   "9": {
+    "answer": "E",
+    "explanation": "Hypotension with pulsus paradoxus, a raised JVP and quiet heart sounds (Beck's triad) a few days after MI indicates cardiac tamponade, here from subacute free-wall rupture. Urgent echocardiography and pericardiocentesis/surgery are required."
+   },
+   "10": {
+    "answer": "K",
+    "explanation": "Exertional syncope in a young athlete with a forceful apex, fourth heart sound, basal ejection murmur (LV outflow obstruction) and apical pansystolic murmur (systolic anterior motion causing MR) is hypertrophic obstructive cardiomyopathy. Aortic stenosis gives a slow-rising pulse and occurs in older patients."
+   },
+   "11": {
+    "answer": "A",
+    "explanation": "Recurrent episodes of cough and breathlessness with widespread polyphonic expiratory wheeze and a normal chest X-ray in a young person are typical of bronchial asthma. Confirm variable airflow obstruction with spirometry/bronchodilator reversibility, FeNO or peak-flow variability."
+   }
+  }
+ },
+ {
+  "id": "resemq-0002",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Finger clubbing",
+    "Empyema",
+    "Bronchiectasis"
+   ],
+   "options": [
+    "Lung cancer",
+    "Infective endocarditis",
+    "Idiopathic pulmonary fibrosis",
+    "Lung abscess",
+    "Cyanotic congenital heart disease",
+    "Bronchiectasis",
+    "Sarcoidosis",
+    "Atrial myxoma",
+    "Pleural effusion",
+    "Pulmonary tuberculosis",
+    "Thyrotoxicosis (thyroid acropachy)",
+    "Empyema"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "H",
+    "explanation": "A left atrial mass prolapsing into and obstructing the mitral valve, causing syncope and breathlessness, is an atrial myxoma; its constitutional effects (IL-6 release) can include clubbing. Treatment is surgical excision."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Fever, fatigue and a new regurgitant murmur suggest infective endocarditis, and clubbing appears in subacute cases. Take three sets of blood cultures before antibiotics and perform echocardiography (modified Duke criteria)."
+   },
+   "3": {
+    "answer": "L",
+    "explanation": "High swinging fever, rigors and pleuritic pain with stony dullness and absent air entry indicate pus in the pleural space (empyema), a recognised cause of clubbing. A simple effusion does not cause clubbing; pleural aspiration showing pus or pH below 7.2 means a chest drain is needed."
+   },
+   "4": {
+    "answer": "F",
+    "explanation": "Chronic purulent, sometimes blood-stained sputum with clubbing and coarse crackles is bronchiectasis; infertility suggests an underlying cause such as cystic fibrosis (absent vas deferens) or primary ciliary dyskinesia. HRCT confirms the diagnosis."
+   },
+   "5": {
+    "answer": "C",
+    "explanation": "Progressive breathlessness and dry cough with clubbing and bilateral fine end-inspiratory (velcro) crackles in a middle-aged adult is idiopathic pulmonary fibrosis. Sarcoidosis rarely causes clubbing or crackles of this kind."
+   },
+   "6": {
+    "answer": "K",
+    "stem": "A 35-year-old woman with finger clubbing has tremor, palpitations, weight loss, exophthalmos and pretibial myxoedema.",
+    "explanation": "Clubbing (thyroid acropachy) with exophthalmos and pretibial myxoedema is specific to Graves' disease; tremor, palpitations and weight loss reflect the thyrotoxicosis. Check TSH, free T4 and TSH-receptor antibodies."
+   }
+  },
+  "why": "Item 3 (high swinging fever, rigors and stony dullness) re-keyed from pleural effusion to empyema (option added): a simple effusion does not cause clubbing; item 6 given Graves'-specific signs"
+ },
+ {
+  "id": "resemq-0003",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Tension pneumothorax",
+    "Pulmonary embolism",
+    "Anaphylaxis"
+   ],
+   "options": [
+    "Mechanical ventilation",
+    "High-dose IV antibiotics",
+    "Alteplase",
+    "Beclometasone inhaler",
+    "Pirfenidone",
+    "IV steroid plus IV antihistamine",
+    "Chest tube",
+    "Iloprost inhaler",
+    "IV furosemide",
+    "Bosentan",
+    "Intramuscular adrenaline"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "G",
+    "explanation": "Hypotension, tachycardia, cyanosis and a resonant, silent hemithorax after trauma indicate a tension pneumothorax. Immediate decompression (needle or finger thoracostomy) is followed by an intercostal chest drain; mechanical ventilation without decompression would worsen the tension."
+   },
+   "2": {
+    "answer": "A",
+    "explanation": "A PaO2 below 8 kPa with a 'normal' PaCO2 despite maximal therapy (steroids, nebulised salbutamol plus ipratropium, IV magnesium) indicates life-threatening asthma with tiring. The patient needs ICU review for intubation and mechanical ventilation."
+   },
+   "3": {
+    "answer": "C",
+    "stem": "A 65-year-old bed-bound patient suddenly becomes severely breathless; there is cyanosis, a raised JVP, pulse 118/min small volume, BP 80/50 mmHg, a right ventricular gallop and a loud P2.",
+    "explanation": "Sudden breathlessness with signs of acute right ventricular strain and systolic BP below 90 mmHg in an immobile patient is high-risk (massive) pulmonary embolism. Systemic thrombolysis with alteplase is indicated (ESC 2019), with unfractionated heparin."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "Chronic dry cough, clubbing and bilateral fine inspiratory crackles indicate idiopathic pulmonary fibrosis. Antifibrotic therapy (pirfenidone or nintedanib) slows the decline in FVC; inhaled or oral steroids are not beneficial."
+   },
+   "5": {
+    "answer": "K",
+    "explanation": "Itching, facial and tongue swelling and wheeze after a new drug are anaphylaxis; the first-line treatment is intramuscular adrenaline 0.5 mg (0.5 mL of 1 mg/mL), repeated after 5 minutes if needed, with high-flow oxygen and fluids. IV steroids and antihistamines are not first-line and must never delay adrenaline (Resuscitation Council UK 2021)."
+   }
+  },
+  "why": "Item 5 (anaphylaxis) re-keyed to intramuscular adrenaline (option added) — steroid/antihistamine is not first-line treatment; item 3 BP lowered to 80/50 mmHg so thrombolysis criteria (SBP < 90 mmHg) are met"
+ },
+ {
+  "id": "resemq-0004",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Chronic cough",
+    "ACE inhibitor",
+    "Empyema"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "stem": "A 55-year-old man started treatment for hypertension 3 months ago and has had a dry cough ever since; his chest examination and chest X-ray are normal.",
+    "explanation": "A persistent dry cough beginning after starting antihypertensive treatment is typical of ACE inhibitors (bradykinin accumulation, 10–15% of patients). Switching to an angiotensin receptor blocker, which does not raise bradykinin, resolves it within weeks."
+   },
+   "2": {
+    "answer": "A",
+    "stem": "A 70-year-old woman treated for left lower lobe pneumonia is still febrile with rigors after a week of antibiotics; there is stony dullness and absent breath sounds at the left base, and pleural aspiration yields turbid fluid with pH 7.0.",
+    "explanation": "Persistent fever despite antibiotics with a new effusion whose fluid is turbid with pH below 7.2 indicates empyema (complicated parapneumonic effusion). It needs drainage with an intercostal chest drain plus prolonged antibiotics; unresolved pneumonia alone would not cause stony dullness."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "Progressive breathlessness in a 40 pack-year smoker with reduced chest expansion, wheeze and coarse crackles is COPD. Diagnosis is confirmed by post-bronchodilator FEV1/FVC below 0.7."
+   }
+  },
+  "why": "Item 2 duplicated the lobar pneumonia item of resemq-0001 and was keyed to empyema although it described consolidation (bronchial breathing); rewritten as a true empyema scenario; item 1 given the timing that makes ACE-inhibitor cough the single best answer"
+ },
+ {
+  "id": "resemq-0005",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Tuberculosis",
+    "Phaeochromocytoma"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "D",
+    "explanation": "A persistent hilar opacity with increasing, blood-stained sputum and slow recovery from pneumonia in a heavy smoker suggests a central bronchial carcinoma. After staging contrast CT, bronchoscopy with biopsy (or EBUS) gives the tissue diagnosis."
+   },
+   "2": {
+    "answer": "A",
+    "explanation": "Chronic cough, fever, night sweats, weight loss and bilateral apical shadowing point to pulmonary tuberculosis. Three sputum samples for acid-fast bacilli smear, culture and NAAT (GeneXpert) are the diagnostic test; a tuberculin test cannot distinguish active from latent infection."
+   },
+   "3": {
+    "answer": "F",
+    "stem": "A 64-year-old man with hypertension and diabetes has severe retrosternal chest pain for 6 hours radiating to the left shoulder, with nausea and vomiting; the ECG shows ST depression in V4–V6.",
+    "explanation": "Ischaemic chest pain without ST elevation requires high-sensitivity cardiac troponin to distinguish NSTEMI from unstable angina (ESC 0/1-hour or 0/2-hour algorithm). With ST elevation, reperfusion would not wait for enzymes."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "A chronic nocturnal cough starting after moving house (a new allergen exposure), unhelped by antibiotics, in a non-smoker with atopic family history suggests cough-variant asthma. Spirometry with bronchodilator reversibility (plus FeNO) is the first test."
+   },
+   "5": {
+    "answer": "H",
+    "explanation": "Paroxysmal headache, palpitations and sweating with pallor, severe hypertension and postural hypotension (volume contraction) suggest phaeochromocytoma. Plasma free or 24-hour urinary metanephrines are the screening test, followed by adrenal imaging."
+   }
+  },
+  "why": "Item 3: ECG changed from ST elevation to ST depression — a STEMI goes straight to reperfusion without waiting for cardiac enzymes, whereas NSTEMI is diagnosed by troponin"
+ },
+ {
+  "id": "resemq-0006",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Acute pulmonary oedema",
+    "Pulmonary embolism",
+    "Idiopathic pulmonary fibrosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "explanation": "Paroxysmal nocturnal breathlessness relieved by sitting up with frothy sputum in a patient with ischaemic heart disease is acute pulmonary oedema. With an adequate BP, IV furosemide (plus nitrates if SBP > 110 mmHg) is first-line."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Sudden breathlessness after surgery with tachycardia and a raised JVP is pulmonary embolism; the systolic BP is above 90 mmHg, so it is not high-risk and the treatment is anticoagulation with heparin (LMWH, or unfractionated heparin if thrombolysis may be needed). Thrombolysis is reserved for PE with shock."
+   },
+   "3": {
+    "answer": "I",
+    "stem": "A 62-year-old woman has progressive exertional breathlessness and dry cough for months; there is finger clubbing and chest expansion of 2 cm. FVC 1.65 L (predicted 2.75 L), FEV1 1.45 L (predicted 2.3 L).",
+    "explanation": "A restrictive pattern (FEV1/FVC about 0.88, FVC 60% predicted) with clubbing and progressive dry cough indicates idiopathic pulmonary fibrosis. Pirfenidone (or nintedanib) is recommended when FVC is 50–80% predicted; steroids are ineffective."
+   },
+   "4": {
+    "answer": "G",
+    "explanation": "Absent air entry on one side with the mediastinum shifted away, cyanosis and hypotension after trauma is a tension pneumothorax. Immediate decompression is followed by insertion of a chest drain."
+   },
+   "5": {
+    "answer": "C",
+    "stem": "A 65-year-old woman attends her GP for annual review of heart failure with reduced ejection fraction; BP 165/95 mmHg on furosemide and aspirin. Which medication should be added?",
+    "explanation": "In heart failure with reduced ejection fraction, an ACE inhibitor such as lisinopril improves survival and lowers blood pressure; a beta-blocker, mineralocorticoid antagonist and SGLT2 inhibitor are added in turn. Nitrates give symptom relief only and statins do not improve heart-failure outcomes."
+   }
+  },
+  "why": "Item 3 spirometry changed to FVC 60% predicted: pirfenidone is indicated at FVC 50–80% predicted, and the source FVC (35%) was outside that range; item 5 specifies HFrEF"
+ },
+ {
+  "id": "resemq-0007",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "COPD",
+    "Non-invasive ventilation",
+    "Long-term oxygen therapy"
+   ],
+   "options": [
+    "Inhaled salbutamol",
+    "60% oxygen, nebulised salbutamol, oral prednisolone, oral amoxicillin",
+    "Intravenous salbutamol",
+    "Long-term oxygen therapy",
+    "Lung transplantation",
+    "28% oxygen, nebulised salbutamol plus ipratropium, oral prednisolone, oral amoxicillin",
+    "28% oxygen, inhaled bronchodilators, intravenous amoxicillin",
+    "Oral aminophylline",
+    "ICU admission and intubation",
+    "100% oxygen and amoxicillin",
+    "Inhaled long-acting bronchodilators (LABA plus LAMA)",
+    "Non-invasive positive pressure ventilation (BiPAP)"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "In newly diagnosed COPD with exertional breathlessness, the first step is a short-acting bronchodilator (salbutamol or ipratropium) as needed, together with smoking cessation and pulmonary rehabilitation. Regular long-acting therapy follows if symptoms persist."
+   },
+   "2": {
+    "answer": "F",
+    "explanation": "An infective exacerbation of COPD is treated with controlled oxygen (24–28%, target SpO2 88–92%), nebulised salbutamol plus ipratropium, prednisolone 30 mg for 5 days and an oral antibiotic such as amoxicillin for purulent sputum. 60% or 100% oxygen risks hypercapnic respiratory failure."
+   },
+   "3": {
+    "answer": "L",
+    "explanation": "Persistent respiratory acidosis (pH < 7.35, PaCO2 > 6.5 kPa) despite optimal medical therapy in a COPD exacerbation is the indication for non-invasive ventilation (BiPAP). Intubation is considered if NIV fails, the pH is very low, or consciousness deteriorates."
+   },
+   "4": {
+    "answer": "D",
+    "stem": "A 65-year-old non-smoker with advanced COPD on maximal inhaled therapy is still breathless; his PaO2 when clinically stable, measured twice 3 weeks apart, is 6.5 kPa.",
+    "explanation": "Long-term oxygen therapy (at least 15 hours a day) improves survival in stable COPD when PaO2 is below 7.3 kPa (or 7.3–8 kPa with polycythaemia, peripheral oedema or pulmonary hypertension) in a non-smoker. It does not relieve exertional breathlessness in non-hypoxaemic patients."
+   },
+   "5": {
+    "answer": "K",
+    "explanation": "COPD that remains symptomatic on short-acting bronchodilators is escalated to regular long-acting bronchodilators — a LAMA plus LABA combination inhaler (NICE NG115, GOLD). Oral theophylline is only considered after long-acting inhaled therapy, and intravenous salmeterol does not exist."
+   }
+  },
+  "why": "Item 5 re-keyed from oral aminophylline to regular LABA plus LAMA (replacing the non-existent 'intravenous salmeterol' option), per NICE NG115 and GOLD; item 4 given LTOT eligibility criteria"
+ },
+ {
+  "id": "resemq-0008",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Haemoptysis",
+    "Goodpasture's syndrome",
+    "Granulomatosis with polyangiitis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "I",
+    "explanation": "Pink frothy sputum with breathlessness and a gallop rhythm is acute cardiogenic pulmonary oedema, from red cells leaking into alveolar fluid. It is treated with oxygen if hypoxaemic, IV furosemide and nitrates."
+   },
+   "2": {
+    "answer": "G",
+    "explanation": "Pulmonary haemorrhage followed by crescentic glomerulonephritis with linear IgG deposition along the glomerular basement membrane is anti-GBM (Goodpasture's) disease. Treatment is plasma exchange, steroids and cyclophosphamide."
+   },
+   "3": {
+    "answer": "E",
+    "explanation": "Upper airway disease (nasal obstruction) followed by haemoptysis and multiple, often cavitating, lung nodules is granulomatosis with polyangiitis (Wegener's), usually c-ANCA/PR3 positive. EGPA would feature asthma and eosinophilia."
+   },
+   "4": {
+    "answer": "A",
+    "explanation": "Fever, night sweats, weight loss and haemoptysis with acid-fast bacilli on Ziehl–Neelsen staining is pulmonary tuberculosis; massive haemoptysis arises from erosion into a vessel in a cavity (Rasmussen aneurysm). Standard therapy is rifampicin, isoniazid, pyrazinamide and ethambutol."
+   },
+   "5": {
+    "answer": "K",
+    "explanation": "Collapse, pleuritic pain and haemoptysis after a long-haul flight with sinus tachycardia and right axis deviation (right ventricular strain) is pulmonary embolism. CTPA confirms it; anticoagulation is started immediately."
+   }
+  }
+ },
+ {
+  "id": "resemq-0009",
+  "status": "corrected",
+  "set": {
+   "theme": "Pleural fluid analysis",
+   "topics": [
+    "Pleural effusion",
+    "Pleural fluid analysis",
+    "Empyema"
+   ],
+   "options": [
+    "Unilateral, turbid: WBC 90,000/µL (95% neutrophils); protein 45 g/L (serum 52 g/L); LDH 255 U/L (serum 290 U/L); pH 6.84; glucose 1.1 mmol/L; Gram stain and culture pending",
+    "Right-sided, straw-coloured: WBC 150/µL (20% neutrophils, 35% lymphocytes, 45% mesothelial cells); protein 14 g/L (serum 54 g/L); LDH 66 U/L (serum 175 U/L); pH 7.42; glucose 5.6 mmol/L",
+    "Bilateral, slightly turbid: WBC 980/µL (10% neutrophils, 30% lymphocytes, 60% mesothelial cells); protein 39 g/L (serum 38 g/L); LDH 225 U/L (serum 240 U/L); pH 7.00; glucose 0.3 mmol/L",
+    "Bilateral, straw-coloured: WBC 4200/µL (100% lymphocytes); protein 30 g/L (serum 50 g/L); LDH 560 U/L (serum 450 U/L); pH 7.27; glucose 4.3 mmol/L",
+    "Right-sided, bloody: WBC 1200/µL (15% neutrophils, 5% lymphocytes, 80% 'reactive' mesothelial cells); RBC 130,000/µL; protein 42 g/L (serum 46 g/L); LDH 560 U/L (serum 226 U/L); pH 7.30; glucose 6.7 mmol/L",
+    "Left-sided, turbid, food particles seen: WBC 54,000/µL (92% neutrophils, 8% lymphocytes); protein 52 g/L (serum 52 g/L); LDH 400 U/L (serum 200 U/L); pH 6.00; glucose 2.2 mmol/L",
+    "Left-sided, straw-coloured: WBC 2000/µL (80% neutrophils, 10% lymphocytes, 10% mesothelial cells); protein 20 g/L (serum 48 g/L); LDH 158 U/L (serum 220 U/L); pH 7.40; Gram stain negative; amylase 32,000 U/L"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "stem": "A 65-year-old man complains of orthopnoea and paroxysmal nocturnal dyspnoea. There is distension of the neck veins and bilateral basal crackles. A chest X-ray shows cardiomegaly and bilateral pleural effusions, the right larger than the left.",
+    "explanation": "Heart failure produces a transudate: pleural/serum protein ratio below 0.5 and LDH ratio below 0.6 with few cells (Light's criteria), and effusions are typically bilateral or right-sided. Diuretics, not drainage, are the treatment."
+   },
+   "2": {
+    "answer": "F",
+    "stem": "A 52-year-old man with alcohol dependence develops left-sided chest pain after repeated bouts of vomiting. He is sweaty, temperature 38.6 °C, pulse 126/min, BP 84/52 mmHg, with crackles and moderate dullness at the left base, a clear right lung and subcutaneous emphysema in the left supraclavicular fossa.",
+    "explanation": "Chest pain and surgical emphysema after forceful vomiting is oesophageal rupture (Boerhaave syndrome); the effusion is left-sided, very acidic (pH around 6) with food particles and a raised salivary amylase. It is a surgical emergency needing nil by mouth, broad-spectrum antibiotics and repair or drainage."
+   },
+   "3": {
+    "answer": "A",
+    "stem": "A 72-year-old woman is admitted from a nursing home with fever and cough, and a chest X-ray shows right lower lobe pneumonia with a moderate pleural effusion. Despite vancomycin and levofloxacin she remains febrile, her breathlessness worsens and a repeat chest X-ray shows the effusion enlarging.",
+    "explanation": "A turbid, neutrophil-rich fluid with pH below 7.2 and very low glucose in a patient not responding to antibiotics is an empyema (complicated parapneumonic effusion). It requires chest-drain drainage in addition to antibiotics (BTS)."
+   },
+   "4": {
+    "answer": "G",
+    "stem": "A 52-year-old woman is admitted with abdominal pain and hypertriglyceridaemia. Her amylase is elevated and she is treated for acute pancreatitis with IV fluids and opioid analgesia. Over the next few days she becomes increasingly breathless and dullness develops at the left base.",
+    "explanation": "Acute pancreatitis causes a left-sided exudative effusion with a very high pleural fluid amylase (pancreatic isoenzyme) from diaphragmatic lymphatic spread. It usually resolves as the pancreatitis settles."
+   },
+   "5": {
+    "answer": "E",
+    "stem": "A 68-year-old retired construction worker has right-sided chest pain, breathlessness and a dry cough, with marked weight loss and anorexia. A chest X-ray shows a right pleural effusion with pleural thickening.",
+    "explanation": "A bloody exudate with a high LDH and atypical ('reactive') mesothelial cells in a man with asbestos exposure, chest pain and weight loss suggests malignant mesothelioma. Cytology is often non-diagnostic, so CT-guided or thoracoscopic pleural biopsy is needed."
+   }
+  },
+  "why": "Options repaired (the end of the lymphocytic-exudate option had been merged into the empyema option), converted to SI units; inconsistent pH/glucose values in two distractors corrected; food particles added to the Boerhaave fluid; keys supplied (none in source)"
+ },
+ {
+  "id": "resemq-0010",
+  "status": "corrected",
+  "set": {
+   "theme": "Chest X-ray interpretation (images a–d shown)",
+   "images": [
+    "q/o347_84.png",
+    "q/o347_85.png"
+   ],
+   "options": [
+    "Chest X-ray a (shown)",
+    "Chest X-ray b (shown)",
+    "Chest X-ray c (shown)",
+    "Chest X-ray d (shown)"
+   ],
+   "topics": [
+    "Staphylococcal pneumonia",
+    "Tuberculosis",
+    "Chest X-ray"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "stem": "A 60-year-old man develops fever, chills and a productive cough in hospital after surgery. There is increased tactile fremitus in the right mid-zone. Sputum Gram stain shows many neutrophils, few squamous cells and Gram-positive cocci in clusters.",
+    "explanation": "Gram-positive cocci in clusters in hospital-acquired pneumonia indicate Staphylococcus aureus, which causes patchy consolidation with thin-walled cavities and pneumatoceles, as in the right lung of film a. MRSA must be covered (e.g. vancomycin) until sensitivities are known."
+   },
+   "2": {
+    "answer": "B",
+    "stem": "A 45-year-old man with known coronary artery disease develops breathlessness and wakes at night gasping for breath. There is dullness to percussion at the right base.",
+    "explanation": "Paroxysmal nocturnal dyspnoea with a right-sided effusion in ischaemic heart disease is left ventricular failure; film b shows cardiomegaly, upper-lobe venous diversion and interstitial oedema. Heart-failure effusions are usually bilateral or right-sided transudates."
+   },
+   "3": {
+    "answer": "C",
+    "stem": "An 85-year-old man who recently arrived from Vietnam has had cough and night sweats for more than a year. There are bilateral upper-zone crackles.",
+    "explanation": "Chronic cough and night sweats in a migrant from a high-incidence country with upper-zone signs is post-primary tuberculosis; film c shows bilateral upper-lobe fibronodular shadowing with calcification and volume loss. Send three sputum samples for acid-fast bacilli, culture and NAAT."
+   },
+   "4": {
+    "answer": "D",
+    "stem": "A 50-year-old woman has long-standing, poorly controlled hypertension. The apex beat is displaced to the sixth intercostal space.",
+    "explanation": "Chronic pressure overload causes left ventricular hypertrophy and later dilatation, giving a displaced apex and the rounded, enlarged left ventricular contour (boot-shaped heart) seen on film d. Echocardiography and an ECG (voltage criteria, strain pattern) confirm LVH."
+   }
+  },
+  "why": "Keys supplied (none in source); image order fixed so films a–b precede c–d; stems tidied"
+ },
+ {
+  "id": "resemq-0011",
+  "status": "expanded",
+  "set": {
+   "theme": "Arterial blood gases",
+   "options": [
+    "pH 7.50, PaO2 10.0 kPa (75 mmHg), PaCO2 3.7 kPa (28 mmHg)",
+    "pH 7.14, PaO2 10.4 kPa (78 mmHg), PaCO2 12.7 kPa (95 mmHg)",
+    "pH 7.06, PaO2 4.8 kPa (36 mmHg), PaCO2 12.7 kPa (95 mmHg)",
+    "pH 7.06, PaO2 14.4 kPa (108 mmHg), PaCO2 1.7 kPa (13 mmHg)",
+    "pH 7.37, PaO2 6.4 kPa (48 mmHg), PaCO2 7.2 kPa (54 mmHg)"
+   ],
+   "topics": [
+    "Arterial blood gas",
+    "Respiratory acidosis",
+    "Metabolic acidosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "stem": "A 30-year-old obese woman who is a bus driver develops sudden left-sided pleuritic chest pain, haemoptysis and breathlessness.",
+    "explanation": "Pulmonary embolism causes hypoxaemia and reflex hyperventilation, giving an acute respiratory alkalosis (high pH, low PaCO2) with a reduced PaO2. The raised alveolar–arterial gradient is a clue even when PaO2 is near normal."
+   },
+   "2": {
+    "answer": "E",
+    "stem": "A 60-year-old heavy smoker has severe chronic bronchitis, peripheral oedema and cyanosis.",
+    "explanation": "Chronic hypercapnic respiratory failure in COPD with cor pulmonale gives hypoxaemia and a raised PaCO2 with a near-normal pH, because renal bicarbonate retention has compensated. Long-term oxygen therapy is considered once PaO2 is persistently below 7.3 kPa."
+   },
+   "3": {
+    "answer": "C",
+    "stem": "A 22-year-old man who injects drugs is brought to the emergency department by friends who cannot wake him.",
+    "explanation": "Opioid overdose depresses the respiratory centre, producing acute hypoventilation: severe acidaemia, a very high PaCO2 and hypoxaemia while breathing room air. Treat with bag-valve-mask ventilation and IV naloxone."
+   },
+   "4": {
+    "answer": "B",
+    "stem": "A 62-year-old man with chronic bronchitis develops chest pain and is given high-flow oxygen by face mask in the ambulance. He is lethargic on arrival in the emergency department.",
+    "explanation": "Uncontrolled oxygen in a CO2-retaining COPD patient worsens V/Q mismatch (loss of hypoxic vasoconstriction) and the Haldane effect, causing acute-on-chronic respiratory acidosis with a high PaCO2 but an adequate PaO2. Use controlled oxygen with a target SpO2 of 88–92%."
+   },
+   "5": {
+    "answer": "D",
+    "stem": "A 20-year-old man with diabetes mellitus attends the emergency department with diffuse abdominal pain, rapid breathing and fever.",
+    "explanation": "Diabetic ketoacidosis causes a severe metabolic acidosis with compensatory Kussmaul hyperventilation, so the PaCO2 is very low and the PaO2 is high-normal. Treat with IV fluids, fixed-rate insulin and potassium replacement."
+   }
+  }
+ },
+ {
+  "id": "resemq-0012",
+  "status": "expanded",
+  "set": {
+   "theme": "Diagnosis of chest disease",
+   "options": [
+    "Small cell carcinoma of the lung",
+    "Adenocarcinoma in situ (formerly bronchoalveolar carcinoma)",
+    "Silicosis",
+    "Pneumonia",
+    "Cystic fibrosis",
+    "Hodgkin lymphoma",
+    "Asbestosis",
+    "Hypersensitivity pneumonitis"
+   ],
+   "topics": [
+    "Cystic fibrosis",
+    "Silicosis",
+    "Hodgkin lymphoma"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "stem": "A 20-year-old man, a non-smoker, has a chronic cough and recurrent bronchitis with thick green sputum. He has also been treated for abdominal cramps and malabsorption.",
+    "explanation": "Recurrent suppurative chest infections with malabsorption (pancreatic insufficiency) in a young non-smoker indicate cystic fibrosis. A sweat chloride above 60 mmol/L and CFTR genotyping confirm it."
+   },
+   "2": {
+    "answer": "C",
+    "stem": "A 40-year-old construction worker has had increasing breathlessness and cough for many years. There are bilateral inspiratory crackles, and the chest X-ray shows eggshell calcification of the hilar nodes and small nodules in both upper zones.",
+    "explanation": "Upper-zone nodules with eggshell calcification of hilar lymph nodes after occupational silica exposure (stone cutting, sandblasting, construction) is silicosis. Asbestosis affects the lower zones and causes pleural plaques; silicosis also raises the risk of tuberculosis."
+   },
+   "3": {
+    "answer": "F",
+    "stem": "A 42-year-old man has fever, night sweats and pruritus. There is a 2-cm firm, rubbery supraclavicular lymph node and bilateral axillary nodes, and the chest X-ray shows mediastinal lymphadenopathy.",
+    "explanation": "Rubbery painless lymphadenopathy with B symptoms, pruritus and mediastinal nodes suggests Hodgkin lymphoma. Excision biopsy of a node (Reed–Sternberg cells) and PET-CT staging are required."
+   }
+  }
+ }
+]

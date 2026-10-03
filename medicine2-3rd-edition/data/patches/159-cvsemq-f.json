@@ -1,0 +1,569 @@
+[
+ {
+  "id": "cvsemq-0058",
+  "status": "corrected",
+  "set": {
+   "theme": "ECG findings",
+   "topics": [
+    "Myocardial infarction",
+    "Complete heart block",
+    "Atrial flutter",
+    "ECG"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "G",
+    "explanation": "Posterior wall infarction is seen 'in mirror image' in V1–V3: horizontal ST depression and tall, broad R waves (the reciprocal of posterior ST elevation and Q waves). Posterior leads V7–V9 show ST elevation, and it is managed as a STEMI equivalent."
+   },
+   "2": {
+    "answer": "F",
+    "explanation": "Acute pericarditis produces widespread concave (saddle-shaped) ST elevation not confined to one coronary territory, with PR depression and reciprocal ST depression only in aVR (and sometimes V1). There are no Q waves and no reciprocal changes as seen in STEMI.",
+    "stem": "Concave (saddle-shaped) ST elevation in most leads except aVR, with PR-segment depression."
+   },
+   "3": {
+    "answer": "E",
+    "explanation": "ST elevation in II, III and aVF localises to the inferior wall, usually a right coronary artery occlusion; look for reciprocal depression in I and aVL and check right-sided leads (V4R) for right ventricular involvement. Bradycardia and AV block are common complications."
+   },
+   "4": {
+    "answer": "I",
+    "explanation": "In complete (third-degree) heart block the P waves march through at their own rate with no relationship to the QRS complexes, and a slow ventricular escape rhythm (broad QRS, 30–45 beats/min) takes over. It needs pacing; digoxin effect causes sagging ST depression, not AV dissociation with broad escape beats.",
+    "stem": "Broad QRS complexes at a regular rate of 45 beats/min; P waves are present at a faster rate but bear no relationship to the QRS complexes."
+   },
+   "5": {
+    "answer": "C",
+    "explanation": "A sawtooth baseline of flutter waves at about 300/min with 2:1 conduction gives a regular narrow-complex ventricular rate of about 150 beats/min. A regular rate of exactly 150 should always prompt a search for hidden flutter waves (e.g. with vagal manoeuvres or adenosine)."
+   }
+  },
+  "why": "Item 4 re-keyed from digitalis effect to third-degree heart block (broad slow escape with dissociated P waves); stems clarified"
+ },
+ {
+  "id": "cvsemq-0059",
+  "status": "corrected",
+  "set": {
+   "theme": "Heart disease",
+   "topics": [
+    "Infective endocarditis",
+    "Dilated cardiomyopathy",
+    "Cor pulmonale"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "H",
+    "explanation": "Fever and malaise after dental work in a patient with a known abnormal (stenotic) aortic valve is infective endocarditis until proven otherwise, typically viridans streptococci. Take three sets of blood cultures before antibiotics and arrange echocardiography."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "The triad of exertional breathlessness, angina and presyncope with a loud ejection systolic murmur is symptomatic aortic stenosis; at 49 years a bicuspid valve is the likely substrate. Symptomatic severe aortic stenosis is an indication for valve replacement."
+   },
+   "3": {
+    "answer": "G",
+    "explanation": "Early post-infarction pericarditis (days 1–4) is a fibrinous pericarditis over the transmural infarct, causing pleuritic pain, a friction rub and saddle-shaped ST changes, and it settles with anti-inflammatory treatment. Dressler's syndrome is later (weeks) and immune-mediated."
+   },
+   "4": {
+    "answer": "F",
+    "explanation": "Alcohol excess with heart failure, a displaced apex, functional mitral regurgitation and a globular enlarged heart (cardiothoracic ratio >50%) is alcoholic dilated cardiomyopathy. Abstinence can lead to substantial recovery of left ventricular function alongside standard heart failure therapy.",
+    "stem": "A 63-year-old man presents to the emergency department with shortness of breath. He has a pansystolic murmur at the apex and a displaced apex beat. A chest X-ray shows a globular enlarged heart with a cardiothoracic ratio >50%. He admits to many years of heavy alcohol intake."
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "Peripheral oedema and severe exercise limitation in a patient with COPD indicate cor pulmonale, i.e. right heart failure secondary to hypoxic pulmonary vasoconstriction and pulmonary hypertension. Long-term oxygen therapy (if PaO2 <7.3 kPa, or <8 kPa with oedema) and diuretics are the mainstay.",
+    "stem": "A 44-year-old woman with known COPD and a history of heavy smoking attends her respiratory clinic appointment. She now has ankle swelling and her exercise tolerance has fallen to about 15 metres."
+   }
+  },
+  "why": "Item 4 stem: 'straight left heart border' (a mitral stenosis sign) replaced by a globular heart so dilated cardiomyopathy is the single best answer"
+ },
+ {
+  "id": "cvsemq-0060",
+  "status": "corrected",
+  "set": {
+   "theme": "Chest pain",
+   "topics": [
+    "Chest pain",
+    "Pulmonary embolism",
+    "Gastro-oesophageal reflux disease"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "explanation": "Pleuritic chest pain in a smoker taking the combined oral contraceptive, with sinus tachycardia, new right bundle-branch block (right ventricular strain) and a raised D-dimer (>0.5 mg/L) with a normal chest X-ray, is pulmonary embolism. CT pulmonary angiography confirms it; start anticoagulation while waiting if the scan is delayed.",
+    "stem": "A 48-year-old woman is admitted with left-sided sharp chest discomfort that is worse on coughing. She has no sputum. She takes the combined oral contraceptive pill and propranolol. Her father and uncle died in their 60s from 'heart attacks'. She smokes 30 cigarettes a day. ECG: sinus tachycardia and right bundle-branch block. D-dimer 0.71 mg/L (reference <0.5); troponin I normal. Chest X-ray: normal."
+   },
+   "2": {
+    "answer": "F",
+    "explanation": "Burning retrosternal pain related to meals and lying flat, relieved by antacids, in a patient taking an NSAID (diclofenac) is gastro-oesophageal reflux disease. The diffuse sagging ST depression is digoxin effect rather than ischaemia, and the negative stress test argues against angina; stop the NSAID and start a proton pump inhibitor.",
+    "stem": "A 58-year-old man with insulin-treated diabetes is admitted with intermittent central burning chest pain for the past month. It is worse after large meals and on lying flat and is eased by antacids. He has had atrial fibrillation and hypertension for 6 years and takes digoxin, atenolol, diclofenac and simvastatin. BMI 31 kg/m²; no chest wall tenderness; ejection systolic murmur in the aortic area. HbA1c 91 mmol/mol (10.5%), digoxin level 1.3 µg/L (therapeutic). ECG: rate-controlled AF with 1-mm sagging ST depression in V1–V6. An exercise stress test is negative. Chest X-ray: normal."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "Sharp central chest pain relieved by sitting forward with widespread saddle-shaped ST elevation is pericarditis, and a history of tuberculosis with calcified hilar nodes raises the possibility of tuberculous pericarditis, which can progress to effusion and constriction. Echocardiography and pericardial fluid analysis (adenosine deaminase, culture) are needed.",
+    "stem": "A 45-year-old man from Morocco attends the emergency department with a 1-week history of sharp central chest pain ('like a knife') that eases when he sits forward. There is no recent trauma. Examination is unremarkable. ECG: widespread concave ST elevation. Chest X-ray: scarring of the right apex and calcified hilar nodes. He confirms he was treated for tuberculosis in Morocco."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "Point tenderness and crepitus over the ribs after a fall while intoxicated indicate rib fractures, and the reduced breath sounds with a peripheral area devoid of lung markings is a small traumatic pneumothorax complicating them. Give adequate analgesia and assess the pneumothorax size for drainage.",
+    "stem": "A 36-year-old man is brought to the emergency department with right-sided chest pain and breathlessness 2 days after falling while drunk. There is no fever. He is thin and smells of tobacco and alcohol. There is bruising and marked point tenderness over the right lateral chest wall with crepitus, and breath sounds are reduced on the right. Chest X-ray shows a small peripheral area devoid of lung markings on the right."
+   },
+   "5": {
+    "answer": "A",
+    "explanation": "Chest pain with ST elevation of 3 mm in V4–V6 and a markedly raised troponin is an acute (anterolateral) ST-elevation myocardial infarction; people with diabetes often have atypical, milder pain. He needs urgent reperfusion if within 12 hours of symptom onset, or angiography if later with ongoing ischaemia.",
+    "stem": "A 56-year-old man with insulin-treated diabetes is admitted at the request of a relative. He has had niggling chest pain for 2 days with a feeling of breathlessness. He is apyrexial with no chest wall tenderness, clear lungs and normal heart sounds. Chest X-ray: normal. ECG: ST elevation of 3 mm in V4–V6 with T-wave inversion. Troponin I markedly raised."
+   }
+  },
+  "why": "Items 2–4 stems given discriminating features (reflux symptoms and negative stress test; pericarditic pain/ECG; rib trauma) and wrong units corrected (troponin, digoxin, HbA1c)"
+ },
+ {
+  "id": "cvsemq-0061",
+  "status": "corrected",
+  "set": {
+   "theme": "Investigations in cardiology",
+   "options": [
+    "Cardiac enzymes (troponin)",
+    "Transthoracic echocardiography",
+    "Transoesophageal echocardiography",
+    "Treadmill exercise test",
+    "CT pulmonary angiography",
+    "Blood cultures",
+    "Doppler ultrasound"
+   ],
+   "topics": [
+    "Cardiac investigations",
+    "Infective endocarditis",
+    "Atrial septal defect"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "Ongoing ischaemic chest pain with a non-diagnostic ECG requires high-sensitivity troponin at presentation and repeated at 1–3 hours to diagnose or exclude NSTEMI. If the ECG had shown ST elevation, reperfusion would proceed without waiting for troponin.",
+    "stem": "A 50-year-old man has had 90 minutes of central chest pain. His ECG shows no ST elevation, only non-specific T-wave flattening."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Fever, pleuritic chest pain, a pericardial rub and diffuse ST elevation are acute pericarditis; transthoracic echocardiography is recommended in all cases to detect an effusion or tamponade.",
+    "stem": "A 70-year-old woman has fever, sharp left-sided chest pain, a pericardial friction rub and diffuse ST elevation on her ECG."
+   },
+   "3": {
+    "answer": "B",
+    "explanation": "Exertional syncope with a jerky pulse and an ejection murmur that increases on Valsalva, plus a family history of sudden death, suggests hypertrophic cardiomyopathy; transthoracic echocardiography showing asymmetric septal hypertrophy and outflow obstruction is the key test.",
+    "stem": "A 30-year-old man has had two episodes of syncope during exercise. He has a jerky pulse and an ejection systolic murmur at the left sternal edge that becomes louder on standing and during the Valsalva manoeuvre. His brother died suddenly aged 25."
+   },
+   "4": {
+    "answer": "D",
+    "explanation": "Exertional retrosternal pain relieved by rest in a smoker is stable angina; an exercise treadmill test is the best of the listed options. NICE and ESC now prefer CT coronary angiography first-line, with exercise ECG kept for functional assessment when imaging is unavailable."
+   },
+   "5": {
+    "answer": "F",
+    "explanation": "Prolonged fever, weight loss and a murmur in a child with congenital heart disease is infective endocarditis until proven otherwise. At least three sets of blood cultures from separate sites before antibiotics are the first and most important investigation, followed by echocardiography."
+   },
+   "6": {
+    "answer": "C",
+    "explanation": "An ejection systolic pulmonary flow murmur with wide, fixed splitting of S2 suggests an atrial septal defect; sinus venosus defects in particular are easily missed on transthoracic echocardiography, so transoesophageal echocardiography (or cardiac MRI) is needed. The goitre is incidental.",
+    "stem": "A patient with a thyroid goitre is found to have an ejection systolic murmur at the left upper sternal edge with wide, fixed splitting of the second heart sound. Transthoracic echocardiography is reported as normal."
+   },
+   "7": {
+    "answer": "E",
+    "explanation": "Sudden chest tightness and hypotension after surgery with a normal ECG is pulmonary embolism until proven otherwise; CT pulmonary angiography is the definitive test. If she is too unstable for CT, bedside echocardiography showing right ventricular dilatation justifies thrombolysis.",
+    "stem": "A 30-year-old woman develops sudden chest tightness, breathlessness and hypotension 3 days after an operation. Her ECG shows only sinus tachycardia."
+   }
+  },
+  "why": "Item 1 stem changed (a STEMI goes to reperfusion without waiting for enzymes); item 3 was unanswerable ('irregular pulse, variable BP, syncope', no source key) and was rewritten as HCM; items 6–7 clarified"
+ },
+ {
+  "id": "cvsemq-0062",
+  "status": "corrected",
+  "set": {
+   "theme": "ECG changes: ST elevation",
+   "options": [
+    "Inferior ST-elevation myocardial infarction",
+    "Anterior ST-elevation myocardial infarction",
+    "Lateral ST-elevation myocardial infarction",
+    "Acute pericarditis",
+    "Vasospastic (Prinzmetal) angina",
+    "Left ventricular aneurysm"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+   ],
+   "topics": [
+    "ST elevation",
+    "Myocardial infarction",
+    "Acute pericarditis",
+    "ECG"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "ST elevation in II, III and aVF with reciprocal depression in I and aVL localises to the inferior wall, usually a right coronary artery occlusion. Record right-sided leads (V4R) to look for right ventricular infarction and avoid nitrates if it is present.",
+    "stem": "A 62-year-old man has had 2 hours of crushing central chest pain. His ECG shows 3 mm ST elevation in leads II, III and aVF with ST depression in I and aVL."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "ST elevation across V1–V4 with evolving Q waves indicates an anterior STEMI from left anterior descending artery occlusion, the territory with the worst prognosis. He needs primary PCI within 120 minutes of diagnosis.",
+    "stem": "A 58-year-old smoker has had 1 hour of severe central chest pain with sweating. His ECG shows 4 mm ST elevation in V1–V4 with early Q waves."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "ST elevation in I, aVL, V5 and V6 with reciprocal inferior depression is a lateral STEMI, usually due to a circumflex or diagonal artery occlusion. Reciprocal change helps distinguish it from pericarditis.",
+    "stem": "A 66-year-old woman has 90 minutes of chest pain. Her ECG shows ST elevation in I, aVL, V5 and V6 with reciprocal ST depression in III and aVF."
+   },
+   "4": {
+    "answer": "D",
+    "explanation": "Widespread concave ST elevation across several coronary territories with PR depression (and PR elevation in aVR) after a viral illness, relieved by sitting forward, is acute pericarditis. Treat with an NSAID plus colchicine; reciprocal ST depression and Q waves would suggest infarction instead.",
+    "stem": "A 28-year-old man has sharp central chest pain for 2 days, worse on lying flat and relieved by sitting forward, 1 week after a flu-like illness. His ECG shows concave ST elevation in I, II, aVL, aVF and V2–V6 with PR-segment depression; aVR shows ST depression."
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "Transient ST elevation during rest pain, typically in the early morning, that resolves completely with GTN, with normal troponin and unobstructed coronary arteries, is vasospastic (Prinzmetal) angina. Treat with calcium channel blockers and nitrates and stop smoking; beta-blockers may worsen spasm.",
+    "stem": "A 45-year-old woman who smokes has recurrent episodes of chest pain at rest in the early morning. During an episode her ECG shows ST elevation in V1–V4 that resolves completely within minutes of sublingual GTN. Troponin is normal and coronary angiography shows no significant stenosis."
+   },
+   "6": {
+    "answer": "F",
+    "explanation": "Persistent ST elevation with Q waves in the territory of a previous (anterior) infarct weeks later, with heart failure and no new pain, suggests a left ventricular aneurysm. Echocardiography shows a thin dyskinetic segment; complications include heart failure, ventricular arrhythmias and mural thrombus.",
+    "stem": "A 65-year-old man had an anterior myocardial infarction 8 weeks ago. He now has increasing breathlessness but no chest pain. His ECG still shows Q waves with 2 mm ST elevation in V1–V4, unchanged over several weeks, and troponin is not rising."
+   }
+  },
+  "why": "Theme had options only and no items (the source ECG images are missing); six items written describing the ECGs in words, and the placeholder option replaced by left ventricular aneurysm; answer-revealing text removed from options"
+ },
+ {
+  "id": "cvsemq-0063",
+  "status": "corrected",
+  "set": {
+   "theme": "Diagnosis of cardiac disease",
+   "options": [
+    "Peripartum cardiomyopathy",
+    "Mitral stenosis with atrial fibrillation",
+    "Patent ductus arteriosus",
+    "Cardiac tamponade",
+    "Atrial septal defect",
+    "Aortic regurgitation",
+    "Aortic stenosis",
+    "Mitral regurgitation",
+    "Pulmonary embolism",
+    "Acute ST-elevation myocardial infarction"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J"
+   ],
+   "topics": [
+    "Patent ductus arteriosus",
+    "Peripartum cardiomyopathy",
+    "Mitral stenosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "C",
+    "explanation": "A continuous 'machinery' murmur below the left clavicle with bounding pulses (wide pulse pressure from diastolic run-off into the pulmonary artery) and recurrent chest infections from pulmonary overcirculation is a patent ductus arteriosus. Closure is by catheter device or surgery; a VSD gives a pansystolic, not continuous, murmur."
+   },
+   "2": {
+    "answer": "J",
+    "explanation": "Chest pain with ST elevation, a raised troponin and new regional wall motion loss with reduced ejection fraction is an acute ST-elevation myocardial infarction. Urgent primary PCI is required, followed by secondary prevention including an ACE inhibitor and beta-blocker for the LV dysfunction.",
+    "stem": "A 55-year-old hypertensive woman has had 3 hours of central chest pain. Her ECG shows ST elevation in V1–V4, troponin is raised, and echocardiography shows anterior wall akinesia with an ejection fraction of 35%."
+   },
+   "3": {
+    "answer": "B",
+    "explanation": "Exertional breathlessness and orthopnoea with pulmonary congestion but preserved left ventricular function, an irregularly irregular pulse, a tapping apex and a mid-diastolic murmur after rheumatic fever is mitral stenosis with atrial fibrillation. Anticoagulation with warfarin is mandatory, and balloon valvotomy is considered for suitable valves.",
+    "stem": "A 50-year-old woman who had rheumatic fever in childhood has exertional breathlessness and orthopnoea. Her pulse is irregularly irregular, the apex beat is tapping and undisplaced, and there is a low-pitched mid-diastolic murmur at the apex. Chest X-ray shows upper-lobe venous diversion, but echocardiography shows normal left ventricular function."
+   },
+   "4": {
+    "answer": "A",
+    "explanation": "New heart failure (pulmonary oedema with an S3) in the last month of pregnancy or up to 5 months post partum, without another cause, is peripartum cardiomyopathy. Echocardiography shows LV systolic dysfunction (EF <45%); bromocriptine may be added to standard heart failure treatment after delivery.",
+    "stem": "A woman who is 8 months pregnant, with no previous heart disease, has acute breathlessness, orthopnoea, pink frothy sputum and a third heart sound."
+   },
+   "5": {
+    "answer": "G",
+    "explanation": "Recurrent (exertional) syncope with a slow-rising, small-volume pulse, narrow pulse pressure and an ejection systolic murmur in the aortic area is severe aortic stenosis. Symptomatic severe aortic stenosis requires valve replacement (surgical or TAVI)."
+   }
+  },
+  "why": "Options were garbled (VSD 'keyed for PDA', a malformed MI option); items 2 and 3 were ambiguous and have been rewritten to single best answers (acute STEMI; mitral stenosis with AF)"
+ },
+ {
+  "id": "cvsemq-0064",
+  "status": "corrected",
+  "set": {
+   "theme": "Treatment of cardiac emergencies",
+   "options": [
+    "Heparin followed by warfarin for 3–6 months",
+    "Synchronised DC cardioversion",
+    "Intravenous adenosine",
+    "Intravenous dobutamine",
+    "Temporary transvenous pacemaker",
+    "Urgent pericardiocentesis",
+    "Reassurance only"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+   ],
+   "topics": [
+    "Complete heart block",
+    "Cardiac tamponade",
+    "Supraventricular tachycardia"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "explanation": "Complete heart block after inferior MI is often transient (AV nodal ischaemia) and may respond to atropine, but recurrent symptomatic episodes with haemodynamic compromise despite atropine need temporary transvenous pacing. Permanent pacing is considered only if block persists beyond about 7–10 days.",
+    "stem": "A 42-year-old man with diabetes and hypertension, 2 days after an inferior myocardial infarction, has repeated episodes of third-degree AV block with a ventricular rate of 30 beats/min and hypotension that do not respond to atropine."
+   },
+   "2": {
+    "answer": "F",
+    "explanation": "Hypotension with pulsus paradoxus, a raised JVP and electrical alternans indicates cardiac tamponade, which needs urgent echocardiography-guided pericardiocentesis. Inotropes and fluids only buy time; diuretics and vasodilators are harmful.",
+    "stem": "A 32-year-old man on the coronary care unit becomes hypotensive with a raised JVP, pulsus paradoxus, muffled heart sounds and electrical alternans on the ECG."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "A stable regular narrow-complex tachycardia that persists after vagal manoeuvres is treated with intravenous adenosine (6 mg rapid bolus, then 12 mg and 18 mg), which terminates AV-nodal re-entry and unmasks flutter waves. It is avoided in severe asthma.",
+    "stem": "A 46-year-old woman has sudden-onset regular palpitations at 180 beats/min. The ECG shows a regular narrow-complex tachycardia with no visible P waves. Her blood pressure is 118/76 mmHg, and vagal manoeuvres have failed."
+   },
+   "4": {
+    "answer": "B",
+    "explanation": "Atrial fibrillation of recent onset with heart failure and hypotension is an unstable tachyarrhythmia with adverse features, so synchronised DC cardioversion under sedation is indicated (with heparin cover). Rate control with drugs is for stable patients.",
+    "stem": "A 70-year-old man has atrial fibrillation of a few hours' duration at 140 beats/min with acute pulmonary oedema and a blood pressure of 80/50 mmHg."
+   },
+   "5": {
+    "answer": "G",
+    "explanation": "Frequent ventricular ectopics in an asymptomatic young man with a structurally normal heart are benign, and reassurance with reduction of caffeine and alcohol is appropriate. Echocardiography should exclude structural disease, and a burden >10–15% or symptoms may warrant a beta-blocker or ablation.",
+    "stem": "A 31-year-old man with no symptoms is found to have frequent unifocal ventricular ectopics (4% of beats on Holter monitoring). Echocardiography and electrolytes are normal."
+   }
+  },
+  "why": "Options did not contain answers for tamponade or ventricular ectopics; pericardiocentesis and reassurance added, and items rewritten so each has one best answer (AF with near-syncope changed to SVT to avoid two identical items)"
+ },
+ {
+  "id": "cvsemq-0065",
+  "status": "corrected",
+  "set": {
+   "theme": "Arrhythmia treatment (ECG cases)",
+   "options": [
+    "Intravenous adenosine",
+    "Oral warfarin",
+    "Intravenous lidocaine",
+    "Correction of electrolyte disturbance",
+    "Immediate defibrillation",
+    "Beta-blocker",
+    "Reassurance only",
+    "Permanent pacemaker",
+    "Oral sotalol plus anticoagulation",
+    "Intravenous magnesium sulfate",
+    "Cardiac resynchronisation therapy",
+    "Oxygen, low-molecular-weight heparin and intravenous fluids"
+   ],
+   "images": [],
+   "topics": [
+    "Arrhythmias",
+    "Torsades de pointes",
+    "Ventricular fibrillation",
+    "ECG"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "L",
+    "explanation": "Acute breathlessness with sinus tachycardia (the commonest ECG finding) in a young woman on the combined pill, with hypoxaemia but preserved blood pressure, is a non-massive pulmonary embolism. Supportive oxygen and therapeutic low-molecular-weight heparin are started, with CTPA to confirm; thrombolysis is reserved for haemodynamic compromise.",
+    "stem": "A 26-year-old woman taking the combined oral contraceptive pill presents with sudden breathlessness and pleuritic chest pain. SpO2 is 90% on air and blood pressure 112/70 mmHg. Her ECG (shown) shows sinus tachycardia. CT pulmonary angiography confirms pulmonary embolism.",
+    "images": [
+     "q/o228_40.jpeg"
+    ]
+   },
+   "2": {
+    "answer": "D",
+    "explanation": "Muscle weakness and cramps after diarrhoea with ST depression, flattened T waves and prominent U waves is hypokalaemia; the priority is potassium replacement (and magnesium) with cardiac monitoring, as hypokalaemia predisposes to ventricular arrhythmias.",
+    "stem": "A 24-year-old man has muscle weakness and cramps after a week of profuse diarrhoea. Serum potassium is 2.4 mmol/L. His ECG (shown) shows ST depression, flattened T waves and prominent U waves.",
+    "images": [
+     "q/o229_41.jpeg"
+    ]
+   },
+   "3": {
+    "answer": "E",
+    "explanation": "The strip shows chaotic, irregular waveforms with no identifiable QRS complexes: ventricular fibrillation. In a pulseless patient this is a shockable rhythm needing immediate defibrillation with high-quality CPR, adrenaline and amiodarone after the third shock; every minute of delay reduces survival by about 10%.",
+    "stem": "A 34-year-old man collapses in the emergency department waiting room. He is unresponsive, not breathing normally and has no pulse. The monitor rhythm is shown.",
+    "images": [
+     "q/o229_42.jpeg"
+    ]
+   },
+   "4": {
+    "answer": "J",
+    "explanation": "Polymorphic VT with a twisting QRS axis on a background of a long QT interval is torsades de pointes; first-line treatment is intravenous magnesium sulfate 2 g, with withdrawal of QT-prolonging drugs and correction of potassium. Overdrive pacing or isoprenaline is used if it recurs; lidocaine is not effective.",
+    "stem": "A 26-year-old woman taking erythromycin and citalopram has recurrent self-terminating episodes of palpitations and near-syncope. Her resting QTc is 560 ms, and the monitor during an episode is shown (polymorphic ventricular tachycardia with a QRS axis that twists around the baseline).",
+    "images": [
+     "q/o229_43.png"
+    ]
+   },
+   "5": {
+    "answer": "I",
+    "explanation": "The strip shows an irregularly irregular narrow-complex rhythm without P waves: atrial fibrillation. A patient with paroxysmal AF who needs rhythm control and has a CHA2DS2-VASc score of 4 needs both an antiarrhythmic (sotalol, provided renal function and QT are normal) and anticoagulation; a beta-blocker alone would not reduce stroke risk. A DOAC is now preferred over warfarin where there is no mechanical valve or mitral stenosis.",
+    "stem": "A 68-year-old woman with hypertension, diabetes and treated hypothyroidism (now euthyroid) has recurrent symptomatic paroxysms of the rhythm shown. Her CHA2DS2-VASc score is 4, and a rhythm-control strategy together with stroke prevention is planned.",
+    "images": [
+     "q/o229_44.jpeg"
+    ]
+   },
+   "6": {
+    "answer": "H",
+    "explanation": "The strip shows sinus rhythm interrupted by a long pause with no P wave (sinus arrest), coinciding with syncope; symptomatic sinus node dysfunction without a reversible cause is an indication for a permanent (dual-chamber) pacemaker. Drugs that slow the sinus node should be reviewed first.",
+    "stem": "A 74-year-old man has recurrent syncope. He takes no rate-limiting drugs, and thyroid function and electrolytes are normal. Ambulatory monitoring captures the rhythm shown, a prolonged sinus pause with no P waves, at the time of a syncopal episode.",
+    "images": [
+     "q/o229_45.jpeg"
+    ]
+   },
+   "7": {
+    "answer": "F",
+    "explanation": "The strip shows sinus rhythm with frequent unifocal ventricular ectopic beats (broad, bizarre complexes with compensatory pauses). With a structurally normal heart they are benign, but when symptoms persist despite reassurance and avoiding caffeine, a beta-blocker is first-line symptomatic treatment.",
+    "stem": "A 40-year-old man complains of troublesome 'missed beats'. Echocardiography, electrolytes and thyroid function are normal. His symptoms have continued despite reassurance and stopping caffeine. His rhythm strip is shown.",
+    "images": [
+     "q/o229_46.jpeg"
+    ]
+   },
+   "8": {
+    "answer": "A",
+    "explanation": "A regular narrow-complex tachycardia at about 150–180 beats/min without visible P waves in a stable young patient is a re-entrant supraventricular tachycardia; after failed vagal manoeuvres, intravenous adenosine (6 mg, then 12 mg, then 18 mg) is given with ECG recording.",
+    "stem": "A 30-year-old woman has sudden-onset regular palpitations. She is haemodynamically stable, and a modified Valsalva manoeuvre has failed. Her ECG is shown.",
+    "images": [
+     "q/o230_47.jpeg"
+    ]
+   }
+  },
+  "why": "Items were one-line fragments ('a patient with a ECG'); each rewritten around its ECG strip, which is now attached to the item; oral lidocaine corrected to intravenous; item 5 made specific so sotalol plus anticoagulation beats a beta-blocker"
+ },
+ {
+  "id": "cvsemq-0066",
+  "delete": true,
+  "dup_of": "cvsemq-0007",
+  "why": "Same five items (AF >48 h before cardioversion, compromised AF, post-MI VT, adenosine for narrow-complex tachycardia, torsades prophylaxis) as the 39 Blocks theme cvsemq-0007"
+ },
+ {
+  "id": "cvsemq-0067",
+  "status": "corrected",
+  "set": {
+   "theme": "Cardiac murmurs",
+   "options": [
+    "Mitral stenosis",
+    "Patent ductus arteriosus",
+    "Pulmonary stenosis",
+    "Aortic stenosis",
+    "Mitral valve prolapse",
+    "Tricuspid regurgitation",
+    "Aortic regurgitation",
+    "Tetralogy of Fallot",
+    "Atrial septal defect",
+    "Hypertrophic cardiomyopathy",
+    "Ventricular septal defect",
+    "Mitral regurgitation"
+   ],
+   "topics": [
+    "Heart murmurs",
+    "Mitral valve prolapse",
+    "Austin Flint murmur"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "L",
+    "explanation": "A pansystolic murmur at the apex (left fifth intercostal space) radiating to the axilla with a third heart sound is significant mitral regurgitation; the S3 reflects rapid filling of the volume-loaded left ventricle.",
+    "stem": "A pansystolic murmur at the left fifth intercostal space, mid-clavicular line, radiating to the axilla, with a third heart sound."
+   },
+   "2": {
+    "answer": "E",
+    "explanation": "A mid-systolic click followed by a late systolic murmur at the apex is mitral valve prolapse; the click and murmur move earlier on standing or Valsalva as LV volume falls. Most cases are benign, but severe regurgitation may develop."
+   },
+   "3": {
+    "answer": "A",
+    "explanation": "A low-pitched rumbling mid-diastolic murmur at the apex with a loud S1 (and often an opening snap) is mitral stenosis, heard best with the bell in the left lateral position in expiration."
+   },
+   "4": {
+    "answer": "G",
+    "explanation": "A mid-diastolic apical rumble in a patient with a collapsing pulse and an early diastolic murmur is the Austin Flint murmur of severe aortic regurgitation, caused by the regurgitant jet impeding anterior mitral leaflet opening. It differs from mitral stenosis by the absence of a loud S1 or opening snap.",
+    "stem": "A patient with a collapsing pulse and an early diastolic murmur at the left sternal edge also has a mid-diastolic rumble at the apex, with a normal first heart sound and no opening snap."
+   },
+   "5": {
+    "answer": "F",
+    "explanation": "A pansystolic murmur at the left lower sternal edge that increases with inspiration (Carvallo's sign, from increased venous return to the right heart) is tricuspid regurgitation; look for giant v waves and a pulsatile liver. A VSD murmur does not vary with respiration.",
+    "stem": "A pansystolic murmur at the left lower sternal edge that increases with inspiration."
+   }
+  },
+  "why": "Duplicate option (aortic incompetence = aortic regurgitation) and non-murmur options (atrial flutter, atrial fibrillation) replaced; item 4 no longer states its own answer"
+ },
+ {
+  "id": "cvsemq-0068",
+  "status": "corrected",
+  "set": {
+   "theme": "ECG interpretation",
+   "options": [
+    "Subendocardial infarction",
+    "Pulmonary embolism",
+    "Right bundle-branch block",
+    "Mobitz type II second-degree heart block",
+    "Hyperkalaemia",
+    "Inferior myocardial infarction",
+    "Anterolateral myocardial infarction",
+    "Left bundle-branch block",
+    "Pericarditis",
+    "Atrial fibrillation",
+    "Mobitz type I second-degree heart block (Wenckebach)",
+    "Mitral stenosis"
+   ],
+   "images": [],
+   "topics": [
+    "ECG",
+    "Atrial fibrillation",
+    "Left bundle-branch block",
+    "Inferior myocardial infarction"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "J",
+    "explanation": "The rhythm strip is irregularly irregular with narrow QRS complexes and no identifiable P waves, only a fine undulating baseline: atrial fibrillation. Assess stroke risk (CHA2DS2-VASc) for anticoagulation and choose rate or rhythm control.",
+    "stem": "A 72-year-old woman presents with palpitations. Her rhythm strip (leads V1, II and V5) is shown: the QRS complexes are narrow and irregularly irregular, with no discernible P waves.",
+    "images": [
+     "q/o231_48.jpeg"
+    ]
+   },
+   "2": {
+    "answer": "H",
+    "explanation": "Broad QRS (≥120 ms) with deep QS complexes in V1–V3, discordant ST elevation and upright T waves there, and left axis deviation is the left bundle-branch block pattern; the ST changes are secondary, not ischaemic. New LBBB with ischaemic symptoms is treated as a STEMI equivalent, but an old, unchanged LBBB in an asymptomatic patient warrants echocardiography for structural heart disease.",
+    "stem": "A 70-year-old man with no chest pain has a routine pre-operative ECG (shown), unchanged from 2 years ago. The QRS duration is 140 ms, with deep QS complexes and discordant ST elevation in V1–V3, left axis deviation and broad upright complexes in I and aVL.",
+    "images": [
+     "q/o232_49.jpeg"
+    ]
+   },
+   "3": {
+    "answer": "F",
+    "explanation": "ST elevation in II, III and aVF (greater in III than II) with reciprocal depression in aVL is an inferior STEMI from right coronary artery occlusion; ST elevation in right-sided lead V4R indicates right ventricular infarction, which explains the hypotension with clear lungs. Give fluids, avoid nitrates and arrange primary PCI.",
+    "stem": "A 60-year-old man has had 1 hour of central chest pain. He is hypotensive with clear lung fields and a raised JVP. His ECG, including right-sided chest leads (V1R–V6R), is shown: there is ST elevation in II, III and aVF (greater in III than II) with ST depression in I and aVL, and ST elevation in V4R.",
+    "images": [
+     "q/o232_50.jpeg"
+    ]
+   },
+   "4": {
+    "answer": "K",
+    "explanation": "Progressive PR prolongation until a P wave is not conducted, with the cycle then repeating (grouped beating), is Mobitz type I (Wenckebach) block, usually AV nodal and benign, e.g. with high vagal tone, inferior MI or AV-nodal-blocking drugs. Mobitz type II has a constant PR interval before the dropped beat and needs pacing.",
+    "stem": "A 25-year-old athlete is found to have an irregular pulse at a medical check. His ECG shows sinus P waves at a regular rate; the PR interval lengthens progressively over 3–4 beats until one P wave is not followed by a QRS complex, after which the cycle repeats."
+   }
+  },
+  "why": "Items had no stems; each rewritten around its attached ECG (AF, LBBB, inferior STEMI with right ventricular involvement); the fourth ECG was too low-resolution to interpret reliably, so its item describes Wenckebach block in words and the image was dropped"
+ }
+]

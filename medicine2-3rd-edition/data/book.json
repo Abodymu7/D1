@@ -1,0 +1,400 @@
+{
+ "title": "Internal Medicine Bank",
+ "volume": "Medicine 2 — Cardiorespiratory",
+ "edition": "3rd Edition / 2026",
+ "authors": [
+  "Ruqaya Mohammed",
+  "Abdullah Musaab"
+ ],
+ "team": "118 Team",
+ "telegram": "https://t.me/AR_med118",
+ "file_name": "Internal-Medicine-Bank-Medicine-2-3rd-Edition",
+ "cover": {
+  "image": "",
+  "credit": "",
+  "art": {
+   "source": "cover1.jpg",
+   "color": "2E90BE"
+  }
+ },
+ "layout": {
+  "answers_every": 25
+ },
+ "banks": [
+  {
+   "name": "39 Blocks Questions",
+   "blurb": "End-block examinations of the 39th batch (2024–2025), recalled and verified"
+  },
+  {
+   "name": "End-Block Exams",
+   "blurb": "End-block & induction exams 2025"
+  },
+  {
+   "name": "Formative & Previous Years",
+   "blurb": "College formative & previous-years exam questions"
+  },
+  {
+   "name": "Log Book",
+   "blurb": "Log-book questions 2025"
+  },
+  {
+   "name": "Davidson",
+   "blurb": "After Davidson's Principles & Practice of Medicine self-assessment"
+  },
+  {
+   "name": "Harrison",
+   "blurb": "After Harrison's Self-Assessment & Board Review"
+  },
+  {
+   "name": "Crash Course",
+   "blurb": "After Crash Course SBAs & EMQs"
+  },
+  {
+   "name": "PreTest",
+   "blurb": "After PreTest Medicine"
+  },
+  {
+   "name": "Passmedicine",
+   "blurb": "After Passmedicine"
+  },
+  {
+   "name": "PasTest",
+   "blurb": "After PasTest"
+  },
+  {
+   "name": "Irfan",
+   "blurb": "Irfan EMQ collection"
+  },
+  {
+   "name": "Get Ahead",
+   "blurb": "After Get ahead! Medicine EMQs"
+  },
+  {
+   "name": "Other Sources",
+   "blurb": "Other colleges & sources"
+  }
+ ],
+ "texts": {
+  "cover_lines": [
+   "INTERNAL",
+   "MEDICINE",
+   "BANK"
+  ],
+  "tagline": "MCQs and EMQs with short, guideline-based explanations and management flowcharts.",
+  "chapters_word": "chapters",
+  "new_word": "new questions",
+  "title_page": "Internal Medicine Bank",
+  "description": "{total} questions with answers and explanations.",
+  "colophon": [
+   [
+    "What changed in this edition",
+    "Every question was checked against current guidance; {corrected} questions were corrected and all explanations shortened. Each change is logged in the accompanying corrections file."
+   ],
+   [
+    "Important",
+    "This book is a revision aid. Guidelines change: always check current local and national guidance."
+   ]
+  ],
+  "credits": [
+   [
+    "Question sources",
+    "List the sources here."
+   ]
+  ],
+  "credits_after": [],
+  "back_headline": "Practise like the exam. Learn from every answer.",
+  "back_points": [
+   "{total} questions across {chapters} chapters, numbered by source",
+   "Management flowcharts updated to current guidelines in every chapter",
+   "Two-to-three-line explanations · {corrected} answers corrected",
+   "Repeated questions merged with a note of where they were asked"
+  ]
+ },
+ "chapters": [
+  {
+   "id": "cad",
+   "order": 1,
+   "part": "Cardiovascular System",
+   "title": "Coronary & Vascular Disease",
+   "short": "Coronary & Vascular",
+   "color": "B42346",
+   "intro": "Stable and unstable coronary disease, myocardial infarction and its complications, peripheral arterial and venous disease, and diseases of the aorta.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "hf",
+   "order": 2,
+   "part": "Cardiovascular System",
+   "title": "Heart Failure & Cardiomyopathy",
+   "short": "Heart Failure",
+   "color": "C2410C",
+   "intro": "Acute and chronic heart failure across the ejection-fraction spectrum, the drugs that change prognosis, and the cardiomyopathies.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "chd",
+   "order": 3,
+   "part": "Cardiovascular System",
+   "title": "Congenital Heart Disease",
+   "short": "Congenital",
+   "color": "D97706",
+   "intro": "Shunts, obstructive lesions and cyanotic disease in children and adults: murmurs, ECG and X-ray clues, and when to intervene.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "arr",
+   "order": 4,
+   "part": "Cardiovascular System",
+   "title": "Arrhythmias & Conduction Disease",
+   "short": "Arrhythmias",
+   "color": "BE185D",
+   "intro": "Atrial fibrillation, supraventricular and ventricular tachycardias, heart block and cardiac arrest: ECG recognition, rate and rhythm control, and anticoagulation.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "valv",
+   "order": 5,
+   "part": "Cardiovascular System",
+   "title": "Valvular Heart Disease",
+   "short": "Valvular",
+   "color": "6D4BC3",
+   "intro": "Aortic and mitral stenosis and regurgitation, right-sided valve disease and prosthetic valves: bedside signs, echo criteria and timing of intervention.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "peri",
+   "order": 6,
+   "part": "Cardiovascular System",
+   "title": "Pericardial & Inflammatory Heart Disease",
+   "short": "Pericardial & Inflammatory",
+   "color": "0E9384",
+   "intro": "Pericarditis, tamponade and constriction; infective endocarditis; myocarditis; and rheumatic fever — the inflammatory diseases of the heart and their look-alikes.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "htn",
+   "order": 7,
+   "part": "Cardiovascular System",
+   "title": "Hypertension",
+   "short": "Hypertension",
+   "color": "2563EB",
+   "intro": "Diagnosis and grading, investigation for target-organ damage and secondary causes, drug choice, and hypertensive emergencies.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "cpharm",
+   "order": 8,
+   "part": "Cardiovascular System",
+   "title": "Cardiovascular Pharmacology",
+   "short": "CVS Pharmacology",
+   "color": "0891B2",
+   "intro": "Mechanisms, indications, interactions and adverse effects of antiplatelets, anticoagulants, antianginals, antiarrhythmics and lipid-lowering drugs.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "cvsx",
+   "order": 9,
+   "part": "Cardiovascular System",
+   "title": "Mixed Cardiology",
+   "short": "Mixed Cardiology",
+   "color": "475569",
+   "intro": "Integrated cardiology questions across the whole system — examination, investigation and management — for final revision.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "cvsemq",
+   "order": 10,
+   "part": "Cardiovascular System",
+   "title": "Cardiology EMQs",
+   "short": "Cardiology EMQs",
+   "color": "9F1239",
+   "intro": "Extended matching questions on the cardiovascular system: chest pain, murmurs, pulses, ECGs, arrhythmias and cardiovascular drugs.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "airway",
+   "order": 11,
+   "part": "Respiratory System",
+   "title": "Obstructive Airway Disease",
+   "short": "Airways",
+   "color": "0369A1",
+   "intro": "Asthma and COPD side by side: diagnosis and spirometry, acute severe attacks and exacerbations, oxygen, ventilation and long-term management.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "resinf",
+   "order": 12,
+   "part": "Respiratory System",
+   "title": "Respiratory Infection & Inflammation",
+   "short": "Infection",
+   "color": "15803D",
+   "intro": "Pneumonia, tuberculosis, bronchiectasis, lung abscess and granulomatous disease: organisms, severity assessment and treatment.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "crit",
+   "order": 13,
+   "part": "Respiratory System",
+   "title": "Respiratory Failure & ARDS",
+   "short": "Respiratory Failure",
+   "color": "DC2626",
+   "intro": "Type 1 and type 2 respiratory failure, blood gases, oxygen and non-invasive ventilation, and the acute respiratory distress syndrome.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "pleura",
+   "order": 14,
+   "part": "Respiratory System",
+   "title": "Pleural Disease",
+   "short": "Pleura",
+   "color": "0D9488",
+   "intro": "Pleural effusion, empyema, pneumothorax and haemothorax: Light criteria, aspiration and drainage, and mesothelioma.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "ild",
+   "order": 15,
+   "part": "Respiratory System",
+   "title": "Interstitial Lung Disease",
+   "short": "Interstitial",
+   "color": "7C3AED",
+   "intro": "Idiopathic pulmonary fibrosis, sarcoidosis, hypersensitivity pneumonitis, occupational and drug-induced lung disease.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "pvasc",
+   "order": 16,
+   "part": "Respiratory System",
+   "title": "Pulmonary Vascular Disease",
+   "short": "Pulmonary Vascular",
+   "color": "1D4ED8",
+   "intro": "Pulmonary embolism — probability, imaging and treatment — and pulmonary hypertension.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "lca",
+   "order": 17,
+   "part": "Respiratory System",
+   "title": "Lung Cancer",
+   "short": "Lung Cancer",
+   "color": "9D174D",
+   "intro": "Presentation, paraneoplastic syndromes, diagnosis, staging and treatment of lung cancer and other thoracic tumours.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "resx",
+   "order": 18,
+   "part": "Respiratory System",
+   "title": "Mixed Respiratory Medicine",
+   "short": "Mixed Respiratory",
+   "color": "475569",
+   "intro": "Integrated respiratory questions across the whole system for final revision.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "resemq",
+   "order": 19,
+   "part": "Respiratory System",
+   "title": "Respiratory EMQs",
+   "short": "Respiratory EMQs",
+   "color": "0F766E",
+   "intro": "Extended matching questions on the respiratory system: breathlessness, haemoptysis, clubbing, chest X-rays, blood gases and pleural fluid.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  }
+ ]
+}

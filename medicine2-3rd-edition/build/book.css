@@ -1,0 +1,235 @@
+
+@page { size: 210mm 297mm; margin: 21mm 17mm 20mm 19mm;
+  @top-left { font: 600 6.8pt DispS; letter-spacing: 0.12em; color: %MUTED%; vertical-align: bottom; padding-bottom: 2.3mm; width: 160mm; text-transform: uppercase }
+  @top-right { font: 600 6.8pt DispS; letter-spacing: 0.12em; color: %MUTED%; vertical-align: bottom; padding-bottom: 2.3mm; width: 160mm; text-align: right; text-transform: uppercase }
+  @bottom-left { font: 700 9pt Disp; color: #fff; width: 12mm; height: 6.2mm; text-align: center; vertical-align: middle; margin: 5.2mm 0 8.6mm }
+  @bottom-right { font: 700 9pt Disp; color: #fff; width: 12mm; height: 6.2mm; text-align: center; vertical-align: middle; margin: 5.2mm 0 8.6mm } }
+@page :left { margin: 21mm 19mm 20mm 17mm }
+@page cover { margin: 0; background: linear-gradient(100deg, rgba(14,23,38,.92) 0%, rgba(14,23,38,.55) 50%, rgba(14,23,38,0) 78%), url('file://%COVER%') no-repeat center / cover, %INK% }
+@page backc { margin: 0; background: %INK% }
+@page plain { @bottom-center { content: counter(page); font: 600 8pt Disp; color: %MUTED% } }
+@page :blank { background: none; @top-left { content: none } @top-right { content: none } @bottom-left { content: none } @bottom-right { content: none } @bottom-center { content: none } }
+
+html { font: 8.9pt/11.8pt SSerif; color: %INK%; hyphens: auto; }
+body { margin: 0; }
+a { color: inherit; text-decoration: none; }
+sup { font-size: 68%; line-height: 0; vertical-align: 0.35em }
+sub { font-size: 68%; line-height: 0; vertical-align: -0.2em }
+
+/* ---------------- cover */
+.cover { height: 297mm; position: relative; color: #fff; bookmark-level: 1; bookmark-label: "Cover" }
+.cover .ck { position: absolute; left: 18mm; top: 20mm; font: 600 8pt DispS; letter-spacing: .24em; color: %GOLD% }
+.cover .ct { position: absolute; left: 16mm; top: 30mm; margin: 0; font: 900 76pt/64pt Disp; letter-spacing: -1pt; color: #fff; bookmark-level: none }
+.cover .ct span { display: block }
+.cover .crule { position: absolute; left: 18mm; top: 128mm; width: 42mm; height: 2mm; background: %GOLD% }
+.cover .cv { position: absolute; left: 18mm; top: 135mm; font: 700 20pt Disp; margin: 0; letter-spacing: .02em }
+.cover .ctag { position: absolute; left: 18mm; top: 147mm; width: 90mm; font: 400 10pt/13pt SSans; color: rgba(255,255,255,.8); margin: 0 }
+.cover .cfoot { position: absolute; left: 18mm; right: 18mm; bottom: 16mm; border-top: .6pt solid rgba(255,255,255,.35); padding-top: 4mm }
+.cover .cfoot p { margin: 0 0 1mm; font: 600 9pt DispS; letter-spacing: .12em; text-transform: uppercase }
+.cover .cfoot .cau { font: 700 12pt Disp; letter-spacing: .04em }
+.cover .cfoot .cteam { color: %GOLD% }
+
+.blankp { break-before: page; height: 10mm }
+
+/* ---------------- front matter */
+.titlep { break-before: right; padding-top: 50mm; bookmark-level: 1; bookmark-label: "Title page" }
+.titlep .tk { font: 600 8pt DispS; letter-spacing: .24em; color: %MUTED% }
+.titlep h1 { font: 900 52pt/50pt Disp; margin: 2mm 0 3mm; text-transform: uppercase }
+.titlep .tv { font: 600 18pt Disp; color: %INK2%; margin: 0 }
+.titlep .trule { width: 40mm; height: 1.6mm; background: %GOLD%; margin: 8mm 0 }
+.titlep .tau { font: 700 15pt/19pt Disp }
+.titlep .ted, .titlep .tteam { font: 400 10pt SSans; color: %MUTED% }
+.fh { font: 800 30pt/30pt Disp; text-transform: uppercase; margin: 0 0 7mm; padding-bottom: 3mm; border-bottom: 1.4pt solid %INK% }
+.fh2 { margin-top: 9mm }
+.colophon { break-before: page; bookmark-level: 1; bookmark-label: "Colophon" }
+.colophon .cb { margin-bottom: 5mm; width: 150mm }
+.colophon h5, .howto h5 { font: 700 8pt DispS; letter-spacing: .16em; text-transform: uppercase; color: %MUTED%; margin: 0 0 1.2mm }
+.colophon p, .howto p { font: 400 9pt/12.4pt SSans; margin: 0 }
+.colophon .cpy { margin-top: 10mm; color: %MUTED% }
+.contents { break-before: right; bookmark-level: 1; bookmark-label: "Contents" }
+.cpart { font: 600 8pt DispS; letter-spacing: .2em; text-transform: uppercase; color: %MUTED%; margin: 6mm 0 1.5mm }
+.crow { display: flex; align-items: baseline; border-bottom: .5pt solid %LINE%; padding: 1.9mm 0 }
+.cnum { flex: 0 0 11mm; font: 800 15pt Disp; color: var(--acc) }
+.ctitle { flex: 1; font: 700 12.5pt/1.1 Disp }
+.ctitle small { display: block; font: 400 7.6pt/1.3 SSans; color: %MUTED%; margin-top: .6mm; padding-right: 8mm }
+.ccount { flex: 0 0 16mm; font: 400 8pt SSans; color: %MUTED%; text-align: right; padding-right: 4mm }
+.cpg { flex: 0 0 12mm; text-align: right; font: 800 13pt Disp; color: var(--acc) }
+.cpg .pg::after { content: target-counter(attr(href), page) }
+.howto { --acc: #1B2A41; --acc9: #EEF0F4; break-before: page; bookmark-level: 1; bookmark-label: "How to use this book" }
+.hgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 5mm 8mm }
+.glance { width: 100%; border-collapse: collapse; font: 400 8.6pt SSans }
+.glance th { font: 700 7.5pt DispS; letter-spacing: .12em; text-transform: uppercase; color: %MUTED%; text-align: right; border-bottom: 1pt solid %INK%; padding: 1.2mm 2mm }
+.glance th:first-child, .glance td:first-child { text-align: left }
+.glance td { text-align: right; border-bottom: .4pt solid %LINE%; padding: 1.1mm 2mm }
+.glance tfoot td { font-weight: 700; border-top: 1pt solid %INK%; border-bottom: none }
+.sw { display: inline-block; width: 2.4mm; height: 2.4mm; margin-right: 1.4mm }
+
+/* ---------------- chapter divider */
+.divider { height: 297mm; position: relative; color: #fff; break-before: left }
+.divider .dk { position: absolute; left: 18mm; top: 20mm; font: 600 7.6pt DispS; letter-spacing: .22em; color: #fff }
+.divider .dnum { position: absolute; left: 13mm; bottom: 46mm; font: 900 190pt/1 Disp; color: var(--acc); letter-spacing: -4pt;
+                 text-shadow: 0 0 0 transparent; bookmark-level: 1 }
+.divider .dt { position: absolute; left: 18mm; right: 20mm; bottom: 34mm; font: 800 17pt/19pt Disp; letter-spacing: .02em; color: #fff }
+.divider .cr { position: absolute; right: 12mm; bottom: 10mm; font: 400 5.8pt SSans; color: rgba(255,255,255,.55) }
+
+/* ---------------- chapter opener */
+.opener { break-before: right; height: 255mm; position: relative }
+.opener .ghost { position: absolute; right: -6mm; bottom: -8mm; font: 900 260pt/1 Disp; color: var(--acc9); z-index: -1 }
+.opener .kick { font: 600 7.6pt DispS; letter-spacing: .22em; color: var(--acc); margin: 4mm 0 3mm; text-transform: uppercase }
+.opener h1 { font: 800 46pt/43pt Disp; margin: 0 0 5mm; color: %INK%; width: 160mm; bookmark-level: 1; bookmark-label: content(text) }
+.opener .rule { width: 34mm; height: 1.4mm; background: var(--acc); margin-bottom: 6mm }
+.opener .intro { font: 400 10.5pt/14.5pt SSerif; color: %INK2%; margin: 0 0 8mm; width: 150mm }
+.stats { display: flex; margin-bottom: 9mm }
+.stats div { flex: 1; border-top: 1.4pt solid var(--acc); padding-top: 2mm; margin-right: 5mm }
+.stats b { display: block; font: 800 27pt/1 Disp; color: var(--acc) }
+.stats span { font: 600 6.6pt DispS; letter-spacing: .14em; text-transform: uppercase; color: %MUTED% }
+.oh { font: 600 7.4pt DispS; letter-spacing: .2em; color: var(--acc); margin: 0 0 2mm; text-transform: uppercase }
+.toc { margin: 0; padding: 0; list-style: none; width: 172mm }
+.toc li { font: 700 10.5pt/1.2 Disp; border-bottom: .5pt solid %LINE%; padding: 1.5mm 0; display: flex }
+.toc li .k { flex: 0 0 9mm; color: var(--acc) }
+.toc li a:nth-child(2) { flex: 1 }
+.toc li .c { font: 400 8pt SSans; color: %MUTED%; flex: 0 0 22mm; text-align: right; padding-right: 3mm }
+.toc li .p { flex: 0 0 18mm; text-align: right }
+.toc li .p::before { content: "page "; font: 400 8pt SSans; color: %MUTED% }
+.toc li .p::after { content: target-counter(attr(href), page); color: %INK% }
+
+/* ---------------- essentials */
+.ess { break-before: left; }
+.ess .eh { string-set: bank "Management flowcharts" }
+.box { break-inside: avoid; margin: 0 0 6mm; }
+.box h4 { font: 700 13pt/15pt Disp; color: %INK%; margin: 0 0 2.4mm; padding-left: 3mm; border-left: 1.6mm solid var(--acc) }
+.ph { display: flex; justify-content: space-between; font: 600 6.6pt DispS; letter-spacing: .16em; text-transform: uppercase; color: %MUTED%;
+      border-bottom: .8pt solid %INK%; padding-bottom: 1mm; margin-bottom: 1mm }
+.pr { display: flex; align-items: center; padding: .9mm 0; break-inside: avoid }
+.pl { flex: 0 1 auto; max-width: 92mm; font: 400 8.6pt/11pt SSans; color: %INK% }
+.pline { flex: 1 1 8mm; min-width: 6mm; height: 0; border-top: .7pt solid var(--acc); margin: 0 2mm; position: relative }
+.pc { flex: 0 1 auto; max-width: 80mm; text-align: right }
+.btn { display: inline-block; font: 600 8pt/1 SSans; color: var(--acc); background: var(--acc9); border: .7pt solid var(--acc);
+       border-radius: 3mm; padding: 1mm 2.4mm .9mm; margin: .6mm 0 .6mm 1.2mm; white-space: nowrap }
+.fr { display: flex; border-bottom: .4pt solid %LINE%; padding: 1.4mm 0; break-inside: avoid }
+.fl { flex: 0 0 38mm; font: 700 9.4pt/11pt Disp; color: var(--acc); padding-right: 3mm }
+.ft { flex: 1; font: 400 8.5pt/11.4pt SSans }
+.cards { display: grid; grid-template-columns: 1fr 1fr; gap: 3mm 4mm }
+.card { border: .7pt solid var(--acc18); border-top: 2.2pt solid var(--acc); padding: 2mm 2.6mm 1.6mm; break-inside: avoid; background: #fff }
+.card .cn { font: 700 11pt/12pt Disp; color: var(--acc); margin: 0 0 1.2mm }
+.card p { font: 400 7.9pt/10.2pt SSans; margin: 0 0 1.1mm }
+.card .cl { display: block; font: 600 6pt DispS; letter-spacing: .14em; text-transform: uppercase; color: %MUTED% }
+.steps { list-style: none; margin: 0; padding: 0 }
+.steps li { position: relative; padding: 0 0 3.2mm 12mm; break-inside: avoid }
+.steps li::before { content: ""; position: absolute; left: 3.6mm; top: 7.4mm; bottom: -.4mm; border-left: 1pt solid var(--acc) }
+.steps li:last-child::before { display: none }
+.steps .sn { position: absolute; left: 0; top: 0; width: 7.4mm; height: 7.4mm; border-radius: 3.7mm; background: var(--acc); color: #fff;
+             font: 800 11pt/7.6mm Disp; text-align: center }
+.steps p { margin: 0; font: 400 8.6pt/11.4pt SSans; padding-top: .6mm }
+.steps b { display: block; font: 700 10.5pt/12pt Disp; color: %INK%; margin-bottom: .4mm }
+.chips { margin: 0 0 2mm -1.2mm }
+.note { font: italic 400 8.4pt/11pt SSerif; color: %INK2%; margin: 1mm 0 0 }
+
+/* ---------------- banks and questions */
+.content { break-before: page }
+.bankhead { break-inside: avoid; break-after: avoid }
+.bk { font: 600 6.8pt/9pt DispS; letter-spacing: .14em; color: var(--acc); margin: 9mm 0 1mm; }
+.content > .bankhead:first-child .bk, .ess > .bk { margin-top: 0 }
+.bh { font: 700 23pt/24pt Disp; color: %INK%; margin: 0 0 5mm; padding-bottom: 2.4mm; string-set: bank content(); bookmark-level: 2; position: relative }
+.bh::after { content: ""; position: absolute; left: 0; bottom: 0; width: 24mm; height: .8mm; background: var(--acc) }
+.eh { bookmark-level: 2; bookmark-label: "Management flowcharts" }
+.flow { columns: 2; column-gap: 6mm; column-fill: balance }
+.case { break-inside: avoid; break-after: avoid; background: var(--acc9); border-top: 1.4pt solid var(--acc); padding: 1.6mm 2.2mm 1.8mm; margin: 0 0 2.6mm }
+.case .csk { font: 700 6.6pt DispS; letter-spacing: .14em; color: var(--acc); margin: 0 0 .8mm }
+.case p { margin: 0; font: italic 400 8.8pt/11.6pt SSerif }
+.sh { font: 600 7.4pt DispS; letter-spacing: .12em; text-transform: uppercase; color: var(--acc); margin: 2mm 0 1.5mm; break-after: avoid }
+.q { margin: 0 0 3.2mm; break-inside: avoid-column }
+.qs { margin: 0 0 1mm; padding-left: 7.5mm; text-indent: -7.5mm; orphans: 2; widows: 2 }
+.qn { display: inline-block; width: 7.5mm; text-indent: 0; font: 700 10.5pt Disp; color: var(--acc) }
+.opts, .eo { list-style: none; margin: 0; padding: 0 }
+.opts li { font: 400 8.5pt/10.6pt SSans; color: %INK2%; padding-left: 12.5mm; text-indent: -5mm; margin-bottom: .35mm; hyphens: manual }
+.ol { display: inline-block; width: 5mm; text-indent: 0; font: 600 8.2pt DispS; color: var(--acc) }
+.qimg { display: block; max-width: 100%; max-height: 62mm; margin: 1.2mm 0 1.6mm 7.5mm; width: auto; border: .4pt solid %LINE% }
+.emq { margin: 0 0 3mm }
+.et { break-after: avoid; background: var(--acc); color: #fff; font: 700 10pt/12pt Disp; padding: 1.6mm 2mm 1.4mm; margin: 0 0 2.2mm }
+.et span { display: inline-block; width: 13mm; font: 600 6.6pt DispS; letter-spacing: .14em; opacity: .85 }
+.eo { background: var(--acc9); padding: 1.4mm 2mm; margin-bottom: 2.6mm; break-inside: avoid }
+.eo li { font: 400 8.4pt/10.8pt SSans; padding-left: 6mm; text-indent: -6mm; hyphens: manual }
+.eo .ol { width: 6mm }
+.el { font: italic 400 8pt/10pt SSerif; color: %MUTED%; margin: 0 0 1.4mm; break-after: avoid }
+.ei { break-inside: avoid; margin-bottom: 2mm }
+.rep { break-inside: avoid; break-before: avoid; background: %HL%; border-left: 1.4mm solid %GOLD%; margin: 1.4mm 0 0 7.5mm; padding: 1.1mm 2mm 1.2mm;
+       font: 400 7.4pt/9.4pt SSans; color: %INK2% }
+.repk { display: block; font: 700 6.6pt DispS; letter-spacing: .14em; color: #8A5A00 }
+.ah { column-span: all; display: flex; justify-content: space-between; align-items: baseline; font: 700 14pt/16pt Disp; color: var(--acc);
+      border-top: .8pt solid var(--acc); padding-top: 3mm; margin: 6mm 0 3mm; break-after: avoid }
+.ah > span:first-child { bookmark-level: 3; bookmark-label: content(text) }
+.ahb { font: 600 7.4pt DispS; letter-spacing: .1em; text-transform: uppercase; color: %MUTED% }
+.an { font: 400 8.3pt/10.7pt SSans; padding-left: 7.5mm; text-indent: -7.5mm; margin: 0 0 1.9mm; orphans: 2; widows: 2 }
+.anum { display: inline-block; width: 7.5mm; text-indent: 0; font: 700 9.5pt Disp; color: %INK% }
+.chip { display: inline-block; text-indent: 0; background: var(--acc); color: #fff; font: 700 8pt/1 Disp; padding: .5mm 1.1mm .4mm; border-radius: .4mm }
+.aopt { font-weight: 600; color: var(--acc) }
+.upd { display: inline-block; text-indent: 0; font: 700 5.8pt/1 DispS; letter-spacing: .12em; color: %MUTED%; border: .5pt solid %MUTED%; padding: .4mm .8mm .3mm; border-radius: .4mm; vertical-align: .2mm }
+.flow + .sh { margin-top: 5mm }
+
+/* ---------------- index */
+.index { break-before: right; bookmark-level: 1; bookmark-label: "Index"; --acc: %INK% }
+.inote { font: italic 400 8pt SSerif; color: %MUTED%; margin: -4mm 0 4mm }
+.icols { columns: 3; column-gap: 5mm; column-fill: auto }
+.il { font: 800 14pt Disp; color: %GOLD%; margin: 3mm 0 1mm; break-after: avoid }
+.ie { font: 400 7.4pt/9.2pt SSans; margin: 0 0 .5mm; padding-left: 3mm; text-indent: -3mm }
+.ie a, .ie2 a { color: %INK2% }
+.ie2 { font: 400 7.1pt/9pt SSans; margin: 0 0 .4mm; padding-left: 6mm; text-indent: -3mm; color: %MUTED% }
+
+/* ---------------- back cover */
+.backc { break-before: page; height: 297mm; position: relative; color: #fff; bookmark-level: 1; bookmark-label: "Back cover" }
+.backc .bkk { position: absolute; left: 18mm; top: 22mm; font: 600 8pt DispS; letter-spacing: .22em; color: %GOLD%; margin: 0 }
+.backc h2 { position: absolute; left: 18mm; top: 34mm; width: 150mm; font: 800 34pt/34pt Disp; margin: 0 }
+.backc ul { position: absolute; left: 18mm; top: 100mm; width: 150mm; margin: 0; padding: 0; list-style: none }
+.backc li { font: 400 11pt/15pt SSans; border-top: .5pt solid rgba(255,255,255,.3); padding: 2.6mm 0 2.6mm 7mm; position: relative }
+.backc li::before { content: ""; position: absolute; left: 0; top: 4.6mm; width: 2.6mm; height: 2.6mm; background: %GOLD% }
+.backc .bfoot { position: absolute; left: 18mm; right: 18mm; bottom: 16mm; font: 600 8.5pt DispS; letter-spacing: .1em; color: rgba(255,255,255,.75) }
+.backc .bfoot p { margin: 0 0 1mm }
+.backc .btitle { font: 900 20pt Disp; color: #fff; letter-spacing: .02em; text-transform: uppercase }
+
+.glancep { break-before: page; bookmark-level: 1; bookmark-label: "At a glance" }
+.sources { break-before: page; bookmark-level: 1; bookmark-label: "Question sources" }
+.snote { font: 400 9pt/12.4pt SSans; margin: 0 0 6mm; width: 150mm }
+.srcs td small { display: block; font: 400 7.6pt SSans; color: #667085; margin-top: .4mm }
+.srcs td { vertical-align: top; padding: 1.8mm 2mm }
+.ctitle a { display: block }
+
+/* ---------------- 3rd edition: management flowcharts */
+.fc { break-inside: avoid; margin: 0 0 7mm; }
+.fc h4 { font: 700 13pt/15pt Disp; color: %INK%; margin: 0 0 .6mm; padding-left: 3mm; border-left: 1.6mm solid var(--acc) }
+.fcsrc { font: 600 6.4pt DispS; letter-spacing: .14em; text-transform: uppercase; color: %MUTED%; margin: 0 0 2.6mm 4.6mm }
+.fcn { border: .8pt solid var(--acc); border-radius: 1.6mm; background: #fff; padding: 1.5mm 2.4mm 1.4mm; font: 400 8.3pt/10.6pt SSans; color: %INK%;
+       text-align: center; margin: 0 auto; max-width: 150mm; break-inside: avoid }
+.fcn b { font-weight: 700; color: %INK% }
+.fcn.start { background: var(--acc); color: #fff; font: 700 9.6pt/11.4pt Disp; border-color: var(--acc); max-width: 120mm; border-radius: 4mm }
+.fcn.start b { color: #fff }
+.fcn.end { background: var(--acc9); border: 1.1pt solid var(--acc); font-weight: 600 }
+.fcq { margin: 0 auto; max-width: 140mm; text-align: center; font: 700 8.6pt/10.6pt Disp; color: #6B4600; background: %HL%;
+       border: .9pt solid %GOLD%; border-radius: 5mm; padding: 1.4mm 4mm 1.2mm; break-after: avoid }
+.fcq::before { content: "?"; display: inline-block; width: 4mm; height: 4mm; border-radius: 2mm; background: %GOLD%; color: #fff;
+               font: 800 8pt/4.2mm Disp; text-align: center; margin-right: 1.6mm; vertical-align: .2mm }
+.fca { width: 0; height: 4.2mm; margin: 0 auto; border-left: .9pt solid var(--acc); position: relative; break-before: avoid; break-after: avoid }
+.fca::after { content: ""; position: absolute; left: -1.25mm; bottom: -.2mm; border-left: 1.2mm solid transparent; border-right: 1.2mm solid transparent;
+              border-top: 1.6mm solid var(--acc) }
+.fcb { width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 1.3mm 0; margin: 0 -1.3mm; width: calc(100% + 2.6mm) }
+.fcc { vertical-align: top; padding: 0; position: relative }
+.fct { height: 2.6mm; margin: 0 -1.3mm; position: relative }
+.fct::before { content: ""; position: absolute; left: 50%; top: 0; height: 2.6mm; border-left: .9pt solid var(--acc) }
+.fct::after { content: ""; position: absolute; top: 0; left: 0; right: 0; border-top: .9pt solid var(--acc) }
+.fcc:first-child .fct::after { left: 50% }
+.fcc:last-child .fct::after { right: 50% }
+.fcl { display: block; text-align: center; font: 700 7.4pt/9pt DispS; letter-spacing: .02em; color: #fff; background: var(--acc);
+       border-radius: 1mm; padding: .9mm 1.4mm .8mm; margin: 0 0 1.6mm }
+.fcc .fcn { max-width: none; width: auto; text-align: left; font-size: 7.9pt; line-height: 10pt; hyphens: auto }
+.fcc .fca { height: 2.6mm }
+.fcb + .fca { margin-top: 1.4mm }
+
+/* ---------------- 3rd edition: source sub-heads, numbering, repeats */
+.subsrc { font: 700 7.2pt/9pt DispS; letter-spacing: .12em; text-transform: uppercase; color: var(--acc); border-bottom: .6pt solid var(--acc);
+          padding-bottom: .8mm; margin: 1mm 0 2.2mm; break-after: avoid }
+.subsrc small { display: block; font: 400 6.8pt/8.6pt SSans; letter-spacing: 0; text-transform: none; color: %MUTED% }
+.et span { width: auto; margin-right: 2.4mm }
+.ath { font: 700 8.6pt/10.4pt Disp; color: var(--acc); margin: 2.2mm 0 1.2mm; break-after: avoid }
+.reps b { font-weight: 700; color: %INK% }
+.ipg { color: %INK2% }
+.fcstem { width: 0; height: 2mm; margin: 0 auto; border-left: .9pt solid var(--acc); break-after: avoid }

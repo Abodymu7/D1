@@ -1,0 +1,400 @@
+[
+ {
+  "id": "ild-0033",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Usual interstitial pneumonia",
+    "Idiopathic pulmonary fibrosis",
+    "Histopathology"
+   ],
+   "explanation": "The HRCT shows subpleural, basal honeycombing and reticulation, the radiological counterpart of usual interstitial pneumonia (UIP), the histological pattern of IPF: patchy, temporally heterogeneous fibrosis with fibroblastic foci and honeycomb change alternating with near-normal lung. Non-specific interstitial pneumonia is temporally uniform; desquamative interstitial pneumonia shows macrophage-filled alveoli in smokers; diffuse alveolar damage with hyaline membranes is the lesion of ARDS and acute interstitial pneumonia; loosely formed granulomas indicate hypersensitivity pneumonitis.",
+   "stem": "A 62-year-old man has exertional dyspnoea and bibasal crackles. His HRCT (shown) suggests idiopathic pulmonary fibrosis. What would lung histopathology most likely show?"
+  }
+ },
+ {
+  "id": "ild-0034",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Nintedanib",
+    "Pirfenidone"
+   ],
+   "explanation": "Nintedanib (150 mg twice daily), a tyrosine kinase inhibitor of PDGF, FGF and VEGF receptors, and pirfenidone slow the decline in FVC in IPF (INPULSIS and ASCEND trials) and are recommended by ATS/ERS guidance; nintedanib is also licensed for progressive pulmonary fibrosis of other causes. Prednisone with azathioprine (and N-acetylcysteine) increased death and hospitalisation in PANTHER-IPF, and high-dose steroids or cyclophosphamide are ineffective or harmful. Diarrhoea is the main side-effect of nintedanib, photosensitivity and nausea of pirfenidone; lung transplantation is the only cure."
+  }
+ },
+ {
+  "id": "ild-0035",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Sarcoidosis",
+    "Uveitis",
+    "Hypercalcaemia"
+   ],
+   "explanation": "Bilateral hilar lymphadenopathy with hypercalcaemia (from 1-alpha-hydroxylation of vitamin D by granuloma macrophages) indicates sarcoidosis. Eye involvement – anterior or posterior uveitis, conjunctivitis, lacrimal gland enlargement – occurs in about 25–50% of patients and can be asymptomatic yet sight-threatening, so every patient needs ophthalmological screening. Clinical cardiac (about 5%), neurological (5–10%), parotid and renal involvement are all less common, although a baseline ECG is still needed because cardiac sarcoidosis can cause heart block and sudden death.",
+   "stem": "An Afro-Caribbean man presents with increasing dyspnoea. A chest X-ray shows bilateral hilar lymphadenopathy and his serum calcium is raised. Which extrapulmonary organ is most commonly involved clinically in this condition?",
+   "options": [
+    "Heart",
+    "Central nervous system",
+    "Kidneys",
+    "Parotid glands",
+    "Eyes"
+   ]
+  },
+  "why": "Original lead-in ('which is also likely to be affected') had several defensible answers (liver granulomas occur in most patients); reframed as the commonest clinically involved extrapulmonary site, with liver and joints replaced by kidneys and parotids"
+ },
+ {
+  "id": "ild-0036",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Sarcoidosis",
+    "Lymph node biopsy"
+   ],
+   "explanation": "Sarcoidosis is diagnosed by compatible clinical and radiological features plus non-caseating granulomas on histology, with exclusion of alternatives such as TB and lymphoma. Tissue from an enlarged lymph node – now usually EBUS-guided transbronchial needle aspiration of mediastinal or hilar nodes, or biopsy of an accessible peripheral node – is the most useful confirmatory test. Chest X-ray and CT show the pattern but are not specific; serum ACE is raised in only about 60% and also in other granulomatous diseases; lung function assesses severity rather than making the diagnosis."
+  }
+ },
+ {
+  "id": "ild-0037",
+  "delete": true,
+  "dup_of": "ild-0001",
+  "why": "Same idea as 39 Blocks ild-0001 (exertional dyspnoea, dry cough, clubbing and bibasal crackles = cryptogenic fibrosing alveolitis/IPF)"
+ },
+ {
+  "id": "ild-0038",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Hypersensitivity pneumonitis",
+    "Malt worker's lung",
+    "Occupational lung disease"
+   ],
+   "explanation": "Malt worker's lung is extrinsic allergic alveolitis caused by Aspergillus clavatus spores released when germinating barley is turned in maltings. Forking mouldy hay causes farmer's lung (Saccharopolyspora rectivirgula); handling pigeons causes bird fancier's lung (avian proteins in droppings and feather bloom); mushroom compost causes mushroom worker's lung (thermophilic actinomycetes); contaminated humidifiers cause humidifier (air-conditioner) lung. In each case treatment is avoidance of the antigen, with corticosteroids for significant disease.",
+   "answer": "C",
+   "stem": "Extrinsic allergic alveolitis is often named after the exposure that causes it. Malt worker's lung results from which activity?"
+  },
+  "why": "'Most common cause of EAA' is disputed (bird fancier's lung now outnumbers farmer's lung in the UK); reframed as an unambiguous exposure match, key changed to germinating barley"
+ },
+ {
+  "id": "ild-0039",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Pleural plaques",
+    "Asbestos-related disease",
+    "Industrial injuries benefit"
+   ],
+   "explanation": "Pleural plaques are discrete, often calcified areas of parietal pleural thickening that mark past asbestos exposure but are benign and cause no impairment, so they are not a prescribed disease for UK Industrial Injuries Disablement Benefit (and since 2007 do not attract civil compensation in England). Asbestosis, diffuse pleural thickening (which does cause restriction), mesothelioma and asbestos-related primary lung cancer are all prescribed diseases. The occupational history should always be documented, because patients with mesothelioma may also claim lump-sum compensation.",
+   "answer": "A",
+   "stem": "A shipbuilding yard worker presents with breathlessness, and CT shows asbestos-related changes. He asks whether he can claim UK Industrial Injuries Disablement Benefit. Which of the following asbestos-related conditions would NOT entitle him to a claim?",
+   "options": [
+    "Pleural plaques",
+    "Asbestosis",
+    "Mesothelioma",
+    "Bilateral diffuse pleural thickening",
+    "Primary lung cancer with asbestosis"
+   ]
+  },
+  "why": "Source key 'all of the above' is wrong: pleural plaques are not a prescribed disease for UK industrial injuries benefit; question reframed with a negative lead-in"
+ },
+ {
+  "id": "ild-0040",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Radiation pneumonitis",
+    "Hodgkin lymphoma"
+   ],
+   "explanation": "Radiation pneumonitis develops 1–3 months after thoracic irradiation with dry cough and mild breathlessness, and its opacities conform to the radiation portal – here paramediastinal with a sharp straight edge that crosses anatomical boundaries. Bleomycin toxicity causes diffuse, basal-predominant interstitial change and is worsened by high-concentration oxygen; Pneumocystis gives diffuse bilateral ground-glass with marked exertional desaturation; lymphoma recurrence and TB are less likely so soon and with this geometry. Symptomatic cases respond to oral corticosteroids.",
+   "stem": "A 35-year-old man completed chemotherapy and mediastinal radiotherapy for Hodgkin lymphoma 6 weeks ago. He now has a non-productive cough. His chest X-ray shows paramediastinal upper-zone shadowing with a straight lateral margin, and his oxygen saturation is 95% on air. What is the most likely diagnosis?"
+  },
+  "why": "Stem made discriminating: timing of mediastinal radiotherapy and a field-shaped opacity added (bleomycin toxicity was equally plausible)"
+ },
+ {
+  "id": "ild-0041",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Pulmonary fibrosis",
+    "Restrictive lung disease",
+    "Pulmonary function tests"
+   ],
+   "explanation": "A low vital capacity and TLC with a well-preserved peak flow is a restrictive defect, and with clubbing, widespread crackles and hypoxaemia it points to pulmonary fibrosis. Emphysema, asthma and chronic bronchitis are obstructive (reduced peak flow and FEV1/FVC, with a raised TLC in emphysema) and do not cause clubbing. Bilateral effusions cause extrapulmonary restriction with stony dullness and reduced breath sounds rather than crackles or clubbing. HRCT is the next test to define the pattern of fibrosis."
+  }
+ },
+ {
+  "id": "ild-0042",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Silicosis",
+    "Eggshell calcification"
+   ],
+   "explanation": "Decades of rock mining (crystalline silica) followed by upper-zone nodular opacities and calcified hilar nodes (classically 'eggshell' calcification) is chronic silicosis. Asbestosis causes lower-zone reticulation with pleural plaques; TB also favours the upper zones but presents with fever, sweats and cavitation – although silicosis greatly raises TB risk, so it must be excluded with sputum culture and IGRA. Cystic fibrosis and aspergillosis do not fit the age or exposure. There is no specific treatment: stop exposure and smoking, screen for TB and manage complications such as progressive massive fibrosis."
+  }
+ },
+ {
+  "id": "ild-0043",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Asbestosis",
+    "Occupational lung disease"
+   ],
+   "explanation": "Thirty years in the building industry (lagging, insulation, asbestos cement) followed, after a long latency, by lower-lobe fibrosis, fine end-inspiratory crackles and clubbing is asbestosis. Silicosis and hypersensitivity pneumonitis mainly affect the upper and mid zones; he is a non-smoker, and chronic bronchitis causes a productive cough without clubbing or fibrosis. Pleural plaques on CT would support prior exposure; asbestosis is a prescribed disease for industrial compensation and greatly increases the risk of lung cancer in smokers."
+  }
+ },
+ {
+  "id": "ild-0044",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Sarcoidosis",
+    "Endobronchial ultrasound",
+    "Bilateral hilar lymphadenopathy"
+   ],
+   "explanation": "The film shows bilateral hilar lymphadenopathy, which with hepatosplenomegaly in a young Black woman suggests sarcoidosis. Diagnosis requires non-caseating granulomas from the least invasive, highest-yield site: bronchoscopy with EBUS-guided needle aspiration of hilar or mediastinal nodes (yield about 80–90%) plus transbronchial biopsy, with lavage showing a raised CD4:CD8 ratio. Liver granulomas are non-specific (TB, primary biliary cholangitis, drugs); mediastinoscopy and open lung biopsy are more invasive and reserved for non-diagnostic sampling; serum ACE is neither sensitive nor specific.",
+   "stem": "A 34-year-old Black woman has cough, dyspnoea and fatigue. Examination shows hepatomegaly and a palpable spleen tip, with no palpable peripheral lymph nodes. Her chest X-ray is shown. What is the best approach to establishing the diagnosis?",
+   "options": [
+    "Open lung biopsy",
+    "Liver biopsy",
+    "Bronchoscopy with EBUS-guided needle aspiration of hilar nodes and transbronchial lung biopsy",
+    "Mediastinoscopy",
+    "Serum angiotensin-converting enzyme (ACE) level"
+   ]
+  },
+  "why": "Options updated to current practice (EBUS-TBNA; scalene node biopsy replaced by mediastinoscopy) and cervical adenopathy removed from the stem, since a palpable peripheral node would itself be the least invasive biopsy site"
+ },
+ {
+  "id": "ild-0045",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Asbestosis",
+    "Transfer factor"
+   ],
+   "explanation": "A dockyard worker with basal crackles, basal reticulonodular shadowing and pleural plaques has asbestosis, a fibrotic restrictive disease in which thickening of the alveolar–capillary membrane and loss of capillary bed reduce the transfer factor (TLCO), usually with a reduced KCO too. A raised KCO (e.g. 110%) occurs in extrapulmonary restriction (neuromuscular or chest wall disease) or pulmonary haemorrhage; an FEV1/FVC of 70% or a concave (scooped) flow–volume loop indicates airflow obstruction; a TLC of 120% indicates hyperinflation.",
+   "options": [
+    "Transfer factor for CO (TLCO) 45% of predicted",
+    "Total lung capacity (TLC) 120% of predicted",
+    "A concave flow–volume loop",
+    "FEV1/FVC ratio 70%",
+    "Transfer coefficient (KCO) 110% of predicted"
+   ]
+  },
+  "why": "Option 'FEV1 60% predicted' replaced: a reduced FEV1 is also consistent with restriction, which gave two answers"
+ },
+ {
+  "id": "ild-0046",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "HRCT",
+    "Restrictive lung disease"
+   ],
+   "explanation": "Spirometry shows restriction (FVC 39% predicted with an FEV1/FVC of 96%), and with clubbing, fine bibasal crackles and a normal BNP (arguing against heart failure) the likely diagnosis is fibrotic interstitial lung disease, most probably IPF. HRCT confirms and characterises the fibrosis and a UIP pattern can be diagnostic without biopsy. Echocardiography, vasodilator testing and V/Q scanning investigate pulmonary hypertension or thromboembolism, and a flow–volume loop only characterises the ventilatory defect already shown.",
+   "stem": "A 67-year-old man has had progressively worsening exertional dyspnoea and a dry cough for 9 months. He stopped smoking 20 cigarettes/day 30 years ago. His oxygen saturation is 97% on air and respiratory rate 14/min; there are fine bibasal crackles and finger clubbing. B-type natriuretic peptide is 88 pg/mL (normal <100); ECG shows sinus rhythm at 72/min. Spirometry: FEV1 1.57 L (50% predicted), FVC 1.63 L (39% predicted), FEV1/FVC 96%. Which investigation is most likely to confirm the diagnosis?"
+  }
+ },
+ {
+  "id": "ild-0047",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Hypersensitivity pneumonitis",
+    "Bird fancier's lung"
+   ],
+   "explanation": "Apical crackles with upper-zone reticular shadowing indicate an upper-zone fibrotic process, and among his many exposures pigeon keeping explains it: chronic extrinsic allergic alveolitis (bird fancier's lung). Asbestosis (from roofing), methotrexate, nitrofurantoin and rheumatoid ILD all characteristically cause lower-zone disease. Avian precipitins, HRCT (mosaic attenuation, air trapping, centrilobular nodules) and a lavage lymphocytosis support the diagnosis, and removal of the birds is essential."
+  }
+ },
+ {
+  "id": "ild-0048",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Cryptogenic organising pneumonia",
+    "Organising pneumonia"
+   ],
+   "explanation": "A subacute flu-like illness with cough, breathlessness and fever, raised inflammatory markers and patchy, often migratory, bilateral opacities that fail to respond to several courses of antibiotics is typical of cryptogenic organising pneumonia; lung function shows mild restriction with reduced gas transfer. Community-acquired pneumonia should have responded to antibiotics, hypersensitivity pneumonitis needs an antigen exposure, a never-smoking accountant is unlikely to have lung cancer, and there is no haemoptysis or anaemia to suggest haemorrhage. Biopsy shows plugs of granulation tissue in the distal airspaces, and the condition responds dramatically to corticosteroids, although relapse is common.",
+   "stem": "A 55-year-old man is referred to the chest clinic. He first presented to his GP 6 weeks ago with breathlessness, a dry cough, fever and malaise, and several courses of antibiotics have not helped. There is no haemoptysis. He is previously fit, has never smoked and works as an accountant. There are inspiratory crackles on chest examination but otherwise the examination is normal. Blood tests show a leukocytosis and raised ESR and CRP, and a chest X-ray shows patchy bilateral opacities. Pulmonary function tests show an FEV1/FVC ratio of 0.82 with a transfer factor of 67% predicted. What is the most likely diagnosis?"
+  },
+  "why": "FEV1/FVC 0.65 (an obstructive value inconsistent with organising pneumonia in a never-smoker) changed to 0.82"
+ },
+ {
+  "id": "ild-0049",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Sarcoidosis",
+    "Erythema nodosum",
+    "Serum ACE"
+   ],
+   "explanation": "Painful erythematous shin nodules (erythema nodosum), cough and bilateral hilar lymphadenopathy suggest sarcoidosis, in which serum ACE – produced by epithelioid cells in granulomas – is raised in about 60% of patients. c-ANCA suggests granulomatosis with polyangiitis, p-ANCA microscopic polyangiitis or EGPA, dsDNA SLE, and a raised creatine kinase an inflammatory myopathy. ACE is supportive rather than diagnostic; serum and urinary calcium should also be checked."
+  }
+ },
+ {
+  "id": "ild-0050",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Löfgren syndrome",
+    "Sarcoidosis",
+    "Prognosis"
+   ],
+   "explanation": "Erythema nodosum, bilateral ankle arthritis or periarthritis and bilateral hilar lymphadenopathy is Löfgren syndrome, the acute presentation of sarcoidosis. It has an excellent prognosis: over 90% of patients remit spontaneously within 1–2 years, and treatment is symptomatic with NSAIDs (or a short course of steroids for severe arthritis). Progressive disability, a relapsing course or the need for maintenance therapy belong to chronic sarcoidosis with lupus pernio, stage III–IV lung disease or cardiac or neurological involvement.",
+   "answer": "E"
+  },
+  "why": "Parsed key (progressive disability and death) was wrong; Löfgren syndrome resolves spontaneously (source key)"
+ },
+ {
+  "id": "ild-0051",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Löfgren syndrome",
+    "Sarcoidosis",
+    "Management"
+   ],
+   "explanation": "Fever, arthralgia, erythema nodosum and bilateral hilar lymphadenopathy in a young adult is Löfgren syndrome, which remits spontaneously in the great majority, so management is observation, with NSAIDs for joint pain and serial chest X-rays and lung function. Oral prednisolone is reserved for sarcoidosis with worsening lung function or parenchymal disease, hypercalcaemia, or eye, cardiac or neurological involvement. Methotrexate and azathioprine are second-line steroid-sparing agents, and cyclophosphamide is not used for pulmonary sarcoidosis."
+  }
+ },
+ {
+  "id": "ild-0052",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Amiodarone",
+    "Drug-induced lung disease"
+   ],
+   "explanation": "Amiodarone causes pneumonitis and fibrosis, typically in the lower zones, especially with doses above 400 mg/day, high cumulative doses and older age, making it the most likely cause of bibasal crepitations here. Silicosis, coal worker's pneumoconiosis, TB and ankylosing spondylitis all characteristically cause upper-zone disease. HRCT and TLCO should be checked, amiodarone stopped if toxicity is confirmed and corticosteroids considered for significant pneumonitis; its very long half-life means that improvement is slow."
+  }
+ },
+ {
+  "id": "ild-0053",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "HRCT"
+   ],
+   "explanation": "The HRCT hallmark of IPF is basal-predominant, subpleural reticulation with honeycombing and traction bronchiectasis (UIP pattern). IPF causes a restrictive defect with a reduced, not increased, transfer factor (measured by single-breath carbon monoxide uptake, not spirometry). Extensive ground-glass suggests an alternative such as NSIP, hypersensitivity pneumonitis, organising pneumonia or an acute exacerbation, and a lavage lymphocytosis above 30% favours hypersensitivity pneumonitis, sarcoidosis or NSIP."
+  }
+ },
+ {
+  "id": "ild-0054",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Farmer's lung",
+    "Saccharopolyspora rectivirgula"
+   ],
+   "explanation": "Farmer's lung is extrinsic allergic alveolitis caused by inhaled spores of the thermophilic actinomycete Saccharopolyspora rectivirgula (formerly Micropolyspora faeni) in mouldy hay, mediated by type III (immune complex) and type IV hypersensitivity. Aspergillus clavatus causes malt worker's lung and avian proteins cause bird fancier's lung; Candida is not a cause, and Mycobacterium avium complex in hot tubs causes 'hot tub lung'. Serum precipitins confirm exposure, not disease."
+  }
+ },
+ {
+  "id": "ild-0055",
+  "delete": true,
+  "dup_of": "ild-0042",
+  "why": "Same idea as ild-0042 (silica-exposed worker with calcified hilar/mediastinal nodes = silicosis)"
+ },
+ {
+  "id": "ild-0056",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Usual interstitial pneumonia",
+    "Idiopathic pulmonary fibrosis"
+   ],
+   "explanation": "Clubbing, fine inspiratory crackles and basal subpleural reticulation with honeycombing is a usual interstitial pneumonia pattern, i.e. IPF in the absence of another cause. Racing pigeons raise the possibility of fibrotic hypersensitivity pneumonitis, but that usually has upper or mid-zone predominance with mosaic attenuation, air trapping and centrilobular nodules and positive precipitins; flour exposure in baking causes occupational asthma, not fibrosis. Langerhans cell histiocytosis produces upper-zone nodules and cysts in smokers, and sarcoidosis perihilar upper-zone fibrosis with lymphadenopathy.",
+   "answer": "E",
+   "stem": "A 60-year-old man with a 30 pack-year smoking history has had worsening shortness of breath for 6 months. He works as a baker and keeps racing pigeons. He is clubbed, his saturation is 91% on air and there are widespread fine inspiratory crepitations. The chest X-ray shows reticulonodular shadowing, and CT shows mainly subpleural, basal-predominant reticulation with some honeycombing, without mosaic attenuation or air trapping. Avian precipitins are negative. What is the diagnosis?"
+  },
+  "why": "Parsed key (occupational asthma) was wrong; source key usual interstitial pneumonitis. HRCT and precipitin details added to exclude fibrotic hypersensitivity pneumonitis from his pigeons"
+ },
+ {
+  "id": "ild-0057",
+  "delete": true,
+  "dup_of": "ild-0041",
+  "why": "Same idea as ild-0041 (clubbing, basal crackles and restrictive spirometry with preserved ratio = pulmonary fibrosis/IPF)"
+ },
+ {
+  "id": "ild-0058",
+  "delete": true,
+  "dup_of": "ild-0043",
+  "why": "Same idea as ild-0043 (asbestos-exposed worker with basal fibrosis, crackles and clubbing = asbestosis)"
+ },
+ {
+  "id": "ild-0059",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Sarcoidosis",
+    "Uveitis",
+    "Bilateral hilar lymphadenopathy"
+   ],
+   "explanation": "Anterior uveitis with bilateral hilar lymphadenopathy in a young woman of West African origin is typical of sarcoidosis, which is commoner and more severe in people of African descent; a normal serum ACE does not exclude it (sensitivity only about 60%). TB can cause hilar nodes and uveitis but is usually asymmetrical with constitutional symptoms and must be excluded by culture of biopsy material. Lymphoma rarely causes uveitis, hypersensitivity pneumonitis is excluded by the lack of exposure and does not cause uveitis, and histoplasmosis requires residence in an endemic area.",
+   "stem": "A 30-year-old woman who has recently moved from Nigeria to the United Kingdom sees her GP with breathlessness and a dry cough. She has well-controlled type 2 diabetes, does not smoke or use illicit drugs, and has no exposure to pets or birds. Slit-lamp examination confirms left anterior uveitis. Serum ACE is normal and ANCA is negative. Her chest X-ray shows bilateral hilar lymphadenopathy. What is the most likely diagnosis?"
+  }
+ },
+ {
+  "id": "ild-0060",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Systemic sclerosis",
+    "Interstitial lung disease"
+   ],
+   "explanation": "Interstitial lung disease, usually an NSIP pattern, affects most patients with systemic sclerosis, especially diffuse disease with anti-Scl-70 (topoisomerase I) antibodies; it presents with dry cough, exertional breathlessness and fine bibasal crackles and is now the leading cause of death in scleroderma. Pulmonary arterial hypertension is the other major lung complication, suggested by breathlessness with a clear chest and a disproportionately low TLCO. Screening uses lung function with TLCO and HRCT, and treatment options include mycophenolate, nintedanib and tocilizumab.",
+   "answer": "B",
+   "stem": "A 55-year-old woman with systemic sclerosis has been referred with breathlessness and a dry cough. On examination, fine crackles are heard at the lung bases. What is the most likely cause of her symptoms?"
+  },
+  "why": "Parsed key (chest infection) was wrong; source key interstitial lung disease"
+ },
+ {
+  "id": "ild-0061",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Asbestosis",
+    "HRCT"
+   ],
+   "explanation": "A retired boilermaker (asbestos lagging) with dry cough, clubbing and bilateral crackles most likely has asbestosis, and HRCT is the single most useful test: it shows subpleural basal reticulation, parenchymal bands and honeycombing together with pleural plaques that confirm exposure, and it can reveal a co-existing lung cancer or mesothelioma, relevant given his weight loss. Transfer factor is reduced but non-specific; lavage and transbronchial biopsy are rarely needed (asbestos bodies indicate exposure, not disease); serum ACE relates to sarcoidosis.",
+   "stem": "A 67-year-old retired boilermaker is referred to the respiratory clinic with shortness of breath, a dry cough and weight loss. Examination shows inspiratory crackles in both mid zones and finger clubbing. Which single investigation would be most useful to confirm the likely diagnosis?"
+  }
+ },
+ {
+  "id": "ild-0062",
+  "delete": true,
+  "why": "Garbled source item: truncated stem (ellipses, no lead-in) describing a right upper-lobe tumour, keyed to methotrexate pneumonitis; not a usable question"
+ },
+ {
+  "id": "ild-0063",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Methotrexate pneumonitis",
+    "Rheumatoid arthritis",
+    "Drug-induced lung disease"
+   ],
+   "explanation": "Methotrexate pneumonitis is an acute or subacute hypersensitivity reaction, usually within the first year of treatment, with dry cough, fever, breathlessness, hypoxaemia and diffuse interstitial infiltrates; renal impairment (reduced methotrexate clearance) and older age increase the risk. Rheumatoid ILD evolves over months to years without fever; community-acquired pneumonia gives focal consolidation; heart failure and pulmonary embolism do not explain fever with new diffuse infiltrates in this setting. Methotrexate must be stopped, infection including Pneumocystis excluded, and corticosteroids given.",
+   "stem": "A 70-year-old woman with rheumatoid arthritis started methotrexate 2 months ago. Over the last 3 weeks she has developed progressive breathlessness, a dry cough and a low-grade fever. There are inspiratory crackles throughout both lung fields and her oxygen saturation is 89% on air. Haemoglobin is mildly reduced and serum creatinine is raised; the chest X-ray shows new bilateral diffuse interstitial infiltrates. What is the most likely diagnosis?"
+  },
+  "why": "Source stem was truncated and never mentioned methotrexate; clinical details restored so the key is answerable"
+ },
+ {
+  "id": "ild-0064",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Polymyositis",
+    "Antisynthetase syndrome",
+    "Interstitial lung disease"
+   ],
+   "explanation": "Proximal muscle weakness with a raised creatine kinase and ESR indicates an inflammatory myopathy, and ILD complicates polymyositis/dermatomyositis in up to 40% of patients, particularly with anti-Jo-1 antibodies (antisynthetase syndrome: myositis, ILD, arthritis, mechanic's hands, Raynaud's). IPF, rheumatoid arthritis and SLE do not usually raise the CK, and ankylosing spondylitis causes apical fibrosis without myositis. Adults with dermatomyositis or polymyositis should be screened for an underlying malignancy (lung, ovary, breast, stomach).",
+   "stem": "A 65-year-old man has proximal muscle weakness and breathlessness. Investigations show a creatine kinase of 890 U/L and an ESR of 75 mm/hour. Which of the following is the most likely underlying cause of his interstitial lung disease?"
+  }
+ }
+]

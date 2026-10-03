@@ -1,0 +1,321 @@
+[
+{
+"id": "crit-0001",
+"status": "expanded",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"COVID-19"
+],
+"explanation": "ARDS is diffuse alveolar damage: injury to the alveolar–capillary membrane lets protein-rich fluid flood the alveoli and form hyaline membranes, causing shunt, stiff lungs and refractory hypoxaemia. The infiltrates are acute (within 1 week of the insult), not chronic, and hypoxaemia is defining, so a normal PaO2 argues against the diagnosis. A wedge pressure of 12 mmHg is normal and actually supports a non-cardiogenic cause; the Berlin definition no longer requires a wedge pressure, only that cardiac failure or fluid overload does not fully explain the oedema."
+}
+},
+{
+"id": "crit-0002",
+"status": "expanded",
+"set": {
+"topics": [
+"Respiratory failure",
+"Chronic bronchitis"
+],
+"explanation": "Type 1 (hypoxaemic) failure – low PaO2 with a normal or low PaCO2 – results from V/Q mismatch or shunt, as in acute asthma, emphysema (the 'pink puffer' who hyperventilates to keep CO2 normal) and pulmonary embolism. Chronic bronchitis (the 'blue bloater') typically produces type 2 failure with CO2 retention from alveolar hypoventilation and a blunted ventilatory drive. Remember that a normal or rising PaCO2 in acute asthma is an ominous sign of exhaustion (life-threatening asthma)."
+}
+},
+{
+"id": "crit-0003",
+"status": "expanded",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"Viral pneumonia"
+],
+"explanation": "Severe hypoxaemia with bilateral crackles developing within a week of a known insult (viral chest infection), with a normal echocardiogram excluding a cardiogenic cause, fits the Berlin definition of ARDS. Cardiogenic pulmonary oedema needs LV dysfunction or valve disease; asthma gives wheeze rather than widespread crackles; severe anaemia does not cause cyanosis (which needs about 50 g/L of deoxygenated haemoglobin). Management is supportive: oxygen, treatment of the cause and lung-protective ventilation if intubation is required."
+}
+},
+{
+"id": "crit-0004",
+"status": "expanded",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"COVID-19"
+],
+"explanation": "Refractory hypoxaemia (SpO2 only 86% on oxygen) with diffuse bilateral infiltrates, a normal heart size and a clear precipitant (COVID-19) meets the definition of ARDS, here with organ dysfunction (confusion, raised creatinine). A D-dimer of 0.6 mg/L is barely raised and diffuse infiltrates are not the picture of pulmonary embolism; DIC needs thrombocytopenia and coagulopathy; lobar pneumonia or abscess would give focal consolidation or a cavity. She needs critical-care review, dexamethasone, and high-flow oxygen/prone positioning or lung-protective ventilation.",
+"stem": "A 29-year-old woman with COVID-19 is confused, tachypnoeic and breathless: pulse 130/min, BP 100/60 mmHg, RR 38/min, T 38.6°C, SpO2 67% on air rising to 86% on oxygen. WBC 13 × 10⁹/L, urea 10 mmol/L (60 mg/dL), creatinine 124 µmol/L (1.4 mg/dL), D-dimer 0.6 mg/L. ECG: sinus tachycardia; chest X-ray: diffuse bilateral infiltrates with a normal heart size. What is the diagnosis?"
+}
+},
+{
+"id": "crit-0005",
+"status": "expanded",
+"set": {
+"topics": [
+"COVID-19",
+"Remdesivir",
+"Dexamethasone"
+],
+"explanation": "Of the drugs listed, only remdesivir (an RNA-dependent RNA polymerase inhibitor) has evidence in hospitalised COVID-19 needing supplemental oxygen, with most benefit when started early in patients on low-flow oxygen. The single most important treatment, however, is dexamethasone 6 mg daily for up to 10 days, with tocilizumab or baricitinib added for progressive hypoxaemia and prophylactic anticoagulation for all. Aciclovir treats herpesviruses, ceftriaxone and doxycycline are only for suspected bacterial co-infection, and salbutamol has no role without bronchospasm.",
+"stem": "A 29-year-old woman with COVID-19 is confused, tachypnoeic and breathless: pulse 130/min, BP 100/60 mmHg, RR 38/min, T 38.6°C, SpO2 67% on air rising to 86% on oxygen. WBC 13 × 10⁹/L, urea 10 mmol/L (60 mg/dL), creatinine 124 µmol/L (1.4 mg/dL), D-dimer 0.6 mg/L. ECG: sinus tachycardia; chest X-ray: diffuse bilateral infiltrates with a normal heart size. Which of the following drugs is the most appropriate next step?"
+}
+},
+{
+"id": "crit-0006",
+"status": "expanded",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"Lung compliance"
+],
+"explanation": "ARDS makes the lungs stiff: alveolar flooding, surfactant loss and later fibroproliferation reduce compliance, so a given tidal volume generates high plateau pressures – hence 6 mL/kg ventilation with plateau pressure ≤30 cmH2O. Recognised complications include refractory respiratory failure, multi-organ failure, arrhythmias, barotrauma/pneumothorax and ventilator-associated pneumonia, and survivors may have residual pulmonary fibrosis with a restrictive defect and reduced gas transfer."
+}
+},
+{
+"id": "crit-0007",
+"status": "corrected",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"Berlin definition"
+],
+"explanation": "The Berlin definition requires onset within 1 week of an insult, bilateral opacities, oedema not explained by cardiac failure, and hypoxaemia graded on PEEP ≥5 cmH2O: mild PaO2/FiO2 201–300, moderate 101–200 and severe ≤100 mmHg. Pneumonia is the trigger here, but new bilateral infiltrates with a ratio of 90 mmHg mean severe ARDS has supervened; acute interstitial pneumonia is idiopathic ARDS with no identifiable cause. Severe ARDS is managed with lung-protective ventilation, higher PEEP and prone positioning for at least 12–16 hours a day.",
+"stem": "A 68-year-old man with multilobar pneumonia is in septic shock and is intubated. Chest X-ray shows new bilateral infiltrates, echocardiography shows normal left ventricular function, and his PaO2/FiO2 ratio is 90 mmHg on a PEEP of 10 cmH2O. Which diagnosis fits best?",
+"options": [
+"Acute interstitial pneumonia",
+"Mild ARDS",
+"Moderate ARDS",
+"Multilobar community-acquired pneumonia alone",
+"Severe ARDS"
+],
+"answer": "E"
+},
+"why": "Stem was a fragment with no options; options and key (severe ARDS) restored from the source page and the Berlin criteria data added"
+},
+{
+"id": "crit-0008",
+"status": "corrected",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"PEEP",
+"Mechanical ventilation"
+],
+"explanation": "Setting PEEP above the lower inflection point of the pressure–volume curve keeps recruitable alveoli open at end-expiration, reducing shunt and atelectrauma; with a plateau pressure of 26 cmH2O there is room to raise PEEP to 12 cmH2O while keeping plateau pressure ≤30 cmH2O. Tidal volume is already lung-protective, so reducing it further is unnecessary, and increasing it to 560 mL would cause volutrauma. Raising FiO2 adds oxygen toxicity without recruiting lung, and neuromuscular blockade is reserved for severe ARDS with ventilator dyssynchrony.",
+"stem": "A patient with ARDS (chest X-ray shown) is ventilated with a tidal volume of 6 mL/kg ideal body weight. The pressure–volume curve shows a lower inflection point at 12 cmH2O. Current PEEP is 8 cmH2O, plateau pressure 26 cmH2O and SaO2 86% on FiO2 0.6. What is the best next step?",
+"answer": "D"
+},
+"why": "Data key (decrease tidal volume) was wrong; the source answer is to raise PEEP above the lower inflection point (12 cmH2O); FiO2 added to the stem"
+},
+{
+"id": "crit-0009",
+"status": "corrected",
+"set": {
+"topics": [
+"Non-invasive ventilation",
+"Acute respiratory distress syndrome"
+],
+"explanation": "NIV works best when the problem is ventilatory or rapidly reversible: hypercapnic COPD exacerbation (pH <7.35 after initial treatment), cardiogenic pulmonary oedema, obesity hypoventilation and post-extubation support in COPD. In severe ARDS it has a high failure rate, large patient-generated tidal volumes may worsen lung injury and delayed intubation increases mortality, so these patients should be intubated for lung-protective ventilation (high-flow nasal oxygen is the preferred non-invasive support in milder hypoxaemic failure). Other contraindications include inability to protect the airway, cardiorespiratory arrest and haemodynamic instability.",
+"stem": "In which of the following situations is non-invasive ventilation generally NOT recommended, because of a high failure rate and the risk of delaying intubation?",
+"options": [
+"Acute exacerbation of COPD with pH 7.28",
+"Severe ARDS with a PaO2/FiO2 ratio of 80 mmHg",
+"Obesity hypoventilation syndrome with acute hypercapnic failure",
+"Cardiogenic pulmonary oedema",
+"Post-extubation respiratory failure in COPD"
+],
+"answer": "B"
+},
+"why": "Option list contained another question's options; 'acute MI' (listed by Harrison as a relative contraindication) replaced so that only severe ARDS is defensible"
+},
+{
+"id": "crit-0010",
+"status": "corrected",
+"set": {
+"topics": [
+"Weaning",
+"Spontaneous breathing trial",
+"Mechanical ventilation"
+],
+"explanation": "Readiness for a spontaneous breathing trial requires improvement of the underlying cause, adequate oxygenation (FiO2 ≤0.4–0.5 with PEEP ≤5–8 cmH2O), spontaneous respiratory effort and haemodynamic stability without (or on minimal) vasopressors. Ongoing vasopressor dependence signals instability, and the extra cardiac work of spontaneous breathing may precipitate failure. The other findings are all compatible with starting a trial, which should be screened for daily and usually lasts 30–120 minutes on low pressure support or a T-piece.",
+"stem": "A 62-year-old man intubated for pneumonia is being considered for weaning. Which of the following is a contraindication to a spontaneous breathing trial?",
+"options": [
+"Improving chest infiltrates",
+"FiO2 of 0.45",
+"PEEP of 8 cmH2O",
+"Ongoing need for vasopressor support",
+"Breathing 8 breaths/min above the set ventilator rate"
+],
+"answer": "D"
+},
+"why": "Stem had no options; options and key restored from the source page"
+},
+{
+"id": "crit-0011",
+"status": "corrected",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"Diffuse alveolar damage"
+],
+"explanation": "ARDS passes through an exudative phase (first ~7 days: diffuse alveolar damage with protein-rich oedema, hyaline membranes and type I pneumocyte necrosis), a proliferative phase (days 7–21: type II pneumocyte hyperplasia and organisation) and, in some patients, a fibrotic phase with bullae. Neutrophils are present but patchy rather than homogeneous; an eosinophil-rich infiltrate suggests acute eosinophilic pneumonia, and desquamative interstitial pneumonia is a smoking-related interstitial lung disease.",
+"stem": "A lung biopsy is taken 4 days after the onset of severe ARDS. Which histological finding is expected?",
+"options": [
+"Desquamative interstitial pneumonia",
+"Eosinophil-rich infiltrates",
+"Extensive fibrosis with bullae",
+"Homogeneous neutrophil infiltrates",
+"Diffuse alveolar damage with hyaline membranes"
+],
+"answer": "E"
+},
+"why": "Options belonged to another question; correct option list restored and key set to diffuse alveolar damage with hyaline membranes"
+},
+{
+"id": "crit-0012",
+"status": "corrected",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"Lung-protective ventilation"
+],
+"explanation": "Lung-protective (ARDSNet) ventilation uses 6 mL/kg of ideal (predicted) body weight – 6 × 59 ≈ 354 mL – because lung size relates to height and sex, not actual weight, with plateau pressure kept ≤30 cmH2O. Using actual weight (6 × 90 = 540 mL) or the old 10 mL/kg (590 mL) causes volutrauma and raises mortality, while 4 mL/kg (236 mL) is used only if plateau pressure remains too high. Predicted body weight is 50 kg (men) or 45.5 kg (women) + 0.91 × (height in cm − 152.4).",
+"stem": "A 48-year-old patient with ARDS weighs 90 kg but has an ideal body weight of 59 kg. What is the most appropriate initial tidal volume?",
+"options": [
+"236 mL",
+"354 mL",
+"472 mL",
+"540 mL",
+"590 mL"
+],
+"answer": "B"
+},
+"why": "Stem was truncated with no options; restored from the source page (ideal body weight 59 kg, key 354 mL)"
+},
+{
+"id": "crit-0013",
+"status": "expanded",
+"set": {
+"topics": [
+"Fat embolism syndrome",
+"Long-bone fracture"
+],
+"explanation": "Hypoxaemia, neurological dysfunction (confusion) and a petechial rash over the chest, axillae or conjunctivae 24–72 hours after a long-bone fracture is the classic triad of fat embolism syndrome (Gurd criteria). Pulmonary thromboembolism also causes hypoxaemia with respiratory alkalosis but not petechiae, and clear lungs argue against pulmonary oedema or pneumonia. Treatment is supportive (oxygen, ventilation if needed), and early fracture fixation reduces the risk.",
+"stem": "A 30-year-old man is admitted after a motorcycle accident with a fracture of the right femur, which is managed with traction. Three days later he becomes confused and tachypnoeic, and a petechial rash is noted over the chest. The lungs are clear on auscultation. Arterial blood gases: PaO2 6.7 kPa (50 mmHg), PaCO2 3.7 kPa (28 mmHg), pH 7.49. What is the most likely diagnosis?",
+"options": [
+"Unilateral pulmonary oedema",
+"Haematoma of the chest",
+"Fat embolism",
+"Pulmonary embolism",
+"Early Staphylococcus aureus pneumonia"
+]
+}
+},
+{
+"id": "crit-0014",
+"status": "expanded",
+"set": {
+"topics": [
+"Acute respiratory distress syndrome",
+"Berlin definition"
+],
+"explanation": "The Berlin definition requires onset within 1 week of a known insult, bilateral opacities not fully explained by effusions, collapse or nodules, respiratory failure not fully explained by cardiac failure or fluid overload, and PaO2/FiO2 ≤300 mmHg on PEEP ≥5 cmH2O (≤200 moderate, ≤100 severe); respiratory rate is not a criterion. The 2023 global definition extends this to non-intubated patients on high-flow oxygen ≥30 L/min and accepts SpO2/FiO2 ≤315 and lung ultrasound where blood gases or radiographs are unavailable.",
+"options": [
+"Bilateral infiltrates on chest X-ray",
+"Non-cardiogenic oedema",
+"PaO2/FiO2 <200 mmHg",
+"Respiratory rate >24/min",
+"Acute onset"
+]
+}
+},
+{
+"id": "crit-0015",
+"delete": true,
+"dup_of": "crit-0002",
+"why": "Same idea as crit-0002 (classifying causes of type 1 vs type 2 respiratory failure) at the same recall level"
+},
+{
+"id": "crit-0016",
+"status": "corrected",
+"set": {
+"topics": [
+"Type 2 respiratory failure",
+"Cervical spine injury",
+"Phrenic nerve"
+],
+"explanation": "The gas shows acute type 2 respiratory failure (high PaCO2 with a normal bicarbonate, so no chronic compensation) from hypoventilation, and CO2 narcosis explains the falling conscious level. In a trauma patient, relative bradycardia with low-normal blood pressure suggests neurogenic effects of cervical cord injury, and a lesion at C3–C5 paralyses the diaphragm via the phrenic roots – so the cervical spine must be immobilised and imaged. Opiate toxicity is unlikely after a small dose with no response to naloxone, there is no COPD history, one rib fracture cannot create a flail segment (which needs two or more fractures in each of several adjacent ribs), and cholesterol embolism does not cause acute hypercapnia.",
+"stem": "An 83-year-old woman was a passenger in a car that hit a lamppost. She complained of pain in her right hip and ribs and became drowsy after paramedics gave 2 mg of morphine. X-rays show a pelvic fracture and a single right rib fracture. Initially drowsy but responsive, she is now unresponsive, with no improvement after naloxone 400 micrograms IV. SpO2 is 87% on 2 L/min oxygen via nasal cannulae; she is apyrexial, BP 110/66 mmHg, pulse 65/min. There are no new findings on examination, and an urgent CT brain shows only small-vessel disease. Arterial blood gas: pH 7.22 (H+ 60 nmol/L), PaO2 8.7 kPa (65 mmHg), PaCO2 10 kPa (75 mmHg), HCO3− 26 mmol/L. What is the most likely cause of her deteriorating conscious level?"
+},
+"why": "Added no response to naloxone so opiate toxicity is no longer an equally defensible answer"
+},
+{
+"id": "crit-0017",
+"status": "corrected",
+"set": {
+"topics": [
+"Type 1 respiratory failure",
+"Lobar collapse"
+],
+"explanation": "Lobar collapse creates a sudden shunt: perfused but unventilated lung lowers PaO2, while the remaining lung increases ventilation so PaCO2 stays normal or low – type 1 failure. Flail chest, obstructive sleep apnoea, myasthenic crisis and opioid toxicity all reduce alveolar ventilation (chest wall, upper airway, neuromuscular and central causes respectively), producing type 2 failure with a raised PaCO2. The alveolar–arterial gradient helps: raised in V/Q mismatch or shunt, normal in pure hypoventilation.",
+"options": [
+"Flail chest injury",
+"Lobar collapse",
+"Myasthenic crisis",
+"Obstructive sleep apnoea (OSA)",
+"Opioid toxicity"
+],
+"answer": "B"
+},
+"why": "Data key (lymphangitis carcinomatosa, a subacute cause of type 1 failure) differed from the source answer (lobar collapse); lymphangitis replaced by myasthenic crisis so only one option is correct"
+},
+{
+"id": "crit-0018",
+"status": "expanded",
+"set": {
+"topics": [
+"Opioid overdose",
+"Alveolar–arterial gradient",
+"Type 2 respiratory failure"
+],
+"explanation": "Acute respiratory acidosis with hypoxaemia in an unresponsive young man suggests hypoventilation. On room air the alveolar PO2 ≈ 150 − 70/0.8 ≈ 62 mmHg, so the A–a gradient is only about 7 mmHg (normal): the hypoxaemia is fully explained by the high PaCO2, as in central respiratory depression from opioid overdose. Asthma, pneumonia, Pneumocystis pneumonia and pulmonary embolism cause V/Q mismatch with a widened gradient (and usually a low PaCO2 early on). Give naloxone and support ventilation.",
+"stem": "A 25-year-old man is brought in unresponsive. Arterial blood gas on room air: pH 7.16, PaCO2 9.3 kPa (70 mmHg), PaO2 7.3 kPa (55 mmHg). Which of the following is the most likely diagnosis?"
+}
+},
+{
+"id": "crit-0019",
+"status": "corrected",
+"set": {
+"topics": [
+"Motor neurone disease",
+"Non-invasive ventilation"
+],
+"explanation": "In amyotrophic lateral sclerosis (motor neurone disease), NIV improves survival and quality of life and is offered when symptoms of respiratory muscle weakness or nocturnal hypoventilation – orthopnoea, poor or unrefreshing sleep, morning headaches, daytime sleepiness, breathlessness on daily activities – accompany evidence of hypoventilation such as daytime hypercapnia (PaCO2 ≥6 kPa), FVC <50% predicted, a low sniff nasal pressure or nocturnal desaturation (NICE NG42). Any one of these symptoms with hypercapnia qualifies. A weak cough is managed with cough-augmentation techniques (manual or mechanical insufflation–exsufflation) rather than being an NIV indication in itself.",
+"stem": "A patient with mild amyotrophic lateral sclerosis (motor neurone disease) has a PaCO2 of ≥6 kPa (45 mmHg). Which accompanying symptom is an indication for non-invasive ventilation?",
+"options": [
+"Orthopnoea",
+"Poor sleep quality",
+"Morning headaches",
+"Breathlessness on activities of daily living",
+"All of the above"
+]
+},
+"why": "'Impaired cough' is an indication for cough augmentation rather than NIV; replaced with morning headaches so 'All of the above' is correct"
+},
+{
+"id": "crit-0020",
+"status": "expanded",
+"set": {
+"topics": [
+"COPD exacerbation",
+"Hypercapnic respiratory failure",
+"Mechanical ventilation"
+],
+"explanation": "Increasing FiO2 in a CO2-retaining COPD patient worsens V/Q matching (loss of hypoxic vasoconstriction) and adds the Haldane effect, producing CO2 narcosis; he is now stuporous with acidosis and worsening hypoxia despite oxygen, so he needs intubation and ventilation. Reduced consciousness with inability to protect the airway makes NIV unsuitable here, although NIV is first line for an alert patient with pH <7.35 after initial therapy. Stopping oxygen causes dangerous rebound hypoxaemia – instead titrate controlled oxygen to SpO2 88–92%; respiratory stimulants and bicarbonate have no role.",
+"options": [
+"Stop oxygen",
+"Begin medroxyprogesterone",
+"Intubate and begin mechanical ventilation",
+"Observe for 24 hours before changing therapy",
+"Begin sodium bicarbonate"
+]
+}
+}
+]

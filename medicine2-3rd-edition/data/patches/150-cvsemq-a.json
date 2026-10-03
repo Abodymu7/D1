@@ -1,0 +1,398 @@
+[
+ {
+  "id": "cvsemq-0001",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Leg oedema",
+    "Tricuspid regurgitation",
+    "Constrictive pericarditis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "D",
+    "explanation": "A raised JVP with giant v waves, a pulsatile liver and a pansystolic murmur at the left lower sternal edge (louder on inspiration) are the signs of tricuspid regurgitation, which causes systemic venous congestion and oedema. Mitral regurgitation produces an apical murmur radiating to the axilla."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Bilateral ankle oedema with a normal JVP and normal investigations in a treated hypertensive points to a drug cause; dihydropyridine calcium-channel blockers such as amlodipine cause dose-related oedema from precapillary arteriolar dilatation. It does not respond well to diuretics and settles on switching drug or adding an ACE inhibitor."
+   },
+   "3": {
+    "answer": "A",
+    "explanation": "Chronic bronchitis (COPD) with hypoxia and hypercapnia (flapping tremor) leading to right heart failure with a raised JVP and oedema is cor pulmonale. COPD itself is the underlying lung disease, but the oedema is explained by the right ventricular failure it has caused."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "A raised JVP, an early third sound (pericardial knock), hepatomegaly and ascites out of proportion to oedema, with a small-volume pulse, indicate constrictive pericarditis. Restrictive cardiomyopathy is similar, but a pericardial knock favours constriction; echocardiography, CT/MRI (pericardial thickening) and catheterisation distinguish them."
+   },
+   "5": {
+    "answer": "F",
+    "explanation": "Long-standing rheumatic disease with an apical pansystolic murmur radiating to the axilla, a soft S1 and a loud S3 (volume overload) indicates severe mitral regurgitation; pulmonary hypertension then causes right heart failure with oedema and ascites. Mitral stenosis gives a loud S1 and a mid-diastolic rumble instead."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0002",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Pleuritic chest pain",
+    "Pneumothorax",
+    "Empyema"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "G",
+    "explanation": "Acute fever, rigors and pleuritic pain with dullness, bronchial breathing and crackles over one zone are the signs of consolidation from lobar (usually pneumococcal) pneumonia. Assess severity with CURB-65 and confirm with a chest X-ray."
+   },
+   "2": {
+    "answer": "A",
+    "explanation": "Sudden pleuritic pain and breathlessness in a tall young smoker with reduced expansion, a resonant (hyper-resonant) note and diminished breath sounds is a primary spontaneous pneumothorax. A pleural effusion would be stony dull."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "Persistent swinging fever and purulent sputum despite antibiotics, with dullness and absent breath sounds over the base (and new clubbing), suggest a parapneumonic effusion that has become infected, an empyema. Diabetes is a risk factor; diagnostic pleural aspiration (pH < 7.2, pus) and chest-tube drainage are required."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "Sharp central chest pain radiating to the shoulder (trapezius ridge), typically eased by sitting forward, with fever and a pericardial friction rub is acute pericarditis. The ECG shows saddle-shaped ST elevation with PR depression; treat with an NSAID plus colchicine."
+   },
+   "5": {
+    "answer": "F",
+    "explanation": "Exertional chest pain and breathlessness in a young man with a double apical impulse (palpable atrial systole) and an ejection systolic murmur is hypertrophic obstructive cardiomyopathy. The murmur increases with Valsalva and standing; echocardiography confirms it and family screening is needed."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0003",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Coarctation of the aorta",
+    "Cardiac tamponade",
+    "Myocarditis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "D",
+    "explanation": "Hypertension in the arms with lower leg pressures (and radio-femoral delay) in a young adult is coarctation of the aorta; leg cramps reflect reduced lower-limb flow, and the ejection click comes from the commonly associated bicuspid aortic valve. CT/MR angiography confirms it, and repair is by stenting or surgery."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Exertional chest pain and breathlessness with a jerky pulse, a double apical impulse and an ejection systolic murmur describe hypertrophic obstructive cardiomyopathy. Aortic stenosis gives a slow-rising pulse instead."
+   },
+   "3": {
+    "answer": "H",
+    "explanation": "Hypotension, tachycardia, pulsus paradoxus, a grossly raised JVP and soft heart sounds (Beck's triad) in a patient with lung cancer indicate a malignant pericardial effusion causing tamponade. Echocardiography confirms it, and urgent pericardiocentesis is required."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "Acute heart failure with cardiogenic shock a week after a viral illness in a young person, with a markedly raised troponin and non-specific ECG changes, is fulminant myocarditis. Cardiac MRI or endomyocardial biopsy confirms it; mechanical circulatory support may be needed, and recovery is often good."
+   },
+   "5": {
+    "answer": "F",
+    "explanation": "A raised JVP with a loud early third sound (pericardial knock), hepatomegaly, ascites and oedema indicates chronic constrictive pericarditis. Tamponade is acute, with soft heart sounds and no knock; restrictive cardiomyopathy is the main differential."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0004",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Leg oedema",
+    "Deep vein thrombosis",
+    "Cellulitis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "explanation": "Unilateral painful leg swelling in a woman taking the combined oral contraceptive pill after long-distance travel is a deep vein thrombosis until proved otherwise. Use the two-level Wells score with D-dimer and/or compression ultrasound, and anticoagulate (usually a DOAC)."
+   },
+   "2": {
+    "answer": "A",
+    "explanation": "Long-standing COPD with hypercapnia (flapping tremor), a raised JVP and bilateral oedema is cor pulmonale, which is right heart failure caused by hypoxic pulmonary vasoconstriction and pulmonary hypertension. Long-term oxygen therapy is the treatment that improves survival in eligible patients."
+   },
+   "3": {
+    "answer": "G",
+    "explanation": "A hot, red, tender, swollen leg with a raised white cell count and a normal Doppler ultrasound (DVT excluded) is cellulitis, which is more common with diabetes and oedema. Treat with flucloxacillin (clarithromycin or doxycycline if allergic to penicillin)."
+   },
+   "4": {
+    "answer": "K",
+    "explanation": "Fatigue, ascites and hepatomegaly out of proportion to oedema, a raised JVP and an early third heart sound (pericardial knock) indicate constrictive pericarditis. Pericardiectomy is definitive treatment."
+   },
+   "5": {
+    "answer": "C",
+    "explanation": "Progressive breathlessness in a patient with poorly treated ischaemic heart disease, with a raised JVP, leg oedema and bibasal fine inspiratory crackles, indicates congestive (biventricular) heart failure. Check NT-proBNP and do an echocardiogram; start diuretics plus prognostic therapy if the ejection fraction is reduced."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0005",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Secondary hypertension",
+    "Primary hyperaldosteronism",
+    "Phaeochromocytoma"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "D",
+    "explanation": "Hypertension with hypokalaemia and metabolic alkalosis in a young woman suggests primary hyperaldosteronism (Conn's syndrome). Screen with the aldosterone:renin ratio (high aldosterone, suppressed renin)."
+   },
+   "2": {
+    "answer": "K",
+    "explanation": "Paroxysms of palpitations, chest pain, sweating and headache with raised urinary catecholamines indicate a phaeochromocytoma. Plasma free or urinary metanephrines are the preferred test, then imaging; give alpha-blockade (phenoxybenzamine) before any beta-blocker and before surgery."
+   },
+   "3": {
+    "answer": "A",
+    "explanation": "Weight gain, proximal muscle weakness, hirsutism, oedema and hypertension point to glucocorticoid excess, Cushing's syndrome. Screen with an overnight dexamethasone suppression test or 24-hour urinary free cortisol."
+   },
+   "4": {
+    "answer": "G",
+    "explanation": "Severe hypertension (usually diastolic > 120–130 mmHg) with papilloedema and retinal haemorrhages (grade IV retinopathy) is malignant (accelerated) hypertension, a hypertensive emergency. Lower BP gradually, by no more than 25% in the first hours, with IV labetalol or nitroprusside."
+   },
+   "5": {
+    "answer": "I",
+    "explanation": "An elderly smoker with widespread atherosclerosis and new or resistant hypertension most likely has atheromatous renal artery stenosis. Look for a rise in creatinine after an ACE inhibitor or ARB and an abdominal bruit; confirm with duplex ultrasound or CT/MR angiography."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0006",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Chest pain",
+    "Aortic dissection",
+    "Pulmonary embolism"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "H",
+    "explanation": "Sudden, maximal-at-onset tearing chest pain radiating to the back in a hypertensive man is aortic dissection. Look for unequal arm pulses or BP and aortic regurgitation, and confirm with CT angiography; never give thrombolysis."
+   },
+   "2": {
+    "answer": "A",
+    "explanation": "Sudden breathlessness with tachycardia after hip replacement (major orthopaedic surgery) with right axis deviation (acute right ventricular strain) is pulmonary embolism. Confirm with CT pulmonary angiography and anticoagulate."
+   },
+   "3": {
+    "answer": "M",
+    "explanation": "Central crushing chest pain radiating to the arms that is brought on by exertion and relieved by rest, with a normal ECG afterwards, is stable angina. A normal resting ECG does not exclude coronary disease; CT coronary angiography is the usual first-line test."
+   },
+   "4": {
+    "answer": "B",
+    "explanation": "Sudden pleuritic pain and breathlessness in a tall young athlete with reduced expansion and increased resonance on one side is a spontaneous pneumothorax. A tension pneumothorax would also cause tracheal deviation, hypotension and severe distress."
+   },
+   "5": {
+    "answer": "D",
+    "explanation": "Localised chest-wall pain that is reproduced by light palpation and relieved by an NSAID, with a normal ECG, is costochondritis (musculoskeletal chest pain). Tenderness to palpation argues against cardiac or pleural causes."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0007",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Atrial fibrillation",
+    "Torsades de pointes",
+    "Antiarrhythmic drugs"
+   ],
+   "theme": "Treatment of arrhythmias",
+   "options": [
+    "Intravenous adenosine",
+    "Oral warfarin",
+    "Oral lidocaine",
+    "Digoxin plus warfarin for a month",
+    "Intravenous magnesium plus ventricular pacing",
+    "Intravenous amiodarone",
+    "Low-molecular-weight heparin",
+    "Oral bisoprolol plus aspirin",
+    "DC shock plus heparin",
+    "Oral sotalol plus warfarin",
+    "None of the above"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "D",
+    "explanation": "Before elective cardioversion of AF lasting more than 48 hours, give at least 3 weeks of therapeutic anticoagulation (or exclude left atrial thrombus by transoesophageal echocardiography), with rate control meanwhile; digoxin is suitable here because he has heart failure with a reduced ejection fraction, and sotalol is best avoided. A DOAC is now preferred to warfarin, and anticoagulation continues for at least 4 weeks after cardioversion. Aspirin gives no adequate stroke protection.",
+    "stem": "A 65-year-old man with heart failure and a reduced ejection fraction has had atrial fibrillation for more than 48 hours, with a ventricular rate of 120/min; he is haemodynamically stable. Choose his treatment before elective DC cardioversion."
+   },
+   "2": {
+    "answer": "I",
+    "explanation": "AF with haemodynamic compromise (shock, ischaemia, pulmonary oedema) needs immediate synchronised DC cardioversion. Start heparin as soon as possible without delaying the shock."
+   },
+   "3": {
+    "answer": "F",
+    "explanation": "Recurrent ventricular tachycardia in acute MI that persists despite a beta-blocker, correction of electrolytes and revascularisation is treated with IV amiodarone. Lidocaine is a second-line IV alternative and cannot be given orally (extensive first-pass metabolism); prophylactic lidocaine is not used.",
+    "stem": "A 55-year-old man with an acute myocardial infarction has recurrent runs of ventricular tachycardia despite a beta-blocker and correction of potassium and magnesium; he needs prophylaxis against recurrence."
+   },
+   "4": {
+    "answer": "A",
+    "explanation": "IV adenosine transiently blocks the AV node, so it terminates AV nodal re-entrant and AV re-entrant tachycardias and unmasks atrial flutter or atrial tachycardia by slowing the ventricular response. It is therefore both diagnostic and therapeutic in regular narrow-complex tachycardia. Avoid it in severe asthma."
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "Polymorphic VT with a twisting QRS axis on a long QT background is torsades de pointes. Treat with IV magnesium sulfate (2 g), correct potassium, stop QT-prolonging drugs, and use overdrive (temporary ventricular) pacing or isoprenaline to shorten the QT and prevent recurrence. Amiodarone prolongs the QT and is contraindicated."
+   }
+  },
+  "why": "Items 1 and 3: stems given the discriminating detail (HFrEF with fast rate; recurrent VT despite beta-blocker); option 'Oral amiodarone plus warfarin' replaced by 'Oral bisoprolol plus aspirin' because pre-cardioversion amiodarone with anticoagulation was also defensible for item 1"
+ },
+ {
+  "id": "cvsemq-0008",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Heart murmurs",
+    "Valvular heart disease",
+    "Atrial septal defect"
+   ],
+   "theme": "Murmurs"
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "A tapping apex (palpable loud S1) and a low-pitched mid-diastolic rumble at the apex, best heard in the left lateral position with the bell, are mitral stenosis. It is almost always rheumatic."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Head nodding (de Musset's sign), a large-volume collapsing pulse and a wide pulse pressure (130/50 mmHg) with an early diastolic murmur are chronic aortic regurgitation."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "A harsh pansystolic murmur at the left parasternal area (lower left sternal edge) in a young patient is a ventricular septal defect. Small defects are loudest and often close spontaneously."
+   },
+   "4": {
+    "answer": "D",
+    "explanation": "Fixed wide splitting of S2 with a pulmonary flow (ejection systolic) murmur is an atrial septal defect; the left-to-right shunt equalises the effect of respiration on right ventricular filling. ECG shows RBBB (with right axis deviation in secundum defects)."
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "A loud P2 with a raised JVP, hepatic congestion and functional tricuspid regurgitation indicates pulmonary hypertension with right heart failure. The TR murmur here is secondary to right ventricular dilatation; echocardiography estimates the pulmonary pressure."
+   },
+   "6": {
+    "answer": "F",
+    "explanation": "A slow-rising, small-volume pulse, a heaving (pressure-loaded) apex and an ejection systolic murmur radiating to the carotids are aortic stenosis. Symptoms (angina, syncope, breathlessness) in severe AS are an indication for valve replacement (surgical or TAVI)."
+   },
+   "7": {
+    "answer": "G",
+    "explanation": "Upper-limb hypertension with a systolic murmur heard over the back between the scapulae (from the coarctation or intercostal collaterals) is coarctation of the aorta. Check for radio-femoral delay and rib notching on the chest X-ray."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0009",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Chronic venous insufficiency",
+    "Acute limb ischaemia",
+    "Tetralogy of Fallot"
+   ],
+   "theme": "Vascular and structural heart disease"
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "Aching legs after prolonged standing with haemosiderin pigmentation around the ankles is chronic venous insufficiency (venous hypertension from incompetent valves). Compression stockings are the mainstay once the ankle–brachial pressure index excludes arterial disease."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Sudden severe limb pain in a patient with an irregular pulse (atrial fibrillation) is acute limb ischaemia from an embolus. Look for the 6 Ps (pain, pallor, pulselessness, paraesthesia, paralysis, perishingly cold); start IV heparin and refer for urgent vascular embolectomy."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "An apical pansystolic murmur radiating to the axilla with breathlessness in rheumatic heart disease is mitral regurgitation."
+   },
+   "4": {
+    "answer": "D",
+    "explanation": "Cyanosis with hypercyanotic spells, squatting after exertion and an ejection systolic murmur (from right ventricular outflow obstruction) in a young child is tetralogy of Fallot. A VSD alone causes a pansystolic murmur and recurrent chest infections without cyanosis.",
+    "stem": "A 2-year-old child has episodes of cyanosis when crying, squats after play, has SpO2 89% and a harsh ejection systolic murmur at the left sternal edge."
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "Fixed splitting of the second heart sound with a pulmonary flow systolic murmur in a young adult is an atrial septal defect. Echocardiography (with bubble contrast) confirms it; significant defects are closed with a percutaneous device."
+   }
+  },
+  "why": "Item 4: 'recurrent chest infections' (a VSD feature) replaced with hypercyanotic spells and squatting so that tetralogy of Fallot is the single best answer"
+ },
+ {
+  "id": "cvsemq-0010",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Aortic regurgitation",
+    "Tricuspid regurgitation",
+    "Hypertrophic cardiomyopathy"
+   ],
+   "theme": "Valvular and related heart disease"
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "explanation": "A tall, thin young woman with visual loss (lens dislocation) suggests Marfan syndrome; the wide pulse pressure (180/70 mmHg), strong pulse and high-pitched early diastolic decrescendo murmur indicate aortic regurgitation from aortic root dilatation. Image the aortic root; beta-blockers or ARBs slow dilatation.",
+    "stem": "A tall, thin 19-year-old woman who has had little previous health care complains mainly of reduced vision. She has a strong pulse, BP 180/70 mmHg and a high-pitched, blowing, early diastolic decrescendo murmur."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Fever, prominent v waves and a pansystolic murmur at the left sternal border that increases on inspiration (Carvallo's sign) indicate tricuspid regurgitation, most likely from right-sided infective endocarditis (consider injecting drug use). Take three sets of blood cultures before antibiotics and arrange echocardiography.",
+    "stem": "A 23-year-old graduate student has had extreme fatigue and a vague sense of feeling ill for a few weeks; he is slightly agitated. BP 110/70 mmHg, pulse 100/min, temperature 38.0 °C. The neck veins are distended with prominent v waves, and a holosystolic murmur at the left sternal border intensifies on inspiration."
+   },
+   "3": {
+    "answer": "G",
+    "explanation": "Exertional dizziness and palpitations in a young athlete with a brisk carotid upstroke, an S4 and a harsh crescendo–decrescendo murmur at the lower left sternal border (starting after S1, no click) are hypertrophic cardiomyopathy. Aortic stenosis gives a slow-rising pulse. Advise against competitive sport until assessed; echocardiography confirms it.",
+    "stem": "An 18-year-old man is sent from his physical education class with dizziness and palpitations after exercise; his instructor thinks he is faking. Vital signs are normal. He has a rapidly rising carotid pulse, an S4 and a harsh systolic crescendo–decrescendo murmur beginning well after S1, best heard at the lower left sternal border."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0011",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Bradycardia",
+    "Ventricular arrhythmias after myocardial infarction",
+    "Accelerated idioventricular rhythm"
+   ],
+   "theme": "Antiarrhythmic management",
+   "options": [
+    "Amiodarone",
+    "Atropine",
+    "Digoxin",
+    "Diltiazem",
+    "Isoprenaline",
+    "Lidocaine",
+    "Metoprolol",
+    "Quinidine",
+    "Observation"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "explanation": "Symptomatic sinus bradycardia with hypotension in an inferior STEMI (increased vagal tone and right coronary artery supply to the SA and AV nodes) is treated first with IV atropine 500 micrograms, repeated up to 3 mg. Temporary pacing or isoprenaline is used if atropine fails, and urgent reperfusion is the definitive treatment.",
+    "stem": "A 72-year-old man has a 2-hour history of chest pain, acute ST elevation in leads II, III and aVF, and sinus bradycardia at 40/min. His BP is 80/40 mmHg."
+   },
+   "2": {
+    "answer": "I",
+    "explanation": "Asymptomatic ventricular ectopics, couplets and short runs of non-sustained VT with stable haemodynamics after MI need no specific antiarrhythmic: continue the beta-blocker, keep potassium and magnesium normal, and observe on a monitor. Prophylactic antiarrhythmics do not reduce mortality, and class I drugs increase it (flecainide in the CAST trial, prophylactic lidocaine, quinidine). Amiodarone is reserved for sustained or haemodynamically significant VT.",
+    "stem": "A 58-year-old female smoker is admitted to the ICU with respiratory distress due to pneumonia. Her course is complicated by an anterior myocardial infarction, and she is on the highest beta-blocker dose her lungs tolerate. Serum potassium and magnesium are normal. She now has 10–12 ventricular premature beats per hour, occasional couplets and a few short runs of non-sustained ventricular tachycardia; her BP and oxygen saturation remain stable."
+   },
+   "3": {
+    "answer": "I",
+    "explanation": "Accelerated idioventricular rhythm (a wide-complex rhythm at 60–120/min) is common after reperfusion in the first days after MI. It is benign and self-limiting, so the patient is observed. Suppressing it with antiarrhythmics can remove the only escape rhythm.",
+    "stem": "A 60-year-old man on his first day in the coronary care unit after a myocardial infarction develops an accelerated idioventricular rhythm at a rate of 80/min."
+   }
+  },
+  "why": "Item 2 re-keyed from amiodarone to observation: current ESC guidance gives no antiarrhythmic for asymptomatic, haemodynamically stable NSVT after MI (continue beta-blocker, correct electrolytes); stem now states beta-blocker and electrolytes explicitly"
+ }
+]

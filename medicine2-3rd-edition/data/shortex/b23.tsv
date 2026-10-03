@@ -1,0 +1,50 @@
+lca-0023	Right hemithorax opacification with volume loss and the mediastinum pulled right is right lung collapse; bronchoscopy for the cause (e.g. carcinoid).
+lca-0028	PET-CT is unreliable for nodules < 8–10 mm, misses low-avidity tumours (carcinoid, AIS) and is falsely positive in inflammation.
+lca-0029	Adenocarcinoma is the commonest lung cancer (40–50%), especially in never-smokers and women; test for EGFR, ALK, ROS1 and PD-L1.
+lca-0030	Painful wrists/ankles with clubbing in NSCLC is hypertrophic pulmonary osteoarthropathy (periostitis); NSAIDs, bisphosphonates, treat tumour.
+lca-0031	A malignant pleural effusion is M1a, so the cancer is stage IVA regardless of T and N; treatment is systemic.
+lca-0032	A vascular endobronchial tumour causing collapse in a young non-smoker is a bronchial carcinoid; resection has an excellent prognosis.
+lca-0033	Beaded septal and bronchovascular thickening radiating from the hila in metastatic breast cancer is lymphangitis carcinomatosa.
+lca-0034	Anterior mediastinal mass with cervical and axillary nodes in a young adult is lymphoma (the 4 Ts: thymoma, teratoma, thyroid, lymphoma).
+lca-0035	A unilateral effusion with mediastinal pleural thickening after asbestos exposure is highly suspicious of mesothelioma; pleural biopsy.
+lca-0036	Biopsy the palpable supraclavicular node (N3): it gives histology, molecular markers and the highest stage with least risk (NICE NG122).
+lca-0037	Hoarseness right after anaesthesia with normal cord movement is intubation-related laryngeal trauma; a nerve palsy would paralyse the cord.
+lca-0038	FDG uptake also occurs in infection and inflammation, so an avid lesion still needs tissue diagnosis.
+lca-0039	Mesothelioma can follow brief asbestos exposure with a 30–40+ year latency; smoking does not raise its risk; cytology is often negative.
+lca-0040	SVC obstruction is usually malignant (lung cancer, lymphoma) from mediastinal nodes compressing the SVC; stent for rapid relief.
+lca-0041	In SVC obstruction without stridor or cerebral oedema, get tissue first; emergency radiotherapy may obscure the diagnosis.
+lca-0042	Suspected MSCC with deficit: give high-dose dexamethasone immediately, then whole-spine MRI within 24 h and definitive treatment.
+lca-0043	Smoking causes ~85% of lung cancer, especially squamous and small cell; asbestos multiplies its effect.
+lca-0044	Adenocarcinoma is the commonest lung cancer in never-smokers; asbestos raises risk of all types.
+lca-0045	Cushing's (striae, bruising) in lung cancer means ectopic ACTH from small cell carcinoma (or carcinoid).
+lca-0046	Clubbing is the commonest extrapulmonary sign of lung cancer (up to a third); new clubbing in > 40s needs an urgent CXR.
+lca-0047	Lung cancer causes hypercalcaemia (PTHrP, bone metastases), not hypocalcaemia; SIADH, HPOA, adrenal metastases and Horner's are recognised.
+lca-0048	A peripheral mass with clubbing, weight loss and effusion in a smoker is non-small cell lung cancer; clubbing is uncommon in small cell.
+lca-0050	Calcified lung metastases are characteristic of bone/cartilage sarcomas (osteo-, chondrosarcoma) and thyroid or mucinous cancers.
+lca-0051	A central mass with fixed monophonic wheeze and hyponatraemia in a smoker suggests small cell lung cancer (SIADH).
+lca-0052	Consolidation with a patent bronchus gives bronchial breathing, increased vocal resonance and whispering pectoriloquy.
+lca-0054	A malignant pleural effusion (M1a, stage IV) cannot be included in a radical radiotherapy field, so radical treatment is inappropriate.
+resinf-0105	Clubbing with painful symmetrical periostitis is HPOA, usually from lung cancer; COPD does not cause clubbing, so get a chest X-ray.
+resinf-0066	Chronic cough (> 8 weeks) always needs a chest X-ray and spirometry to exclude serious disease before treating common causes.
+resx-0001	Dense hemithorax opacity with volume loss after upper abdominal surgery is collapse from retained secretions; analgesia, physiotherapy.
+resx-0003	Painful eyes and blurred vision on TB treatment is ethambutol optic neuritis: stop it and get urgent ophthalmology review.
+resx-0004	Ivacaftor is a CFTR potentiator for gating mutations, classically G551D; F508del needs a corrector plus ivacaftor.
+resx-0005	Metastatic EGFR-mutant adenocarcinoma is treated first line with an oral EGFR TKI (osimertinib preferred).
+resx-0006	Chronic Pseudomonas in CF accelerates decline; long-term nebulised tobramycin (or colistin, aztreonam) reduces exacerbations.
+resx-0007	Fever, eosinophilia and new infiltrates after 2 weeks of daptomycin is drug-induced eosinophilic pneumonia: stop it and give steroids.
+resx-0008	Chronic cough, fever and bibasal infiltrates on long-term nitrofurantoin is nitrofurantoin lung; stopping the drug is diagnostic and therapeutic.
+resx-0009	RA causes effusions, ILD, nodules, bronchiolitis obliterans and bronchiectasis; apical fibrobullous disease belongs to ankylosing spondylitis.
+resx-0013	Haemodynamically unstable (high-risk) PE: systemic thrombolysis (alteplase) after starting heparin; embolectomy if contraindicated.
+resx-0017	Chronic dry cough with a large hiatus hernia and kyphosis is most likely GORD; trial a PPI.
+resx-0018	Daytime-only breathlessness after a viral illness with normal imaging and spirometry suggests dysfunctional breathing; Nijmegen questionnaire.
+resx-0019	Sudden pleuritic pain with hypoxaemia after travel and a raised D-dimer in COPD is most likely PE; CTPA (CXR to exclude pneumothorax).
+resx-0020	Lifelong familial clubbing without symptoms is hereditary clubbing: reassure. New clubbing needs investigation.
+resx-0021	A mass within an old TB cavity with an air crescent is an aspergilloma (mycetoma), which causes haemoptysis.
+resx-0022	Massive haemoptysis in CF comes from bronchial arteries: bronchial artery angiography localises and embolises the bleeding.
+resx-0024	The common cold (acute coryza) is caused mainly by rhinoviruses; symptomatic treatment only.
+resx-0026	Cardiac arrest from suspected massive PE: immediate thrombolysis during CPR, continuing CPR for 60–90 min.
+resx-0027	Seasonal cough with rhinorrhoea and watery eyes every May with normal spirometry is seasonal allergic rhinitis; antihistamine and nasal steroid.
+resx-0028	Normal sleep reduces ventilatory drive and muscle tone, so mild hypoventilation (small PaCO2 rise) is normal.
+resx-0029	Epworth 18 in an obese man suggests significant OSA; AHI 20/h is moderate (mild 5–14, moderate 15–29, severe ≥ 30).
+resx-0030	New respiratory muscle weakness decades after polio is post-polio syndrome, causing nocturnal then daytime hypercapnia; nocturnal NIV.
+resx-0031	Spinal TB (Pott disease) causes angular thoracic kyphosis/kyphoscoliosis and can lead to restrictive ventilatory failure.

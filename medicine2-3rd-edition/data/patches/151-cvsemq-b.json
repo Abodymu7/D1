@@ -1,0 +1,240 @@
+[
+ {
+  "id": "cvsemq-0012",
+  "delete": true,
+  "dup_of": "resemq-0001",
+  "why": "Same 'presentations of breathlessness' theme as 39 Blocks resemq-0001 (bronchiectasis after childhood infection, massive haemoptysis, postoperative/post-flight PE, asthma in a teenager)"
+ },
+ {
+  "id": "cvsemq-0013",
+  "delete": true,
+  "dup_of": "cvsemq-0004",
+  "why": "Same leg-oedema theme as 39 Blocks cvsemq-0004 (DVT on the pill, cor pulmonale with flapping tremor, cellulitis in a diabetic, congestive heart failure)"
+ },
+ {
+  "id": "cvsemq-0014",
+  "delete": true,
+  "dup_of": "resemq-0006",
+  "why": "Same treatment theme and same five cases as 39 Blocks resemq-0006 (acute pulmonary oedema, post-cholecystectomy PE, IPF, tension pneumothorax, HF with hypertension)"
+ },
+ {
+  "id": "cvsemq-0015",
+  "delete": true,
+  "dup_of": "resemq-0005",
+  "why": "Same investigation theme and same five cases as 39 Blocks resemq-0005 (hilar mass, TB, STEMI, nocturnal cough after moving house, phaeochromocytoma)"
+ },
+ {
+  "id": "cvsemq-0016",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Arterial pulse",
+    "Aortic regurgitation",
+    "Cardiac tamponade"
+   ],
+   "theme": "Pulse examination",
+   "options": [
+    "Coarctation of the aorta",
+    "Acute CO2 retention",
+    "Aortic regurgitation",
+    "Aortic stenosis",
+    "Cardiac tamponade",
+    "Constrictive pericarditis",
+    "Hypertrophic obstructive cardiomyopathy",
+    "Thyrotoxicosis",
+    "Complete heart block"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "Radio-femoral delay (with weak femoral pulses and upper-limb hypertension) is the hallmark of coarctation of the aorta. The chest X-ray may show rib notching; confirm with CT or MR angiography.",
+    "stem": "Radio-femoral delay in a young man with hypertension."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "A bounding pulse with warm peripheries, a flapping tremor and drowsiness in a breathless COPD patient reflects the vasodilator effect of acute CO2 retention (hypercapnic respiratory failure). Check arterial blood gases; control oxygen to a target of 88–92% and consider non-invasive ventilation if acidotic.",
+    "stem": "A bounding pulse, warm peripheries, a flapping tremor and drowsiness in a breathless patient with COPD."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "A collapsing (water-hammer) pulse with a wide pulse pressure and pistol-shot femorals (Traube's sign) indicates severe aortic regurgitation. Listen for an early diastolic murmur at the left sternal edge with the patient leaning forward in expiration.",
+    "stem": "A collapsing pulse with a wide pulse pressure and a 'pistol-shot' sound heard over the femoral arteries."
+   },
+   "4": {
+    "answer": "D",
+    "explanation": "A slow-rising pulse with a narrow pulse pressure, a heaving (pressure-loaded) apex and an S4 indicate severe aortic stenosis. Hypertrophic cardiomyopathy gives a jerky pulse instead.",
+    "stem": "A slow-rising pulse with a narrow pulse pressure, a heaving apex beat and a fourth heart sound."
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "Pulsus paradoxus (inspiratory systolic fall > 10 mmHg) with hypotension, a raised JVP with a lost y descent and muffled heart sounds indicates cardiac tamponade; treat with urgent pericardiocentesis. A JVP that rises on inspiration (Kussmaul's sign) and a pericardial knock point to constrictive pericarditis instead.",
+    "stem": "Pulsus paradoxus with hypotension, a raised JVP with an absent y descent and muffled heart sounds."
+   }
+  },
+  "why": "Item 5 said the JVP rose on inspiration (Kussmaul's sign, typical of constriction), so tamponade features were substituted; item 2 given discriminating signs of CO2 retention; distractors added to the 5-option list (constrictive pericarditis, HOCM, thyrotoxicosis, complete heart block)"
+ },
+ {
+  "id": "cvsemq-0017",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Heart murmurs",
+    "Pulmonary stenosis",
+    "Atrial septal defect"
+   ],
+   "theme": "Findings on cardiac auscultation",
+   "options": [
+    "Mitral regurgitation",
+    "Bicuspid aortic valve",
+    "Atrial septal defect",
+    "Congenital pulmonary stenosis",
+    "Coarctation of the aorta",
+    "Ventricular septal defect",
+    "Hypertrophic obstructive cardiomyopathy"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "A pansystolic murmur at the apex radiating to the axilla is mitral regurgitation. A VSD murmur is at the left sternal edge and does not radiate to the axilla.",
+    "stem": "A 45-year-old woman has a pansystolic murmur best heard at the apex, radiating to the axilla."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "An ejection systolic murmur in the aortic area with an ejection click in a young adult suggests a bicuspid aortic valve (the commonest congenital heart lesion, about 1–2%); a soft A2 means the valve has become significantly stenotic. It is associated with coarctation and aortopathy, so image the aorta.",
+    "stem": "A 29-year-old man has an ejection click and an ejection systolic murmur in the right 2nd intercostal space, with a soft second heart sound."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "A soft pulmonary flow murmur in the left 2nd intercostal space with fixed splitting of S2 is an atrial septal defect; the murmur comes from increased flow across a normal pulmonary valve, not from the defect itself.",
+    "stem": "A 12-year-old boy has a soft ejection systolic murmur in the left 2nd intercostal space with fixed splitting of the second heart sound."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "A systolic murmur heard best posteriorly between the scapulae, with upper-limb hypertension, indicates coarctation of the aorta. Check for radio-femoral delay; coarctation often coexists with a bicuspid aortic valve.",
+    "stem": "An 11-year-old boy has a harsh ejection systolic murmur heard best posteriorly between the scapulae; his upper-limb blood pressure is raised."
+   },
+   "5": {
+    "answer": "D",
+    "explanation": "A harsh ejection systolic murmur in the left 2nd intercostal space with a soft, delayed P2 (and often an ejection click and a thrill) is congenital pulmonary valve stenosis. Balloon valvuloplasty is the treatment of choice when the gradient is significant.",
+    "stem": "A 7-year-old boy has a harsh ejection systolic murmur with a thrill in the left 2nd intercostal space and a soft second heart sound."
+   }
+  },
+  "why": "Items 3 and 4 had their findings swapped in the source: fixed splitting of S2 belongs to the ASD case, and the posterior murmur case now shows upper-limb hypertension (coarctation); VSD and HOCM added as distractors"
+ },
+ {
+  "id": "cvsemq-0018",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Chest X-ray",
+    "Lobar collapse",
+    "Mitral stenosis"
+   ],
+   "theme": "Chest X-ray interpretation",
+   "options": [
+    "Heart failure",
+    "Right upper lobe collapse",
+    "Idiopathic pulmonary fibrosis",
+    "Arteriovenous malformation",
+    "Lung abscess",
+    "Left atrial enlargement",
+    "Pneumonia",
+    "Pleural plaque",
+    "Haemothorax"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "F",
+    "explanation": "A double right heart border, a prominent left atrial appendage (straightening of the left heart border) and a splayed carina with an elevated left main bronchus are signs of left atrial enlargement, classically from mitral stenosis.",
+    "stem": "The chest X-ray shows a double shadow at the right heart border, a prominent left atrial appendage and elevation of the left main bronchus."
+   },
+   "2": {
+    "answer": "A",
+    "explanation": "Upper-lobe venous diversion, Kerley B lines (interstitial oedema), perihilar bat's-wing alveolar shadowing and cardiomegaly are the chest X-ray features of left heart failure. Pleural effusions and fluid in the fissures may also be seen."
+   },
+   "3": {
+    "answer": "B",
+    "explanation": "Tracheal deviation towards the lesion with elevation of the horizontal fissure and right hilum shows right upper lobe collapse (volume loss). In an adult smoker this needs bronchoscopy to exclude an obstructing bronchial carcinoma.",
+    "stem": "The chest X-ray shows the trachea deviated to the right, with the horizontal fissure and right hilum displaced upwards."
+   },
+   "4": {
+    "answer": "C",
+    "explanation": "Bilateral reticular shadowing with reduced lung volumes, mainly in the subpleural lower zones, is the pattern of idiopathic pulmonary fibrosis (usual interstitial pneumonia). HRCT confirms it by showing honeycombing and traction bronchiectasis; antifibrotic therapy (pirfenidone or nintedanib) slows its decline.",
+    "stem": "The chest X-ray shows bilateral reticular shadowing with small lung volumes, predominantly in the subpleural areas of both lower zones.",
+    "images": [],
+    "n": 4
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "A thick-walled round cavity with an air–fluid level is a lung abscess, typically after aspiration (alcohol, seizures, poor dentition) with anaerobes or Staphylococcus aureus. A cavitating squamous carcinoma is the main differential in a smoker.",
+    "stem": "The chest X-ray of a man with fever and foul-smelling sputum after an alcoholic binge shows a round cavity with an air–fluid level."
+   }
+  },
+  "why": "Garbled option list fixed (duplicate options removed, merged 'IPF L Lung abscess' split); item 3/4 merged in the source were split into two items; keys re-lettered to the cleaned list",
+  "items_order": true
+ },
+ {
+  "id": "cvsemq-0019",
+  "delete": true,
+  "dup_of": "resemq-0001",
+  "why": "Same 'presentations of breathlessness' theme as 39 Blocks resemq-0001 (bronchiectasis after measles, massive haemoptysis with localised wheeze, acute pulmonary oedema, lobar pneumonia)"
+ },
+ {
+  "id": "cvsemq-0020",
+  "delete": true,
+  "dup_of": "resemq-0006",
+  "why": "Same cases as 39 Blocks resemq-0006 (post-cholecystectomy PE, IPF, tension pneumothorax after trauma)"
+ },
+ {
+  "id": "cvsemq-0021",
+  "delete": true,
+  "dup_of": "resemq-0005",
+  "why": "Same cases as 39 Blocks resemq-0005 (STEMI, nocturnal cough after moving house, phaeochromocytoma)"
+ },
+ {
+  "id": "cvsemq-0022",
+  "delete": true,
+  "dup_of": "cvsemq-0004",
+  "why": "Same leg-oedema theme as 39 Blocks cvsemq-0004 (DVT, cor pulmonale, constrictive pericarditis, cellulitis, congestive heart failure)"
+ },
+ {
+  "id": "cvsemq-0023",
+  "delete": true,
+  "dup_of": "resemq-0006",
+  "why": "Same cases as 39 Blocks resemq-0006 (acute pulmonary oedema, heart failure with hypertension needing an ACE inhibitor/ARB)"
+ }
+]

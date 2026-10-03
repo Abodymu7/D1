@@ -1,0 +1,48 @@
+resinf-0067	Acute fever, purulent sputum, pleuritic pain, high CRP and lobar consolidation is bacterial pneumonia triggering the asthma attack; give antibiotics.
+resinf-0068	Fever, pleuritic pain and rusty sputum with cold sores is pneumococcal lobar pneumonia; the fever reactivates herpes simplex.
+resinf-0069	Pneumonia within 14 days of travel to the Arabian Peninsula meets the possible MERS case definition: isolate and send MERS-CoV PCR.
+resinf-0070	Pneumonia ≥ 48 h after admission is hospital-acquired (Gram-negatives, S. aureus): treat per local HAP policy, not CAP protocol.
+resinf-0071	Late-onset HAP (≥ 5 days) is caused by resistant Gram-negatives (Pseudomonas, Klebsiella, Acinetobacter) and MRSA.
+resinf-0072	Hospital-acquired pneumonia carries ~30% mortality (older, sicker patients, resistant organisms).
+resinf-0073	Fever with multiple cavitating peripheral nodules in a drug injector is septic emboli from tricuspid endocarditis (S. aureus); blood cultures and echo.
+resinf-0074	IGRA uses TB-specific antigens absent from BCG, so it is more specific than the TST; a positive result means treat latent TB once active TB is excluded.
+resinf-0075	A cold psoas abscess with back pain and weight loss suggests spinal TB (Pott disease): send pus for AFB, culture and molecular testing.
+resinf-0076	Bilateral hilar nodes with erythema nodosum, ankle arthritis and fever is Löfgren syndrome (acute sarcoidosis), which usually remits.
+resinf-0079	Sinusitis, conductive deafness, subglottic stenosis and multiple lung nodules are GPA; check c-ANCA (PR3), urine and biopsy.
+resinf-0082	Tularaemia (Francisella) follows contact with rabbits or muskrats. Psittacosis = birds, Q fever = sheep/cattle, leptospirosis = rat urine.
+resinf-0084	Acute eosinophilic pneumonia after starting smoking (> 25% BAL eosinophils) responds dramatically to high-dose IV methylprednisolone.
+resinf-0087	Diffuse alveolar haemorrhage gives progressively bloodier BAL with haemosiderin-laden macrophages after 48–72 h.
+resinf-0089	Fibrosing mediastinitis follows burnt-out histoplasmosis or TB; drugs do not reverse it, and stenoses are stented.
+resinf-0091	S. pneumoniae is the commonest cause of community-acquired pneumonia at all ages.
+resinf-0092	CURB-65: confusion, urea > 7, RR ≥ 30, low BP, age ≥ 65. A respiratory rate of 20 is not a criterion.
+resinf-0093	Mycoplasma pneumonia with erythema multiforme and cold-agglutinin haemolytic anaemia; treat with a macrolide or doxycycline.
+resinf-0094	Pneumonia with myalgia after acquiring parrots is psittacosis (Chlamydia psittaci); treat with doxycycline.
+resinf-0095	Injecting drug users get S. aureus pneumonia (haematogenous or cavitating); blood cultures, echo and MRSA cover.
+resinf-0098	Pneumonia is defined by new radiographic shadowing, so the chest X-ray confirms it; cultures identify an organism in a minority.
+resinf-0100	Alveolar macrophages ingest M. tuberculosis and, activated by T-cell IFN-γ, become epithelioid and Langhans giant cells forming granulomas.
+resinf-0102	Standard TB therapy: 2 months RIPE then 4 months RI (with pyridoxine); streptomycin is no longer first line.
+resinf-0103	Rifampicin turns urine, sweat and tears orange-red and is a potent enzyme inducer (pill, warfarin, steroids).
+resinf-0107	Nasal crusting, cavitating nodules, AKI and mononeuritis multiplex form the ENT–lung–kidney pattern of GPA; check PR3-ANCA.
+resinf-0109	Asthma with eosinophilia, IgE > 1000 kU/L and infiltrates is ABPA; oral prednisolone first line, itraconazole as steroid-sparing.
+resinf-0110	Löfgren syndrome (erythema nodosum with BHL) has the best prognosis in sarcoidosis, usually remitting within 2 years.
+resinf-0111	Aspiration during a seizure with foul sputum days later is anaerobic pneumonia; treat with anaerobic cover (co-amoxiclav).
+resinf-0112	Recent alcohol-related unconsciousness causes aspiration pneumonia in a dependent segment (right middle/lower lobe); cover anaerobes.
+resinf-0113	Necrotising pneumonia with cavities and empyema after influenza is S. aureus; add flucloxacillin (or MRSA cover).
+resinf-0115	Haemoptysis, alveolar shadowing and nephritis with negative ANCA suggest anti-GBM (Goodpasture) disease; smoking predisposes to the bleeding.
+resinf-0116	Gastric acid aspiration (Mendelson syndrome) causes chemical pneumonitis within hours with bronchospasm, tachypnoea and hypoxaemia.
+resinf-0117	Poor asthma control with brown mucus plugs and fleeting infiltrates is ABPA (IgE > 1000, Aspergillus IgE/IgG).
+resinf-0118	Bronchiectasis is a chronic structural sequela of severe pneumonia; empyema, abscess and fistula are acute complications.
+resinf-0119	Atypical pneumonia in a barracks with cold agglutinins and an X-ray worse than the signs is Mycoplasma; treat with a macrolide.
+resinf-0121	Only new confusion meets a CURB-65 criterion here (urea 5.2, RR 27, BP 100/70 and age 62 all score zero).
+resinf-0125	First-line TB drugs are hepatotoxic, so baseline LFTs are essential; also renal function, HIV/hepatitis serology and visual acuity.
+crit-0001	ARDS is diffuse alveolar damage with protein-rich alveolar fluid and hyaline membranes, causing refractory hypoxaemia.
+crit-0002	Type 1 failure (V/Q mismatch): asthma, emphysema, PE. Chronic bronchitis ('blue bloater') typically causes type 2 failure.
+crit-0003	Severe hypoxaemia with bilateral crackles within a week of a viral infection and a normal echo fits ARDS (Berlin definition).
+crit-0004	Refractory hypoxaemia with bilateral infiltrates and normal heart size in COVID-19 is ARDS; dexamethasone and critical-care support.
+crit-0005	Remdesivir is the only listed drug with evidence in hospitalised COVID-19 on oxygen; dexamethasone 6 mg is the key treatment.
+crit-0006	ARDS reduces (not increases) lung compliance; complications include barotrauma, VAP, multi-organ failure and fibrosis.
+crit-0007	PaO2/FiO2 ≤ 100 mmHg on PEEP ≥ 5 with new bilateral infiltrates is severe ARDS (Berlin); prone ventilation 12–16 h/day.
+crit-0008	With plateau 26 cmH2O there is room to raise PEEP to 12 to recruit alveoli while keeping plateau ≤ 30; tidal volume is already 6 mL/kg.
+crit-0009	NIV fails often in severe ARDS and delays intubation; it works in hypercapnic COPD and cardiogenic pulmonary oedema.
+crit-0010	A spontaneous breathing trial needs haemodynamic stability; ongoing vasopressor dependence is a contraindication.
+crit-0011	Early (exudative) ARDS shows diffuse alveolar damage with protein-rich oedema and hyaline membranes.

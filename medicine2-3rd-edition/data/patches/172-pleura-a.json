@@ -1,0 +1,293 @@
+[
+{
+"id": "pleura-0001",
+"status": "expanded",
+"set": {
+"topics": [
+"Pleural effusion",
+"Transudate",
+"Nephrotic syndrome"
+],
+"explanation": "Nephrotic syndrome causes a transudate: heavy proteinuria lowers plasma oncotic pressure, so fluid filters into the pleural space across an intact pleura, often bilaterally. Parapneumonic effusion, malignancy and pulmonary infarction all damage the pleura or its capillaries and increase permeability, producing a protein- and LDH-rich exudate by Light's criteria. Other common transudative causes are heart failure, cirrhosis (hepatic hydrothorax), hypoalbuminaemia and peritoneal dialysis."
+}
+},
+{
+"id": "pleura-0002",
+"status": "expanded",
+"set": {
+"topics": [
+"Empyema",
+"Pneumonia"
+],
+"explanation": "Recurrent high fever with rigors, pleuritic pain and breathlessness weeks after lobar pneumonia indicates infection of a parapneumonic effusion, i.e. empyema (pus in the pleural space). A simple parapneumonic effusion is sterile and does not cause a swinging, rigor-type fever, while fibrosis and bronchopneumonia do not fit this picture. Confirm with ultrasound-guided aspiration (turbid/purulent fluid, pH <7.2) and treat with prompt chest drainage plus prolonged antibiotics."
+}
+},
+{
+"id": "pleura-0003",
+"status": "corrected",
+"set": {
+"topics": [
+"Empyema",
+"Pleural fluid analysis",
+"Parapneumonic effusion"
+],
+"explanation": "Turbid, purulent fluid with pH <7.2, very low glucose (<3.3 mmol/L) and a heavy neutrophil count reflects intense bacterial and neutrophil metabolism in the pleural space, i.e. empyema. A simple parapneumonic effusion is clear with pH >7.2 and near-normal glucose; tuberculous and malignant effusions are typically lymphocyte-predominant with a less extreme pH. BTS guidance: pus or pH <7.2 mandates chest drainage alongside antibiotics.",
+"stem": "A 25-year-old man who has recently had a chest infection has a pleural aspiration. The fluid is turbid and purulent-looking: protein 48 g/L, pH 7.1, glucose 1.8 mmol/L and a heavy neutrophil count. What is the most likely diagnosis?",
+"options": [
+"Tuberculous pleurisy",
+"Simple (uncomplicated) parapneumonic effusion",
+"Empyema",
+"Malignant effusion"
+]
+},
+"why": "Two options defensible (a pH 7.1 effusion is at least a complicated parapneumonic effusion); added purulent appearance to stem and made distractor 'simple' parapneumonic effusion"
+},
+{
+"id": "pleura-0004",
+"status": "expanded",
+"set": {
+"topics": [
+"Empyema"
+],
+"explanation": "Empyema most often follows pneumonia, and can also arise from tuberculosis, infection of a haemothorax, thoracic surgery or trauma, oesophageal rupture and spread from a subphrenic abscess. Rheumatic fever causes pancarditis and polyarthritis but is not a recognised cause of empyema (it may give a small sterile serous effusion). Pleural infection needs drainage plus antibiotics guided by culture."
+}
+},
+{
+"id": "pleura-0005",
+"status": "expanded",
+"set": {
+"topics": [
+"Haemothorax",
+"Chest trauma",
+"Chest X-ray"
+],
+"explanation": "After blunt chest trauma, stony dullness and absent air entry with a dense homogeneous opacity of the left hemithorax (shown) indicate blood in the pleural space, a haemothorax. A pneumothorax would be hyper-resonant with a visible lung edge, and lobar collapse pulls the mediastinum towards the lesion rather than producing a uniform fluid opacity. Clinical context (trauma, bruising) distinguishes it from a simple effusion; confirm with ultrasound or CT and drain."
+}
+},
+{
+"id": "pleura-0006",
+"status": "expanded",
+"set": {
+"topics": [
+"Haemothorax",
+"Chest drain"
+],
+"explanation": "A traumatic haemothorax visible on chest X-ray is treated with a chest drain on the affected (left) side, inserted in the safe triangle (5th intercostal space, anterior to the mid-axillary line), which evacuates blood, re-expands the lung and lets blood loss be measured. An initial drainage of >1500 mL or continuing loss of about 200 mL/h is an indication for thoracotomy. Needle aspiration cannot clear clotting blood, a right-sided drain treats the wrong side, and laparotomy is only for abdominal injury."
+}
+},
+{
+"id": "pleura-0007",
+"delete": true,
+"why": "Same question as 39 Blocks pleura-0001 (nephrotic syndrome is the non-exudative cause)",
+"dup_of": "pleura-0001"
+},
+{
+"id": "pleura-0008",
+"delete": true,
+"why": "Same idea and level as pleura-0001 (pick the transudative cause from a list of exudative causes; here cirrhosis)",
+"dup_of": "pleura-0001"
+},
+{
+"id": "pleura-0009",
+"status": "corrected",
+"set": {
+"topics": [
+"Pneumothorax",
+"Primary spontaneous pneumothorax"
+],
+"explanation": "Sudden pleuritic pain and breathlessness in a tall young athlete with a hyper-resonant hemithorax and reduced expansion is a primary spontaneous pneumothorax, usually from rupture of apical subpleural blebs. Pulmonary embolism and aortic dissection do not cause hyper-resonance, and tamponade presents with hypotension, raised JVP and muffled heart sounds. Confirm with an erect chest X-ray; management depends on symptoms and high-risk features (BTS 2023).",
+"stem": "A 21-year-old high-jumper presents with acute-onset breathlessness and right-sided pleuritic chest pain. Examination reveals increased percussion resonance and reduced expansion on the right side. What is the most likely diagnosis?",
+"answer": "C"
+},
+"why": "Source key (aortic dissection) is wrong; hyper-resonance with pleuritic pain in a young athlete = pneumothorax; question lead-in added"
+},
+{
+"id": "pleura-0010",
+"status": "corrected",
+"set": {
+"topics": [
+"Empyema",
+"Pleural effusion",
+"Chest X-ray"
+],
+"explanation": "The chest X-ray (shown) shows a large left pleural effusion; with a week of fever and pleuritic pain in a heavy drinker (at risk of aspiration), pleural infection (empyema) is the most likely cause. Pancreatic effusions are left-sided but usually painless and recurrent, hepatic hydrothorax is a right-sided transudate without fever, and carcinoma or mesothelioma (despite smoking and asbestos exposure) present more insidiously with weight loss. Perform urgent ultrasound-guided aspiration: pH <7.2 or pus requires a chest drain.",
+"stem": "A 52-year-old man presents with a 1-week history of fever, left-sided pleuritic chest pain and increasing shortness of breath. He has a history of alcohol dependency, alcoholic liver disease and chronic pancreatitis. He has smoked 10 cigarettes per day for 30 years and still drinks 28 units a week. In his 20s he worked as a labourer on building sites where asbestos was removed. His chest X-ray is shown. What is the most likely cause of the abnormality?",
+"answer": "B"
+},
+"why": "Key missing in source; febrile pleuritic illness with a left effusion = empyema"
+},
+{
+"id": "pleura-0011",
+"status": "expanded",
+"set": {
+"topics": [
+"Pleural effusion",
+"Chest X-ray"
+],
+"explanation": "The film (shown) shows homogeneous opacification of the lower right hemithorax with a concave upper border (meniscus) and loss of the costophrenic angle and hemidiaphragm, the classic appearance of a pleural effusion. Lobar collapse and consolidation cause volume loss or air bronchograms rather than a meniscus, and mesothelioma produces lobulated pleural thickening. A unilateral effusion with preserved LV function is not explained by heart failure and needs investigation."
+}
+},
+{
+"id": "pleura-0012",
+"status": "corrected",
+"set": {
+"topics": [
+"Pleural effusion",
+"Pleural aspiration",
+"Thoracic ultrasound"
+],
+"explanation": "A unilateral effusion in a patient with preserved LV function is unlikely to be cardiac, so it needs a diagnosis: bedside thoracic ultrasound (to confirm fluid and choose a safe site) and diagnostic aspiration for protein, LDH, pH, cytology and microbiology. BTS 2023 advises that a diagnostic aspiration can be done without stopping anticoagulation, so stopping apixaban would only delay diagnosis and raise stroke risk. Diuretics treat presumed heart failure, and a chest drain is not needed for a diagnostic sample.",
+"stem": "A 71-year-old man with atrial fibrillation on apixaban presents with increasing breathlessness but no cough or systemic symptoms. A recent echocardiogram showed preserved left ventricular function. His chest X-ray shows a moderate right-sided pleural effusion. What is the best next step in his management?",
+"answer": "A"
+},
+"why": "Stem made self-contained (referred to 'Question 17.11'); key changed from stopping apixaban to ultrasound-guided diagnostic aspiration: BTS 2023 does not require stopping anticoagulation for diagnostic aspiration"
+},
+{
+"id": "pleura-0013",
+"status": "corrected",
+"set": {
+"topics": [
+"Pneumothorax",
+"Chest X-ray"
+],
+"explanation": "The chest X-ray (shown) shows a left-sided pneumothorax: a visible visceral pleural edge with no lung markings beyond it and a hyperlucent left hemithorax. Pleuritic pain after a viral-type illness may tempt a diagnosis of lingular consolidation, but consolidation produces increased opacity, not lucency. Next, assess symptoms and high-risk features to choose conservative management, aspiration, an ambulatory device or a drain (BTS 2023).",
+"answer": "E"
+},
+"why": "Key missing in source; the attached film shows a left pneumothorax"
+},
+{
+"id": "pleura-0014",
+"status": "corrected",
+"set": {
+"topics": [
+"Bullous lung disease",
+"Pneumothorax",
+"Cannabis"
+],
+"explanation": "Heavy cannabis smoking causes large apical bullae in young adults, and a large bulla can mimic a pneumothorax on a plain film. When it is unclear whether a lucency is bulla or pneumothorax, CT is the next step, because aspirating or placing a drain into a bulla can create a bronchopleural fistula. Only once CT confirms a pneumothorax should aspiration or a drain be considered; an HIV test is not the priority here.",
+"stem": "A 29-year-old man presents with progressive shortness of breath over a week, new central chest discomfort and a productive cough. He is a heavy cannabis smoker with no significant past medical history. His chest X-ray (shown) shows large lucent upper-zone areas without lung markings, and it is unclear whether these are bullae or a pneumothorax. What is the next step in his management?"
+},
+"why": "Low-resolution film; stem now describes the finding (bulla vs pneumothorax uncertainty) that makes CT the answer"
+},
+{
+"id": "pleura-0015",
+"status": "expanded",
+"set": {
+"topics": [
+"Mesothelioma",
+"Thoracoscopy",
+"Asbestos"
+],
+"explanation": "With asbestos exposure, a cytology-negative exudate and circumferential pleural thickening, mesothelioma is likely; pleural fluid cytology is often negative in mesothelioma. Thoracoscopy (local anaesthetic or VATS) lets you see the pleura and take large targeted biopsies, with a diagnostic yield above 90%, and allows talc pleurodesis in the same procedure. Blind Abrams biopsy and repeat aspiration have poor yield, and bronchoscopy does not sample the pleura; CT-guided biopsy is the alternative when thoracoscopy is not possible."
+}
+},
+{
+"id": "pleura-0016",
+"status": "expanded",
+"set": {
+"topics": [
+"Pleural effusion",
+"Transudate",
+"Hypothyroidism"
+],
+"explanation": "Hypothyroidism can cause a transudative effusion (often alongside pericardial effusion and myxoedema) through fluid retention and reduced lymphatic clearance. Pulmonary infarction, rheumatoid arthritis and tuberculosis inflame the pleura and cause exudates, and drug-induced effusions (e.g. methotrexate, amiodarone, nitrofurantoin) are typically exudative and often eosinophilic. Classic transudate causes are heart, liver and renal failure, hypoalbuminaemia and hypothyroidism."
+}
+},
+{
+"id": "pleura-0017",
+"status": "expanded",
+"set": {
+"topics": [
+"Light's criteria",
+"Pleural effusion"
+],
+"explanation": "Light's criteria define an exudate if ANY one is met: pleural fluid/serum protein ratio >0.5, pleural fluid/serum LDH ratio >0.6, or pleural fluid LDH >2/3 of the upper limit of normal serum LDH. The distractors reverse the direction or swap the protein and LDH thresholds (0.5 for protein, 0.6 for LDH). BTS 2023 suggests applying Light's criteria when pleural protein is 25–35 g/L; outside that range protein alone usually decides."
+}
+},
+{
+"id": "pleura-0018",
+"status": "expanded",
+"set": {
+"topics": [
+"Empyema",
+"Pleural fluid analysis",
+"Thoracic ultrasound"
+],
+"explanation": "Fever, pleuritic pain and a septated effusion on ultrasound (shown) indicate a complicated parapneumonic effusion or empyema, in which bacterial and neutrophil metabolism makes the fluid acidic (pH <7.2, here 6.9) with low glucose and very high LDH. A normal glucose (5.6 mmol/L), LDH of 150 U/L and protein of 27 g/L would suggest a transudate or simple effusion, and triglycerides of 5.4 mmol/L indicate a chylothorax. pH <7.2 is the BTS threshold for chest drainage."
+}
+},
+{
+"id": "pleura-0019",
+"status": "corrected",
+"set": {
+"topics": [
+"Pneumothorax",
+"Needle aspiration",
+"Chest drain"
+],
+"explanation": "BTS 2023: if needle aspiration fails to re-expand the lung, the next step is an intercostal chest drain (or an ambulatory device). Aspiration should stop at 2.5 L, because a larger volume suggests a persistent air leak and repeated aspiration rarely succeeds. Observation alone is not suitable for a symptomatic, still-large pneumothorax, bronchoscopy has no role, and surgery is for a persistent air leak (>3–5 days) or recurrence.",
+"answer": "E"
+},
+"why": "Source key (bronchoscopy) is wrong; failed aspiration of a large pneumothorax -> chest drain (BTS)"
+},
+{
+"id": "pleura-0020",
+"status": "expanded",
+"set": {
+"topics": [
+"Empyema",
+"Intrapleural fibrinolytics"
+],
+"explanation": "In pleural infection that drains poorly, the MIST-2 trial showed that intrapleural tissue plasminogen activator (alteplase) combined with DNase improves drainage and reduces referral to surgery. Either drug alone, like streptokinase (MIST-1), gives no benefit. Decortication is kept for patients who fail drainage and fibrinolytics, and BTS 2023 recommends considering alteplase–DNase or early surgery when sepsis persists despite a drain.",
+"stem": "A 53-year-old man with pneumonia is found to have gross pus in the pleural space (empyema), and a chest tube is placed along with intravenous antibiotics. Which additional treatment improves pleural drainage and reduces the need for surgery?"
+}
+},
+{
+"id": "pleura-0021",
+"status": "expanded",
+"set": {
+"topics": [
+"Tension pneumothorax",
+"Mechanical ventilation",
+"Needle decompression"
+],
+"explanation": "Sudden hypotension, a sharp rise in peak airway pressure and unilateral absent breath sounds in a ventilated patient indicate tension pneumothorax, since positive pressure rapidly forces air into the pleural space. Treat immediately with needle decompression (2nd intercostal space mid-clavicular line, or 4th–5th space anterior to the mid-axillary line per ATLS), followed by a chest drain. Disconnecting the ventilator helps dynamic hyperinflation (auto-PEEP), which gives bilateral signs, and a mucus plug does not cause shock.",
+"stem": "A 44-year-old man on mechanical ventilation suddenly becomes hypotensive. The peak airway pressure has risen to 55 cmH2O and breath sounds are absent on the right. What is the next step?"
+}
+},
+{
+"id": "pleura-0022",
+"status": "corrected",
+"set": {
+"topics": [
+"Parapneumonic effusion",
+"Pleural infection"
+],
+"explanation": "A parapneumonic effusion is complicated (needs drainage) if it is loculated on imaging, frankly purulent, Gram stain or culture positive, or has pH <7.20 or glucose <3.3 mmol/L. Reaccumulation after a first thoracentesis on its own does not define a complicated effusion, although it should prompt repeat sampling. BTS 2023 treats pH <7.2 as the key threshold for chest tube drainage.",
+"stem": "A 62-year-old man with pneumonia has a pleural effusion. Which finding does NOT indicate a complicated parapneumonic effusion?",
+"options": [
+"Loculated fluid on ultrasound",
+"Pleural fluid pH <7.20",
+"Pleural fluid glucose <3.3 mmol/L (60 mg/dL)",
+"Positive pleural fluid Gram stain or culture",
+"Reaccumulation of fluid after the initial thoracentesis"
+]
+},
+"why": "Options tidied: glucose threshold given in SI (3.3 mmol/L), loculation specified on ultrasound"
+},
+{
+"id": "pleura-0023",
+"status": "corrected",
+"set": {
+"topics": [
+"Pleural effusion",
+"Light's criteria",
+"Cirrhosis"
+],
+"explanation": "The fluid (shown) is an exudate: protein ratio 5.8/7.2 = 0.8 (>0.5) and LDH ratio 285/320 = 0.89 (>0.6), with lymphocyte predominance. Cirrhosis causes a transudate (hepatic hydrothorax), so it is not the likely cause here. Lung cancer and mesothelioma cause lymphocytic, often blood-stained exudates, and a negative first cytology does not exclude them (sensitivity about 60%); tuberculosis and pulmonary embolism also cause exudates, so thoracoscopic biopsy is the next step if sampling is repeatedly negative.",
+"stem": "A patient has a moderate right-sided pleural effusion. The pleural fluid analysis is shown. Which of the following is NOT a likely cause of this effusion?",
+"answer": "A"
+},
+"why": "Source key (lung cancer) is wrong; fluid is a lymphocytic exudate, so cirrhosis (a transudate) is the unlikely cause"
+}
+]

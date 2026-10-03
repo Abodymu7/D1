@@ -1,0 +1,667 @@
+[
+{
+"id": "cad-0108",
+"status": "corrected",
+"set": {
+"options": [
+"Subcutaneous low-molecular-weight heparin (enoxaparin) or fondaparinux",
+"Thrombolysis with alteplase",
+"IV nicardipine",
+"Immediate angiography with stenting within 2 hours",
+"Discharge with an outpatient exercise test"
+]
+},
+"why": "Audit fix"
+},
+{
+"id": "lca-0048",
+"status": "corrected",
+"set": {
+"explanation": "A 30-year smoker with cough, chest pain, rapid weight loss, finger clubbing and a peripheral mass with an effusion has lung cancer, and clubbing (with or without hypertrophic pulmonary osteoarthropathy) is characteristic of non-small cell types – squamous cell carcinoma and adenocarcinoma – but uncommon in small cell carcinoma, which is typically central with early metastases and endocrine syndromes. Mesothelioma is usually linked to asbestos exposure and causes diffuse or nodular pleural thickening with effusion rather than a discrete peripheral lung mass, while asbestosis and coal worker's pneumoconiosis are fibrotic or nodular diseases without a mass or rapid weight loss. CT staging, tissue diagnosis and molecular testing come next."
+},
+"why": "Audit fix"
+},
+{
+"id": "airway-0066",
+"status": "corrected",
+"set": {
+"options": [
+"Increased FEV1/FVC ratio, decreased TLC, decreased DLCO",
+"Decreased FEV1/FVC ratio, increased TLC, increased RV, decreased DLCO",
+"Normal FEV1/FVC ratio, decreased TLC, normal DLCO",
+"Normal lung volumes, normal DLCO, normal FEV1/FVC ratio",
+"Decreased FEV1/FVC ratio, normal TLC, increased DLCO"
+],
+"explanation": "COPD is obstructive: FEV1 falls more than FVC, so the FEV1/FVC ratio is below 0.70. Loss of elastic recoil and airway collapse cause gas trapping (raised RV) and hyperinflation (raised TLC), and emphysematous alveolar destruction lowers DLCO. A reduced TLC with a normal or high ratio indicates restriction, a raised DLCO suggests alveolar haemorrhage, polycythaemia or asthma, and normal results would not fit symptomatic COPD. A low ratio with a normal or raised DLCO suggests asthma."
+},
+"why": "Audit fix"
+},
+{
+"id": "airway-0002",
+"status": "corrected",
+"set": {
+"explanation": "PEF 33–50%, RR ≥25/min and HR ≥110/min define acute severe asthma; with SpO2 still ≥92% and no exhaustion or silent chest there is no life-threatening feature. First-line treatment is repeated high-dose nebulised (or spacer) salbutamol, with ipratropium if the response is poor, controlled oxygen now to keep SpO2 94–98% (his is 93% on air), and an early systemic corticosteroid (prednisolone 40–50 mg daily for at least 5 days). IV magnesium is reserved for a poor response to initial bronchodilators or life-threatening features, and maintenance changes (ICS–formoterol, LAMA, montelukast) are made once the attack is controlled, before discharge."
+},
+"why": "Audit fix"
+},
+{
+"id": "cad-0007",
+"status": "expanded",
+"set": {
+"explanation": "A rising high-sensitivity troponin with dynamic ST depression is an NSTEMI, which is a high-risk feature; if the patient is stable and pain-free, early coronary angiography within 24 hours is recommended (ESC 2023). Immediate angiography within 2 hours is for very high-risk features: refractory pain, haemodynamic instability, arrhythmia or acute heart failure. Fibrinolysis is not used without ST elevation, and moderate CKD (eGFR 32, stage G3b) calls for isotonic hydration and a minimal contrast volume, not a delay."
+},
+"why": "Audit fix"
+},
+{
+"id": "arr-0062",
+"status": "corrected",
+"set": {
+"stem": "A 73-year-old woman has chest discomfort and a slow pulse of 53/min with occasional pauses. Her ECG shows sinus bradycardia with intermittent pauses of 3 seconds in which no P wave appears. What is the most likely diagnosis?"
+},
+"why": "Audit fix"
+},
+{
+"id": "resemq-0010",
+"status": "corrected",
+"set": {},
+"why": "Audit fix",
+"items": {
+"4": {
+"explanation": "Chronic pressure overload causes left ventricular hypertrophy and later dilatation, giving a displaced apex and the rounded, enlarged left ventricular contour (apex displaced downwards and laterally, with a rounded left heart border) seen on film d. Echocardiography and an ECG (voltage criteria, strain pattern) confirm LVH."
+}
+}
+},
+{
+"id": "cad-0071",
+"status": "expanded",
+"set": {
+"options": [
+"Negative stress test; inappropriate hypertensive response to exercise",
+"Negative stress test; nonspecific ST changes",
+"Nondiagnostic stress test; normal blood pressure response",
+"Positive stress test; inappropriate hypertensive response to exercise",
+"Positive stress test; normal blood pressure response"
+]
+},
+"why": "Audit fix"
+},
+{
+"id": "hf-0097",
+"status": "corrected",
+"set": {
+"stem": "A 58-year-old man, a long-term smoker, has a 5-day history of worsening dyspnoea and fatigue; his chest X-ray shows a perihilar 'bat's-wing' pattern. What is the most likely cause of his findings?"
+},
+"why": "Audit fix"
+},
+{
+"id": "lca-0030",
+"status": "corrected",
+"set": {
+"stem": "A 73-year-old woman with metastatic non-small cell lung cancer develops increasingly painful wrists. What is the most likely cause?"
+},
+"why": "Audit fix"
+},
+{
+"id": "cad-0039",
+"status": "expanded",
+"set": {
+"stem": "In a patient with STEMI presenting to a centre without percutaneous coronary intervention (PCI) capability, what is the preferred reperfusion strategy?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0064",
+"status": "expanded",
+"set": {
+"options": [
+"Inferior myocardial ischaemia",
+"P waves",
+"Posterior myocardial ischaemia",
+"Sinus tachycardia",
+"Ventricular tachycardia"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0066",
+"status": "expanded",
+"set": {
+"options": [
+"It is likely she has suffered a prior myocardial infarction",
+"She is in normal sinus rhythm",
+"The presence of a left bundle branch block on this ECG indicates dyssynchronous mechanical contraction",
+"The presence of premature ventricular contractions and tachycardia is concerning for electrolyte imbalance",
+"The presence of anterior T-wave inversions is concerning in this ECG for acute myocardial ischaemia"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0069",
+"status": "expanded",
+"set": {
+"options": [
+"Among patients with heart failure with reduced ejection fraction, coronary artery disease is the most common cause",
+"Anaemia is a frequent cause of heart failure among patients with a previously structurally normal heart",
+"Due to advances in medical and device therapy, the prognosis of all patients with heart failure is now excellent, with >90% surviving more than 1 year after diagnosis",
+"Familial, or genetic, cardiomyopathy is quite rare, although it should be screened for aggressively to aid diagnosis and early treatment among presymptomatic affected family members",
+"Heart failure with preserved ejection fraction makes up a minority of the total population of patients with heart failure"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0070",
+"status": "expanded",
+"set": {
+"stem": "Ms. Wilson is a 66-year-old postmenopausal U.S. postal employee. While walking her mail route over the past 9 months, she has routinely experienced chest pressure and dyspnoea while climbing a certain steep hill. The pressure resolves when she rests for about 3 minutes. She has not missed any work due to these symptoms. You suspect she is experiencing angina. What term and Canadian Cardiovascular Society (CCS) Functional Class of angina is appropriate to describe her symptoms?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0075",
+"status": "expanded",
+"set": {
+"stem": "A 67-year-old fry chef at the local waffle house presents to the emergency department with the sudden onset of crushing substernal chest pain. He has a history of hypertension, hyperlipidaemia, and erectile dysfunction for which he takes daily amlodipine, simvastatin, and tadalafil. On your evaluation, his blood pressure is 145/85 mmHg, and heart rate is 90 bpm. His lungs are clear, and jugular venous pulse is not elevated. There are no murmurs or gallops on cardiac auscultation. He continues to complain of chest discomfort, rating it an 8/10. Initial troponin I result is elevated at 0.52 ng/dL (normal <0.06 ng/dL), and ECG reveals 1-mm ST depression in leads II, III, aVF, V5, and V6. All of the following pharmacologic therapies are reasonable to administer EXCEPT:"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0087",
+"status": "corrected",
+"set": {
+"options": [
+"Anticoagulation with warfarin is superior to antiplatelet agents in preventing adverse cardiovascular events in patients with PAD",
+"B-Adrenergic blockers have been shown to worsen limb ischaemia and should not be used in PAD",
+"He should exercise daily, walking to the point of maximal claudication before stopping to rest and allowing his symptoms to resolve",
+"His greatest risk of morbidity and mortality over the ensuing 5 years is progression to critical limb ischaemia",
+"Vasodilators are first-line therapy for symptomatic PAD"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0089",
+"status": "expanded",
+"set": {
+"options": [
+"More men than women suffer from varicose veins",
+"More men than women suffer from chronic venous insufficiency with oedema",
+"More than 50% of patients over 70 years old have chronic venous insufficiency",
+"Most patients with chronic venous insufficiency will develop venous ulcers",
+"All of the above are true"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0091",
+"status": "expanded",
+"set": {
+"stem": "You are evaluating a 77-year-old woman from Ohio with a history of heart failure with preserved ejection fraction, diabetes mellitus, and a prior left lower extremity deep venous thrombosis treated with anticoagulation. For the past several months, she has complained of a cramping, burning sensation in her legs. Today she presents for evaluation of a skin ulcer, as shown. On examination, there is ulceration over the medial malleolus with nonpitting woody oedema and skin hyperpigmentation. This ulcer is most likely due to which of the following?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0114",
+"status": "expanded",
+"set": {
+"stem": "A 64-year-old man is brought to the emergency department 30 minutes after the sudden onset of substernal chest pain and nausea while playing tennis. He has hypertension and hyperlipidaemia. Current medications include hydrochlorothiazide and atorvastatin. He does not smoke cigarettes or drink alcohol. He is diaphoretic and distressed. Pulse is 110/min, respirations are 31/min, and blood pressure is 85/55 mm Hg. Examination shows jugular venous distention. Crackles are heard over the lower lung fields bilaterally. Capillary refill time is delayed; the extremities are cool to touch. A 12-lead ECG shows ST elevations in leads II, III, and aVF. Which of the following is the most appropriate next step in management?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0013",
+"status": "expanded",
+"set": {
+"stem": "A 30-year-old woman presents with a 2-month history of progressive effort intolerance and an episode of paroxysmal nocturnal dyspnoea three weeks ago. Her past medical history is negative for hypertension or diabetes. On examination, her jugular venous pressure is elevated up to her earlobes, she has a soft, tender hepatomegaly, bilateral pitting oedema up to the knees, bibasal crepitations, and an audible S3 on cardiac auscultation. A chest X-ray reveals cardiomegaly with interstitial infiltrates, and echocardiography shows global left ventricular hypokinesia with an ejection fraction of 25–30%. What is the most likely diagnosis?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0018",
+"status": "expanded",
+"set": {
+"options": [
+"Thromboembolism",
+"Oesophageal varices",
+"Chronic obstructive pulmonary disease",
+"Myocardial infarction",
+"Liver cirrhosis"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0022",
+"status": "expanded",
+"set": {
+"stem": "A 67-year-old man with a history of chronic obstructive pulmonary disease and ischaemic heart disease is taken to the Emergency Department with dyspnoea. On examination his respiratory rate is 24/min JVP is not elevated and crackles are heard in both lung bases. Which other finding would most strongly indicate that his dyspnoea is secondary to isolated left ventricular failure?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0056",
+"status": "expanded",
+"set": {
+"stem": "A 75-year-old man presents to your emergency department appearing quite ill. His family says he has not had his normal energy for the last 6 months, and they noted he was confused and lethargic for the last day or two. As you take a history from the family, you palpate the patient’s radial pulse and notice a regular beat-to-beat variability of pulse amplitude, although his rhythm is regular. Indeed, as you later take his blood pressure, you note that only every other phase I (systolic) Korotkoff sound is audible as the cuff pressure is slowly lowered and that this is independent of the respiratory cycle. Based on this, you suspect this patient has which of the following?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0057",
+"status": "expanded",
+"set": {
+"stem": "A 78-year-old man is admitted to the intensive care unit with decompensated heart failure. He has longstanding ischaemic cardiomyopathy. ECG shows atrial fibrillation and left bundle branch block. Chest radiograph shows cardiomegaly and bilateral alveolar infiltrates with Kerley B lines. Which of the following is least likely to be present on physical examination?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0060",
+"status": "expanded",
+"set": {
+"stem": "A 71-year-old woman with ischaemic cardiomyopathy and a left ventricular ejection fraction of 38% has been hospitalized for the past week with acute decompensated heart failure. After diuresis and medication optimization, she is feeling immensely better. She is on the maximally tolerated doses of an angiotensin-converting enzyme (ACE) inhibitor, B-blocker, and appropriate diuretic dose. You are planning for discharge today. On rounds, the nurse notes that the patient had several short (5-10 beats) runs of nonsustained ventricular tachycardia (NSVT) and multiple premature ventricular contractions (PVCs) overnight, although she remained asymptomatic. A medical student on the team asks if the NSVT carries any prognostic significance and if any intervention is needed. What is the most appropriate response?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0061",
+"status": "expanded",
+"set": {
+"stem": "A 68-year-old man with a history of myocardial infarction and congestive heart failure is comfortable at rest. However, when walking to his car, he develops dyspnoea, fatigue, and sometimes palpitations. He must rest for several minutes before these symptoms resolve. Which of the following is his New York Heart Association classification?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0062",
+"status": "expanded",
+"set": {
+"stem": "A 47-year-old postmenopausal woman is seen for onset of severe dyspnoea over the last few weeks. She reports no preceding chest pain, cough, sputum, or fever, although she does report leg swelling. Physical examination is notable for a blood pressure of 145/78 mmHg and heart rate of 123 bpm. Exophthalmos is present, as well as bilateral inspiratory crackles occupying approximately one-third of the lower chest with neck vein distention. She has a third heart sound with no murmur. Bilateral lower extremity oedema is also present, with warm extremities and a fine hand tremor. Which of the following is the most likely pathophysiologic explanation for her heart failure?",
+"options": [
+"Anaemia with high-output state",
+"Chronic systemic hypertension with resultant left ventricular hypertrophy and nonsystolic heart failure",
+"Hemochromatosis with subsequent restrictive cardiomyopathy",
+"Myocardial infarction with depressed left ventricular systolic function",
+"Thyrotoxicosis with high-output state"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0063",
+"status": "expanded",
+"set": {
+"options": [
+"Angiotensin II",
+"B-type natriuretic peptide (BNP)",
+"Calcium uptake into the sarcoplasmic reticulum",
+"Norepinephrine",
+"Tumour necrosis factor"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0066",
+"status": "expanded",
+"set": {
+"stem": "Mr. George is a 52-year-old man with long standing hypertension and poorly controlled diabetes. He presents complaining of several months of breathlessness with exertion, acute episodes of shortness of breath when recumbent, and lower extremity oedema. On examination, he has an elevated jugular venous pulse and an S4 on auscultation. Echocardiography shows a left ventricular ejection fraction of 55% with a large left atrium. You suspect this patient has the syndrome of heart failure with preserved ejection fraction (HFpEF). Drugs targeting which of the following have convincingly demonstrated mortality reduction for patients with HFpEF?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0067",
+"status": "expanded",
+"set": {
+"stem": "You are evaluating a 64-year-old woman with a history of nonischaemic cardiomyopathy. She presents to the emergency department for shortness of breath. You note that she has gained 11 kg since her last cardiology appointment 2 months ago. Physical examination confirms findings associated with acute decompensated heart failure, including pulmonary rales, elevated jugular venous pulse, abdominal ascites, lower extremity oedema, and a square wave blood pressure Valsalva response. Her extremities are warm, and blood pressure is 110/78 mmHg with a heart rate of 75 bpm. Her laboratory studies return with a sodium of 128 mEq/L and creatinine of 2.5 mg/dL (which is increased from her prior level of 1.2 mg/dL). Chest x-ray shows a diffuse alveolar filling pattern consistent with pulmonary oedema. What is the next most appropriate step?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0068",
+"status": "expanded",
+"set": {
+"stem": "Which of the following statements regarding nesiritide is true in patients with acute decompensated heart failure requiring invasive haemodynamic monitoring?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0091",
+"status": "expanded",
+"set": {
+"options": [
+"Decreased transpulmonary pressure",
+"Decreased minute ventilation",
+"Increase pulmonary capillary pressure",
+"Increased pulmonary capillary permeability",
+"Decreased total body haemoglobin"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0096",
+"status": "expanded",
+"set": {
+"stem": "A 66-year-old man with hypertension, hyperlipidaemia, and diabetes presents with a 3-week history of exertional dyspnoea. Cardiac exam reveals an S3 gallop. What further evaluation is most likely to show?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0100",
+"status": "expanded",
+"set": {
+"stem": "A 34-year-old woman is referred by an OB- GYN colleague for the onset of fatigue and dyspnoea on exertion 1 month after her second vaginal delivery. Physical examination reveals a laterally displaced PMI, elevated jugular venous pressure and 2+ pitting lower extremity oedema. Echocardiogram shows systolic dysfunction with an ejection fraction of 30%. Which statement most accurately describes her condition?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "hf-0102",
+"status": "expanded",
+"set": {
+"stem": "A 32-year-old male presents to your office with concern about progressive fatigue and lower extremity oedema. He has experienced decreased exercise tolerance over the past few months, and occasionally awakens coughing at night. Past medical history is significant for sickle cell anaemia and diabetes mellitus. He has had multiple admissions to the hospital secondary to vasoocclusive crises since the age of three. Physical examination reveals a displaced PMI, but is otherwise unremarkable. ECG shows a first degree AV block and low voltage. Chest x-ray shows an enlarged cardiac silhouette with clear lung fields. Which of the following would be the best initial diagnostic approach?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "chd-0006",
+"status": "expanded",
+"set": {
+"options": [
+"Cardiomegaly",
+"Rib notching",
+"Pulmonary oedema",
+"Hyperlucent lung fields",
+"Pleural effusion"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "chd-0017",
+"status": "expanded",
+"set": {
+"stem": "Mrs. Hellwig is a 25-year-old woman with systemic lupus erythematosus (SLE) complicated by nephropathy, hemolytic anaemia, and pleuritis. Her disease is well controlled on therapy. She recently discovered that she is pregnant, and presents today for prenatal counseling. She specifically is concerned about the effect her autoimmune disease may have on the infant. You tell her that the most common cardiac complication in children born to mothers with SLE is:"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "chd-0020",
+"status": "expanded",
+"set": {
+"stem": "A 16-year-old boy is diagnosed with a small VSD on screening due to family history of HOCM. He is asymptomatic with a small left-to-right shunt. What is the most likely significant complication?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "chd-0021",
+"status": "expanded",
+"set": {
+"options": [
+"A systolic crescendo-decrescendo murmur heard best at the upper right sternal border with radiation to the carotids; the murmur is augmented with exercise",
+"A systolic murmur at the pulmonic area and a diastolic rumble along the left sternal border",
+"A holosystolic murmur at the mid-left sternal border",
+"A diastolic decrescendo murmur at the mid-left sternal border",
+"A continuous murmur through systole and diastole at the upper left sternal border"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "arr-0018",
+"status": "expanded",
+"set": {
+"options": [
+"Chest pain",
+"Stroke due to thrombo-embolism",
+"Dyspnoea",
+"Headache"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "arr-0043",
+"status": "corrected",
+"set": {
+"options": [
+"Atrial premature contractions are less common than ventricular premature contractions on extended ECG monitoring",
+"Echocardiography is indicated to determine if structural heart disease is present",
+"Metoprolol should be initiated for symptom control",
+"The patient should be reassured that this is not a dangerous condition and does not require further evaluation",
+"The patient should undergo stress test to determine if ischaemia is present"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "valv-0044",
+"status": "expanded",
+"set": {
+"options": [
+"Rheumatic fever as a youth",
+"Long-standing hypertension",
+"A silent MI within the past year",
+"A congenital anomaly",
+"Anaemia from chronic blood loss"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "peri-0041",
+"status": "expanded",
+"set": {
+"stem": "Two weeks after hospital discharge for documented myocardial infarction, a 65-year-old returns to your office concerned about low-grade fever and pleuritic chest pain. There is no associated shortness of breath. Lungs are clear to auscultation and the heart is free of murmur, gallop, or rub. ECG is unchanged from the last one in the hospital. Which therapy is most likely to be effective?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0132",
+"status": "expanded",
+"set": {
+"options": [
+"Myocardial infarction",
+"Aortic dissection",
+"Pulmonary embolism",
+"Pericarditis",
+"Oesophageal rupture"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0150",
+"status": "expanded",
+"set": {
+"stem": "A 67-year-old male presents to your office after community ultrasound screening revealed an aortic aneurysm measuring 3.0 × 3.5 cm. Physical examination confirms a palpable, pulsatile, nontender abdominal mass just above the umbilicus. The patient’s medical conditions include hypertension, hyperlipidaemia, and tobacco use. What is the best recommendation for the patient to consider?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cad-0151",
+"status": "expanded",
+"set": {
+"stem": "A 70-year-old female has been healthy except for hypertension treated with a thiazide diuretic. She presents with sudden onset of a severe, tearing chest pain, which radiates to the back and is associated with dyspnoea and diaphoresis. Blood pressure is 210/94. Lung auscultation reveals bilateral basilar rales. A faint murmur of aortic insufficiency is heard. The BNP level is elevated at 550 pg/mL (Normal < 100). ECG shows nonspecific ST-T changes. Chest x-ray suggests a widened mediastinum. Which of the following choices represents the best initial management?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "htn-0021",
+"status": "expanded",
+"set": {
+"options": [
+"An abnormally reduced renal artery flow velocity by Doppler ultrasound is predictive of haemodynamically significant stenosis",
+"Early in the course of renal artery stenosis, elevated systemic renin levels are typical",
+"In the general population, the presence of fibromuscular dysplasia is rare (<1% prevalence)",
+"Levels of renin activity observed in renal artery stenosis are predictive of response to medical therapy",
+"Usually the first clinical presentation of renal stenosis due to fibromuscular dysplasia is reduced renal function"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cvsx-0015",
+"status": "expanded",
+"set": {
+"options": [
+"Left ventricular hypertrophy",
+"Normal ECG",
+"Peaked T waves, possibly hyperkalaemia",
+"Sinus bradycardia",
+"ST elevation in the anterior precordial leads; suspect anterior myocardial ischaemia"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cvsx-0019",
+"status": "expanded",
+"set": {
+"options": [
+"Hypercalcaemia",
+"Hyperkalaemia",
+"Hypokalaemia",
+"Hypomagnesemia",
+"Hypophosphatemia"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cvsx-0046",
+"status": "expanded",
+"set": {
+"stem": "A 78-year-old man with a history of tobacco abuse, obesity, and diabetes mellitus is evaluated for dyspnoea on exertion. Echocardiography confirms severe aortic stenosis. Which of the following most likely contributed to the development of his lesion?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cvsx-0061",
+"status": "expanded",
+"set": {
+"stem": "A 77-year-old patient with severe aortic stenosis develops signs of acute pulmonary oedema and is found to have a new soft, short apical systolic murmur consistent with acute severe mitral regurgitation due to ruptured chordae. Which parameter will likely increase as a result of the new severe mitral regurgitation?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cvsx-0064",
+"status": "expanded",
+"set": {
+"options": [
+"Amyotrophic lateral sclerosis",
+"Atrial septal defect",
+"Chronic thromboembolic disease",
+"Duchenne muscular dystrophy",
+"Ischaemic cardiomyopathy"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "cvsx-0067",
+"status": "expanded",
+"set": {
+"options": [
+"His chance of survival is <10% without cardiac transplantation. Emergent transplant listing is warranted",
+"His chance of survival is >50%, with many similar patients having a full recovery in left ventricular function over the ensuing weeks to months. Aggressive pharmacologic and mechanical haemodynamic support is warranted",
+"Immunosuppression with high-dose systemic steroids will increase his chance of survival",
+"The presence and titer of anti-heart antibodies can help provide prognostic information for this patient"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "airway-0033",
+"status": "expanded",
+"set": {
+"options": [
+"Infiltration of the airway mucosa with eosinophils and activated T lymphocytes",
+"Infiltration of the alveolar spaces with eosinophils and neutrophils",
+"Occlusion of the airway lumen by mucous plugs",
+"Thickening and oedema of the airway wall",
+"Thickening of the basement membrane of the airways with subepithelial collagen deposition"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "airway-0043",
+"status": "expanded",
+"set": {
+"options": [
+"Hyperinflation present on chest x-ray",
+"Improvement in FEV1 after bronchodilator",
+"Low oxygen saturation on finger oximetry",
+"Decreased FVC on PFT testing",
+"Dyspnoea on assuming a supine position"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "airway-0056",
+"status": "expanded",
+"set": {
+"stem": "A 66-year-old heavy smoker presents with chronic productive cough, progressive dyspnoea, pursed-lip breathing, and a barrel chest. What is the most likely diagnosis?"
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "resinf-0039",
+"status": "expanded",
+"set": {
+"options": [
+"Haemoptysis",
+"Spontaneous pneumothorax",
+"Cardiac tamponade",
+"Aortic dissection",
+"Pulmonary embolism"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "resinf-0044",
+"status": "expanded",
+"set": {
+"options": [
+"Chronic infection and inflammation of the bronchial walls",
+"Excess mucus production secondary to heart failure",
+"Neoplastic secretion from lung tumours",
+"Allergic reactions causing mucus hypersecretion",
+"Pulmonary oedema fluid accumulation"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "resx-0034",
+"status": "expanded",
+"set": {
+"options": [
+"Initiate therapy with amoxicillin for acute bronchitis",
+"Perform a computed tomography (CT) pulmonary angiogram",
+"Perform an echocardiogram",
+"Reassure the patient that dyspnoea is normal",
+"Treat with clonazepam for a panic attack"
+]
+},
+"why": "British spelling / broken hyphen"
+},
+{
+"id": "resx-0048",
+"status": "expanded",
+"set": {
+"options": [
+"Hypotension inhibits the vasomotor centre, reducing adrenergic output",
+"Metabolic derangements raise extracellular osmolarity, pulling fluid from cells",
+"Mitochondrial dysfunction leads to lactate accumulation",
+"Proinflammatory mediators contribute to organ failure",
+"Severe stress increases cortisol, promoting gluconeogenesis and lipolysis"
+]
+},
+"why": "British spelling / broken hyphen"
+}
+]

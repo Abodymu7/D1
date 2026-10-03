@@ -1,0 +1,359 @@
+[
+ {
+  "id": "lca-0001",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Bronchoscopy"
+   ],
+   "explanation": "Haemoptysis, clubbing and a fixed localised wheeze (partial endobronchial obstruction) with a mass on CT in a 70-year-old point to bronchial carcinoma. NICE NG122 advises choosing the test that gives both the diagnosis and the highest stage with the least risk; for a lesion with endobronchial signs this is flexible bronchoscopy with biopsy (with EBUS sampling if mediastinal nodes are enlarged). Sputum for acid-fast bacilli suits suspected TB, CTPA suspected pulmonary embolism and peak flow asthma, none of which explains a rounded mass."
+  }
+ },
+ {
+  "id": "lca-0002",
+  "delete": true,
+  "dup_of": "lca-0009",
+  "why": "Same idea as 39 Blocks lca-0009 (elderly smoker with haemoptysis, clubbing and localised wheeze = bronchial carcinoma)"
+ },
+ {
+  "id": "lca-0003",
+  "delete": true,
+  "dup_of": "lca-0012",
+  "why": "Same idea as 39 Blocks lca-0012 (hyponatraemia developing in a patient with bronchial carcinoma = SIADH); this version's leg oedema also argued against SIADH"
+ },
+ {
+  "id": "lca-0004",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Malignant pleural effusion",
+    "Lung cancer"
+   ],
+   "explanation": "Stony dullness rising from the base with absent breath sounds and reduced vocal resonance is the classic sign of a pleural effusion, which in a patient with probable bronchial carcinoma is most likely malignant (M1a). Lung collapse also causes dullness and reduced breath sounds, but pulls the trachea and mediastinum towards the affected side; lobar pneumonia gives bronchial breathing with increased vocal resonance, fibrosis gives crackles and emphysema a hyper-resonant chest. Ultrasound-guided aspiration for cytology both stages the tumour and relieves breathlessness.",
+   "stem": "A 78-year-old man has recurrent blood-streaked sputum with cough and breathlessness. He is anaemic with finger clubbing, and a localised wheeze is heard over the right middle zone. Six weeks later he is more breathless; there is stony dullness from the right base up to the mid zone, with absent breath sounds and reduced vocal resonance over this area, and the trachea is central. What is the most likely cause?"
+  },
+  "why": "Signs made discriminating: lung collapse gave the same dullness and reduced breath sounds, so stony dullness rising from the base, reduced vocal resonance and a central trachea were added"
+ },
+ {
+  "id": "lca-0005",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "SIADH",
+    "Small cell lung cancer",
+    "Hyponatraemia"
+   ],
+   "explanation": "Severe hyponatraemia (104 mmol/L) with nausea, irritability and a seizure in a patient with bronchial carcinoma is SIADH, most often from ectopic ADH secretion by small cell carcinoma; the patient is euvolaemic with inappropriately concentrated urine (osmolality above 100 mOsm/kg) and urine sodium above 30 mmol/L. Horner's syndrome, cerebellar degeneration and carcinoid syndrome do not lower sodium, and the encephalopathy is a consequence rather than the cause. Seizures with severe hyponatraemia need boluses of hypertonic (2.7–3%) saline, limiting the rise in sodium to about 8–10 mmol/L in 24 hours to avoid osmotic demyelination, followed by fluid restriction, tolvaptan if needed and treatment of the tumour."
+  }
+ },
+ {
+  "id": "lca-0006",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Risk factors"
+   ],
+   "explanation": "Tobacco smoking causes about 85% of lung cancers, and other recognised risk factors include passive smoking, radon gas (the second commonest cause in many countries), asbestos (which multiplies the risk from smoking), chromium, nickel, arsenic, polycyclic hydrocarbons, air pollution and previous thoracic radiotherapy. Lead poisoning causes anaemia with basophilic stippling, neuropathy and nephropathy but is not a recognised lung carcinogen."
+  }
+ },
+ {
+  "id": "lca-0007",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Malignant pleural effusion",
+    "Pleural aspiration",
+    "Lung cancer"
+   ],
+   "explanation": "In a breathless patient with suspected lung cancer and a pleural effusion, ultrasound-guided pleural aspiration comes next: it relieves breathlessness, and positive cytology confirms malignancy and stage (M1a, stage IV) with a single procedure, as NICE NG122 recommends. Cytology is positive in only about 60%, so thoracoscopic pleural biopsy follows if it is negative. Staging CT is also needed but neither relieves symptoms nor provides tissue; lung function matters only if radical treatment is considered; and radiotherapy should not be given before a tissue diagnosis."
+  }
+ },
+ {
+  "id": "lca-0008",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Paraneoplastic syndromes",
+    "Dermatomyositis"
+   ],
+   "explanation": "Dermatomyositis (heliotrope rash and Gottron's papules with proximal myopathy) is a paraneoplastic cutaneous manifestation of lung and other cancers, so adults presenting with it should be screened for malignancy; others include acanthosis nigricans, clubbing with hypertrophic osteoarthropathy and thrombophlebitis migrans. Dermatitis herpetiformis is linked with coeliac disease and psoriasis is not paraneoplastic. Cushing's syndrome from ectopic ACTH is an endocrine rather than a cutaneous paraneoplastic syndrome."
+  }
+ },
+ {
+  "id": "lca-0009",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Haemoptysis"
+   ],
+   "explanation": "A heavy smoker with haemoptysis, rapid weight loss, finger clubbing and a localised wheeze with reduced air entry (endobronchial obstruction), plus a homogeneous opacity on the chest X-ray, has bronchogenic carcinoma until proven otherwise. TB causes upper-zone cavitation with fever and sweats and rarely clubbing; lobar pneumonia is acute and febrile; IPF gives bilateral basal reticulation; bronchiectasis causes copious purulent sputum over years. NICE recommends urgent referral on a suspected-cancer pathway, with contrast CT of the chest and upper abdomen followed by tissue diagnosis and staging."
+  }
+ },
+ {
+  "id": "lca-0010",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Ectopic ACTH syndrome",
+    "Cushing's syndrome",
+    "Small cell lung cancer"
+   ],
+   "explanation": "A plethoric moon face, weight gain and striae are features of Cushing's syndrome, which in a smoker with lung cancer is due to ectopic ACTH secretion, most often by small cell carcinoma or a bronchial carcinoid. Ectopic ACTH from small cell tumours often develops so fast that hypokalaemic alkalosis, weakness, pigmentation and hyperglycaemia dominate over classic cushingoid features. Gynaecomastia (from hCG secretion), simple obesity and hypothyroidism do not cause striae and plethora, and SIADH causes hyponatraemia without cushingoid features."
+  }
+ },
+ {
+  "id": "lca-0011",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Ectopic ACTH syndrome",
+    "Dexamethasone suppression test"
+   ],
+   "explanation": "Once ACTH-dependent Cushing's syndrome is established, the high-dose (8 mg) dexamethasone suppression test helps separate the source: pituitary corticotroph adenomas retain partial glucocorticoid feedback and cortisol falls by more than 50%, whereas ectopic ACTH-secreting tumours such as small cell carcinoma usually do not suppress. The low-dose test and a random serum cortisol confirm cortisol excess but do not localise it, and the short Synacthen test assesses adrenal insufficiency. In current practice CRH stimulation and inferior petrosal sinus sampling are more reliable, because some bronchial carcinoids do suppress."
+  }
+ },
+ {
+  "id": "lca-0012",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "SIADH",
+    "Lung cancer",
+    "Hyponatraemia"
+   ],
+   "explanation": "Hyponatraemia (123 mmol/L) with a normal potassium and inappropriately concentrated urine in a patient with bronchial carcinoma is SIADH, typically from small cell carcinoma; the diagnosis requires euvolaemia, low plasma osmolality with urine osmolality above 100 mOsm/kg, urine sodium above 30 mmol/L, and normal thyroid and adrenal function. Diabetes insipidus causes hypernatraemia with dilute urine; diuretics cause volume depletion and often hypokalaemia; adrenal insufficiency (e.g. from adrenal metastases) causes hyponatraemia with hyperkalaemia and hypotension. Management is fluid restriction and treatment of the tumour, with tolvaptan or demeclocycline if refractory."
+  }
+ },
+ {
+  "id": "lca-0013",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung collapse",
+    "Lung cancer",
+    "Chest X-ray"
+   ],
+   "explanation": "A central bronchial carcinoma that occludes a bronchus causes resorption of distal air and lobar or whole-lung collapse: the film shows opacification of the right hemithorax with loss of volume. Clinically there is dullness with reduced breath sounds, but the trachea and mediastinum move towards the affected side, whereas a large effusion pushes them away. Obstructive pneumonia or empyema may complicate collapse but are not the primary process; bronchoscopy confirms the obstructing tumour and may allow debulking or stenting.",
+   "stem": "A man with a central bronchial carcinoma develops increasing breathlessness, with reduced breath sounds and dullness to percussion over the right chest. His chest X-ray is shown. What is the diagnosis?"
+  }
+ },
+ {
+  "id": "lca-0014",
+  "delete": true,
+  "dup_of": "lca-0005",
+  "why": "Same idea and vignette as 39 Blocks lca-0005 (heavy smoker with bronchial carcinoma, Hb 9.8 g/dL and Na 104 mmol/L = SIADH)"
+ },
+ {
+  "id": "lca-0015",
+  "delete": true,
+  "dup_of": "lca-0005",
+  "why": "Reprint of lca-0014 in the same Formative bank (same patient, Na 104 mmol/L = SIADH)",
+  "silent": true
+ },
+ {
+  "id": "lca-0016",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Prognosis",
+    "TNM staging"
+   ],
+   "explanation": "Stage (TNM) at diagnosis is the dominant prognostic factor in lung cancer: 5-year survival is around 70–90% for stage IA non-small cell cancer but under 10% for stage IV, and performance status is the other key predictor. Age, sex and comorbidity have a modest influence, mainly by limiting fitness for radical treatment, while laterality and cumulative pack-years do not independently determine survival. Most patients still present with stage III–IV disease, which is why lung cancer remains the leading cause of cancer death and why screening of high-risk smokers with low-dose CT is being introduced.",
+   "answer": "C",
+   "stem": "Which of the following is the strongest determinant of prognosis in lung cancer?",
+   "options": [
+    "Age",
+    "Sex",
+    "Stage of disease at diagnosis",
+    "Tumour laterality (left or right lung)",
+    "Number of pack-years smoked"
+   ]
+  },
+  "why": "Original 'all affect prognosis except' question had no valid key (age, comorbidity, cell type and stage all affect prognosis); reframed as the strongest prognostic factor"
+ },
+ {
+  "id": "lca-0017",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Recurrent laryngeal nerve palsy",
+    "Dyspnoea"
+   ],
+   "explanation": "Recurrent laryngeal nerve palsy (usually left-sided, from tumour or nodes at the aortopulmonary window) causes hoarseness and a weak 'bovine' cough rather than breathlessness, and indicates T4 or nodal disease. Breathlessness in lung cancer arises from bronchial obstruction with collapse, pleural or pericardial effusion, phrenic nerve palsy with a paralysed hemidiaphragm, lymphangitis carcinomatosa, pulmonary embolism and anaemia. Hoarseness lasting more than 3 weeks warrants a chest X-ray and laryngoscopy.",
+   "answer": "D"
+  },
+  "why": "Missing key set to D (source key)"
+ },
+ {
+  "id": "lca-0018",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung collapse",
+    "Lung cancer"
+   ],
+   "explanation": "Dullness over the whole right hemithorax with reduced breath sounds and a trachea deviated towards the affected side (with an impalpable, displaced apex beat) indicates collapse of the right lung from an obstructing central tumour. A large effusion causes similar dullness but pushes the trachea away; pneumothorax is hyper-resonant; pneumonia gives bronchial breathing without mediastinal shift; a pericardial effusion does not cause unilateral lung signs. Pulmonary embolism should also be considered in a patient with cancer and pleuritic pain, and urgent bronchoscopy can confirm the obstruction and allow debulking or stenting.",
+   "stem": "A 46-year-old woman was diagnosed with adenocarcinoma of the lung at bronchoscopy 1 week ago. She presents to the emergency department acutely short of breath with a non-productive cough and a central chest ache that is worse on inspiration. She is apyrexial; SpO2 91% on 40% oxygen, respiratory rate 30/min, BP 100/65 mmHg, pulse 110/min. Expansion is reduced on the right, with dullness to percussion throughout the right side and reduced breath sounds; the trachea is deviated to the right and the apex beat is not palpable. What is the most likely diagnosis?"
+  }
+ },
+ {
+  "id": "lca-0019",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Cavitating lung lesion",
+    "Squamous cell carcinoma"
+   ],
+   "explanation": "The film shows a thick-walled cavitating mass with an air–fluid level in the left lung. In a heavy smoker with haemoptysis and weight loss, a thick irregular-walled cavity is most likely a cavitating bronchial carcinoma, typically squamous cell. A lung abscess usually follows aspiration with fever and foul sputum; TB favours the apices with fever and sweats, and a one-week trip cannot explain 2 months of weight loss; granulomatosis with polyangiitis causes multiple nodules with ENT and renal features; infarcts are pleural-based and wedge-shaped. Staging CT and tissue diagnosis should follow.",
+   "stem": "A 52-year-old man presents with 4 days of haemoptysis. He has lost weight over the last 2 months without night sweats. He has smoked 30 cigarettes per day for 40 years and worked in construction, where he may have been exposed to asbestos. He returned from a holiday in Guyana 1 week ago. His chest X-ray is shown. What is the most likely cause of the X-ray findings?"
+  }
+ },
+ {
+  "id": "lca-0020",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Mediastinal mass",
+    "Lymphoma",
+    "Computed tomography"
+   ],
+   "explanation": "A widened mediastinum with systemic inflammation (CRP 67 mg/L, mild anaemia) in a young woman suggests a mediastinal mass, most likely lymphoma (Hodgkin or primary mediastinal B-cell). Contrast CT of the chest, abdomen and pelvis defines the mass and its effect on the airway, SVC and pericardium, identifies accessible nodes for biopsy and stages the disease. Bronchoscopy does not reach the anterior mediastinum, a D-dimer is unhelpful, echocardiography is needed only if a pericardial effusion or tamponade is suspected, and PET-CT is used for lymphoma staging after the histological diagnosis.",
+   "answer": "B",
+   "stem": "A 26-year-old woman presents with 24 hours of central chest pain and a month of progressive shortness of breath. Pulse 105/min, BP 105/65 mmHg, SpO2 96% on air, respiratory rate 16/min; she is apyrexial. The chest is clear and the heart sounds are normal without murmurs. ECG shows sinus tachycardia only. Haemoglobin 110 g/L, WCC 9 × 10⁹/L, platelets 340 × 10⁹/L, urea and electrolytes normal, CRP 67 mg/L. Her chest X-ray (shown) shows a widened superior mediastinum. What should the next investigation be?"
+  },
+  "why": "Parsed key (PET scan) was wrong; source key CT chest, abdomen and pelvis. Mediastinal widening described in the stem"
+ },
+ {
+  "id": "lca-0021",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Solitary pulmonary nodule",
+    "PET-CT"
+   ],
+   "explanation": "Under BTS pulmonary nodule guidance, a solid nodule of 8 mm or more is assessed with the Brock model, and a spiculated upper-lobe nodule of this size in a 20 pack-year smoker has a malignancy risk above 10%, so FDG PET-CT is the next step; the Herder score then guides resection, biopsy or surveillance. Proceeding directly to CT-guided biopsy or bronchoscopy is possible but PET also stages the disease, and an IGRA or antibiotics are not justified by an asymptomatic spiculated nodule.",
+   "answer": "E",
+   "stem": "A 63-year-old woman had a CT pulmonary angiogram for left-sided pleuritic chest pain. There was no pulmonary embolism, but a 15-mm spiculated nodule at the apex of the right lung was noted (shown). Her pain resolved within 24 hours and she is otherwise asymptomatic; she has smoked 10 cigarettes per day for 40 years. What is the best next step?"
+  },
+  "why": "Parsed key (IGRA) was wrong; source key PET scan. Nodule size and spiculation added so the BTS nodule pathway applies"
+ },
+ {
+  "id": "lca-0022",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Solitary pulmonary nodule",
+    "Lobectomy",
+    "Non-small cell lung cancer"
+   ],
+   "explanation": "An FDG-avid nodule (high Herder score) in a fit patient with no nodal or distant uptake is presumed stage I lung cancer, and NICE NG122 recommends surgical resection – lobectomy (open or thoracoscopic), or segmentectomy for small peripheral tumours – with systematic nodal sampling, often without preoperative biopsy when the risk of malignancy is high. Stereotactic ablative radiotherapy is the alternative for patients unfit for surgery. A 3-month surveillance scan would delay curative treatment, palliative chemotherapy or radiotherapy is inappropriate for early disease, and anti-TB treatment is unjustified without microbiological evidence.",
+   "stem": "A 63-year-old woman had a pulmonary nodule identified incidentally on a CT pulmonary angiogram. She has a 20 pack-year smoking history but no past medical history, is asymptomatic with performance status 0 and has normal pulmonary function. PET-CT (shown) shows FDG avidity in the right upper lobe nodule with no nodal or distant uptake. What should be the next step?"
+  },
+  "why": "Added 'no nodal or distant uptake' so that resection is clearly the appropriate next step"
+ },
+ {
+  "id": "lca-0023",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung collapse",
+    "Chest X-ray"
+   ],
+   "explanation": "The film shows opacification of the right hemithorax with loss of volume, the trachea and mediastinum being pulled to the right: collapse of the right lung, usually from an obstructing central lesion, mucus plug or foreign body. An effusion of this size would push the mediastinum to the left; a pneumothorax appears black with a visible lung edge; tension pneumothorax causes contralateral shift of a hyperlucent hemithorax; dextrocardia places the cardiac apex on the right without lung opacity. Bronchoscopy is needed to find the cause – a non-smoker may still have an endobronchial tumour such as a carcinoid.",
+   "stem": "A 51-year-old woman presents to the emergency department with sudden-onset breathlessness and right-sided pleuritic chest pain. She is a non-smoker with no significant past medical history. She needs 40% oxygen to maintain saturations of 92%; she is apyrexial, BP 101/62 mmHg, pulse 112/min, respiratory rate 30/min. What does her chest X-ray (shown) demonstrate?"
+  }
+ },
+ {
+  "id": "lca-0024",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "PET-CT",
+    "Lung cancer staging",
+    "Squamous cell carcinoma"
+   ],
+   "explanation": "The fused PET-CT image shows intense FDG uptake at the right hilum in addition to the known right upper lobe primary, indicating ipsilateral hilar nodal disease (N1); there is no uptake in the spine or sternum, and blood-pool activity in the vessels is low grade. NICE recommends PET-CT for all patients being considered for radical treatment, but because FDG uptake in nodes can be inflammatory, PET-positive nodes that would change management should be sampled, usually by EBUS-TBNA, before radical treatment is ruled in or out.",
+   "stem": "A 54-year-old woman attends the rapid-access lung cancer clinic with haemoptysis and an abnormal chest X-ray. CT shows a large cavitating right upper lobe mass and bronchoscopic biopsy confirms squamous cell carcinoma. What does her PET-CT scan (shown) demonstrate?"
+  }
+ },
+ {
+  "id": "lca-0025",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Endobronchial ultrasound",
+    "Lung cancer staging"
+   ],
+   "explanation": "EBUS-guided transbronchial needle aspiration samples hilar and mediastinal nodes with a low complication rate, and NICE recommends it when nodes are enlarged or PET-avid because a positive node gives the diagnosis and the stage in one procedure. CT-guided biopsy of the peripheral tumour carries a high pneumothorax risk in emphysema and does not stage the nodes; flexible bronchoscopy alone rarely reaches peripheral tumours; repeat CT only delays diagnosis; thoracoscopy is for pleural disease."
+  }
+ },
+ {
+  "id": "lca-0026",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Mesothelioma",
+    "Asbestos-related disease",
+    "Chest pain"
+   ],
+   "explanation": "Persistent, dull, non-pleuritic chest wall pain that disturbs sleep, with signs of a pleural effusion, in a man with remote asbestos exposure is typical of malignant pleural mesothelioma, which appears 30–50 years after exposure; erythema ab igne shows he has been using a hot-water bottle for chronic pain. Herpes zoster is dermatomal with a rash, Tietze's syndrome causes costochondral swelling and tenderness, pneumonia is acute and febrile, and chronic thromboembolic disease does not cause localised chest wall pain or unilateral dullness. CT followed by thoracoscopic or image-guided pleural biopsy confirms the diagnosis, as effusion cytology is often negative.",
+   "answer": "C",
+   "stem": "An 84-year-old retired shipyard insulation worker who smokes a pipe has a 3-month history of a nagging left-sided chest ache, worst in the axilla and radiating to the spine. Examination shows dullness from the left base to the mid zone and erythema ab igne over the left chest wall. What is the most likely cause of his chest pain?"
+  },
+  "why": "Parsed key (herpes zoster) was wrong; source key mesothelioma. Remote asbestos exposure added, without which no option was clearly correct"
+ },
+ {
+  "id": "lca-0027",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Solitary pulmonary nodule",
+    "Malignancy risk"
+   ],
+   "explanation": "Upper-lobe location is an independent predictor of malignancy in the Brock (PanCan) model, along with older age, female sex, family history of lung cancer, emphysema, larger size, spiculation and part-solid morphology. Smooth margins, benign calcification patterns (central, diffuse, laminated or popcorn), small size and never having smoked all lower the risk. Under BTS guidance a solid nodule under 5 mm needs no follow-up, whereas a 6-mm nodule such as this one is followed with CT surveillance to assess growth.",
+   "stem": "A 67-year-old man undergoing CT colonography is found to have a 6-mm nodule in the right lower lobe. Which feature increases the risk of malignancy in a pulmonary nodule?"
+  }
+ },
+ {
+  "id": "lca-0028",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "PET-CT",
+    "Solitary pulmonary nodule"
+   ],
+   "explanation": "FDG PET-CT has reduced sensitivity for nodules smaller than about 8–10 mm because of limited spatial resolution, so BTS guidance reserves it for larger or growing nodules. It can miss low-avidity tumours such as adenocarcinoma in situ (formerly bronchoalveolar carcinoma) and carcinoid, gives false positives with infection and inflammation (including rheumatoid nodules), and therefore does not replace tissue diagnosis – although it adds metabolic and staging information that CT alone cannot.",
+   "stem": "A 65-year-old woman with rheumatoid arthritis has CT for suspected interstitial lung disease, which shows mild basal interlobular septal thickening and a 1.5-cm spiculated right upper lobe nodule. What is true regarding PET scanning for pulmonary nodules?"
+  }
+ },
+ {
+  "id": "lca-0029",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Adenocarcinoma of lung",
+    "Lung cancer histology"
+   ],
+   "explanation": "Adenocarcinoma is now the commonest histological type of lung cancer (about 40–50%) and the predominant type in never-smokers and women, usually arising peripherally. Squamous cell carcinoma (about 25%) is central and strongly smoking-related, small cell carcinoma (about 15%) is central and almost exclusive to smokers, and large cell carcinoma is uncommon; mesothelioma is a pleural tumour, not a lung cancer. Adenocarcinomas should be tested for driver alterations (EGFR, ALK, ROS1, KRAS G12C, BRAF and others) and PD-L1 because targeted therapy transforms outcomes."
+  }
+ },
+ {
+  "id": "lca-0030",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Hypertrophic pulmonary osteoarthropathy",
+    "Non-small cell lung cancer"
+   ],
+   "explanation": "Hypertrophic pulmonary osteoarthropathy is a paraneoplastic syndrome, most often with non-small cell lung cancer, causing painful swelling of the wrists and ankles from periostitis of the distal long bones, usually with clubbing; X-rays show periosteal new bone and an isotope bone scan shows symmetrical 'tramline' uptake. Bone metastases are usually axial and asymmetrical, clubbing itself is painless, hypercalcaemia causes thirst, confusion and constipation rather than joint pain, and Horner's syndrome is ptosis, miosis and anhidrosis. Symptoms respond to NSAIDs, bisphosphonates and treatment of the tumour.",
+   "answer": "E"
+  },
+  "why": "Missing key set to E (source key)"
+ }
+]

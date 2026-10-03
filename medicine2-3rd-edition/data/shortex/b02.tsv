@@ -1,0 +1,45 @@
+cad-0120	ST elevation in II, III, aVF with reciprocal depression in aVL is acute inferior STEMI. Pericarditis gives widespread concave ST elevation with PR depression.
+cad-0121	Claudication (ABPI 0.6): stop smoking, statin, antiplatelet and supervised exercise; add cilostazol or naftidrofuryl if needed. Revascularise only if lifestyle-limiting or critical.
+cad-0122	Anterior STEMI within 1 h: aspirin, potent P2Y12 inhibitor (ticagrelor/prasugrel), anticoagulation and immediate primary PCI.
+cad-0124	In ACS, glucose > 11 mmol/L is treated with a dose-adjusted IV insulin infusion (NICE CG130). Stop metformin around angiography and sulfonylureas acutely.
+cad-0125	Chest pain with bradycardia and hypotension suggests inferior/RV MI; the RCA supplies the AV node and RV. Nodal block here is usually transient and atropine-responsive.
+cad-0126	ST elevation in I and aVL is a high lateral infarct (circumflex or first diagonal). Anteroseptal = V1–V4; inferior = II, III, aVF.
+cad-0128	NICE: CT coronary angiography is first line for suspected angina; functional imaging if non-diagnostic. Exercise ECG is no longer used for diagnosis.
+cad-0129	Troponin stays raised 7–14 days, so for reinfarction at day 4 CK-MB (normal by 2–3 days) is more useful; a new hs-troponin rise > 20% is also used.
+cad-0130	Bicuspid aortic valve has an associated aortopathy and raises dissection risk. Others: hypertension (commonest), Marfan, Loeys–Dietz, coarctation, Turner, pregnancy, cocaine.
+cad-0133	CT angiography of the whole aorta confirms dissection in a stable patient; TOE if unstable. Chest X-ray and transthoracic echo cannot exclude it.
+cad-0134	Type A dissection (ascending aorta) kills 1–2%/hour untreated: emergency surgery after IV beta-blocker BP/HR control. Type B is usually medical.
+cad-0135	Proximal dissection can rupture into the pericardium causing tamponade, a leading cause of death; also acute AR, coronary occlusion and branch ischaemia.
+cad-0136	Sudden severe chest pain in a hypertensive with no MI on ECG/troponin: exclude aortic dissection before antithrombotics or thrombolysis, which could be fatal.
+cad-0137	An early diastolic murmur is aortic regurgitation; in Marfan syndrome aortic root dilatation stretches the valve ring. MVP gives a click and late systolic murmur.
+cad-0138	Diabetes is consistently linked to fewer and slower-growing AAAs. Smoking is the strongest risk factor; also male sex, age, family history and hypertension.
+cad-0139	Stopping smoking slows AAA growth and lowers rupture risk; drugs (ACEi, beta-blocker, statin) have not been shown to slow growth.
+cad-0141	Pregnancy (third trimester/peripartum) predisposes to dissection through medial hormonal change and high cardiac output; this woman had no Marfan features.
+cad-0142	Marfan syndrome is autosomal dominant, due to FBN1 (fibrillin-1) mutations: tall, ectopia lentis, aortic root dilatation and MVP. Sarcomere genes cause HCM.
+cad-0143	A pseudoaneurysm is a contained rupture held only by adventitia or surrounding tissue (after puncture, surgery, trauma). A true aneurysm involves all three layers.
+cad-0144	Degenerative aortic aneurysms are several times commoner in men, so female sex is not a risk factor. Age, smoking, hypertension and family history are.
+cad-0145	Aortic root aneurysm with hypertelorism, bifid uvula and familial sudden death is Loeys–Dietz (TGFBR1/2); aneurysms dissect smaller, so repair earlier than Marfan.
+cad-0146	Uncomplicated type B dissection (beyond the left subclavian) is treated medically with IV beta-blockade. Malperfusion, rupture or expansion need repair; any ascending involvement needs surgery.
+cad-0147	Ascending aortic dilatation: GCA, Takayasu, syphilis, spondyloarthritis, Marfan/Loeys–Dietz/EDS, bicuspid valve. SLE is not a recognised cause.
+cad-0150	A 3.0–3.5 cm AAA is monitored with ultrasound while treating risk factors; repair at ≥ 5.5 cm, growth > 1 cm/year or symptoms. EVAR is an alternative to open repair.
+cad-0151	Tearing back pain, severe hypertension, new AR and widened mediastinum is proximal dissection: IV beta-blocker, then nitroprusside, urgent TOE/CT and surgery.
+cad-0152	One-off ultrasound AAA screening is offered to men 65–75 who have ever smoked (all men at 65 in the UK); it reduces aneurysm deaths.
+cad-0153	A young woman with prior systemic illness, chest pain and an absent radial pulse has Takayasu arteritis (large-vessel vasculitis); diagnose by CT/MR angiography, treat with steroids.
+valv-0020	After ACS with a drug-eluting stent, DAPT continues ~12 months; stopping clopidogrel at 3 weeks risks fatal stent thrombosis. Defer elective surgery (≥ 6, ideally 12 months).
+cad-0069	Coronary disease is the commonest cause of HFrEF; about half of heart failure is HFpEF, and 1-year mortality is still ~10–30%.
+hf-0001	Orthopnoea, pink frothy sputum, crackles, raised JVP, oedema and cardiomegaly is acute decompensated heart failure. COPD/asthma give wheeze without a raised JVP.
+hf-0002	Congestion in acute heart failure is treated with an IV loop diuretic (furosemide), sitting up, oxygen if hypoxic and nitrates if BP allows. Diltiazem is negatively inotropic.
+hf-0003	Heart failure causes arrhythmias, hyponatraemia, hyperkalaemia (ACEi/MRA) and raised urea (cardiorenal). Hyperlipidaemia is a cause of the underlying CAD, not a complication.
+hf-0004	Echocardiography is key: EF (HFrEF/HFmrEF/HFpEF), valves, wall motion, pericardium and filling pressures. Angiography comes later if ischaemia is suspected.
+hf-0005	Spironolactone (MRA) improves symptoms and survival in HFrEF (RALES). Flecainide raises mortality in structural heart disease; NSAIDs worsen fluid retention.
+hf-0006	If ACEi/ARB/ARNI cannot be used (renal impairment, hyperkalaemia), hydralazine plus isosorbide dinitrate reduces HFrEF mortality and does not raise potassium.
+hf-0007	In HFpEF, SGLT2 inhibitors (dapagliflozin, empagliflozin) reduce heart-failure hospitalisation and CV death; diuretics for congestion and treat comorbidities.
+hf-0008	Peripartum cardiomyopathy during pregnancy: beta-blocker and loop diuretic (hydralazine/nitrate if needed). ACEi, ARB, ARNI and MRA are unsafe before delivery.
+hf-0009	ACEi/ARB/ARNI, beta-blockers, MRAs and SGLT2 inhibitors reduce HFrEF mortality. Digoxin reduced admissions but not mortality (DIG trial).
+hf-0011	In older patients with dilated cardiomyopathy, exclude coronary disease before calling it non-ischaemic, as revascularisation may help.
+hf-0012	A heart-failure patient on only furosemide and aspirin lacks prognostic therapy: start an ACE inhibitor (also treats her BP), then beta-blocker, MRA and SGLT2i.
+hf-0013	Biventricular failure with cardiomegaly and global hypokinesia (EF 25–30%) in a young woman is dilated cardiomyopathy. Restrictive disease keeps systolic function.
+hf-0014	ACE inhibitors (or ARB/ARNI) reduce HFrEF mortality and remodelling and are a cornerstone with beta-blockers, MRAs and SGLT2i. Non-DHP CCBs worsen HFrEF.
+hf-0015	Evidence-based beta-blockers (bisoprolol, carvedilol, metoprolol succinate) cut HFrEF mortality by ~a third; start low when euvolaemic and titrate slowly.
+hf-0016	Loop diuretics relieve congestion and symptoms but do not improve survival; use the lowest dose that keeps the patient euvolaemic.
+hf-0017	DCM predisposes to AF and ventricular arrhythmias, and sudden death is common; consider an ICD if EF stays ≤ 35% despite optimal therapy.

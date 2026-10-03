@@ -1,0 +1,521 @@
+[
+ {
+  "id": "resemq-0025",
+  "delete": true,
+  "dup_of": "resemq-0007",
+  "why": "Same Irfan 'Management of COPD' theme (identical options and five scenarios) as the 39 Blocks theme resemq-0007"
+ },
+ {
+  "id": "resemq-0026",
+  "status": "expanded",
+  "set": {
+   "theme": "Treatment of respiratory infections",
+   "topics": [
+    "Community-acquired pneumonia",
+    "Hospital-acquired pneumonia",
+    "Pneumocystis pneumonia"
+   ],
+   "options": [
+    "Intravenous benzylpenicillin",
+    "Oral flucloxacillin",
+    "Oral tetracycline",
+    "Oral ciprofloxacin",
+    "Intravenous ceftazidime",
+    "Oral isoniazid plus rifampicin",
+    "Intravenous flucloxacillin",
+    "Oral amoxicillin",
+    "High-dose zidovudine plus pyrazinamide",
+    "Intravenous amoxicillin",
+    "Intravenous co-trimoxazole",
+    "Intravenous teicoplanin",
+    "Intravenous cefuroxime plus erythromycin"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "H",
+    "explanation": "Low-severity community-acquired pneumonia (CURB-65 0–1) managed at home is treated with oral amoxicillin, which covers Streptococcus pneumoniae; a macrolide or doxycycline is used if the patient is penicillin-allergic. Intravenous agents are reserved for patients admitted with moderate–severe disease."
+   },
+   "2": {
+    "stem": "A 35-year-old inpatient, admitted 10 days ago for another condition, develops severe pneumonia.",
+    "answer": "E",
+    "explanation": "Pneumonia arising 48 hours or more after admission is hospital-acquired; late-onset (≥5 days) severe disease is often caused by Gram-negative organisms including Pseudomonas aeruginosa, so an intravenous antipseudomonal agent such as ceftazidime (or piperacillin–tazobactam) is needed. Amoxicillin or benzylpenicillin alone would not cover these organisms."
+   },
+   "3": {
+    "answer": "M",
+    "explanation": "Severe community-acquired pneumonia (CURB-65 3–5) needs intravenous dual therapy: a β-lactam (co-amoxiclav or cefuroxime) plus a macrolide (clarithromycin or erythromycin) to cover atypical organisms such as Legionella and Mycoplasma. A β-lactam alone misses the atypicals."
+   },
+   "4": {
+    "stem": "A 22-year-old man with HIV infection presents with Pneumocystis jirovecii pneumonia.",
+    "answer": "K",
+    "explanation": "High-dose co-trimoxazole (intravenous in moderate–severe disease) is first-line treatment for Pneumocystis jirovecii pneumonia, with adjunctive corticosteroids if PaO2 is below 9.3 kPa. Antiretroviral or antituberculous drugs do not treat Pneumocystis."
+   },
+   "5": {
+    "answer": "C",
+    "explanation": "Chlamydial (Chlamydia pneumoniae or psittaci) pneumonia is an atypical infection treated with a tetracycline such as doxycycline, or a macrolide. β-lactams such as amoxicillin are ineffective because the organism is intracellular and lacks a conventional peptidoglycan wall."
+   }
+  }
+ },
+ {
+  "id": "resemq-0027",
+  "status": "corrected",
+  "set": {
+   "chapter": "cvsemq",
+   "theme": "Causes of collapse",
+   "topics": [
+    "Syncope",
+    "Wolff–Parkinson–White syndrome",
+    "Postural hypotension"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "K",
+    "explanation": "A brief faint with pallor on prolonged standing in a warm environment, no jerking or incontinence, rapid full recovery and a normal ECG and lying/standing blood pressure is typical vasovagal (reflex) syncope. No further cardiac investigation is needed when the history is classic and the ECG is normal."
+   },
+   "2": {
+    "answer": "M",
+    "explanation": "A slurred upstroke of the QRS (delta wave) with a short PR interval indicates pre-excitation via an accessory pathway (Wolff–Parkinson–White syndrome); rapid conduction of atrial fibrillation down the pathway can degenerate into ventricular fibrillation and sudden collapse in a young person. Treatment is catheter ablation of the pathway."
+   },
+   "3": {
+    "answer": "B",
+    "explanation": "Collapse with an irregular pulse (atrial fibrillation, a source of cardioembolism) and a new left-sided hemiparesis indicates an acute stroke in the right hemisphere. Urgent CT brain is needed to exclude haemorrhage before considering thrombolysis or thrombectomy."
+   },
+   "4": {
+    "stem": "A 67-year-old man presents to the emergency department following a collapse. He has a history of ischaemic heart disease and was diagnosed with hypertension last week, when he was started on antihypertensive treatment. He felt dizzy when he got out of his chair to go to the toilet and then fainted. He regained consciousness almost immediately and had fully recovered within 5 minutes.",
+    "answer": "E",
+    "explanation": "Postural syncope shortly after starting an antihypertensive (classically an α-blocker such as doxazosin, or an ACE inhibitor in a patient on diuretics) is first-dose hypotension. It is avoided by starting at a low dose taken at bedtime; a Stokes–Adams attack, by contrast, occurs suddenly without postural warning."
+   }
+  },
+  "why": "Cardiovascular theme moved to cvsemq; item 4 stem now states the new antihypertensive so first-dose hypotension is the single best answer"
+ },
+ {
+  "id": "resemq-0028",
+  "status": "corrected",
+  "set": {
+   "theme": "Diagnosis of respiratory conditions (1)",
+   "topics": [
+    "Small cell lung cancer",
+    "Mesothelioma",
+    "Pleural plaques"
+   ],
+   "options": [
+    "Asbestos-related lung disease",
+    "Asthma",
+    "Bronchiectasis",
+    "Chronic obstructive pulmonary disease",
+    "Idiopathic pulmonary fibrosis (cryptogenic fibrosing alveolitis)",
+    "Cystic fibrosis",
+    "Extrinsic allergic alveolitis",
+    "Mesothelioma",
+    "Non-small cell lung cancer",
+    "Open pneumothorax",
+    "Sarcoidosis",
+    "Secondary lung metastases",
+    "Obstructive sleep apnoea",
+    "Small cell lung cancer",
+    "Tuberculosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 68-year-old retired accountant who smokes has a 3-week history of small-volume haemoptysis. He has noticed that he is passing less urine than normal, although he is otherwise well. His serum sodium is 122 mmol/L with an inappropriately concentrated urine. On examination, a monophonic wheeze is heard over the left upper zone.",
+    "answer": "N",
+    "explanation": "Haemoptysis with a fixed monophonic wheeze suggests a central endobronchial tumour, and hyponatraemia with low urine output and concentrated urine indicates SIADH, the classic paraneoplastic syndrome of small cell lung cancer (ectopic ADH). Non-small cell tumours more often cause hypercalcaemia (squamous cell, PTHrP)."
+   },
+   "2": {
+    "stem": "A 12-year-old boy is brought to the GP by his mother. Over the last couple of years he has had repeated chest infections, and his mother is worried that he is not putting on weight. On examination, there are coarse crackles throughout both lung fields.",
+    "answer": "F",
+    "explanation": "Recurrent chest infections with failure to thrive (pancreatic malabsorption) and coarse crackles from bronchiectasis in a child point to cystic fibrosis. The diagnosis is confirmed by a sweat chloride test (>60 mmol/L) and CFTR genetic testing."
+   },
+   "3": {
+    "stem": "A 58-year-old builder complains of left-sided chest discomfort that has been progressing over the last fortnight. He is otherwise well. On examination, the left lower zone is dull to percussion. A pleural tap yields blood-stained fluid.",
+    "answer": "H",
+    "explanation": "Progressive dull chest-wall pain with a blood-stained pleural effusion in a builder (occupational asbestos exposure) is typical of malignant pleural mesothelioma. Diagnosis usually requires pleural biopsy (image-guided or thoracoscopic), as effusion cytology is often non-diagnostic."
+   },
+   "4": {
+    "stem": "A 53-year-old shopfitter is admitted for an elective inguinal hernia repair. A routine chest X-ray shows irregular white plaques over both lungs that cross the lobar boundaries. He feels well and auscultation is normal.",
+    "answer": "A",
+    "explanation": "Well-defined 'holly-leaf' opacities that ignore lobar boundaries in an asymptomatic tradesman are calcified pleural plaques, a marker of previous asbestos exposure. They are benign, need no treatment and do not become malignant, although they indicate a risk of other asbestos-related disease."
+   },
+   "5": {
+    "answer": "B",
+    "explanation": "A 6-month history of nocturnal cough with intermittent wheeze in a previously well teenager with a normal examination between episodes is typical of asthma. It is confirmed by objective testing such as FeNO, spirometry with bronchodilator reversibility or peak-flow variability."
+   }
+  },
+  "why": "Item 1: SIADH detail and smoking added so small cell (not non-small cell) cancer is the single best answer; options modernised"
+ },
+ {
+  "id": "resemq-0029",
+  "status": "corrected",
+  "set": {
+   "theme": "Causes of shortness of breath",
+   "topics": [
+    "Tuberculosis",
+    "Interstitial lung disease",
+    "Aspergilloma"
+   ],
+   "options": [
+    "Acute coryza",
+    "Asbestosis",
+    "Aspergillosis",
+    "Bronchiectasis",
+    "Chronic obstructive pulmonary disease",
+    "Idiopathic pulmonary fibrosis (cryptogenic fibrosing alveolitis)",
+    "Extrinsic allergic alveolitis",
+    "Pneumoconiosis",
+    "Sarcoidosis",
+    "Tuberculosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 54-year-old man presents to the GP with worsening shortness of breath and a cough productive of bloody sputum. He has lost 6 kg in weight over the last month and has night sweats. A chest X-ray shows consolidation at the left apex.",
+    "answer": "J",
+    "explanation": "Haemoptysis, weight loss and night sweats with apical (upper-lobe) consolidation are typical of post-primary pulmonary tuberculosis. Three sputum samples should be sent for acid-fast bacilli smear, culture and nucleic acid amplification testing, and the patient isolated."
+   },
+   "2": {
+    "answer": "I",
+    "explanation": "Bilateral hilar lymphadenopathy with a dry cough and breathlessness in a young or middle-aged adult is most often sarcoidosis. Serum ACE and calcium may be raised; histology showing non-caseating granulomas confirms the diagnosis when needed."
+   },
+   "3": {
+    "answer": "F",
+    "explanation": "Progressive breathlessness with finger clubbing, fine bilateral end-inspiratory ('velcro') crackles and lower-zone reticular shadowing is idiopathic pulmonary fibrosis. HRCT showing a basal subpleural usual interstitial pneumonia pattern is diagnostic; antifibrotics (pirfenidone or nintedanib) slow decline."
+   },
+   "4": {
+    "stem": "A 47-year-old man who has kept racing pigeons for many years presents to the GP with a 4-month history of worsening shortness of breath. Examination reveals bilateral end-inspiratory crackles without clubbing. A chest X-ray shows reticulonodular shadowing, especially in the upper zones.",
+    "answer": "G",
+    "explanation": "Chronic extrinsic allergic alveolitis (hypersensitivity pneumonitis) from inhaled avian antigens causes upper-zone fibrosis, unlike the lower-zone predominance of idiopathic pulmonary fibrosis and asbestosis. Antigen avoidance is the key treatment, with corticosteroids for progressive disease."
+   },
+   "5": {
+    "answer": "C",
+    "explanation": "A mass within a cavity (air-crescent sign) in a lung previously damaged by tuberculosis is an aspergilloma (mycetoma), which classically causes recurrent, sometimes massive haemoptysis. Serum Aspergillus IgG is positive; symptomatic lesions may need bronchial artery embolisation or resection."
+   }
+  },
+  "why": "Item 4: pigeon exposure added (upper-zone fibrosis was otherwise shared by pneumoconiosis); IPF terminology updated"
+ },
+ {
+  "id": "resemq-0030",
+  "status": "expanded",
+  "set": {
+   "theme": "Diagnosis of respiratory conditions (2)",
+   "topics": [
+    "Pneumothorax",
+    "Pulmonary embolism",
+    "COPD exacerbation"
+   ],
+   "options": [
+    "Acute coryza",
+    "Asthma",
+    "Bronchiectasis",
+    "Chronic obstructive pulmonary disease",
+    "Closed non-tension pneumothorax",
+    "Idiopathic pulmonary fibrosis (cryptogenic fibrosing alveolitis)",
+    "Cystic fibrosis",
+    "Extrinsic allergic alveolitis",
+    "Open non-tension pneumothorax",
+    "Pneumoconiosis",
+    "Pneumonia",
+    "Pulmonary embolism",
+    "Obstructive sleep apnoea",
+    "Tension pneumothorax"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "D",
+    "explanation": "Worsening breathlessness with increased volume and purulence of sputum on a background of chronic sputum production and limited exercise tolerance is an infective exacerbation of COPD. Treat with bronchodilators, oral prednisolone 30 mg for 5 days and an antibiotic because the sputum is purulent."
+   },
+   "2": {
+    "answer": "I",
+    "explanation": "A 'sucking' chest wound with hyper-resonance and reduced air entry but a central trachea is an open pneumothorax without tension. First aid is a three-sided occlusive dressing, followed by a chest drain away from the wound and surgical closure."
+   },
+   "3": {
+    "answer": "K",
+    "explanation": "Acute fever, purulent blood-flecked sputum, pleuritic pain and bronchial breathing at one base indicate lobar consolidation, typically pneumococcal pneumonia. Severity is assessed with CURB-65 to guide antibiotic choice and place of care."
+   },
+   "4": {
+    "answer": "L",
+    "explanation": "Sudden pleuritic chest pain and breathlessness with a normal chest examination (no wheeze, crackles or hyper-resonance) is pulmonary embolism until proven otherwise. A pneumothorax would give hyper-resonance and reduced breath sounds; assess with the Wells score and CTPA."
+   },
+   "5": {
+    "answer": "N",
+    "explanation": "Absent breath sounds and hyper-resonance on one side with the trachea deviated away, plus tachycardia and hypotension, is a tension pneumothorax. It is a clinical diagnosis requiring immediate needle decompression then a chest drain, without waiting for a chest X-ray."
+   }
+  }
+ },
+ {
+  "id": "resemq-0031",
+  "status": "corrected",
+  "set": {
+   "theme": "Investigation of respiratory disease",
+   "topics": [
+    "Sweat test",
+    "Spirometry",
+    "Pleural biopsy"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 12-year-old boy is brought to the GP by his mother. Over the last couple of years he has had repeated chest infections, and his mother is worried that he is not putting on weight. On examination, there are coarse crackles throughout both lung fields and his fingers are clubbed.",
+    "answer": "K",
+    "explanation": "Recurrent chest infections, failure to thrive and clubbing suggest cystic fibrosis; the diagnostic test is the sweat test, with sweat chloride above 60 mmol/L being diagnostic, supported by CFTR genotyping. A chest X-ray or sputum culture would show consequences but not the diagnosis."
+   },
+   "2": {
+    "answer": "E",
+    "explanation": "Chronic exertional breathlessness and productive cough in an ex-smoker suggest COPD, which is confirmed by spirometry showing a post-bronchodilator FEV1/FVC ratio below 0.7. A chest X-ray is also done to exclude other pathology, but only lung function testing makes the diagnosis."
+   },
+   "3": {
+    "answer": "J",
+    "explanation": "Haemoptysis, weight loss and night sweats with apical changes suggest reactivation tuberculosis; the key investigation is sputum (three samples) for acid-fast bacilli smear, mycobacterial culture and NAAT, which also provides drug sensitivities. A Mantoux test cannot distinguish active from latent infection."
+   },
+   "4": {
+    "answer": "A",
+    "explanation": "Haemoptysis and weight loss with a lung mass in an older man is lung cancer until proven otherwise; after staging CT, tissue diagnosis is obtained by bronchoscopy with biopsy (or CT-guided or EBUS-guided sampling). Histology determines treatment."
+   },
+   "5": {
+    "stem": "A 58-year-old man who worked in shipbuilding complains of left-sided chest discomfort that has been progressing over the last fortnight. He is otherwise well. On examination, the left lower zone is dull to percussion, and a chest X-ray confirms a left pleural effusion. A diagnostic pleural tap yields blood-stained fluid, but cytology is non-diagnostic.",
+    "answer": "I",
+    "explanation": "A blood-stained effusion with chest pain after asbestos exposure suggests mesothelioma, for which effusion cytology is often negative; BTS guidance is to obtain pleural tissue by image-guided or thoracoscopic pleural biopsy. Bronchoscopy has a low yield in an isolated effusion without a lung lesion or haemoptysis."
+   }
+  },
+  "why": "Item 5 re-keyed from bronchoscopy to pleural biopsy (BTS: pleural tissue for a cytology-negative suspected malignant effusion); stem now states asbestos exposure and negative cytology"
+ },
+ {
+  "id": "resemq-0032",
+  "status": "corrected",
+  "set": {
+   "theme": "Investigation of acute dyspnoea",
+   "topics": [
+    "Pulmonary embolism",
+    "CT pulmonary angiography",
+    "Ventilation–perfusion scan"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and sharp right-sided chest pain. She is obviously distressed. Auscultation of the chest is normal and there is no hyper-resonance to percussion.",
+    "answer": "B",
+    "explanation": "The first investigation for acute pleuritic chest pain and breathlessness is a chest X-ray, which excludes pneumothorax, consolidation and effusion and determines whether a V/Q scan would be interpretable. An ECG and arterial blood gas are done alongside."
+   },
+   "2": {
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and sharp right-sided chest pain. She is obviously distressed. Auscultation of the chest is normal and there is no hyper-resonance to percussion. A chest X-ray shows clear lung fields. She had an anaphylactic reaction to iodinated contrast medium in the past.",
+    "answer": "L",
+    "explanation": "With a high clinical probability of PE, imaging should follow directly (a D-dimer is not useful). CTPA is usually first-line, but a V/Q scan is preferred when iodinated contrast is contraindicated (allergy, renal impairment) and is reliable when the chest X-ray is normal."
+   },
+   "3": {
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and sharp right-sided chest pain. She is obviously distressed. Auscultation of the chest is normal and there is no hyper-resonance to percussion. A chest X-ray shows occasional patchy shadowing.",
+    "answer": "C",
+    "explanation": "CTPA is the first-line imaging for suspected PE and is preferred when the chest X-ray is abnormal, because parenchymal shadowing makes V/Q scanning indeterminate. CTPA can also reveal an alternative diagnosis."
+   },
+   "4": {
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and sharp right-sided chest pain. She is obviously distressed. She is coughing up large amounts of green sputum. There are crackles at the right lower zone, and a chest X-ray confirms right lower lobe consolidation.",
+    "answer": "J",
+    "explanation": "Purulent sputum, focal crackles and confirmed lobar consolidation establish pneumonia, so the useful investigation is sputum (and blood) culture to identify the organism and its sensitivities. CTPA is not needed when an alternative diagnosis clearly explains the pleuritic pain."
+   },
+   "5": {
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and sharp right-sided chest pain. She is obviously distressed. There are absent breath sounds and hyper-resonance to percussion over the right side, and the trachea is deviated to the left.",
+    "answer": "H",
+    "explanation": "These signs indicate tension pneumothorax, a clinical diagnosis requiring immediate needle decompression; delaying for a chest X-ray risks cardiac arrest. Imaging follows once a chest drain is in place."
+   }
+  },
+  "why": "Item 2: CTPA and V/Q were both defensible; contrast allergy added so V/Q scan is the single best answer; item 5 examination signs corrected"
+ },
+ {
+  "id": "resemq-0033",
+  "status": "corrected",
+  "set": {
+   "theme": "Management of respiratory disease (1)",
+   "topics": [
+    "Pneumonia",
+    "Pneumocystis pneumonia",
+    "Tuberculosis"
+   ],
+   "options": [
+    "Amoxicillin",
+    "Cannula into second intercostal space, midclavicular line",
+    "Cannula into sixth intercostal space, midclavicular line",
+    "Chemotherapy",
+    "Co-trimoxazole",
+    "Erythromycin",
+    "Inhaled anticholinergic",
+    "Inhaled β2-agonist",
+    "Low-molecular-weight heparin",
+    "Amoxicillin plus metronidazole",
+    "No management required",
+    "Radiotherapy",
+    "Rifampicin, isoniazid, pyrazinamide and ethambutol",
+    "Steroids",
+    "Warfarin"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "F",
+    "explanation": "Community-acquired pneumonia is normally treated with amoxicillin, but in penicillin allergy a macrolide (erythromycin or clarithromycin) or doxycycline is used. Amoxicillin-containing options are contraindicated."
+   },
+   "2": {
+    "stem": "A 67-year-old woman with viral gastroenteritis aspirates some of her vomit. A few days later she develops a cough productive of foul-smelling sputum. A chest X-ray confirms right middle lobe consolidation.",
+    "answer": "J",
+    "explanation": "Aspiration pneumonia involves oral anaerobes as well as usual respiratory pathogens, so a traditional regimen is amoxicillin plus metronidazole (or co-amoxiclav alone). Metronidazole alone would miss the aerobic organisms, and amoxicillin alone gives incomplete anaerobic cover when sputum is foul-smelling."
+   },
+   "3": {
+    "stem": "A 38-year-old woman with HIV infection has a 2-month history of worsening shortness of breath and a dry cough. On examination, her oxygen saturation is 89% and falls further on exertion. A chest X-ray shows bilateral perihilar interstitial shadowing.",
+    "answer": "E",
+    "explanation": "Subacute dry cough, exertional desaturation and perihilar interstitial shadowing in HIV indicate Pneumocystis jirovecii pneumonia, treated with high-dose co-trimoxazole. Adjunctive corticosteroids are added if PaO2 is below 9.3 kPa, but steroids alone do not treat the infection."
+   },
+   "4": {
+    "stem": "A 49-year-old man presents to the GP with worsening shortness of breath and a cough productive of bloody sputum. He has lost 6 kg in weight over the last month. A chest X-ray shows consolidation at both apices, and sputum smear shows acid-fast bacilli.",
+    "answer": "M",
+    "explanation": "Smear-positive pulmonary tuberculosis is treated with rifampicin, isoniazid, pyrazinamide and ethambutol for 2 months, then rifampicin and isoniazid for a further 4 months, with pyridoxine to prevent isoniazid neuropathy. Two-drug therapy from the start risks resistance."
+   },
+   "5": {
+    "stem": "A 68-year-old man has a 3-week history of haemoptysis and has lost 6 kg in weight. A biopsy taken at bronchoscopy confirms non-small cell lung cancer. Staging shows locally advanced disease that is not surgically resectable, with no distant metastases.",
+    "answer": "L",
+    "explanation": "Unresectable, locally advanced (stage III) non-small cell lung cancer is treated with radical radiotherapy, given concurrently with chemotherapy in fit patients and followed by immunotherapy; radiotherapy also palliates haemoptysis. Chemotherapy alone is the mainstay for small cell, not localised non-small cell, disease."
+   }
+  },
+  "why": "Aspiration option changed to amoxicillin plus metronidazole (metronidazole alone inadequate); TB option now the standard quadruple regimen; discriminating details added to items 3, 4 and 5"
+ },
+ {
+  "id": "resemq-0034",
+  "status": "corrected",
+  "set": {
+   "theme": "Management of respiratory disease (2)",
+   "topics": [
+    "Pulmonary embolism",
+    "Tension pneumothorax",
+    "Asthma"
+   ],
+   "options": [
+    "Amoxicillin",
+    "Cannula into second intercostal space, midclavicular line",
+    "Cannula into sixth intercostal space, midclavicular line",
+    "Chemotherapy",
+    "Co-trimoxazole",
+    "Erythromycin",
+    "Inhaled anticholinergic",
+    "Inhaled β2-agonist alone, as needed",
+    "Low-molecular-weight heparin",
+    "Metronidazole",
+    "No management required",
+    "Radiotherapy",
+    "Rifampicin and isoniazid",
+    "Low-dose inhaled corticosteroid with as-needed inhaled β2-agonist",
+    "Warfarin"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "I",
+    "explanation": "Confirmed PE is anticoagulated immediately; among these options, low-molecular-weight heparin is correct because warfarin takes days to work and needs parenteral cover. NICE now prefers a DOAC (apixaban or rivaroxaban) where suitable, with LMWH the alternative, e.g. in pregnancy or cancer."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Hypotension, tachycardia, absent breath sounds, hyper-resonance and tracheal deviation away from the affected side indicate tension pneumothorax, treated by immediate needle decompression in the second intercostal space, midclavicular line (ATLS now also accepts the fourth/fifth space anterior to the mid-axillary line in adults), then a chest drain. The sixth space in the midclavicular line risks abdominal injury."
+   },
+   "3": {
+    "answer": "D",
+    "explanation": "Small cell lung cancer is usually disseminated at diagnosis and highly chemosensitive, so platinum–etoposide chemotherapy (with immunotherapy in extensive disease) is the mainstay. Radiotherapy is added for limited-stage disease and prophylactic cranial irradiation may be offered."
+   },
+   "4": {
+    "answer": "N",
+    "explanation": "A child with atopy and 6 months of night-time cough and wheeze has asthma with nocturnal symptoms, so NICE (2024) and BTS/SIGN recommend starting a paediatric low-dose inhaled corticosteroid with a short-acting β2-agonist reliever. Reliever-only treatment is no longer appropriate for symptoms this frequent."
+   },
+   "5": {
+    "stem": "A 53-year-old man is admitted after breaking his left arm. The X-ray of the arm includes part of the lung fields, which show holly-leaf-shaped white lesions that cross the lobar boundaries. He feels well and auscultation is normal.",
+    "answer": "K",
+    "explanation": "These are calcified pleural plaques from past asbestos exposure; they are benign, cause no symptoms and require no treatment or follow-up imaging. Their presence may support a compensation claim if asbestos-related disease develops later."
+   }
+  },
+  "why": "Item 4 re-keyed from inhaled β2-agonist alone to low-dose ICS plus reliever (NICE 2024/BTS: SABA-only not appropriate with nocturnal symptoms); 'Steroids' option replaced accordingly"
+ },
+ {
+  "id": "resemq-0035",
+  "status": "corrected",
+  "set": {
+   "theme": "Airway management",
+   "topics": [
+    "Airway management",
+    "Airway adjuncts",
+    "Cricothyroidotomy"
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "An 18-year-old man is post-ictal following an epileptic seizure. He is making snoring noises when breathing. His Glasgow Coma Scale score is 6 and he has no gag reflex.",
+    "answer": "F",
+    "explanation": "Snoring indicates partial obstruction by the tongue; in a deeply unconscious patient with no gag reflex an oropharyngeal (Guedel) airway, sized from the incisors to the angle of the jaw, is tolerated and maintains patency. If consciousness does not improve, a definitive airway (endotracheal intubation) is needed."
+   },
+   "2": {
+    "stem": "An 18-year-old man is post-ictal following an epileptic seizure. He is making snoring noises when breathing. His Glasgow Coma Scale score is 12, his jaw is clenched and his gag reflex is intact.",
+    "answer": "E",
+    "explanation": "A nasopharyngeal airway is better tolerated than an oropharyngeal airway in a semi-conscious patient with an intact gag reflex and can be inserted despite a clenched jaw. An oropharyngeal airway would provoke gagging, vomiting or laryngospasm."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "In an out-of-hospital collapse without equipment, the rescuer opens the airway with head tilt and chin lift, then checks for breathing and starts CPR if absent. Adjuncts and advanced airways are for trained responders with equipment."
+   },
+   "4": {
+    "answer": "A",
+    "explanation": "Failed intubation and failed bag-mask ventilation because of laryngeal oedema from airway burns is a 'can't intubate, can't oxygenate' emergency needing front-of-neck access, i.e. cricothyroidotomy (scalpel–bougie–tube technique). Tracheostomy is too slow in this emergency."
+   },
+   "5": {
+    "answer": "D",
+    "explanation": "During cardiac arrest, rescuers not skilled in intubation should use a supraglottic airway such as a laryngeal mask (or i-gel), which allows ventilation with minimal interruption to chest compressions. Endotracheal intubation is reserved for skilled operators, such as the anaesthetist."
+   }
+  },
+  "why": "Items 1 and 2: gag-reflex and jaw details added so that oropharyngeal and nasopharyngeal airways are each the single best answer"
+ },
+ {
+  "id": "resemq-0036",
+  "status": "corrected",
+  "set": {
+   "theme": "Pathogens in pneumonia",
+   "topics": [
+    "Pneumonia",
+    "Legionnaires' disease",
+    "Psittacosis"
+   ],
+   "options": [
+    "Chlamydia pneumoniae",
+    "Chlamydia psittaci",
+    "Haemophilus influenzae",
+    "Klebsiella pneumoniae",
+    "Legionella pneumophila",
+    "Mycobacterium tuberculosis",
+    "Mycoplasma pneumoniae",
+    "Pneumocystis jirovecii",
+    "Pseudomonas aeruginosa",
+    "Staphylococcus aureus",
+    "Streptococcus pneumoniae"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "K",
+    "explanation": "Abrupt fever, pleuritic pain and rusty sputum with lobar consolidation in a young adult is classic pneumococcal (Streptococcus pneumoniae) pneumonia, the commonest cause of community-acquired pneumonia. Pneumococcal urinary antigen supports the diagnosis."
+   },
+   "2": {
+    "stem": "A 67-year-old woman who had influenza a week ago presents with a 5-day history of malaise and a cough productive of yellow sputum. Examination is unremarkable. A chest X-ray shows two cavities with air–fluid levels.",
+    "answer": "J",
+    "explanation": "Cavitating pneumonia with abscess formation after influenza is characteristic of Staphylococcus aureus. Klebsiella also cavitates but typically affects the upper lobes of alcoholic or diabetic patients with 'redcurrant jelly' sputum."
+   },
+   "3": {
+    "stem": "A 42-year-old woman with HIV infection has a 2-month history of worsening shortness of breath and a dry cough. On examination, her oxygen saturation is 89% and falls further on exertion. A chest X-ray shows bilateral perihilar interstitial shadowing.",
+    "answer": "H",
+    "explanation": "A subacute dry cough with marked exertional desaturation and bilateral perihilar interstitial shadowing in HIV (usually CD4 below 200 cells/µL) is Pneumocystis jirovecii pneumonia. Tuberculosis usually gives a productive cough, upper-zone or cavitating disease and weight loss."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "Pneumonia after foreign travel (hotel water systems), with myalgia, dry cough, hyponatraemia (causing seizures) and often confusion, diarrhoea or deranged liver tests, suggests Legionella pneumophila. Legionella urinary antigen confirms it and treatment is a macrolide or fluoroquinolone."
+   },
+   "5": {
+    "stem": "A 62-year-old man who keeps parrots presents with a 2-week history of shortness of breath, a dry cough and widespread joint aches. He has felt feverish and unwell over this time. Examination reveals an enlarged liver and spleen. A chest X-ray shows patchy consolidation of both lower lobes.",
+    "answer": "B",
+    "explanation": "Psittacosis (Chlamydia psittaci) is acquired from birds and causes an atypical pneumonia with headache, myalgia or arthralgia and, characteristically, hepatosplenomegaly. It is treated with doxycycline."
+   }
+  },
+  "why": "Discriminating exposures added: influenza (item 2, Staphylococcus vs Klebsiella), perihilar shadowing (item 3, PCP vs TB), parrots (item 5, psittacosis vs Mycoplasma)"
+ }
+]

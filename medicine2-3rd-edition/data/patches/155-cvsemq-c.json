@@ -1,0 +1,522 @@
+[
+ {
+  "id": "cvsemq-0024",
+  "delete": true,
+  "dup_of": "cvsemq-0006",
+  "why": "Same Irfan 'Chest pain' theme as 39 Blocks cvsemq-0006: identical options and the same five items (dissection, PE, angina, pneumothorax, costochondritis)"
+ },
+ {
+  "id": "cvsemq-0025",
+  "delete": true,
+  "dup_of": "cvsemq-0016",
+  "why": "Same five pulse items as cvsemq-0016 (slow-rising pulse = AS, collapsing = AR, radiofemoral delay = coarctation, pulsus paradoxus = tamponade, bounding pulse = CO2 retention)"
+ },
+ {
+  "id": "cvsemq-0026",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Cardiac murmurs",
+    "Valvular heart disease",
+    "Auscultation"
+   ],
+   "options": [
+    "Mitral stenosis",
+    "Aortic regurgitation",
+    "Atrial flutter",
+    "Tetralogy of Fallot",
+    "Atrial fibrillation",
+    "Atrial septal defect",
+    "Aortic stenosis",
+    "Pulmonary stenosis",
+    "Friction rub",
+    "Mitral regurgitation",
+    "Tricuspid regurgitation",
+    "Ventricular septal defect"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "A tapping apex (palpable S1), loud S1 and a low-pitched rumbling mid-diastolic murmur heard best at the apex with the bell, with the patient on the left side in expiration, is mitral stenosis. An opening snap and presystolic accentuation (in sinus rhythm) may accompany it; the Austin Flint murmur of aortic regurgitation mimics it but comes with an early diastolic murmur and a collapsing pulse."
+   },
+   "2": {
+    "answer": "G",
+    "explanation": "A pressure-loaded (heaving, undisplaced) apex, soft or absent A2 and an ejection systolic murmur radiating to the carotids indicate severe calcific aortic stenosis. An absent A2 reflects an immobile valve and is a marker of severity; echocardiography confirms the gradient and valve area."
+   },
+   "3": {
+    "answer": "K",
+    "explanation": "A pansystolic murmur at the lower left sternal edge that increases on inspiration (Carvallo's sign), with pulsatile hepatomegaly and giant v waves in the JVP, is tricuspid regurgitation. Inspiration increases venous return to the right heart, which separates it from mitral regurgitation and ventricular septal defect."
+   },
+   "4": {
+    "answer": "J",
+    "explanation": "A displaced, volume-loaded (thrusting) apex, soft S1 and a pansystolic murmur at the apex radiating to the axilla indicate chronic mitral regurgitation. The soft S1 reflects incomplete leaflet closure, and an S3 is common when regurgitation is severe."
+   },
+   "5": {
+    "answer": "L",
+    "stem": "A 25-year-old man has a left parasternal heave and a harsh pansystolic murmur with a thrill at the lower left sternal edge, also audible at the apex. The murmur does not vary with respiration and the JVP is normal.",
+    "explanation": "A harsh pansystolic murmur with a thrill at the lower left sternal edge and a parasternal heave from right ventricular loading suggests a ventricular septal defect. A normal JVP and no inspiratory accentuation make tricuspid regurgitation unlikely; echocardiography defines the defect size and shunt."
+   }
+  },
+  "why": "Duplicate option removed (aortic incompetence = aortic regurgitation), replaced by pulmonary stenosis; item 5 given discriminating detail (normal JVP, no respiratory variation) to separate VSD from tricuspid regurgitation"
+ },
+ {
+  "id": "cvsemq-0027",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Jugular venous pressure",
+    "Jugular venous waveform",
+    "Physical examination"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "J",
+    "explanation": "A raised but non-pulsatile JVP means venous drainage is obstructed above the right atrium, classically superior vena cava obstruction (e.g. bronchial carcinoma or lymphoma), often with facial plethora and dilated chest-wall veins. Urgent CT and a tissue diagnosis are needed."
+   },
+   "2": {
+    "answer": "E",
+    "explanation": "Giant systolic v (cv) waves occur when the right ventricle ejects back into the right atrium through an incompetent tricuspid valve. They accompany a pansystolic murmur at the left sternal edge that is louder on inspiration and a pulsatile liver."
+   },
+   "3": {
+    "answer": "A",
+    "explanation": "Tricuspid stenosis impedes right atrial emptying, giving a large a wave (forceful atrial contraction) and a slow y descent (slow ventricular filling), with systemic venous congestion causing hepatomegaly and ascites. It is usually rheumatic and accompanies mitral stenosis; the a wave disappears if atrial fibrillation develops."
+   },
+   "4": {
+    "answer": "B",
+    "explanation": "Cannon a waves occur when the right atrium contracts against a closed tricuspid valve during atrioventricular dissociation; irregular cannon waves are typical of complete heart block (and also occur in ventricular tachycardia). Regular cannon waves suggest a junctional rhythm."
+   },
+   "5": {
+    "answer": "G",
+    "explanation": "A JVP that rises on inspiration (Kussmaul's sign) reflects a rigid right heart that cannot accept the extra venous return, classically constrictive pericarditis (also restrictive cardiomyopathy and severe right heart failure). A rapid y descent, pericardial knock and pericardial calcification support the diagnosis."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0028",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "ECG interpretation",
+    "Pulmonary embolism",
+    "Hypokalaemia"
+   ],
+   "options": [
+    "Subendocardial infarction",
+    "Pulmonary embolus",
+    "Right bundle-branch block",
+    "Mobitz type II second-degree heart block",
+    "Hyperkalaemia",
+    "Inferior myocardial infarction",
+    "Anterolateral myocardial infarction",
+    "Left bundle-branch block",
+    "Hypokalaemia",
+    "Pericarditis",
+    "Atrial fibrillation",
+    "Pulmonary hypertension",
+    "Mitral stenosis"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "explanation": "Sinus tachycardia is the commonest ECG finding in pulmonary embolism; the S1Q3T3 pattern (deep S in I, Q wave and inverted T in III) reflects acute right ventricular strain but is neither sensitive nor specific. Diagnosis rests on clinical probability (Wells score), D-dimer and CT pulmonary angiography."
+   },
+   "2": {
+    "answer": "C",
+    "stem": "An ECG shows a dominant R wave with an RSR' pattern in V1, inverted T waves in V1–V3, deep wide S waves in I and V6, and a QRS duration of 140 ms.",
+    "explanation": "An RSR' (dominant R) in V1 with secondary T-wave inversion in V1–V3, broad slurred S waves in I and V6 and a QRS of at least 120 ms is right bundle-branch block. Left bundle-branch block gives the opposite pattern: a deep broad S in V1 and a broad notched R in V6."
+   },
+   "3": {
+    "answer": "I",
+    "explanation": "Hypokalaemia causes PR prolongation, ST depression, flattened T waves and prominent U waves (with an apparently long QT from T–U fusion). Hyperkalaemia does the opposite, with tall tented T waves, then flattened P waves and QRS widening."
+   },
+   "4": {
+    "answer": "M",
+    "stem": "An ECG shows sinus rhythm with broad (0.14 s), notched, bifid P waves best seen in lead II and a biphasic P wave with a deep negative terminal component in V1.",
+    "explanation": "Broad, bifid 'P mitrale' waves in lead II with a deep negative terminal P component in V1 indicate left atrial enlargement, classically from mitral stenosis. Pulmonary hypertension instead gives tall peaked 'P pulmonale' waves, and as the left atrium dilates further atrial fibrillation commonly supervenes."
+   },
+   "5": {
+    "answer": "F",
+    "explanation": "ST elevation in II, III and aVF localises the infarct to the inferior wall, usually from right coronary artery occlusion; the lateral T-wave changes are reciprocal or reflect lateral extension. Treat as STEMI with immediate reperfusion (primary PCI) and record right-sided leads (V4R) to look for right ventricular infarction."
+   }
+  },
+  "why": "Mitral regurgitation option replaced by pulmonary hypertension (MR also causes P mitrale, so two answers were defensible); item 2 and 4 stems made precise (QRS duration; P mitrale is seen in II/V1, not V3–V4)"
+ },
+ {
+  "id": "cvsemq-0029",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "ECG interpretation",
+    "Hyperkalaemia",
+    "Left bundle-branch block"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "stem": "The ECG of a 55-year-old man being treated for hypertension with ramipril and spironolactone shows tall tented T waves.",
+    "explanation": "Tall, peaked (tented) T waves are the earliest ECG sign of hyperkalaemia; ACE inhibitors, angiotensin-receptor blockers and potassium-sparing diuretics are common culprits in treated hypertension. Check potassium urgently and give IV calcium gluconate if ECG changes are present."
+   },
+   "2": {
+    "answer": "K",
+    "stem": "A 34-year-old man is brought to the emergency department after a road traffic accident in which his chest struck the steering wheel. His neck veins are distended, the trachea is central and breath sounds are equal on both sides. He then loses his pulse while the monitor still shows organised electrical activity (pulseless electrical activity).",
+    "explanation": "Pulseless electrical activity after blunt chest trauma with distended neck veins but a central trachea and equal breath sounds indicates cardiac tamponade, one of the reversible 4 Hs and 4 Ts. Tension pneumothorax and hypovolaemia are the other main traumatic causes; tamponade needs immediate pericardiocentesis or resuscitative thoracotomy."
+   },
+   "3": {
+    "answer": "B",
+    "stem": "An 85-year-old man with pneumonia complains of palpitations. The ECG shows an irregularly irregular narrow-complex rhythm with absent P waves.",
+    "explanation": "An irregularly irregular rhythm with no P waves (a fibrillatory baseline) is atrial fibrillation; acute illness such as pneumonia, sepsis or hypoxia commonly triggers it in older people. Atrial flutter also lacks normal P waves but shows regular saw-tooth flutter waves, usually with a regular ventricular rate."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "A broad QRS with an M-shaped (notched) R wave in V5–V6, I and aVL and discordant lateral T-wave inversion is left bundle-branch block. Cardiac sarcoidosis infiltrates the septum and conducting tissue, causing bundle-branch block and atrioventricular block."
+   },
+   "5": {
+    "answer": "G",
+    "explanation": "T-wave inversion in V1 (often V2–V3 too) is a normal juvenile pattern in children, reflecting right ventricular dominance. It is abnormal only if it persists beyond V1–V2 in adults or accompanies other abnormalities."
+   }
+  },
+  "why": "Items 1–3 given the discriminating detail needed (drug cause of hyperkalaemia; tamponade signs with central trachea to exclude tension pneumothorax; irregularly irregular rhythm to separate AF from flutter)"
+ },
+ {
+  "id": "cvsemq-0030",
+  "delete": true,
+  "dup_of": "cvsemq-0005",
+  "why": "Same Irfan 'Hypertension' theme as 39 Blocks cvsemq-0005: identical options and items (Conn's, phaeochromocytoma, Cushing's, malignant hypertension, renal artery stenosis)"
+ },
+ {
+  "id": "cvsemq-0031",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Heart failure",
+    "Diuretics",
+    "Acute pulmonary oedema"
+   ],
+   "options": [
+    "Nifedipine",
+    "Metolazone",
+    "Lidocaine",
+    "Sit upright, controlled oxygen if hypoxaemic, intravenous furosemide and sublingual glyceryl trinitrate",
+    "Oral isosorbide mononitrate",
+    "Digoxin",
+    "Oxygen, oral morphine, oral furosemide and intravenous glyceryl trinitrate",
+    "Intravenous adenosine",
+    "Spironolactone",
+    "Start cardiopulmonary resuscitation (CPR)",
+    "Oral furosemide"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "F",
+    "explanation": "Digoxin slows the ventricular rate in atrial fibrillation without negative inotropy, so it suits patients with heart failure, usually alongside a beta-blocker (the first-line rate-control drug in reduced ejection fraction). Verapamil, diltiazem and nifedipine depress contractility and should be avoided."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Metolazone, a thiazide-like diuretic, blocks distal tubular sodium reabsorption and acts synergistically with loop diuretics (sequential nephron blockade) in diuretic-resistant oedema. Monitor potassium, sodium and renal function closely because profound diuresis and hypokalaemia are common."
+   },
+   "3": {
+    "answer": "I",
+    "explanation": "Spironolactone, a mineralocorticoid receptor antagonist, reduces mortality in heart failure with reduced ejection fraction (RALES) when added to an ACE inhibitor. A beta-blocker would be the other prognostic drug, but her asthma argues against it; monitor potassium and creatinine."
+   },
+   "4": {
+    "answer": "D",
+    "explanation": "Acute pulmonary oedema is treated with the patient upright, oxygen only if hypoxaemic (target 94–98%), an intravenous loop diuretic and nitrates if systolic BP is above about 110 mmHg; routine opiates are no longer recommended. Oral drugs are absorbed too slowly from an oedematous gut, and CPAP is added for persistent hypoxaemia."
+   },
+   "5": {
+    "answer": "K",
+    "explanation": "An oral loop diuretic such as furosemide relieves congestive symptoms (breathlessness, ankle oedema) but does not improve survival. Use the lowest dose that keeps the patient euvolaemic while prognostic therapy (ACE inhibitor, beta-blocker, mineralocorticoid antagonist, SGLT2 inhibitor) is optimised."
+   }
+  },
+  "why": "Pulmonary oedema option updated to current ESC/NICE practice (oxygen only if hypoxaemic, no routine opiates); lidocaine spelling fixed; non-existent intravenous isosorbide mononitrate made oral"
+ },
+ {
+  "id": "cvsemq-0032",
+  "delete": true,
+  "dup_of": "cvsemq-0007",
+  "why": "Same Irfan 'Treatment of arrhythmias' theme as 39 Blocks cvsemq-0007: identical options and items"
+ },
+ {
+  "id": "cvsemq-0033",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "STEMI",
+    "Cardiac arrest",
+    "Hypertensive emergency"
+   ],
+   "options": [
+    "Intravenous dobutamine",
+    "DC shock and adrenaline",
+    "Oxygen, subcutaneous low-molecular-weight heparin and intravenous fluids",
+    "Sublingual nifedipine",
+    "Atropine",
+    "Aspirin and heparin",
+    "DC shock and atropine",
+    "Intravenous labetalol",
+    "Emergency renal dialysis",
+    "Aspirin and streptokinase",
+    "Aspirin, a P2Y12 inhibitor and primary PCI"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "K",
+    "explanation": "Inferior STEMI within 12 hours of onset needs immediate reperfusion; primary PCI is preferred when it can be delivered within 120 minutes of diagnosis, with aspirin and a P2Y12 inhibitor loading. Fibrinolysis (streptokinase or tenecteplase) with aspirin is the alternative only when timely PCI is unavailable."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Ventricular fibrillation is a shockable rhythm: defibrillate immediately with high-quality CPR, and give adrenaline 1 mg IV after the third shock and every 3–5 minutes thereafter, with amiodarone 300 mg after the third shock. Atropine has no role in shockable rhythms."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "Collapse with breathlessness and pleuritic pain after a long flight suggests pulmonary embolism; give oxygen, therapeutic-dose anticoagulation (LMWH or a DOAC) and cautious fluids. If the patient is haemodynamically unstable (high-risk PE), systemic thrombolysis is indicated."
+   },
+   "4": {
+    "answer": "H",
+    "explanation": "Severe hypertension with papilloedema and retinal haemorrhages (malignant hypertension), here due to chronic glomerulonephritis, is a hypertensive emergency needing controlled IV therapy such as labetalol in a monitored bed, lowering mean arterial pressure by no more than about 20–25% in the first hours. Sublingual nifedipine is contraindicated because abrupt falls cause stroke and myocardial ischaemia."
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "Atropine 500 micrograms IV, repeated to a maximum of 3 mg, is the first-line drug for symptomatic or unstable sinus bradycardia. If it fails, use an isoprenaline or adrenaline infusion or transcutaneous pacing."
+   }
+  },
+  "why": "Added primary PCI option and keyed the STEMI item to it (ESC reperfusion of choice; source key 'K' had no matching option); dobutamine and labetalol given correct IV route"
+ },
+ {
+  "id": "cvsemq-0034",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Hypertension",
+    "Ambulatory blood pressure monitoring",
+    "Hypertensive emergency"
+   ],
+   "options": [
+    "Admit to high-dependency unit for monitoring and intravenous antihypertensive medication",
+    "Admit to hospital for oral antihypertensive medication",
+    "Ambulatory blood pressure monitoring",
+    "Confirm over 4 weeks and treat if persistent",
+    "Confirm over 12 weeks and treat if persistent",
+    "Lifestyle advice only",
+    "No further assessment required",
+    "Start oral antihypertensive treatment as an outpatient",
+    "Refer for investigation of secondary hypertension",
+    "Provide lifestyle advice and reassess annually",
+    "Sublingual nifedipine"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 63-year-old man is found by his GP to have a blood pressure of 135/60 mmHg. He is otherwise fit and well and has no significant past medical history.",
+     "answer": "J",
+     "explanation": "A clinic BP below 140/90 mmHg does not meet the threshold for hypertension, so no treatment is needed; give lifestyle advice and re-measure periodically, more often when readings are close to 140/90 mmHg. Saying no further assessment is ever needed is wrong because BP rises with age.",
+     "images": []
+    },
+    {
+     "n": 2,
+     "stem": "A 63-year-old man with newly diagnosed type 2 diabetes has a blood pressure of 155/89 mmHg at his first outpatient appointment. Fundoscopy shows arteriovenous nipping but no haemorrhages or papilloedema.",
+     "answer": "C",
+     "explanation": "A single clinic reading of 140/90–179/119 mmHg should be confirmed by ambulatory (or home) monitoring before hypertension is diagnosed (NICE NG136). His diabetes and retinal arteriolar changes raise his cardiovascular risk, so treatment should start promptly once ABPM confirms hypertension (daytime average of 135/85 mmHg or more).",
+     "images": []
+    },
+    {
+     "n": 3,
+     "stem": "A 65-year-old woman has a blood pressure persistently above 160/90 mmHg over a 2-month assessment period with her GP, despite repeated lifestyle advice. She is otherwise fit and well and asymptomatic.",
+     "answer": "H",
+     "explanation": "Confirmed, persistent hypertension despite lifestyle measures needs drug treatment, started in primary care. NICE recommends a calcium-channel blocker first for patients aged over 55 (ACE inhibitor or ARB if diabetic), whereas ESC favours a single-pill two-drug combination; admission is unnecessary in an asymptomatic patient.",
+     "images": []
+    },
+    {
+     "n": 4,
+     "stem": "A 67-year-old man presents to the emergency department with headaches. His blood pressure is 220/120 mmHg. Fundoscopy shows some arteriovenous nipping but no haemorrhages, exudates or papilloedema, and he has no other symptoms or signs of acute organ damage.",
+     "answer": "H",
+     "explanation": "Severe hypertension without papilloedema, retinal haemorrhages or other acute organ damage (hypertensive urgency) does not need admission or intravenous therapy; start oral treatment with prompt investigation for target-organ damage and early review. Rapid lowering, e.g. with sublingual nifedipine, is dangerous because it can precipitate cerebral or myocardial ischaemia.",
+     "images": []
+    },
+    {
+     "n": 5,
+     "stem": "A 62-year-old man is brought to the emergency department by his wife with headaches and blurred vision. He is orientated in time and person but not in place. His blood pressure is 240/140 mmHg and heart rate 84 beats/min. Fundoscopy shows bilateral papilloedema and flame haemorrhages. Neurological examination is otherwise normal, and an emergency head CT shows no neurological cause for his symptoms.",
+     "answer": "A",
+     "explanation": "BP 240/140 mmHg with papilloedema, flame haemorrhages and confusion is a hypertensive emergency (malignant hypertension with encephalopathy). Admit to a high-dependency unit for arterial-line monitoring and IV therapy such as labetalol or nitroprusside, lowering mean arterial pressure by 20–25% over the first hours to avoid cerebral hypoperfusion.",
+     "images": []
+    }
+   ]
+  },
+  "items": {
+   "1": {
+    "stem": "A 63-year-old man is found by his GP to have a blood pressure of 135/60 mmHg. He is otherwise fit and well and has no significant past medical history.",
+    "answer": "J",
+    "explanation": "A clinic BP below 140/90 mmHg does not meet the threshold for hypertension, so no treatment is needed; give lifestyle advice and re-measure periodically, more often when readings are close to 140/90 mmHg. Saying no further assessment is ever needed is wrong because BP rises with age."
+   },
+   "2": {
+    "stem": "A 63-year-old man with newly diagnosed type 2 diabetes has a blood pressure of 155/89 mmHg at his first outpatient appointment. Fundoscopy shows arteriovenous nipping but no haemorrhages or papilloedema.",
+    "answer": "C",
+    "explanation": "A single clinic reading of 140/90–179/119 mmHg should be confirmed by ambulatory (or home) monitoring before hypertension is diagnosed (NICE NG136). His diabetes and retinal arteriolar changes raise his cardiovascular risk, so treatment should start promptly once ABPM confirms hypertension (daytime average of 135/85 mmHg or more)."
+   },
+   "3": {
+    "stem": "A 65-year-old woman has a blood pressure persistently above 160/90 mmHg over a 2-month assessment period with her GP, despite repeated lifestyle advice. She is otherwise fit and well and asymptomatic.",
+    "answer": "H",
+    "explanation": "Confirmed, persistent hypertension despite lifestyle measures needs drug treatment, started in primary care. NICE recommends a calcium-channel blocker first for patients aged over 55 (ACE inhibitor or ARB if diabetic), whereas ESC favours a single-pill two-drug combination; admission is unnecessary in an asymptomatic patient."
+   },
+   "4": {
+    "stem": "A 67-year-old man presents to the emergency department with headaches. His blood pressure is 220/120 mmHg. Fundoscopy shows some arteriovenous nipping but no haemorrhages, exudates or papilloedema, and he has no other symptoms or signs of acute organ damage.",
+    "answer": "H",
+    "explanation": "Severe hypertension without papilloedema, retinal haemorrhages or other acute organ damage (hypertensive urgency) does not need admission or intravenous therapy; start oral treatment with prompt investigation for target-organ damage and early review. Rapid lowering, e.g. with sublingual nifedipine, is dangerous because it can precipitate cerebral or myocardial ischaemia."
+   },
+   "5": {
+    "stem": "A 62-year-old man is brought to the emergency department by his wife with headaches and blurred vision. He is orientated in time and person but not in place. His blood pressure is 240/140 mmHg and heart rate 84 beats/min. Fundoscopy shows bilateral papilloedema and flame haemorrhages. Neurological examination is otherwise normal, and an emergency head CT shows no neurological cause for his symptoms.",
+    "answer": "A",
+    "explanation": "BP 240/140 mmHg with papilloedema, flame haemorrhages and confusion is a hypertensive emergency (malignant hypertension with encephalopathy). Admit to a high-dependency unit for arterial-line monitoring and IV therapy such as labetalol or nitroprusside, lowering mean arterial pressure by 20–25% over the first hours to avoid cerebral hypoperfusion."
+   }
+  },
+  "why": "Parse split repaired (item 3 was broken into two fragments; full items list replaced); re-keyed to NICE NG136: single raised reading -> ABPM, hypertensive urgency without acute organ damage -> outpatient oral treatment rather than admission; single-/two-agent options merged to avoid NICE-vs-ESC ambiguity"
+ },
+ {
+  "id": "cvsemq-0035",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Chronic heart failure",
+    "NT-proBNP",
+    "Spironolactone"
+   ],
+   "options": [
+    "Angiotensin II receptor blockers",
+    "Angiotensin-converting enzyme inhibitors",
+    "Amlodipine",
+    "Beta-blockers",
+    "B-type natriuretic peptide (BNP or NT-proBNP)",
+    "Digoxin",
+    "Lipid profile",
+    "Loop diuretics",
+    "Verapamil",
+    "Nicorandil",
+    "Spironolactone",
+    "Thiazide diuretics",
+    "Thyroid function tests",
+    "Transoesophageal echocardiography",
+    "Transthoracic Doppler echocardiography",
+    "Troponin I"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "stem": "An 80-year-old woman with ischaemic heart disease presents to the emergency department with a 3-month history of worsening breathlessness and swollen ankles. Her ECG shows no abnormality, but you suspect heart failure. Which simple blood test could effectively rule out heart failure?",
+    "explanation": "A normal natriuretic peptide (NT-proBNP below 400 ng/L, or BNP below 100 ng/L, in the non-acute setting) makes heart failure very unlikely; a raised level mandates echocardiography, urgently (within 2 weeks) if NT-proBNP exceeds 2000 ng/L. Troponin reflects myocardial injury, not heart failure."
+   },
+   "2": {
+    "answer": "O",
+    "stem": "An 80-year-old woman with suspected heart failure has a raised NT-proBNP. Which investigation should be requested next to confirm chronic heart failure?",
+    "explanation": "Transthoracic Doppler echocardiography confirms heart failure by measuring ejection fraction (classifying reduced, mildly reduced or preserved) and identifying valve disease, regional wall-motion abnormalities and diastolic dysfunction. Transoesophageal echo is reserved for specific questions such as endocarditis, atrial appendage thrombus or prosthetic valves."
+   },
+   "3": {
+    "answer": "B",
+    "stem": "An 80-year-old woman has newly confirmed heart failure with reduced ejection fraction and is starting a beta-blocker. Which class of drug acting on the renin–angiotensin system is recommended first line, reduces mortality and helps reverse left ventricular remodelling?",
+    "explanation": "An ACE inhibitor (e.g. ramipril), together with a beta-blocker, is first-line therapy in heart failure with reduced ejection fraction; it reduces mortality and reverses adverse remodelling. An angiotensin II receptor blocker is used only if an ACE inhibitor is not tolerated (e.g. cough), and sacubitril–valsartan may replace it if symptoms persist."
+   },
+   "4": {
+    "answer": "H",
+    "stem": "An 80-year-old woman admitted with chronic heart failure is still breathless with ankle oedema 2 days after admission. Which class of diuretic is the first-line symptomatic treatment of fluid overload in chronic heart failure?",
+    "explanation": "Loop diuretics such as furosemide or bumetanide are first-line for symptomatic fluid overload in heart failure, relieving breathlessness and oedema without improving survival. Thiazides are weaker and are reserved as add-on therapy for diuretic resistance."
+   },
+   "5": {
+    "answer": "K",
+    "stem": "An 80-year-old woman with heart failure with reduced ejection fraction remains breathless, especially when lying flat, 6 months after diagnosis. She takes enalapril, bisoprolol, aspirin and furosemide at optimised doses, and her potassium and renal function are normal. Which additional treatment should be prescribed?",
+    "explanation": "A patient who remains symptomatic on an ACE inhibitor and beta-blocker should have a mineralocorticoid receptor antagonist such as spironolactone added (RALES: about 30% mortality reduction), and an SGLT2 inhibitor is another prognostic option. Check potassium and creatinine before starting and after 1 week; adding an ARB to an ACE inhibitor is not recommended, and verapamil is harmful in reduced ejection fraction."
+   }
+  },
+  "why": "Chained 'Mrs X' items rewritten to stand alone; garbled options fixed (Dicroxin -> digoxin, p-Blockers -> beta-blockers, nonsense 'myoglobin inhibitors' -> verapamil); 'potassium-sparing diuretics' replaced by nicorandil (overlapped with spironolactone); atenolol changed to bisoprolol; item 3 restricted to the RAS-blocker class so beta-blocker/MRA are not also correct"
+ }
+]

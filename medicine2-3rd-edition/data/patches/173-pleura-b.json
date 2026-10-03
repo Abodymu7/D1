@@ -1,0 +1,281 @@
+[
+{
+"id": "pleura-0024",
+"status": "corrected",
+"set": {
+"topics": [
+"Primary spontaneous pneumothorax",
+"Pleurodesis"
+],
+"explanation": "For recurrent primary spontaneous pneumothorax, VATS surgery (bullectomy with pleurectomy or pleural abrasion) is the definitive treatment, with recurrence rates of only about 1–5%. Most first episodes do not need a tube (BTS 2023 offers conservative care, aspiration or an ambulatory device), and recurrence after a first episode is about 30% or more, not <5%. Smoking greatly increases both the risk of first episode and recurrence, and flying should wait until at least 1 week after radiological resolution.",
+"stem": "A 28-year-old tall, thin man who smokes has a small right-sided primary spontaneous pneumothorax. Which statement is true?",
+"options": [
+"Smoking does not affect his risk of recurrence",
+"If it recurs, VATS pleurectomy or pleural abrasion reduces the recurrence rate to about 1–5%",
+"Most patients need tube thoracostomy for the pneumothorax to resolve",
+"The recurrence rate after a first episode is less than 5%",
+"He can fly safely 24 hours after the pneumothorax resolves on X-ray"
+]
+},
+"why": "Original options 'CT likely to show emphysematous changes' (emphysema-like changes are common on CT in PSP) and 'tall thin habitus is the primary risk factor' were defensible; distractors replaced and key reworded to realistic surgical recurrence figures"
+},
+{
+"id": "pleura-0025",
+"status": "expanded",
+"set": {
+"topics": [
+"Light's criteria",
+"Pleural fluid protein"
+],
+"explanation": "Protein is the core test for separating a transudate from an exudate: an exudate has a pleural fluid/serum protein ratio >0.5 (and, per Light's criteria, raised LDH), because the pleural surfaces are more permeable. Amylase, glucose, cell counts and cytology help find the cause of an exudate but do not classify the fluid. BTS 2023: protein >35 g/L suggests an exudate and <25 g/L a transudate, with Light's criteria used in between."
+}
+},
+{
+"id": "pleura-0026",
+"delete": true,
+"why": "Same idea and level as pleura-0001 (recognise the transudative cause among exudative ones; here heart failure)",
+"dup_of": "pleura-0001"
+},
+{
+"id": "pleura-0027",
+"status": "expanded",
+"set": {
+"topics": [
+"Parapneumonic effusion",
+"Pleural aspiration",
+"Thoracic ultrasound"
+],
+"explanation": "A new effusion with ongoing sepsis during pneumonia treatment suggests pleural infection, and BTS 2023 recommends ultrasound-guided diagnostic aspiration: pH <7.2 or purulent fluid means a chest drain is needed, and Gram stain and culture guide antibiotics. Ultrasound finds septations and a safe puncture site, reducing complications. CT can help plan treatment if drainage fails, but it does not replace sampling the fluid; bronchoscopy and PFTs have no role.",
+"stem": "You are called to review a 70-year-old man admitted with pneumococcal pneumonia who has become more unwell, with swinging fevers, worsening breathlessness and pleuritic chest pain. His inflammatory markers are rising and a repeat chest X-ray shows a new right-sided pleural effusion. What is the most appropriate next diagnostic investigation?"
+}
+},
+{
+"id": "pleura-0028",
+"status": "expanded",
+"set": {
+"topics": [
+"Chest drain",
+"Pneumothorax"
+],
+"explanation": "A chest drain for pneumothorax is removed once bubbling has stopped (the air leak has sealed) and the chest X-ray confirms lung re-expansion. A bubbling drain must never be clamped, because this can cause a tension pneumothorax, and it stays unclamped on the ward and during transfers. Loss of swinging suggests a blocked or kinked drain (or full re-expansion), which must be checked, and adequate analgesia is essential to let the patient breathe deeply and cough.",
+"stem": "A 76-year-old man with COPD is admitted to the emergency department with acute-on-chronic breathlessness and has a chest drain inserted for a pneumothorax. Which of the following is true of chest drain management?"
+}
+},
+{
+"id": "pleura-0029",
+"status": "corrected",
+"set": {
+"topics": [
+"Iatrogenic pneumothorax",
+"Central venous catheter"
+],
+"explanation": "Subclavian vein cannulation carries a risk of pneumothorax (about 1–3%) because the apical pleura lies close by, and sudden breathlessness with falling saturations during insertion is typical. An urgent chest X-ray confirms it, and a drain is usually needed for a symptomatic or ventilated patient. Air embolism is possible but usually occurs with an open line and causes cardiovascular collapse, while wire entry into the right ventricle causes arrhythmias; the internal jugular approach under ultrasound lowers the pneumothorax risk.",
+"stem": "A 76-year-old man is admitted to the intensive care unit for intravenous potassium replacement. A central venous line is inserted via the subclavian vein, and during the procedure he becomes acutely breathless with falling oxygen saturation. What is the most likely diagnosis?",
+"options": [
+"The guidewire has entered the right ventricle",
+"His chronic obstructive airways disease has been exacerbated",
+"A pneumothorax has been created",
+"A myocardial infarction has been induced",
+"Air embolism has occurred"
+]
+},
+"why": "Distractor corrected from 'left ventricle' (anatomically implausible via subclavian vein) to right ventricle"
+},
+{
+"id": "pleura-0030",
+"status": "expanded",
+"set": {
+"topics": [
+"Tension pneumothorax",
+"Needle decompression"
+],
+"explanation": "Hypoxia, hypotension and tachycardia with the trachea deviated away from a silent hemithorax is a tension pneumothorax, a clinical diagnosis that needs immediate decompression before any X-ray. Insert a large-bore cannula (2nd intercostal space mid-clavicular line, or 4th–5th space anterior to the mid-axillary line as per ATLS), then place a chest drain. Suction should never be the first step, and fluids or oxygen alone do not relieve the obstructive shock.",
+"stem": "A 58-year-old man with longstanding emphysema presents to the emergency department with sudden breathlessness and left-sided pleuritic chest pain. He is hypoxic, tachypnoeic, hypotensive and tachycardic. His trachea is deviated to the right and breath sounds are markedly reduced on the left. What is the next step in management?",
+"options": [
+"Chest X-ray",
+"Insert a large-bore cannula into the left second intercostal space",
+"Insert a left-sided chest drain with suction",
+"1 L saline bolus",
+"Oxygen via nasal cannulae"
+]
+}
+},
+{
+"id": "pleura-0031",
+"delete": true,
+"why": "Same idea and level as pleura-0009 (acute pleuritic breathlessness with unilateral signs -> pneumothorax diagnosis)",
+"dup_of": "pleura-0009"
+},
+{
+"id": "pleura-0032",
+"status": "corrected",
+"set": {
+"topics": [
+"Pulmonary embolism",
+"Pleuritic chest pain"
+],
+"explanation": "Acute pleuritic chest pain and breathlessness with calf pain 3 weeks after surgery strongly suggest DVT with pulmonary embolism; a normal chest examination is typical. Assess probability with the Wells score, then do CTPA (or V/Q) and start anticoagulation while waiting if the probability is high. Pneumothorax would give abnormal chest signs, heart failure would cause crackles and oedema, and muscle strain does not explain the leg symptoms or recent surgical risk.",
+"stem": "A 66-year-old woman presents to the emergency department with a 2-day history of progressive shortness of breath and sharp right-sided chest pain that is worse on deep inspiration. She also has mild pain in the right leg. Cardiovascular and respiratory examinations are unremarkable; heart rate is 96/min and respiratory rate 12/min. She denies weight loss or long-haul flights but had a nasal polypectomy 3 weeks ago. What is the most likely diagnosis?",
+"chapter": "pvasc"
+},
+"why": "Misfiled pulmonary embolism question moved to pvasc; stem tidied"
+},
+{
+"id": "pleura-0033",
+"status": "expanded",
+"set": {
+"topics": [
+"Pleural effusion",
+"Physical examination"
+],
+"explanation": "Stony dullness with reduced breath sounds, reduced tactile fremitus and reduced expansion on one side, with the trachea pushed away, is a large pleural effusion; fever and weight loss suggest tuberculosis or malignancy as the cause. Pneumothorax is hyper-resonant, consolidation increases fremitus with bronchial breathing, and atelectasis pulls the trachea towards the affected side. Next: ultrasound-guided aspiration."
+}
+},
+{
+"id": "pleura-0034",
+"status": "corrected",
+"set": {
+"topics": [
+"Pleural effusion",
+"Light's criteria",
+"Heart failure"
+],
+"explanation": "All three Light's criteria are negative: protein ratio 0.38 (<0.5), LDH ratio 0.46 (<0.6) and fluid LDH 110 IU/L (below two-thirds of the 190 IU/L upper limit, i.e. <127), so this is a transudate. Congestive heart failure is the commonest cause of a transudate. Bronchogenic carcinoma, pulmonary embolism, sarcoidosis and SLE typically produce exudates; in heart failure patients on diuretics, a serum–pleural albumin gradient >12 g/L or raised pleural NT-proBNP helps confirm a cardiac cause.",
+"stem": "A 64-year-old woman is found to have a right-sided pleural effusion on chest X-ray. Pleural fluid analysis shows a pleural fluid/serum protein ratio of 0.38, a pleural fluid lactate dehydrogenase (LDH) of 110 IU/L (serum upper limit of normal 190 IU/L) and a pleural fluid/serum LDH ratio of 0.46. Which disorder is most likely?",
+"options": [
+"Bronchogenic carcinoma",
+"Congestive heart failure",
+"Pulmonary embolism",
+"Sarcoidosis",
+"Systemic lupus erythematosus"
+],
+"answer": "B"
+},
+"why": "Stem was split across three parse fragments (pleura-0034/0035/0036); rebuilt with options"
+},
+{
+"id": "pleura-0035",
+"delete": true,
+"why": "Parse fragment of pleura-0034 (stem continuation)"
+},
+{
+"id": "pleura-0036",
+"delete": true,
+"why": "Parse fragment of pleura-0034 (lead-in and options merged into pleura-0034)"
+},
+{
+"id": "pleura-0037",
+"status": "corrected",
+"set": {
+"topics": [
+"Pneumothorax",
+"Physical examination"
+],
+"explanation": "A pneumothorax gives hyper-resonance with reduced breath sounds and fremitus on the affected side, and a large or tension pneumothorax pushes the trachea away, here to the right. Tracheal deviation towards the side of reduced breath sounds suggests collapse (volume loss), not pneumothorax. Increased fremitus, localised wheeze or crackles point to consolidation or other pathology.",
+"answer": "B"
+},
+"why": "Source key (trachea deviated towards the affected side) describes collapse; hyper-resonance with contralateral deviation is the pneumothorax finding"
+},
+{
+"id": "pleura-0038",
+"status": "expanded",
+"set": {
+"topics": [
+"Primary spontaneous pneumothorax",
+"Smoking cessation"
+],
+"explanation": "Smoking is the main modifiable risk factor for recurrence of primary spontaneous pneumothorax (dose-dependent, including cannabis), so stopping smoking is the key advice (BTS 2023). Flying is allowed about 1 week after radiological resolution, not 12 months later, and physiotherapy and infection advice have no proven effect. Diving should be avoided permanently unless he has had definitive surgery (bilateral pleurectomy)."
+}
+},
+{
+"id": "pleura-0039",
+"status": "corrected",
+"set": {
+"topics": [
+"Malignant pleural effusion",
+"Lung cancer",
+"Light's criteria"
+],
+"explanation": "The fluid is an exudate (protein ratio 34/61 ≈ 0.56, >0.5) with a lymphocytic cell count and sterile cultures in an older woman with a 3-month history, which strongly suggests malignancy; lung cancer is a leading cause of malignant effusion. Heart failure, hypoalbuminaemia and nephrotic syndrome cause transudates, and a parapneumonic effusion would come with an acute febrile illness and neutrophilia. Send cytology and arrange contrast CT; BTS 2023 recommends thoracoscopy/biopsy if cytology is negative, and an IPC or talc pleurodesis for recurrence.",
+"stem": "A 72-year-old woman is referred to ambulatory care with a 3-month history of increasing breathlessness. She has no significant respiratory history. On examination her observations are normal, with reduced air entry at the right base. Chest X-ray shows a large right-sided pleural effusion. Pleural aspiration results: pleural fluid protein 34 g/L (serum protein 61 g/L); white cell count 2500 cells/μL, predominantly lymphocytes; no organisms on microscopy; no growth on culture after 48 hours. What is the most likely cause of this effusion?"
+},
+"why": "Pleural protein 134 g/L (higher than serum) was implausible; corrected to 34 g/L, white cell count made lymphocytic to fit malignancy"
+},
+{
+"id": "pleura-0040",
+"status": "expanded",
+"set": {
+"topics": [
+"Catamenial pneumothorax",
+"Endometriosis"
+],
+"explanation": "A recurrent right-sided pneumothorax that occurs within 72 hours of the onset of menstruation is a catamenial pneumothorax, caused by thoracic endometriosis (diaphragmatic defects or pleural implants); previous uterine surgery raises the risk. Management includes VATS repair of diaphragmatic defects with pleurodesis plus hormonal suppression. Meigs' syndrome is an effusion with an ovarian fibroma and ascites, and it does not recur with each period.",
+"stem": "A 35-year-old woman presents to the emergency department with sudden right-sided chest pain and shortness of breath that began at the start of her menstrual period. A similar but milder episode occurred during her last period and resolved. The pain now radiates to her shoulder. She has two children, the second delivered by emergency caesarean section. What is the most likely cause of her symptoms?"
+}
+},
+{
+"id": "pleura-0041",
+"status": "corrected",
+"set": {
+"topics": [
+"Primary spontaneous pneumothorax",
+"Ambulatory device"
+],
+"explanation": "BTS 2023: a symptomatic primary spontaneous pneumothorax without high-risk features (haemodynamic compromise, significant hypoxia, bilateral pneumothorax, underlying lung disease, haemopneumothorax, age ≥50 with smoking history) can be managed conservatively, by needle aspiration or with an ambulatory one-way valve device, depending on the patient's priorities. He wants intervention but not admission, so an ambulatory device fits best. A chest drain is for high-risk features or failed first-line treatment, and routine oxygen is not needed with saturations of 96%.",
+"stem": "A 32-year-old man with no significant past medical history presents to the emergency department with sudden-onset left-sided chest pain and breathlessness. There is no trauma or recent infection. Respiratory rate 21/min, SpO2 96% on air, BP 124/78 mmHg, heart rate 88/min, apyrexial. The trachea is central; the left side of the chest is hyper-resonant with reduced breath sounds. Chest X-ray shows a 2.5 cm apical rim of air. His pain and breathlessness are troubling him and he wants the air treated, but he strongly wishes to avoid hospital admission. What is the most appropriate initial management?",
+"answer": "A"
+},
+"why": "Source key (chest drain) is outdated; BTS 2023 offers conservative/aspiration/ambulatory device for PSP without high-risk features; patient-preference detail added to make the ambulatory device the single best answer"
+},
+{
+"id": "pleura-0042",
+"status": "corrected",
+"set": {
+"topics": [
+"Secondary spontaneous pneumothorax",
+"Chest drain",
+"COPD"
+],
+"explanation": "A pneumothorax in a patient with COPD is secondary and high-risk: reduced reserve means even a small leak is poorly tolerated, and the leak often persists. BTS guidance for a symptomatic secondary pneumothorax (especially >2 cm) is admission and an intercostal chest drain from the start. Conservative observation is only for small, minimally symptomatic secondary pneumothoraces in hospital, and aspiration fails more often in this group; refer early to thoracic surgery if the leak persists.",
+"answer": "B"
+},
+"why": "Source key (conservative management) contradicts BTS; symptomatic 3 cm secondary pneumothorax in COPD -> chest drain"
+},
+{
+"id": "pleura-0043",
+"status": "expanded",
+"set": {
+"topics": [
+"Systemic lupus erythematosus",
+"Pleural effusion"
+],
+"explanation": "A photosensitive rash, arthralgia and pleural effusion in a middle-aged woman suggest SLE; pleuritis with a small exudative effusion is the most common thoracic manifestation (serositis). Check ANA and anti-dsDNA, with complement levels. Granulomatosis with polyangiitis causes nodules and ENT/renal disease, progressive massive fibrosis is a coal-worker's pneumoconiosis, and actinomycosis causes chest-wall sinuses.",
+"stem": "A 43-year-old woman has a pleural effusion together with arthralgia and a photosensitive rash that has worsened after sun exposure over the past few months. What is the most likely diagnosis?",
+"options": [
+"Actinomycosis",
+"Adenocarcinoma of the lung",
+"Progressive massive fibrosis",
+"Granulomatosis with polyangiitis",
+"Systemic lupus erythematosus"
+]
+}
+},
+{
+"id": "pleura-0044",
+"delete": true,
+"why": "Same idea and level as pleura-0029 (breathlessness after subclavian line -> iatrogenic pneumothorax)",
+"dup_of": "pleura-0029"
+},
+{
+"id": "pleura-0045",
+"status": "corrected",
+"set": {
+"topics": [
+"Tension pneumothorax"
+],
+"explanation": "Sudden pleuritic pain after exertion in a thin young woman suggests a primary spontaneous pneumothorax; rapid cyanosis, hypotension and tracheal deviation away from a hyper-resonant, silent hemithorax show it has become a tension pneumothorax. Air enters through a one-way valve and raises intrapleural pressure, which impairs venous return. Treat immediately with needle decompression, then a chest drain; PE, MI, ectopic pregnancy and pancreatitis do not cause these unilateral chest signs.",
+"stem": "After a tennis match, a thin 20-year-old woman develops sudden left-sided pleuritic chest pain and breathlessness. A few minutes later she becomes cyanosed and hypotensive; her trachea is deviated to the right and the left hemithorax is hyper-resonant with absent breath sounds. What is the diagnosis?"
+},
+"why": "Stem was truncated/garbled in the source; rewritten with the clinical signs needed to answer"
+}
+]

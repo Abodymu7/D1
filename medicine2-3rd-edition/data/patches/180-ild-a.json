@@ -1,0 +1,379 @@
+[
+ {
+  "id": "ild-0001",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Finger clubbing"
+   ],
+   "explanation": "Six months of dry cough and progressive breathlessness with finger clubbing, fine bibasal end-inspiratory ('Velcro') crackles and resting hypoxaemia in an older adult is the classic picture of idiopathic pulmonary fibrosis (IPF). Chronic bronchitis and bronchiectasis cause a productive cough, asthma causes episodic wheeze, and neither COPD nor asthma causes clubbing (clubbing in a smoker with COPD should prompt a search for lung cancer). The next step is HRCT, looking for a usual interstitial pneumonia (UIP) pattern."
+  }
+ },
+ {
+  "id": "ild-0002",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Pulmonary function tests"
+   ],
+   "explanation": "IPF produces a restrictive defect: stiff lungs reduce TLC, FVC and FEV1 roughly in proportion, while increased radial traction holds the airways open, so the FEV1/FVC ratio is normal or high (often above 0.8). Gas transfer (TLCO) is characteristically reduced, often early. A raised FEV1, a normal or increased FVC and an increased TLC (hyperinflation, as in emphysema) are all inconsistent with fibrosis. Serial FVC and TLCO are used to track progression; a fall in FVC of 5–10% or more within a year signals progressive disease."
+  }
+ },
+ {
+  "id": "ild-0003",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Honeycombing",
+    "HRCT"
+   ],
+   "explanation": "The hallmark of IPF is the usual interstitial pneumonia (UIP) pattern: subpleural, basal-predominant reticulation with honeycombing (clustered thick-walled cystic airspaces) and traction bronchiectasis. A hyperinflated chest suggests COPD, bronchial wall thickening suggests bronchiectasis or asthma, and patchy opacities are non-specific (infection, organising pneumonia). Pleural effusion is not a feature of IPF and should suggest connective tissue disease, heart failure or asbestos-related disease. Under the ATS/ERS 2022 guideline a typical UIP pattern on HRCT in the right clinical context is diagnostic without biopsy."
+  }
+ },
+ {
+  "id": "ild-0004",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Type 1 respiratory failure",
+    "Arterial blood gases"
+   ],
+   "explanation": "Fibrosis thickens the alveolar–capillary membrane and causes ventilation–perfusion mismatch, so PaO2 falls, while stimulation of pulmonary stretch and J receptors plus hypoxaemia drive hyperventilation that lowers PaCO2: type 1 respiratory failure. A raised PaCO2 (with a compensatory rise in bicarbonate) reflects alveolar hypoventilation, a late pre-terminal event in IPF rather than the typical finding. A raised PaO2 is impossible with an SpO2 of 88% on air.",
+   "answer": "C"
+  },
+  "why": "Source key (raised bicarbonate) is wrong; IPF causes type 1 respiratory failure – low PaO2 with low or normal PaCO2"
+ },
+ {
+  "id": "ild-0005",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Antifibrotic therapy",
+    "Nintedanib"
+   ],
+   "explanation": "The antifibrotics pirfenidone and nintedanib roughly halve the annual decline in FVC and are the only disease-modifying drugs for IPF (NICE supports either when FVC is 50–80% predicted, and nintedanib also above 80%). Prednisolone, alone or with azathioprine and N-acetylcysteine, increased mortality in the PANTHER-IPF trial and is not used except for acute exacerbations. Inhaled corticosteroids, LAMAs and beta-agonists treat airflow obstruction and have no role. Supportive care includes pulmonary rehabilitation, oxygen for hypoxaemia and early referral for lung transplantation."
+  }
+ },
+ {
+  "id": "ild-0006",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "HRCT"
+   ],
+   "explanation": "Progressive exertional breathlessness, Velcro crackles and clubbing with a restrictive defect, a disproportionately low DLCO and an HRCT showing basal subpleural reticulation, honeycombing and traction bronchiectasis (a UIP pattern) is diagnostic of IPF once exposures, drugs and connective tissue disease have been excluded. Pulmonary oedema gives septal lines, effusions and cardiomegaly; COPD an obstructive defect with emphysema; pulmonary embolism a normal parenchyma with a filling defect on CTPA. Asthma causes neither clubbing nor honeycombing."
+  }
+ },
+ {
+  "id": "ild-0007",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Finger clubbing",
+    "Crackles"
+   ],
+   "explanation": "Fibrosing alveolitis (the older British name for IPF) causes fine, late-inspiratory 'Velcro' crackles at the bases and finger clubbing in up to half of patients. Orthopnoea with bibasal crackles suggests left ventricular failure, and a productive cough with wheeze suggests chronic bronchitis or asthma. Haemoptysis is uncommon in IPF and should raise suspicion of lung cancer, whose risk is increased in IPF."
+  }
+ },
+ {
+  "id": "ild-0008",
+  "delete": true,
+  "dup_of": "ild-0001",
+  "why": "Same idea as 39 Blocks ild-0001 (older patient with dry cough, clubbing and basal crackles/reticulation = IPF)"
+ },
+ {
+  "id": "ild-0009",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Epidemiology"
+   ],
+   "explanation": "IPF is a disease of older adults: it is rare before 50, most patients are diagnosed in their 60s–70s, and it is commoner in men and ex-smokers, so onset at 30–40 years should prompt a search for another cause (connective tissue disease, hypersensitivity pneumonitis, familial fibrosis). Clubbing, traction bronchiectasis on HRCT and secondary pulmonary hypertension are all typical. Median survival without treatment is only about 3–5 years from diagnosis, worse than many cancers."
+  }
+ },
+ {
+  "id": "ild-0010",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Radiation pneumonitis",
+    "Corticosteroids"
+   ],
+   "explanation": "Radiation pneumonitis typically appears 1–3 months after thoracic radiotherapy (including tangential breast fields) with dry cough, breathlessness and low-grade fever, and opacities that follow the radiation field rather than anatomical boundaries. Symptomatic cases are treated with oral corticosteroids (e.g. prednisolone 30–60 mg daily tapered over several weeks) once infection has been excluded. Bronchodilators, montelukast and tiotropium act on airway obstruction and do not treat the alveolitis; untreated, it may progress to radiation fibrosis 6–12 months later."
+  }
+ },
+ {
+  "id": "ild-0011",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Bronchiolitis obliterans",
+    "Rheumatoid arthritis"
+   ],
+   "explanation": "An FEV1/FVC ratio of 0.50 without reversibility is fixed airflow obstruction, and in rheumatoid arthritis the recognised cause is obliterative bronchiolitis (bronchiolitis obliterans), a constrictive fibrosis of the small airways; HRCT shows mosaic attenuation with expiratory air trapping. Methotrexate pneumonitis and rheumatoid or idiopathic pulmonary fibrosis all produce a restrictive pattern with a normal or high ratio and low TLCO. Anaemia causes breathlessness but not an obstructive spirometric defect.",
+   "stem": "A 50-year-old woman with rheumatoid arthritis, recently started on methotrexate and naproxen, becomes progressively breathless. Spirometry shows an FEV1/FVC ratio of 0.50 with no significant bronchodilator reversibility. What is the most likely cause of her breathlessness?"
+  },
+  "why": "Stem clarified: 'FEV1/FVC 50% of predicted' changed to a ratio of 0.50 without reversibility so the fixed obstructive defect is unambiguous"
+ },
+ {
+  "id": "ild-0012",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Interstitial lung disease",
+    "Pulmonary function tests"
+   ],
+   "explanation": "With clinical and CT evidence of fibrotic interstitial lung disease, the next step is full pulmonary function testing (spirometry, lung volumes and TLCO): it confirms the restrictive defect and reduced gas transfer, sets a baseline for monitoring and determines eligibility for antifibrotics, while autoimmune serology and a drug and exposure history are gathered before multidisciplinary review. Bronchoscopy with lavage is reserved for cases where the HRCT pattern is not diagnostic. Empirical high-dose prednisolone is wrong because steroids do not help and may harm IPF, and bronchodilators have no role."
+  }
+ },
+ {
+  "id": "ild-0013",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Clinical signs"
+   ],
+   "explanation": "IPF causes tachypnoea, fine bibasal inspiratory crackles, finger clubbing and, in advanced disease, central cyanosis from hypoxaemia and signs of cor pulmonale. Tremor and hyperreflexia are neurological signs unrelated to IPF; even a CO2-retention flap is unusual, because IPF causes type 1 respiratory failure until the terminal stage. Bilateral, symmetrical fibrosis does not shift the mediastinum.",
+   "options": [
+    "Tachypnoea",
+    "Fine inspiratory crackles",
+    "Tremor or hyperreflexia",
+    "Central cyanosis in advanced disease",
+    "Finger clubbing"
+   ]
+  },
+  "why": "'Mediastinal shift' replaced by central cyanosis: mediastinal shift is also atypical of IPF, which gave two correct answers"
+ },
+ {
+  "id": "ild-0014",
+  "delete": true,
+  "dup_of": "ild-0007",
+  "why": "Same question as 39 Blocks ild-0007 (fibrosing alveolitis = clubbing and Velcro crackles)"
+ },
+ {
+  "id": "ild-0015",
+  "delete": true,
+  "dup_of": "ild-0001",
+  "why": "Same idea as 39 Blocks ild-0001 (breathlessness, clubbing and fine bibasal crackles = IPF)"
+ },
+ {
+  "id": "ild-0016",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Honeycombing",
+    "HRCT"
+   ],
+   "explanation": "The CT shows peripheral, subpleural reticulation with clustered honeycomb cysts and traction bronchiectasis – a usual interstitial pneumonia pattern – which with this history indicates IPF. Bronchiectasis gives dilated, thick-walled airways (signet-ring sign); emphysema gives low-attenuation areas without visible walls; lymphangitis carcinomatosa causes beaded thickening of the interlobular septa; post-TB scarring is apical with volume loss and calcification. Honeycombing is irreversible and indicates established fibrosis.",
+   "answer": "C",
+   "stem": "A 73-year-old woman has a 1-year history of progressive exertional breathlessness and a dry cough. She has finger clubbing and bibasal crackles. Her CT chest is shown. What is the most likely cause of the CT appearance?"
+  },
+  "why": "Missing key set to C (source key); image confirmed as a UIP-pattern CT"
+ },
+ {
+  "id": "ild-0017",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Usual interstitial pneumonia",
+    "HRCT"
+   ],
+   "explanation": "Under the ATS/ERS/JRS/ALAT 2022 guideline, a typical (or probable) UIP pattern on HRCT in the right clinical context – an older patient with no exposure, drug or connective tissue cause – is sufficient for a diagnosis of IPF after multidisciplinary discussion, and lung biopsy is not needed. Transbronchial biopsies are small and rarely diagnostic of UIP (transbronchial cryobiopsy is used when HRCT is indeterminate), while blind needle aspiration, bronchial washings and EBUS of a subcarinal node sample the airways or nodes, not the fibrotic parenchyma.",
+   "stem": "A 71-year-old man presents with increasing breathlessness. He has no relevant occupational or drug exposures and no features of connective tissue disease. HRCT shows bilateral subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis. Which statement about confirming the diagnosis is correct?"
+  },
+  "why": "Lead-in 'What does his CXR show?' did not match the options; rewritten as a diagnostic-pathway question with the exclusions needed for an HRCT-based diagnosis"
+ },
+ {
+  "id": "ild-0018",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Pulmonary function tests",
+    "Transfer factor"
+   ],
+   "explanation": "An FEV1/FVC ratio of 0.84 excludes airflow obstruction and normal FVC and TLC exclude restriction, so the only abnormality is an isolated reduction in gas transfer (TLCO and KCO). An isolated low TLCO is non-specific – early emphysema, early interstitial lung disease, pulmonary vascular disease (pulmonary hypertension, chronic thromboembolism) and anaemia are all possible – so it cannot by itself indicate emphysema or hypersensitivity pneumonitis. Next steps are a haemoglobin, HRCT and, if the parenchyma is normal, echocardiography for pulmonary vascular disease.",
+   "answer": "C",
+   "stem": "A 62-year-old ex-smoker presents with breathlessness on exertion. Pulmonary function tests: FEV1 3.2 L (98% predicted), FVC 3.8 L (97% predicted), FEV1/FVC 0.84, TLC 96% predicted, TLCO 44% predicted, KCO 56% predicted. How should these results be interpreted?",
+   "options": [
+    "Gas transfer reduction indicates emphysema",
+    "Gas transfer reduction indicates hypersensitivity pneumonitis",
+    "No evidence of airways obstruction",
+    "There is a restrictive picture",
+    "There is an obstructive picture"
+   ]
+  },
+  "why": "Source split this question across ild-0018/ild-0019; stem and options merged here, predicted values added (the original absolute volumes were internally inconsistent), key C per source"
+ },
+ {
+  "id": "ild-0019",
+  "delete": true,
+  "why": "Parse fragment: second half of ild-0018 (stem and options merged into ild-0018)"
+ },
+ {
+  "id": "ild-0020",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Idiopathic interstitial pneumonias"
+   ],
+   "explanation": "Basal, peripheral reticulation with honeycomb cysts is the usual interstitial pneumonia pattern, which in an older patient with clubbing and no alternative cause means IPF. Non-specific interstitial pneumonia gives more uniform ground-glass with fine reticulation, often with subpleural sparing and little honeycombing, in younger patients often with connective tissue disease. Acute interstitial pneumonia is a rapidly progressive ARDS-like illness; lymphocytic interstitial pneumonia causes ground-glass with thin-walled cysts (Sjögren's syndrome, HIV); fibrotic sarcoidosis is upper-zone and perihilar.",
+   "answer": "B"
+  },
+  "why": "Missing key set to B (source key)"
+ },
+ {
+  "id": "ild-0021",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Respiratory bronchiolitis–interstitial lung disease",
+    "Smoking"
+   ],
+   "explanation": "RB-ILD is a smoking-related interstitial pneumonia in which pigmented macrophages accumulate in the respiratory bronchioles of current heavy smokers, usually aged 30–60, producing centrilobular nodules and patchy ground-glass on HRCT. It is not a disease of non-smokers, the elderly or connective tissue disease. Smoking cessation is the key treatment and usually leads to improvement; desquamative interstitial pneumonia and pulmonary Langerhans cell histiocytosis are the other smoking-related ILDs.",
+   "answer": "D"
+  },
+  "why": "Missing key set to D (source key)"
+ },
+ {
+  "id": "ild-0022",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Sarcoidosis",
+    "Scadding staging"
+   ],
+   "explanation": "Scadding chest radiograph staging: stage 0 normal; I bilateral hilar lymphadenopathy alone; II lymphadenopathy plus parenchymal infiltrates; III infiltrates without lymphadenopathy; IV established fibrosis (upper-zone reticulation, volume loss, traction bronchiectasis). Extensive fibrosis therefore defines stage IV even when hilar nodes remain enlarged. Stage I usually resolves spontaneously, whereas stage IV is irreversible and may need management of pulmonary hypertension or transplant referral."
+  }
+ },
+ {
+  "id": "ild-0023",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lymphangioleiomyomatosis",
+    "Pneumothorax"
+   ],
+   "explanation": "Recurrent pneumothorax in a young woman with diffuse thin-walled lung cysts and a renal mass (angiomyolipoma) is lymphangioleiomyomatosis (LAM), a proliferation of smooth-muscle-like LAM cells with mTOR activation that is sporadic or associated with tuberous sclerosis. A serum VEGF-D above 800 pg/mL supports the diagnosis, and sirolimus stabilises lung function. Pulmonary Langerhans cell histiocytosis also causes cysts and pneumothorax but affects smokers, spares the bases and is not linked with angiomyolipoma; alveolar proteinosis and microlithiasis do not produce cysts."
+  }
+ },
+ {
+  "id": "ild-0024",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Progressive massive fibrosis",
+    "Pneumoconiosis"
+   ],
+   "explanation": "Progressive massive fibrosis is the complicated form of coal worker's pneumoconiosis and silicosis: small nodules coalesce into large (over 1 cm) upper-zone conglomerate masses, causing a mixed restrictive–obstructive defect, cor pulmonale and sometimes melanoptysis (black sputum from cavitation), and it can progress even after exposure ceases. Clubbing and basal crackles are features of asbestosis or IPF, not PMF, and chyloptysis is a feature of lymphangioleiomyomatosis."
+  }
+ },
+ {
+  "id": "ild-0025",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Silicosis",
+    "Occupational lung disease"
+   ],
+   "explanation": "Silicosis is a fibrotic nodular lung disease caused by inhaling respirable crystalline silica, most commonly quartz, in stonemasonry, quarrying, sandblasting, foundry work and engineered-stone (kitchen worktop) fabrication. Silicone is a synthetic polymer, not silica; coal dust causes coal worker's pneumoconiosis, cotton dust byssinosis and tin oxide the benign pneumoconiosis stannosis. Silicosis increases the risk of tuberculosis, lung cancer and autoimmune disease, so exposed workers are screened for TB."
+  }
+ },
+ {
+  "id": "ild-0026",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Idiopathic pulmonary fibrosis",
+    "Pulmonary function tests"
+   ],
+   "explanation": "Parenchymal fibrosis reduces all lung volumes (TLC, VC and RV), while increased elastic recoil and radial traction hold the airways open so the FEV1/FVC ratio is preserved or increased; respiratory muscle strength (maximal inspiratory pressure, MIP) is normal. A raised RV with a reduced MIP indicates neuromuscular or chest wall restriction, where weak muscles cannot fully inflate or empty the lungs. An increased TLC or RV with a low ratio indicates obstruction with hyperinflation or air trapping, and entirely normal volumes and spirometry are seen in pulmonary vascular disease.",
+   "answer": "B",
+   "options": [
+    "Increased TLC, decreased vital capacity, decreased FEV1/FVC ratio",
+    "Decreased TLC, decreased VC, decreased RV, increased FEV1/FVC ratio, normal MIP",
+    "Decreased TLC, increased RV, normal FEV1/FVC ratio, decreased MIP",
+    "Normal TLC, normal RV, normal FEV1/FVC ratio, normal MIP",
+    "Normal TLC, decreased VC, increased RV, decreased FEV1/FVC ratio, normal MIP"
+   ]
+  },
+  "why": "Parsed key (E, 'None') was wrong; source key B. 'None' replaced by a plausible air-trapping pattern"
+ },
+ {
+  "id": "ild-0027",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Interstitial lung disease",
+    "HRCT"
+   ],
+   "explanation": "HRCT is the key investigation in suspected interstitial lung disease: the pattern and distribution (UIP, NSIP, hypersensitivity pneumonitis, organising pneumonia, sarcoidosis) often establish the specific diagnosis without tissue, and they guide any biopsy. Transbronchial biopsies are small and add little unless HRCT is non-diagnostic; CTPA is optimised for emboli rather than parenchyma; echocardiography and stress testing assess cardiac causes of dyspnoea but cannot explain bibasal Velcro crackles.",
+   "stem": "A 65-year-old man has progressive dyspnoea with bibasal crackles, and interstitial lung disease is suspected. Which test is most likely to determine the aetiology?"
+  }
+ },
+ {
+  "id": "ild-0028",
+  "delete": true,
+  "dup_of": "resinf-0081",
+  "why": "Same idea as resinf-0081 (pet-bird exposure with diffuse ground-glass = hypersensitivity pneumonitis); the diagnosis is also retained within the vignette of ild-0029"
+ },
+ {
+  "id": "ild-0029",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Hypersensitivity pneumonitis",
+    "Antigen avoidance",
+    "Corticosteroids"
+   ],
+   "explanation": "Avian antigen exposure, subacute symptoms, ground-glass with centrilobular nodules and poorly formed non-caseating granulomas indicate hypersensitivity pneumonitis. The cornerstone of management is complete removal from the antigen – often all that is needed in mild non-fibrotic disease – with oral glucocorticoids (e.g. prednisolone about 0.5 mg/kg, tapered) for symptomatic or physiologically significant disease. Azathioprine or mycophenolate is added only as a steroid-sparing agent in chronic or progressive disease, and amphotericin or doxycycline would treat fungal infection or psittacosis, which the histology does not support.",
+   "stem": "A 34-year-old woman who works in a pet shop has had subacute breathlessness and a dry cough for 2 months. HRCT shows diffuse ground-glass opacity with poorly defined centrilobular nodules, and transbronchial biopsy shows loosely formed non-caseating granulomas with a lymphocytic interstitial infiltrate. What is the most appropriate management?"
+  },
+  "why": "Stem referred to 'the patient in Question VI-21'; rewritten as a standalone vignette"
+ },
+ {
+  "id": "ild-0030",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Silicosis",
+    "Tuberculosis"
+   ],
+   "explanation": "Silica is toxic to alveolar macrophages and impairs their killing of mycobacteria, so silicosis carries a markedly increased risk of tuberculosis, non-tuberculous mycobacteria and fungal infection, including Aspergillus in cavitated conglomerate masses. Crystalline silica is a group 1 carcinogen causing lung cancer, and exposure is associated with autoimmune disease including rheumatoid arthritis (Caplan syndrome), systemic sclerosis and ANCA vasculitis. All the listed conditions are therefore linked; exposed workers need TB screening and smoking cessation."
+  }
+ },
+ {
+  "id": "ild-0031",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Occupational lung disease",
+    "Progressive massive fibrosis"
+   ],
+   "explanation": "Progressive massive fibrosis complicates coal worker's pneumoconiosis and silicosis, i.e. mining, quarrying and stone work; shipyard workers are exposed to asbestos, which causes pleural plaques, asbestosis and mesothelioma. The other pairs are correct: berylliosis (a sarcoid-like granulomatous disease) in electronics, aerospace and nuclear industries; byssinosis (Monday chest tightness) in cotton milling; farmer's lung from mouldy hay; and metal fume fever, a self-limiting flu-like illness, from zinc oxide fumes during welding."
+  }
+ },
+ {
+  "id": "ild-0032",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Farmer's lung",
+    "Hypersensitivity pneumonitis"
+   ],
+   "explanation": "Fever, chills, cough and breathlessness 4–8 hours after handling mouldy hay is acute farmer's lung, a hypersensitivity pneumonitis caused by thermophilic actinomycetes (chiefly Saccharopolyspora rectivirgula) that proliferate in damp, heated hay. Nocardia, Histoplasma and Cryptococcus cause infection rather than a hypersensitivity reaction, and Aspergillus is a less typical cause. Management is antigen avoidance (drying hay, respiratory protection) with corticosteroids for severe episodes.",
+   "stem": "A 53-year-old farmer develops sudden fever, chills and breathlessness a few hours after stacking mouldy hay. Which organism is most likely responsible?"
+  }
+ }
+]

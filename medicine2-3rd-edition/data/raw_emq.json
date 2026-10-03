@@ -1,0 +1,5664 @@
+[
+ {
+  "section": 0,
+  "bank": "Other Sources",
+  "no": 1,
+  "theme": "Pre test- Valvular or Related Heart Disease",
+  "page": 177,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Tricuspid stenosis",
+   "Tricuspid regurgitation",
+   "Mitral stenosis",
+   "Mitral regurgitation",
+   "Aortic regurgitation (insufficiency)",
+   "Aortic stenosis",
+   "Hypertrophic cardiomyopathy",
+   "Pulmonic stenosis",
+   "Pulmonic regurgitation (insufficiency)"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "This tall, thin 19-year-old white female with little previous health care complains primarily of decreased vision. You note a strong pulse, blood pressure of 180/70, and a high-pitched, blowing, diastolic decrescendo murmur."
+   },
+   {
+    "n": 2,
+    "stem": "A 23-year-old graduate student complains of extreme fatigue and a vague sense of feeling ill the past few weeks. He has been under a lot of stress recently and is slightly agitated. On examination, BP is 110/70, pulse is 100, and temperature is 100.5°F (38.0°C). The neck veins are distended with prominent ν waves. A holosystolic murmur is heard at the left sternal border; the murmur intensifies on inspiration."
+   },
+   {
+    "n": 3,
+    "stem": "An 18-year-old male is sent over from his physical education class owing to his symptoms of dizziness and palpitations after exercise. The instructor thinks he may be faking this to get out of future activities. Vital signs are within normal limits. A rapidly rising carotid pulse is noted. On auscultation an S4 is heard along with a harsh systolic crescendo-decrescendo murmur, beginning well after S1, best noted at the lower left sternal border."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "1-e 2-b 3-g"
+ },
+ {
+  "section": 0,
+  "bank": "Other Sources",
+  "no": 2,
+  "theme": "Antiarrhythmic Management",
+  "page": 177,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Amiodarone",
+   "Atropine",
+   "Digoxin",
+   "Diltiazem",
+   "Isoproterenol",
+   "Lidocaine",
+   "Metoprolol",
+   "Quinidine",
+   "Observation"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 72-year-old male presents with a 2-hour history of chest pain, acute ST segment elevation in leads II, III, and a VF, and sinus bradycardia at a rate of 40. His blood pressure is 80/40 mm Hg."
+   },
+   {
+    "n": 2,
+    "stem": "A 58-year-old female smoker is admitted to the ICU with respiratory distress owing to pneumonia. Her course is complicated by an anterior myocardial infarction, with management including cautious use of beta-blockers. She now develops 10 to 12 PVCs per hour, occasional couplets, and a few short runs of ventricular tachycardia, although blood pressure and oxygen saturation remain stable."
+   },
+   {
+    "n": 3,
+    "stem": "A 60-year-old male during his first day post-myocardial infarction in the CCU develops an accelerated idioventricular rhythm, with rate of 80."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "1-b 2-a 3-i 6. A, B, C, D, E"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 1,
+  "theme": "presentations of SOB (First Block)",
+  "page": 178,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "options": [
+   "Bronchiectasis",
+   "Pulmonary Tuberculosis",
+   "Pulmonary Embolism",
+   "Acute Asthma Exacerbation"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 21-year-old man with productive cough, recurrent chest infections, clubbing of fingers and bilateral coarse crackles."
+   },
+   {
+    "n": 2,
+    "stem": "A 63-year-old man with massive hemoptysis, central cyanosis, cervical lymphadenopathy, fever, hypotension and bilateral fine crepitations."
+   },
+   {
+    "n": 3,
+    "stem": "A 45-year-old man with sudden shortness of breath after a long flight; chest X-ray is normal."
+   },
+   {
+    "n": 4,
+    "stem": "A 16-year-old asthmatic boy with recurrent wheezing, expiratory rhonchi, dull percussion and basal crepitations."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "1. A, B, C, D"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 2,
+  "theme": "leg edema (First Block)",
+  "page": 178,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "options": [
+   "Deep Venous Thrombosis",
+   "Cor Pulmonale",
+   "Cellulitis",
+   "Congestive Heart Failure"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 35-year-old female on oral contraceptive pills with a recent fracture presenting with right leg swelling and mild pain."
+   },
+   {
+    "n": 2,
+    "stem": "A 65-year-old heavy smoker with chronic cough, sputum production, severe shortness of breath, elevated JVP, bilateral pitting edema and flapping tremor."
+   },
+   {
+    "n": 3,
+    "stem": "A middle-aged lady with progressive exertional dyspnea, orthopnea, occasional PND, elevated JVP, fine basal crepitations, mild ascites and moderate pedal edema with an S3."
+   },
+   {
+    "n": 4,
+    "stem": "A 62-year-old man with hypertension, diabetes and ischemic heart disease presenting with left leg pitting edema, redness and tenderness."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "2. A, B, C, D"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 3,
+  "theme": "presentations with Tx (First Block)",
+  "page": 179,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H"
+  ],
+  "options": [
+   "Rosuvastatin",
+   "Heparin",
+   "Hydrochlorothiazide",
+   "Enalapril",
+   "Salbutamol inhaler as needed",
+   "Isosorbide mononitrate",
+   "Ibuprofen",
+   "Steroid inhaler"
+  ],
+  "items": [
+   {
+    "n": 16,
+    "stem": "A 67-year-old man with history of DM, hypertension and ischemic heart disease to emergency department at 4 AM because of severe breathlessness awake him from the relieved by sitting associated with cough and whitish frothy sputum. His PR 126b/min, and BP 120/70 mmHg"
+   },
+   {
+    "n": 17,
+    "stem": "A 31-year-old woman who is 4 days post cholecystectomy, presented with severe breathlessness more on exertion and sitting position but relieved by lying flat. PR 112b/ min regular and BP 95/60mmHg, JVP was elevated"
+   },
+   {
+    "n": 18,
+    "stem": "A 62 years old woman developed progressive exertional dyspnea and dry cough months. On examination clubbing of fingers was found, chest expansion was 2 cm. Lung fune test was as follow; FVC 0.96 L (predicted 2.75 L), FEV1 0.92 L (predicted 2.3 L)"
+   },
+   {
+    "n": 19,
+    "stem": "A middle age woman presented to the emergency unit with severe breathlessness after accident. On examination she was dyspneic and cyanosed, PR 120 b/min, BP 90/55 mmHg, the was absent air entry on the left side and the mediastinum was shifted to the right"
+   },
+   {
+    "n": 20,
+    "stem": "A 65-year-old lady presents to her GP for an annual review of her heart failure treatment. She has a blood pressure of 165/95 mmHg. She is currently taking furose mide and aspirin. Which of the following is the most appropriate medication to add a) Rosuvastatin b) I.V Heparin c) Candesartan d) Prednisolone e) Intravenous frusemide f) Short acting beta 2 agonist inhaler on need g) Chest tube h) Isosorbide mononitrate i) Pirfenidone j) Steroid inhaler"
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "Answers: Q16: e) Intravenous frusemide Q17: b) IV Heparin Q18: i) Pirfenidone Q19: g) Chest tube Q20: c) Candesartan"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 4,
+  "theme": "investigations for the patients? (First",
+  "page": 180,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Sputum for acid fast bacilli and culture",
+   "Full blood count and ESR",
+   "CT pulmonary angiography",
+   "Bronchoscopy and biopsy",
+   "Sputum cytology",
+   "Urine metanephrine and normetanephrine assay",
+   "T3, T4, TSH",
+   "Serum ceruloplasmin",
+   "Sputum Gram stain"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 58-year-old chronic heavy smoker with chronic cough, increasing sputum volume, hemoptysis and a chest X-ray showing high hilar opacity."
+   },
+   {
+    "n": 2,
+    "stem": "A 45-year-old lady with progressive cough, white to grey sputum, low grade fever, sweating, weight loss and bilateral alveolar opacities."
+   },
+   {
+    "n": 3,
+    "stem": "A 64-year-old man with hypertension and congestive heart failure presenting with recurrent fainting and ECG showing ST elevation in V1–V4."
+   },
+   {
+    "n": 4,
+    "stem": "A 16-year-old student with a non-viral cough disturbing his sleep for 2 months after moving to a new house."
+   },
+   {
+    "n": 5,
+    "stem": "A 38-year-old man with recurrent headache, palpitation and vomiting, with postural blood pressure changes."
+   }
+  ],
+  "images": [],
+  "note": "Block)",
+  "answers_raw": "4. D, A, B, I, F"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 5,
+  "theme": "pulse examination with Dx (Second Block)",
+  "page": 181,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "options": [
+   "Coarctation of Aorta",
+   "Acute CO2 Retention",
+   "Aortic Regurgitation",
+   "Aortic Stenosis",
+   "Cardiac Tamponade"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Radiofemoral delay in a patient."
+   },
+   {
+    "n": 2,
+    "stem": "Bounding pulse in a patient who is short of breath."
+   },
+   {
+    "n": 3,
+    "stem": "Collapsing pulse with wide pulse pressure and ‘pistol-shot’ sound heard over femoral arteries."
+   },
+   {
+    "n": 4,
+    "stem": "Slow rising pulse with narrow pulse pressure, heaving apex beat and a fourth heart sound."
+   },
+   {
+    "n": 5,
+    "stem": "Pulsus paradoxus with JVP rising on inspiration and muffled heart sounds."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "5. A, B, C, D, E"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 6,
+  "theme": "FINDINGS IN CARDIAC AUSCULTA",
+  "page": 181,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "options": [
+   "Mitral Regurgitation",
+   "Bicuspid Aortic Valve",
+   "Atrial Septal Defect (ASD)",
+   "Congenital Pulmonary Stenosis",
+   "Coarctation of Aorta"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 45-year-old woman with a pansystolic murmur best heard at the apex radiating to the axilla."
+   },
+   {
+    "n": 2,
+    "stem": "A 29-year-old boy with an ejection systolic murmur in the right 2nd intercostal space with a soft second heart sound."
+   },
+   {
+    "n": 3,
+    "stem": "A 12-year-old boy with a soft ejection systolic murmur in the left 2nd intercostal space."
+   },
+   {
+    "n": 4,
+    "stem": "An 11-year-old boy with a harsh ejection systolic murmur heard best posteriorly with fixed splitting of the second heart sound."
+   },
+   {
+    "n": 5,
+    "stem": "A 7-year-old boy with a harsh ejection systolic murmur in the left 2nd intercostal space with a soft second heart sound."
+   }
+  ],
+  "images": [],
+  "note": "TION (Second Block)",
+  "answers_raw": ""
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 7,
+  "theme": "CXR INTERPRETATION  (2020 -net exam)",
+  "page": 182,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K"
+  ],
+  "options": [
+   "Heart failure",
+   "Right upper lobe collapse",
+   "Idiopathic pulmonary fibrosis",
+   "Arteriovenous malformation",
+   "Lung abscess",
+   "Left atrial enlargement",
+   "Pneumonia",
+   "Pleural plaque",
+   "Hemothorax",
+   "Right upper lobe collapse",
+   "Idiopathic pulmonary fibrosis L Lung abscess"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "CXR shows double shadow of the right heart border; prominent left atrial appendage and elevation of the left main bronchus."
+   },
+   {
+    "n": 2,
+    "stem": "CXR shows Kerley B lines, bat wing shadowing, prominent upper lobe vessels and cardiomegaly."
+   },
+   {
+    "n": 3,
+    "stem": "CXR shows trachea deviated to the right, horizontal fissure and right hilum displaced upwards. 4 CXR shows a ground-glass appearance with reticular infiltrates in both lower lobes in subpleural and sub-diaphragmatic areas."
+   },
+   {
+    "n": 5,
+    "stem": "CXR shows a round cavity with an air–fluid level."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "7. F , A , J, K , L"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 8,
+  "theme": "presentations of SOB (2020 -Internet exam)",
+  "page": 183,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O"
+  ],
+  "options": [
+   "Bronchiectasis",
+   "Pulmonary Tuberculosis",
+   "Pink Pulmonary Edema",
+   "Bronchopneumonia",
+   "Asthma",
+   "Chronic Obstructive Pulmonary Disease (COPD)",
+   "Pulmonary Embolism",
+   "Acute Respiratory Distress Syndrome (ARDS)",
+   "Interstitial Lung Disease (ILD)",
+   "Congestive Heart Failure (CHF)",
+   "Pneumothorax",
+   "Pleural Effusion",
+   "Anaphylaxis",
+   "Acute Myocardial Infarction (AMI)",
+   "Cardiac Tamponade"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 21-year-old man with productive cough, history of severe measles, clubbing, cyanosis and bilateral coarse crackles."
+   },
+   {
+    "n": 2,
+    "stem": "A 63-year-old man with progressive exertional dyspnea, massive hemoptysis, long-standing cough with blood clots, central cyanosis, bounding pulses and localized wheeze over the right upper chest."
+   },
+   {
+    "n": 3,
+    "stem": "A 66-year-old man with sudden onset shortness of breath, cough and pink frothy sputum, cold and clammy with poor peripheral perfusion."
+   },
+   {
+    "n": 4,
+    "stem": "A 70-year-old man with sudden onset of shortness of breath, fever, rigors and a left-sided dull percussion note with bronchial breathing."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "10. A, B, C, D"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 9,
+  "theme": "the appropriate treatment (Second Block)",
+  "page": 183,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Rosuvastatin",
+   "Heparin",
+   "Lisinopril",
+   "Prednisolone",
+   "Intravenous furosemide",
+   "Short acting beta2 agonist inhaler on need",
+   "Isosorbide mononitrate",
+   "Pirfenidone",
+   "Steroid therapy"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 31-year-old woman, 4 days post-cholecystectomy, with severe shortness of breath on exertion relieved by lying flat, PR 112 b/min, BP 95/60 mmHg and elevated JVP."
+   },
+   {
+    "n": 2,
+    "stem": "A 28-year-old woman with a 3-year history of progressive exertional dyspnea, dry cough, clubbing and reduced chest expansion with decreased lung function."
+   },
+   {
+    "n": 3,
+    "stem": "A middle-aged woman presenting to the emergency unit with severe breathlessness after an accident, respiratory rate 10/min, BP 90/55 mmHg, absent air entry on the left side and mediastinal shift."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "11. E, H, B"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 10,
+  "theme": "the investigation (Second Block)",
+  "page": 184,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Sputum for acid fast bacilli and culture",
+   "Full blood count and ESR",
+   "CT pulmonary angiography",
+   "Bronchoscopy",
+   "Cardiac enzymes",
+   "Lipid profile",
+   "Urine metanephrine and normetanephrine assay",
+   "Tuberculin skin test",
+   "Sputum Gram stain"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 64-year-old hypertensive and diabetic man with severe retrosternal chest pain radiating to the left shoulder and arm with vomiting; ECG shows ST elevation in V1–V4."
+   },
+   {
+    "n": 2,
+    "stem": "A 16-year-old student with nocturnal cough disturbing his sleep for 2 months after moving to a new house."
+   },
+   {
+    "n": 3,
+    "stem": "A 38-year-old man with recurrent headache, palpitation and vomiting, pale and sweaty with postural blood pressure changes."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "12. E, H, G"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 12,
+  "theme": "leg edema (Second Block)",
+  "page": 185,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H"
+  ],
+  "options": [
+   "Venous insufficiency",
+   "Filariasis",
+   "Cellulitis",
+   "Lymphatic obstruction",
+   "Constrictive pericarditis",
+   "Myxoedema",
+   "Restrictive cardiomyopathy",
+   "Chronic obstructive airway disease"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 35-year-old female on oral contraceptive pills with recent travel presenting with right leg swelling and mild pain."
+   },
+   {
+    "n": 2,
+    "stem": "A 60-year-old heavy smoker with long history of cough, sputum production and recurrent breathlessness; on examination, elevated JVP, bilateral edema and flapping tremor."
+   },
+   {
+    "n": 3,
+    "stem": "A middle-aged lady with fatigue, abdominal distension, leg swelling, low volume pulse with pulsus paradoxus, elevated JVP, distant heart sounds, tender hepatic area and ascites."
+   },
+   {
+    "n": 4,
+    "stem": "A 62-year-old man with hypertension, diabetes and ischemic heart disease presenting with left leg pitting edema, redness and tenderness."
+   },
+   {
+    "n": 5,
+    "stem": "A 46-year-old man with a history of ischemic heart disease and progressive bilateral lower limb edema for 6 months associated with non-productive cough, elevated JVP, S3 gallop and fine bilateral inspiratory crackles."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "14. E, C"
+ },
+ {
+  "section": 1,
+  "bank": "Formative & Previous Years",
+  "no": 12,
+  "theme": "the treatments (Second Block – Part",
+  "page": 185,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Rosuvastatin",
+   "Heparin",
+   "Lisinopril",
+   "Prednisolone",
+   "Intravenous furosemide",
+   "Short acting beta2 agonist inhaler on need",
+   "Isosorbide mononitrate",
+   "Pirfenidone",
+   "Steroid therapy"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 67-year-old man with diabetes, hypertension and ischemic heart disease presenting to the emergency unit with orthopnea, PR 126 b/min and BP 120/70 mmHg."
+   },
+   {
+    "n": 2,
+    "stem": "A 65-year-old lady on furosemide and aspirin for heart failure with BP 165/95 mmHg presenting for an annual review"
+   }
+  ],
+  "images": [],
+  "note": "Three)",
+  "answers_raw": "14. E, C"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 1,
+  "theme": "Chest pain",
+  "page": 187,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "pulmonary embolus",
+   "pneumothorax",
+   "lobar pneumonia",
+   "costochondritis",
+   "oesophageal spasm",
+   "atrial fibrillation",
+   "infective endocarditis",
+   "aortic dissection",
+   "cardiac tamponade",
+   "herpes zoster infection",
+   "tension pneumothorax",
+   "pericarditis",
+   "angina"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 63-year-old man with a history of high blood pressure presents in AE with sudden-onset tearing chest pain radiating to the back."
+   },
+   {
+    "n": 2,
+    "stem": "A 40-year-old woman develops sudden-onset dyspnoea at rest following hip replacement surgery. On examination she is tachycardic and her electrocardiogram (ECG) shows right axis deviation."
+   },
+   {
+    "n": 3,
+    "stem": "A 60-year-old businessman complains of central crushing chest pain radiating to both arms after running to catch a bus. Pain was relieved by rest and his ECG recording 1 h later was unremarkable."
+   },
+   {
+    "n": 4,
+    "stem": "A 21-y ear-old high-jumper presents with acute-onset dyspnoea and right-sided pleuritic chest pain. Examination reveals increased resonance and reduced expansion on the right side."
+   },
+   {
+    "n": 5,
+    "stem": "A 23-year-old woman presents with localized left-sided chest pain that is exacerbated by coughing and is particularly painful on light pressure to that area. Pain is relieved by aspirin. The ECG is unremarkable."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "1. H, A, M, B, D"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 2,
+  "theme": "Pulses",
+  "page": 188,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "mitral stenosis",
+   "aortic stenosis",
+   "atrial flutter",
+   "mitral regurgitation",
+   "aortic regurgitation",
+   "atrial fibrillation",
+   "Gaucher’s disease",
+   "mixed aortic valve disease",
+   "acute CO2 retention",
+   "coarctation of aorta",
+   "mixed mitral valve disease",
+   "cardiac tamponade"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Slow rising pulse, narrow pulse pressure, heaving apex beat and fourth heart sound."
+   },
+   {
+    "n": 2,
+    "stem": "Collapsing pulse, wide pulse pressure, ‘pistol-shot’ sound heard over femoral arteries."
+   },
+   {
+    "n": 3,
+    "stem": "Radiofemoral delay in a patient with hypertension."
+   },
+   {
+    "n": 4,
+    "stem": "Pulsus paradoxus, JVP rises on inspiration, heart sounds muffled."
+   },
+   {
+    "n": 5,
+    "stem": "Bounding pulse in a patient who is short of breath."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "2. B, E, J, L, I"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 3,
+  "theme": "Cardiac murmurs",
+  "page": 189,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "mitral stenosis",
+   "aortic regurgitation",
+   "atrial flutter",
+   "tetralogy of Fallot",
+   "atrial fibrillation",
+   "atrial septal defect",
+   "aortic stenosis",
+   "aortic incompetence",
+   "friction rub",
+   "mitral regurgitation",
+   "tricuspid regurgitation",
+   "ventricular septal defect"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Tapping apex beat, loud S1, mid-diastolic murmur loudest at the apex in expiration lying on the left side."
+   },
+   {
+    "n": 2,
+    "stem": "Heaving undisplaced apex beat, absent A2 with ejection systolic murmur radiating to the carotids."
+   },
+   {
+    "n": 3,
+    "stem": "Pansystolic murmur heard best at lower left sternal edge during inspiration in a patient with pulsatile hepatomegaly."
+   },
+   {
+    "n": 4,
+    "stem": "Displaced, volume-overloaded apex. Soft S1, pansystolic murmur at apex radiating to axilla."
+   },
+   {
+    "n": 5,
+    "stem": "Left parasternal heave and harsh pansystolic murmur at lower left sternal edge that is also audible at apex."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "3. A, G, K, J, L"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 4,
+  "theme": "Jugular venous pressure",
+  "page": 190,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "tricuspid stenosis",
+   "complete heart block",
+   "ventricular fibrillation",
+   "left heart failure",
+   "tricuspid regurgitation",
+   "mitral stenosis",
+   "constrictive pericarditis",
+   "aortic stenosis",
+   "aortic regurgitation",
+   "superior vena cava obstruction",
+   "atrial fibrillation",
+   "normal JVP"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Elevated JVP with absent pulsation."
+   },
+   {
+    "n": 2,
+    "stem": "Giant systolic ‘v’ waves."
+   },
+   {
+    "n": 3,
+    "stem": "Large ‘a’ waves and slow ‘y’ descent in JVP. Patient has ascites."
+   },
+   {
+    "n": 4,
+    "stem": "Cannon ‘a’ waves."
+   },
+   {
+    "n": 5,
+    "stem": "Raised JVP that rises on inspiration."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "4. J, E, A, B, G"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 5,
+  "theme": "ECG abnormalities (Set 1)",
+  "page": 191,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "subendocardial infarction",
+   "pulmonary embolus",
+   "right bundle-branch block",
+   "Mobitz type II second-degree heart block",
+   "hyperkalaemia",
+   "inferior myocardial infarction",
+   "anterolateral myocardial infarction",
+   "left bundle-branch block",
+   "hypokalaemia",
+   "pericarditis",
+   "atrial fibrillation",
+   "mitral regurgitation",
+   "mitral stenosis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 26-year-old woman presents acutely unwell with shortness of breath. Her ECG shows sinus tachycardia, deep S waves in I, inverted T waves in III and Q waves in III."
+   },
+   {
+    "n": 2,
+    "stem": "Dominant R in V1, inverted T waves in V1–V3, deep wide S waves in V6."
+   },
+   {
+    "n": 3,
+    "stem": "Prolonged P–R interval, depressed ST, flattened T waves, prominent U waves."
+   },
+   {
+    "n": 4,
+    "stem": "Sinus rhythm, bifid ‘p’ waves best seen in II, V3 and V4."
+   },
+   {
+    "n": 5,
+    "stem": "A 65-year-old man presents with chest pain radiating to the jaw. The ECG shows ST segment elevation in II, III and aVF, with T-wave inversion in V5 and V6."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "5. B, C, I, M, F"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 6,
+  "theme": "ECG abnormalities (Set 2)",
+  "page": 192,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "hyperkalaemia",
+   "atrial fibrillation",
+   "mitral regurgitation",
+   "hypocalcaemia",
+   "left bundle-branch block",
+   "atrial flutter",
+   "normal ECG",
+   "ventricular tachycardia",
+   "first-degree heart block",
+   "right bundle-branch block",
+   "cardiac tamponade",
+   "hypokalaemia",
+   "hypercalcaemia"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "ECG of a 55 year old being treated for hypertension shows tall tented T waves."
+   },
+   {
+    "n": 2,
+    "stem": "A 34-year-old man presents to AE after a road traffic accident. The ECG shows pulseless electrical activity."
+   },
+   {
+    "n": 3,
+    "stem": "An 85-year-old man with pneumonia complains of palpitations. ECG shows absent P waves."
+   },
+   {
+    "n": 4,
+    "stem": "ECG of a 45-year-old man with sarcoidosis shows an ‘M’ pattern in V5 and inverted T waves in I, aVL and V5–V6."
+   },
+   {
+    "n": 5,
+    "stem": "ECG of an 8-year-old girl shows normal P waves and QRS complexes but shows T-wave inversion in V1."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "6. A, K, B, E, G"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 7,
+  "theme": "Hypertension",
+  "page": 193,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K"
+  ],
+  "options": [
+   "Cushing’s syndrome",
+   "systemic sclerosis",
+   "hyperparathyroidism",
+   "Conn’s syndrome",
+   "coarctation of the aorta",
+   "portal hypertension",
+   "malignant hypertension",
+   "pregnancy",
+   "renal artery stenosis",
+   "polycystic kidneys",
+   "phaeochromocytoma"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 30-year-old woman presenting with hypertension is found to have hypokalaemia and a mild metabolic alkalosis."
+   },
+   {
+    "n": 2,
+    "stem": "An anxious 26-year-old woman presents with episodes of chest pain and palpitations precipitated by stress and smoking. Her 24-hour urine shows elevated catecholamines."
+   },
+   {
+    "n": 3,
+    "stem": "A 45-year-old woman presents with weight gain, muscle weakness and hirsutism. On examination she is hypertensive and has pedal oedema."
+   },
+   {
+    "n": 4,
+    "stem": "A 40-year-old man is brought to AE with severe headache. On examination he has papilloedema and bilateral retinal haemorrhages. His BP is 220/145 mmHg."
+   },
+   {
+    "n": 5,
+    "stem": "Hypertension in a 75-year-old who is a heavy smoker with widespread peripheral vascular disease."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "7. D, K, A, G, I"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 8,
+  "theme": "Treatment of heart failure",
+  "page": 194,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K"
+  ],
+  "options": [
+   "nifedipine",
+   "metolazone",
+   "lidnocaine (lignocaine)",
+   "100 per cent O2, intravenous diamorphine, intravenous furosemide (frusemide), sublingual glyceryl trinitrate (GTN)",
+   "intravenous isosorbide mononitrate",
+   "digoxin",
+   "100 per cent O2, oral diamorphine, oral furosemide (frusemide), intravenous GTN",
+   "intravenous adenosine",
+   "spironolactone",
+   "start cardiopulmonary resuscitation (CPR)",
+   "oral furosemide"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 65-year-old man with heart failure requires rate control to treat coexisting atrial fibrillation."
+   },
+   {
+    "n": 2,
+    "stem": "A 65-year-old woman being treated with large doses of loop diuretic requires add-on therapy for oedema refractory to treatment."
+   },
+   {
+    "n": 3,
+    "stem": "A 69-year-old woman with asthma being treated with a loop diuretic, ACE inhibitor and long-acting nitrate is prescribed a drug to reduce long-term mortality."
+   },
+   {
+    "n": 4,
+    "stem": "A 70-year-old woman with a history of chronic heart failure presents with severe pulmonary oedema."
+   },
+   {
+    "n": 5,
+    "stem": "Treatment of mild symptoms of shortness of breath and ankle oedema in a 65-year-old man with left ventricular dysfunction caused by ischaemic heart disease. He is already taking an ACE inhibitor."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "8. F, B, I, D, K"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 9,
+  "theme": "Treatment of arrhythmias",
+  "page": 195,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K"
+  ],
+  "options": [
+   "intravenous adenosine",
+   "oral warfarin",
+   "oral lidocaine (lignocaine)",
+   "digoxin ^ warfarin for a month",
+   "intravenous magnesium ^ ventricular pacing",
+   "intravenous amiodarone",
+   "low-molecular-weight (LMW) heparin",
+   "oral amiodarone ^ warfarin",
+   "direct current (DC) shock ^ heparin",
+   "oral sotalol ^ warfarin",
+   "none of the above"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Treatment of a 65-year-old man with atrial fibrillation (AF) of longer than 48 h before DC cardioversion."
+   },
+   {
+    "n": 2,
+    "stem": "Initial therapy in a 60-year-old woman presenting severely compromised with acute persistent AF."
+   },
+   {
+    "n": 3,
+    "stem": "A 55-year-old man admitted with an acute myocardial infarction develops a short run of ventricular tachycardia (VT). He requires treatment for prophylaxis against recurrent VT."
+   },
+   {
+    "n": 4,
+    "stem": "Drug to aid diagnosis in a 50-year-old man presenting with an unidentifiable, regular, narrow-complex tachycardia."
+   },
+   {
+    "n": 5,
+    "stem": "Prophylaxis of ventricular tachycardia in a patient with varying QRS axis and prolonged Q–T interval."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "9. D, I, F, A, E"
+ },
+ {
+  "section": 2,
+  "bank": "Irfan",
+  "no": 10,
+  "theme": "Cardiovascular emergencies",
+  "page": 196,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "K"
+  ],
+  "options": [
+   "oral dobutamine",
+   "DC shock and adrenaline",
+   "100 per cent O2, subcutaneous LMW heparin, intravenous fluids",
+   "nifedipine",
+   "atropine",
+   "aspirin, heparin",
+   "DC shock and atropine",
+   "labetalol",
+   "emergency renal dialysis",
+   "aspirin, streptokinase"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 57-year-old businessman presents with a 4-h history of crushing chest pain. The ECG shows ST elevation in II, III and aVF."
+   },
+   {
+    "n": 2,
+    "stem": "A 65-year-old man presenting with chest pain becomes unresponsive. His ECG shows ventricular fibrillation."
+   },
+   {
+    "n": 3,
+    "stem": "A 40-year-old woman collapses after a flight with breathlessness and right-sided pleuritic chest pain."
+   },
+   {
+    "n": 4,
+    "stem": "A 45-year-old man with chronic glomerulonephritis presents with severe headache, papilloedema and bilateral retinal haemorrhages. His BP is 240/132 mmHg."
+   },
+   {
+    "n": 5,
+    "stem": "A 55-year-old man requires immediate pharmacological management for severe symptomatic sinus bradycardia."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "10. K, B, C, H, E"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 1,
+  "theme": "Management of hypertension",
+  "page": 198,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K"
+  ],
+  "options": [
+   "Admit to high-dependency unit for monitoring and intravenous antihypertensive medication",
+   "Admit to hospital for oral antihypertensive medication",
+   "Ambulatory blood pressure monitoring",
+   "Confirm over 4 weeks and treat if persistent",
+   "Confirm over 12 weeks and treat if persistent",
+   "Lifestyle advice only",
+   "No further assessment required",
+   "Prescribe a single oral antihypertensive agent as an outpatient",
+   "Prescribe two oral antihypertensive agents as an outpatient",
+   "Provide lifestyle advice and reassess annually",
+   "Sublingual nifedipine"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 63-year-old man is shown to have a blood pressure of 135/60 mmHg by his GP. He is otherwise fit and well and has no significant past medical history."
+   },
+   {
+    "n": 2,
+    "stem": "A 63-year-old man with newly diagnosed type 2 diabetes is noticed to have a blood pressure of 155/89 mmHg during his initial outpatient appointment. Fundoscopy demonstrates silver wiring, arteriovenous nipping and cotton-wool spots."
+   },
+   {
+    "n": 3,
+    "stem": "A 65-year-old woman is found to have a blood pressure persistently over 160/90 mmHg during a"
+   },
+   {
+    "n": 2,
+    "stem": "month assessment period by her GP. Lifestyle advice has been provided on several occasions. She is otherwise fit and well and is asymptomatic."
+   },
+   {
+    "n": 4,
+    "stem": "A 67-year-old man presents to the emergency department complaining of headaches. A routine set of observations shows a blood pressure of 220/120 mmHg. Fundoscopy reveals some arteriovenous nipping but is otherwise normal."
+   },
+   {
+    "n": 5,
+    "stem": "A 62-year-old man is brought to the emergency department by his wife. He is complaining of headaches and blurred vision. He is orientated in time and person but not in place. A routine set of observations shows a blood pressure of 240/140 mmHg and a heart rate of 84 beats/min. Fundoscopy shows bilateral papilloedema and flame haemorrhages. Neurological examination is otherwise normal. An emergency head CT highlights no neurological explanation for the symptoms."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "J, D, H, B, A"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 2,
+  "theme": "Chronic heart failure",
+  "page": 199,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O",
+   "P"
+  ],
+  "options": [
+   "Angiotensin II receptor antagonist",
+   "Angiotensin-converting enzyme inhibitors",
+   "Amlodipine",
+   "p-Blockers",
+   "Brain-type natriuretic peptide",
+   "Dicroxin",
+   "Lipid profile",
+   "Loop diuretics",
+   "Myoglobin inhibitors",
+   "Potassium-sparing diuretics",
+   "Spironolactone",
+   "Thiazide diuretics",
+   "Thyroid function tests",
+   "Transoesophageal echocardiography",
+   "Transthoracic Doppler echocardiography",
+   "Troponin I"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Mrs X is an 80-year-old woman with a history of ischaemic heart disease. She presents to the emergency department with a 3-month history of worsening shortness of breath associated with swollen ankles. Her ECG demonstrates no abnormality, but you suspect that she has heart failure. What simple blood test could you do to effectively rule out heart failure in this patient?"
+   },
+   {
+    "n": 2,
+    "stem": "The blood test that you performed on Mrs X suggests that she may have heart failure. Which investigation should be requested if chronic heart failure is suspected?"
+   },
+   {
+    "n": 3,
+    "stem": "Mrs X is now on the ward. Your investigations demonstrate that she indeed has heart failure. Which class of drug is recommended as first line in the treatment of chronic heart failure and may help to remodel the left ventricle?"
+   },
+   {
+    "n": 4,
+    "stem": "Two days after her admission, Mrs X is still complaining of shortness of breath. Which class of diuretic is used as a first-line symptomatic treatment when managing chronic heart failure?"
+   },
+   {
+    "n": 5,
+    "stem": "Six months after her original diagnosis, Mrs X visits her GP because she still gets very short of breath, especially when she lies down. Her current medications include enalapril, atenolol, zopiclone, aspirin and furosemide. What additional treatment should the doctor prescribe her?"
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "E, O, B, H, K"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 3,
+  "theme": "Acute ECG interpretation",
+  "page": 200,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "3rd-degree heart block",
+   "Atrial fibrillation",
+   "Atrial flutter",
+   "Bifid P-waves",
+   "Delta wave",
+   "J-waves",
+   "Sinus arrhythmia",
+   "Sinus tachycardia",
+   "Tented T-waves",
+   "U-waves"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 34-year-old woman has been suffering from profuse diarrhoea and vomiting for 4 days. She is now complaining of extreme muscle weakness and muscle cramps."
+   },
+   {
+    "n": 2,
+    "stem": "A 55-year-old man known to be in end-stage renal failure presents to the emergency department feeling generally unwell and experiencing palpitations. He admits to missing his last haemodialysis appointment as he went away on holiday."
+   },
+   {
+    "n": 3,
+    "stem": "A 40-year-old woman presents with left-sided chest pain that is worse on breathing in. She is also experiencing shortness of breath on exertion and has coughed up a small amount of frank blood. She is otherwise well, with no significant past medical history. Her only regular medication is the oral contraceptive pill."
+   },
+   {
+    "n": 4,
+    "stem": "An 85-year-old man with dementia is brought to the emergency department by the ambulance after escaping from his care home during the night. He was found wandering on the local moors by a farmer in the early hours of the morning. He is shivering and confused. His core temperature is 31°C."
+   },
+   {
+    "n": 5,
+    "stem": "A 32-year-old man is involved in a road traffic collision. He has no obvious injuries."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "J, I, H, F, H"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 4,
+  "theme": "Complications of acute MI",
+  "page": 201,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "First-degree heart block",
+   "Acute mitral valve regurgitation",
+   "Acute pericarditis",
+   "Atrial ectopic beats",
+   "Atrial fibrillation",
+   "Cardiac tamponade",
+   "Complete (third-degree) heart block",
+   "Dressler’s syndrome",
+   "Pulmonary embolism",
+   "Subacute left ventricular failure"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 68-year-old woman who had an anterior myocardial infarction 2 days ago. She has become acutely short of breath and is coughing up pink frothy sputum. On examination, her jugular venous pressure is raised and she has a systolic murmur. On auscultation, you can hear bilateral crackles at the lung bases."
+   },
+   {
+    "n": 2,
+    "stem": "A 58-year-old man complains of central chest pain, fever and lethargy 4 weeks after suffering a myocardial infarction. The chest pain is worse on inspiration, is stabbing in nature, and is relieved by ibuprofen and sitting forward."
+   },
+   {
+    "n": 3,
+    "stem": "You are asked to review a 72-year-old woman who had a myocardial infarction 12 hours ago. Her heart rate is 40 beats/min and her blood pressure is 90/60 mmHg. The ECG shows abnormally wide QRS complexes occurring at a rate of 40 beats/min and P-waves occurring at a rate of 90 beats/min. There is no relationship between the P-waves and QRS complexes."
+   },
+   {
+    "n": 4,
+    "stem": "A 66-year-old man, known to have had an anterior myocardial infarction 2 days previously, collapses. On examination, you notice that he has a raised jugular venous pressure that rises with inspiration. Auscultation seems normal. His blood pressure is 80/50 mmHg and his heart rate is 100 beats/min. The ECG shows sinus tachycardia with small QRS complexes."
+   },
+   {
+    "n": 5,
+    "stem": "A 60-year-old man who had a myocardial infarction 4 weeks ago presents to his GP complaining of increasing shortness of breath since discharge. It is worse at night time on lying flat, and he occasionally wakes up acutely short of breath in the early hours of the morning."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "B, H, G, F, J"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 5,
+  "theme": "Secondary hypertension",
+  "page": 202,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "Acromegaly",
+   "Adult polycystic disease",
+   "Aortic dissection",
+   "Berry aneurysm",
+   "Coarctation of the aorta",
+   "Conn’s syndrome",
+   "Cushing’s disease",
+   "Non-steroidal anti-inflammatory drug use",
+   "Oral contraception",
+   "Phaeochromocytoma",
+   "Pre-eclampsia",
+   "Stress at work",
+   "White coat syndrome"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 30-year-old man presents to the emergency department with headache and muscle weakness. He also complains of increased thirst and urine production. Apart from a blood pressure of 190/95 mmHg, examination was normal. Initial blood tests demonstrated a serum potassium of 2.2 mmol/L, a serum sodium of 150 mmol/L, a serum urea of 4.3 mmol/L and a creatinine of 69 pmol/L."
+   },
+   {
+    "n": 2,
+    "stem": "A previously fit and well 35-year-old female doctor presents to her GP with a history of ‘panic attacks’, during which she feels extremely anxious and experiences palpitations, chest tightness and headaches. While in the surgery, she experiences a similar episode, becoming flushed and anxious. Her heart rate was 120 beats/min and her blood pressure reached 185/80 mmHg."
+   },
+   {
+    "n": 3,
+    "stem": "A 27-year-old woman with known Turner’s syndrome presents to her GP with recurrent nose bleeds. On examination, her blood pressure is 190/95 mmHg. Auscultation reveals a mid-late systolic murmur best heard in between the shoulder blades."
+   },
+   {
+    "n": 4,
+    "stem": "A 45-year-old man was found to have a persistently raised blood pressure by his GP. On examination, a vague mass could be felt on the left side of the abdomen. He mentioned that his father died at 26 years of age following a ‘brain haemorrhage’."
+   },
+   {
+    "n": 5,
+    "stem": "A 55-year-old woman is noted to have an elevated blood pressure on three separate occasions by her GP. She has a recent history of persisting acne and hirsutism, for which a dermatology referral has been made. Marked bruising is observed on examination."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "F, J, E, B, G"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 6,
+  "theme": "Heart sounds",
+  "page": 203,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N"
+  ],
+  "options": [
+   "Austin Flint murmur",
+   "Continuous murmur radiating to the back",
+   "Ejection systolic murmur heard at the right second intercostal space only",
+   "Ejection systolic murmur heard best in the right second intercostal space that radiates into the right carotid artery",
+   "Graham Steell murmur",
+   "Muffled heart sounds",
+   "Mid-diastolic click loudest at the apex",
+   "Midsystolic murmur",
+   "Normal heart sounds",
+   "Opening snap best heard at the apex",
+   "Pansystolic murmur heard best at the apex with radiation into the axilla",
+   "Physiological splitting of the second heart sound",
+   "Reverse splitting of the second heart sound",
+   "Summation gallop rhythm"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 67-year-old man presents with symptoms of acute left ventricular failure. On examination, you notice that his heart rate is 120 beats/min. On auscultation, there are more than two heart sounds present, but you cannot distinguish them from each other."
+   },
+   {
+    "n": 2,
+    "stem": "A 55-year-old man presents to the emergency department with a severe headache. He is known to have mitral valve regurgitation."
+   },
+   {
+    "n": 3,
+    "stem": "You are called to see an 87-year-old female inpatient who is complaining of chest pain. On examination, you notice a murmur. A brief look in her hospital notes confirms that she has known ischaemic heart disease, hypertension and aortic valve sclerosis."
+   },
+   {
+    "n": 4,
+    "stem": "A 65-year-old woman with known systemic lupus erythematosus presents with central chest pain that is very similar to the pain that she feels when suffering from pericarditis. Echocardiography demonstrates a pericardial effusion that is likely to be chronic. On auscultation, the heart sounds do not sound as they should."
+   },
+   {
+    "n": 5,
+    "stem": "A 45-year-old man presents with abdominal pain. He is known to have Marfan’s syndrome with advanced aortic valve regurgitation."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "N, K, C, F, A"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 7,
+  "theme": "Signs of cardiovascular disease",
+  "page": 204,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O"
+  ],
+  "options": [
+   "First-degree heart block",
+   "Third-degree heart block",
+   "Acute aortic regurgitation",
+   "Aortic stenosis",
+   "Atrial fibrillation",
+   "Atrial flutter",
+   "Chronic aortic regurgitation",
+   "Heterozygous familial hypercholesterolaemia",
+   "Homozygous familial hypercholesterolaemia",
+   "Mitral regurgitation",
+   "Mobitz type II heart block",
+   "Myocardial infarction",
+   "Rheumatic fever",
+   "Secondary hypercholesterolaemia",
+   "Subacute bacterial endocarditis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "On examination of a 75-year-old man who presented with shortness of breath, mild chest pain and palpitations, you note that he has an irregularly irregular pulse."
+   },
+   {
+    "n": 2,
+    "stem": "You are asked to see a 37-year-old man who presented to the emergency department with chest pain. He is extremely anxious, as both his father and grandfather died suddenly in their 30s. On examination, you notice a pale ring around his cornea and yellow plaques just below his eye. When you mention these findings to the patient, he says that he has similar lesions on his elbows and within his Achilles’ tendon."
+   },
+   {
+    "n": 3,
+    "stem": "On examination of a 50-year-old man who presented with fever, weight loss and lethargy, you notice small linear red lesions beneath his fingernails."
+   },
+   {
+    "n": 4,
+    "stem": "While examining a 62-year-old man who presented in a state of collapse, you note that his heart rate is only 40 beats/min. Additionally, there appears to be an abnormally large wave within the jugular venous pressure waveform."
+   },
+   {
+    "n": 5,
+    "stem": "While examining a 65-year-old man who is currently being treated for a suspected aortic dissection and acute pulmonary oedema, you hear an early diastolic murmur. In addition, you notice an exaggerated pulsation of his carotid arteries and an abnormal, short, sharp, loud systolic sound on auscultation of the femoral arteries."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "E, H, O, B, C"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 8,
+  "theme": "Side-effects of cardiovascular medication",
+  "page": 205,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N"
+  ],
+  "options": [
+   "Ramipril",
+   "Amiodarone",
+   "Atenolol",
+   "Candesartan",
+   "Dalteparin",
+   "Digoxin",
+   "Furosemide",
+   "Glyceryl trinitrate",
+   "Ramipril",
+   "Sando-K",
+   "Simvastatin",
+   "Spironolactone",
+   "Streptokinase",
+   "Verapamil"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 64-year-old man develops a dry cough about 1 week after starting a new blood pressure medication."
+   },
+   {
+    "n": 2,
+    "stem": "A 58-year-old woman develops bilateral swelling of her ankles 2 weeks after her GP has prescribed an antihypertensive drug."
+   },
+   {
+    "n": 3,
+    "stem": "A 74-year-old man is being treated for left ventricular failure as an inpatient. He is noticed to have U-waves on a routine ECG."
+   },
+   {
+    "n": 4,
+    "stem": "A 56-year-old woman presents to her GP with profound muscular pain, weakness and fever 5 days after beginning a course of an unknown ‘heart tablet’."
+   },
+   {
+    "n": 5,
+    "stem": "A 55-year-old man who is being treated for ST-elevation myocardial infarction in the emergency department resuscitation room suddenly becomes hypotensive."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "I, N, G, K, M"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 9,
+  "theme": "Drugs used during cardiac arrest",
+  "page": 206,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Adrenaline",
+   "Amiodarone",
+   "Atropine",
+   "Calcium gluconate",
+   "Digoxin",
+   "Dopamine",
+   "Magnesium sulphate",
+   "Naloxone",
+   "Salbutamol"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "This drug is used during cardiac arrest to increase coronary perfusion pressure."
+   },
+   {
+    "n": 2,
+    "stem": "This anti-arrhythmic drug is used in the standard management of ventricular fibrillation and pulseless ventricular tachycardia."
+   },
+   {
+    "n": 3,
+    "stem": "This drug, in addition to adrenaline, is specifically indicated in the management of asystole and pulseless electrical activity with a heart rate of less than 60 beats/min."
+   },
+   {
+    "n": 4,
+    "stem": "This drug can be used to treat ventricular fibrillation that is refractory to defibrillation when adrenaline and amiodarone have failed."
+   },
+   {
+    "n": 5,
+    "stem": "This drug should be considered for use in cardiac arrest secondary to hyperkalaemia."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "A, B, C, G, D"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 10,
+  "theme": "Diagnosis of chest pain",
+  "page": 207,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "Acute myocardial infarction",
+   "Aortic dissection",
+   "Boerhaave’s syndrome",
+   "Decubitus angina",
+   "Gastro-oesophageal reflux disease",
+   "Herpes zoster",
+   "Mitral valve prolapse",
+   "Oesophageal spasm",
+   "Pericarditis",
+   "Pulmonary oedema",
+   "Pulmonary embolism",
+   "Stable angina",
+   "Tietze’s syndrome"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 60-year-old man with known hypertension presents to the emergency department with a 2-hour history of central chest pain and interscapular back pain. Over the next 30 minutes, he develops slurred speech and reduced power and sensation on his left side."
+   },
+   {
+    "n": 2,
+    "stem": "A 30-year-old woman with a known congenital heart defect presents to her GP with a 4-week history of left-sided chest pain and palpitations that are worse on exertion. The pain does not radiate, has no other associated symptoms and is not worse on inspiration. On examination, there is a mid-systolic click best heard at the apex on auscultation of the heart."
+   },
+   {
+    "n": 3,
+    "stem": "A 70-year-old man presents to his GP following an episode of central crushing chest pain that started 30 minutes after going to bed. The pain did not radiate and there were no associated symptoms. Following two puffs of sublingual glyceryl trinitrate spray, his chest pain resolved. The ECG shows no abnormalities. This is the third time in the last 2 weeks that these symptoms have occurred on going to bed."
+   },
+   {
+    "n": 4,
+    "stem": "A 36-year-old man with alcohol dependence presents to the emergency department with a 5-hour history of vomiting followed by chest pain. On examination, his heart sounds are normal. There is reduced air entry at the left lung base, which is also dull to percussion. You also notice a cracking sensation on your fingertips when you palpate his carotid arteries. The ECG shows sinus tachycardia."
+   },
+   {
+    "n": 5,
+    "stem": "A 70-year-old man presents to the emergency department with retrosternal chest pain that is crushing in nature. This has happened on several occasions previously, and usually occurs after drinking hot fluids. Despite there being no ECG changes, he is given glyceryl trinitrate, which partially relieves the pain. After 30 minutes, the pain relieves spontaneously."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "B, G, D, C, H"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 11,
+  "theme": "Diseases of the myocardium,pericardium",
+  "page": 208,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "Arrhythmogenic right ventricular cardiomyopathy",
+   "Atrial myxoma",
+   "Cardiac tamponade",
+   "Constrictive cardiomyopathy",
+   "Dilated cardiomyopathy",
+   "Hypertrophic obstructive cardiomyopathy",
+   "Myocarditis",
+   "Non-ST-elevation myocardial infarction",
+   "Restrictive cardiomyopathy",
+   "Subacute bacterial endocarditis",
+   "Uraemic pericarditis",
+   "Viral pericarditis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 23-year-old amateur footballer collapses and dies while training. Witnesses say that there was no contact from other players. His only past medical history is two previous episodes of syncope while at the gym, but no cause was identified."
+   },
+   {
+    "n": 2,
+    "stem": "A 46-year-old man presents to the GP with a history of shortness of breath that occurs on exertion and when lying down at night. On general inspection, he notices multiple spider naevi on his chest and face. On examination of his heart, the apex beat is displaced laterally and there is a pansystolic murmur that is difficult to identify since the heartbeat is irregularly irregular."
+   },
+   {
+    "n": 3,
+    "stem": "A 64-year-old woman is referred for echocardiography following a history of weight loss, low-grade fever, non-specific chest pain and palpitations. While performing the echocardiogram, the technician notices a polypoid mass attached to the septal wall in the left atrium."
+   },
+   {
+    "n": 4,
+    "stem": "A 45-year-old man presents to the emergency department with central chest pain that is stabbing in nature and is exacerbated by lying down at night. Blood tests show a potassium of 5.4 mmol/L, a sodium of 145 mmol/L, a urea of 15 mmol/L and a creatinine of 540 pmol/L."
+   },
+   {
+    "n": 5,
+    "stem": "A 46-year-old woman presents to the emergency department with a short history of worsening shortness of breath and a reduced exercise tolerance. She has been suffering with lethargy, muscle aches, fever and palpitations for 2 weeks. Routine blood tests show a raised white blood cell count and a raised C-reactive protein. A plasma troponin returns at 1.2 ng/mL."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "F, E, B, K, G"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 12,
+  "theme": "Tachycardias and tachyarrhythmias",
+  "page": 209,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Atrioventricular node re-entry tachycardia",
+   "Chronic atrial fibrillation",
+   "Multifocal atrial tachycardia",
+   "Paroxysmal atrial fibrillation",
+   "Sick sinus syndrome",
+   "Sinus tachycardia",
+   "Torsades de pointes",
+   "Ventricular extrasystoles",
+   "Ventricular fibrillation",
+   "Wolff-Parkinson-White syndrome"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 76-year-old man with known ischaemic heart disease is referred for a 24-hour ECG tape after suffering occasional palpitations. The tape shows periods of sinus bradycardia followed by episodes of sinus tachycardia."
+   },
+   {
+    "n": 2,
+    "stem": "A 55-year-old man is noticed to have a heart rate of 110 beats/min while on the high-dependency unit following abdominal surgery. His other observations include blood pressure 146/92 mmHg, respiratory rate 14/min and oxygen saturations 99% on 2 L of oxygen via nasal cannulae. His epidural analgesia was stopped that morning, and he is complaining of abdominal pain with a severity of 8/10."
+   },
+   {
+    "n": 3,
+    "stem": "A 75-year-old woman who suffers occasional episodes of palpitations presents to the emergency department with a painful left leg. She was previously fit and well. The leg is pale, cold and slightly mottled at presentation. The ankle-brachial pulse index is 0.3 on the left and 0.9 on the right. An ECG performed by the nursing staff is normal."
+   },
+   {
+    "n": 4,
+    "stem": "A 55-year-old man is brought to the emergency department following a sudden collapse while gardening. He is unconscious and unresponsive. He has no palpable pulse or respiratory effort. A heart monitor shows a disorganized, broad, complex, irregular rhythm with a fluctuating baseline."
+   },
+   {
+    "n": 5,
+    "stem": "A 36-year-old woman presents to the emergency department with chest pain and a sensation of feeling her heart pounding. Apart from a history of schizophrenia, she has no medical problems. A heart monitor is attached and shows a broad complex tachycardia with a rate of 210 beats/min on a variable axis."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "E, F, D, I, G"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 13,
+  "theme": "Management of acute coronary syndromes",
+  "page": 210,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O",
+   "P",
+   "Q",
+   "R",
+   "S"
+  ],
+  "options": [
+   "Aspirin",
+   "p-Blockers",
+   "Calcium channel",
+   "Clopidogrel",
+   "Cyclizine",
+   "Emergency coronary artery bypass graft",
+   "Emergency external pacing",
+   "Loop diuretics",
+   "Metoclopramide",
+   "Past medical history of a haemorrhagic stroke 6 weeks ago",
+   "Past medical history of ischaemic stroke 2 years ago",
+   "Past medical history of peptic ulcer disease",
+   "Percutaneous coronary angioplasty ± stenting",
+   "Previous thrombolysis with streptokinase",
+   "Reciprocal ST elevation of 2 mm in leads II, III and aVF",
+   "Statins",
+   "ST elevation of 2 mm in leads II, III and aVF",
+   "ST elevation of 2 mm in leads V1-V5",
+   "Tented T-waves"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 62-year-old diabetic man presents to the district general hospital with sudden-onset, central, crushing chest pain that commenced at rest. The junior doctor on call records an ECG, which suggests inferior myocardial ischaemia. Which ECG changes has he seen?"
+   },
+   {
+    "n": 2,
+    "stem": "A 62-year-old diabetic man presents to a large teaching hospital with sudden-onset, central, crushing chest pain that commenced at rest. An ECG shows significant ST elevation in the inferior leads. Before the attending junior doctor can administer thrombolysis, the cardiology registrar suggests a preferable intervention."
+   },
+   {
+    "n": 3,
+    "stem": "A 62-year-old diabetic man presents to the district general hospital with sudden-onset, central, crushing chest pain that commenced at rest. An ECG shows significant ST elevation in the inferior leads, and the attending junior doctor considers thrombolysis. What would be considered as an absolute contraindication to thrombolysis?"
+   },
+   {
+    "n": 4,
+    "stem": "A 62-year-old diabetic man presents to a large teaching hospital with sudden-onset, central, crushing chest pain that commenced at rest. He is complaining of a variety of symptoms, including pain, breathlessness, nausea and headache. Before considering management, which drug should ideally be avoided in this case?"
+   },
+   {
+    "n": 5,
+    "stem": "A 62-year-old diabetic man presents to the district general hospital with sudden-onset, central, crushing chest pain that occurred at rest. The attending junior doctor begins management according to an evidence-based hospital protocol, which includes a number of medications. Which class of drug, when given in the acute stage, has been shown to limit the size of an acute myocardial infarction and reduce subsequent mortality?"
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "Q, M, J, E, B"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 14,
+  "theme": "Valvular heart disease",
+  "page": 211,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "Aortic regurgitation",
+   "Aortic stenosis",
+   "Atrial septal defect",
+   "Bicuspid aortic valve",
+   "Coarctation of the aorta",
+   "Marfan’s syndrome",
+   "Mitral regurgitation",
+   "Mitral stenosis",
+   "Prosthetic heart valve",
+   "Pulmonary stenosis",
+   "Tetralogy of Fallot",
+   "Tricuspid regurgitation",
+   "Tricuspid stenosis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 55-year-old man is admitted with tiredness and worsening shortness of breath. On examination, you note gynaecomastia and a midline sternotomy scar. He is subsequently found to have a normocytic anaemia with a number of red cell fragments on the blood film. Coombs’ test is negative."
+   },
+   {
+    "n": 2,
+    "stem": "A 47-year-old woman has developed aortic stenosis in association with a degree of aortic regurgitation. She is told by her cardiologist that it is likely that she has a congenital abnormality of one of her valves."
+   },
+   {
+    "n": 3,
+    "stem": "A 58-year-old man is admitted following an episode of haematemesis. He is a heavy drinker and is already under investigation for heart failure. On examination, he is found to have a murmur that is best heard at the apex and radiates into his axilla."
+   },
+   {
+    "n": 4,
+    "stem": "A 35-year-old Indian woman who has known valvular heart disease as a result of rheumatic fever presents to the emergency department with chest pain. An ECG demonstrates bifid P-waves."
+   },
+   {
+    "n": 5,
+    "stem": "A 27-year-old woman with known primary pulmonary hypertension is admitted with a long history of abdominal pain. On examination, you find a murmur and peripheral oedema. Her liver is enlarged and tender to palpation."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "I, D, G, H, L"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 15,
+  "theme": "Pathogens of endocarditis",
+  "page": 212,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K"
+  ],
+  "options": [
+   "Candida albicans",
+   "Coxsackie B virus",
+   "Enterococcus faecalis",
+   "Mycobacterium tuberculosis",
+   "Neisseria meningitidis",
+   "Staphylococcus aureus",
+   "Streptococcus bovis",
+   "Staphylococcus epidermidis",
+   "Streptococcus pyogenes",
+   "Viridans streptococcus",
+   "Trypanosoma cruzi"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 32-year-old male intravenous drug user presents with a 4-week history of fever, lethargy and weight loss. On examination, you find that he has swollen ankles and a raised jugular venous pressure. On auscultation, you notice a pansystolic murmur that is best heard over the left sternal border."
+   },
+   {
+    "n": 2,
+    "stem": "A 45-year-old woman presents with a 3-week history of night sweats, weight loss and palpitations approximately 1 month after having a dental abscess removed. On auscultation, you notice a pansystolic murmur that is best heard at the apex. She had rheumatic fever as a child."
+   },
+   {
+    "n": 3,
+    "stem": "A 64-year-old man presents to the emergency department with fever. The observations include temperature 40.2°C, blood pressure 100/48 mmHg and heart rate 114 beats/min. Examination reveals a thoracotomy scar from a metallic aortic valve replacement 1 month previously. Transoesophageal echocardiography shows a number of vegetations that are visualized at the insertion point of the metallic ring."
+   },
+   {
+    "n": 4,
+    "stem": "A 72-year-old man with known benign prostatic hypertrophy and a past history of rheumatic fever presents to the emergency department. He was last admitted 3 weeks ago with acute urinary retention, for which he was catheterized and then taught intermittent self-catheterization. He is lethargic, feverish and has lost a stone (6 kg) in weight since his discharge. On examination, you notice a diastolic murmur and signs of left ventricular failure that were not documented on his previous admission."
+   },
+   {
+    "n": 5,
+    "stem": "A 65-year-old woman, who was diagnosed with sigmoid carcinoma 5 years previously, presents with a 5-week history of malaise, fever, palpitations and weight loss. On examination, you notice a number of splinter haemorrhages under her fingernails. Auscultation reveals a diastolic murmur that is best heard over the second intercostal space on the left-hand side while in expiration. The murmur was not present at her last colonoscopy 2 years ago."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "F, J, H, C, G"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 16,
+  "theme": "Investigation of cardiovascular disease",
+  "page": 213,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O",
+   "P",
+   "Q"
+  ],
+  "options": [
+   "24-hour ECG tape",
+   "Ambulatory blood-pressure monitoring",
+   "Chest X-ray",
+   "CT pulmonary angiogram",
+   "Doppler ultrasound scan",
+   "Exercise (stress) ECG",
+   "Myocardial biopsy",
+   "Myocardial perfusion scan",
+   "Resting ECG",
+   "Serum brain-type natriuretic peptide (BNP)",
+   "Serum D-dimer levels",
+   "Serum lactate dehydrogenase",
+   "Serum myoglobin",
+   "Serum troponin",
+   "Thrombophilia screen",
+   "Transoesophageal echocardiography",
+   "Transthoracic echocardiography"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 63-year-old man presents to his GP following several episodes of central chest pain that occurred while gardening. On each occasion, the pain was relieved by rest. The admission ECG, full blood count and thyroid function tests reveal no abnormality."
+   },
+   {
+    "n": 2,
+    "stem": "A 67-year-old woman presents to the emergency department with a 12-hour history of central chest pain that commenced at rest and radiated to both arms. She is nauseated and appears pale and sweaty. The resting ECG shows an ST depression of 1 mm in leads II, III and aVF, associated with non-specific T-wave changes. A chest X-ray is normal."
+   },
+   {
+    "n": 3,
+    "stem": "A 40-year-old female inpatient develops a red, tender swelling of her left leg 10 days after a hysterectomy. The affected leg is painful and hard to touch, and the peripheral veins appear engorged. A full blood count is unremarkable and her observations are stable."
+   },
+   {
+    "n": 4,
+    "stem": "A 50-year-old man with a past history of rheumatic fever becomes acutely unwell 5 days after an elective tooth extraction. On examination, he has a temperature of 38.3°C and has a pansystolic murmur that was not documented on his previous admission. Blood cultures have been sent, but the results are not yet available."
+   },
+   {
+    "n": 5,
+    "stem": "A 56-year-old man with hypertension and ischaemic heart disease presents to his GP following several episodes of palpitations. Each episode lasts approximately 1 hour and terminates spontaneously. A resting ECG performed in the practice shows no abnormalities. Routine blood tests taken a week previously were within normal limits."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "F, N, E, P, A"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 17,
+  "theme": "Symptoms of cardiovascular disease",
+  "page": 214,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O"
+  ],
+  "options": [
+   "Acute angina",
+   "Acute mesenteric infarction",
+   "Acute myocardial infarction",
+   "Acute pulmonary oedema",
+   "Chronic left ventricular failure (NYHA class I)",
+   "Chronic left ventricular failure (NYHA class III)",
+   "Drug side-effect",
+   "Epilepsy",
+   "Hypertrophic cardiomyopathy",
+   "Infective endocarditis",
+   "Mesenteric ischaemia",
+   "Postural hypotension",
+   "Rheumatic fever",
+   "Stokes-Adams collapse",
+   "Vasovagal syncope"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 75-year-old man wakes from sleep feeling extremely breathless and anxious. His breathlessness resolves after a few minutes of walking around the bedroom. He also mentions that he becomes very breathless during day-to-day activities such as climbing the stairs."
+   },
+   {
+    "n": 2,
+    "stem": "A 65-year-old man presents with a 6-hour history of shortness of breath and palpitations, and is coughing up pink frothy sputum. He refuses to be laid flat."
+   },
+   {
+    "n": 3,
+    "stem": "A 70-year-old man with known angina, hypertension and hypercholesterolaemia is experiencing severe episodic abdominal pains. These occur approximately 30 minutes after eating. A gastroscopy and colonoscopy show no abnormalities."
+   },
+   {
+    "n": 4,
+    "stem": "A 12-year-old girl is complaining of lethargy, fever and shortness of breath. These symptoms were initially associated with painful and swollen knee joints, which have now resolved to be replaced by a swollen elbow joint. Apart from a recent sore throat, she is otherwise fit and well."
+   },
+   {
+    "n": 5,
+    "stem": "A 45-year-old woman with known Addison’s disease collapsed while getting out of bed in the morning. She denies any chest pain or palpitations. She was unresponsive for 40 seconds, during which her ‘legs twitched a little’. She recovered fully after 2 minutes. This has happened on several previous occasions when standing up from a lying or sitting position."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "F, D, K, M, L"
+ },
+ {
+  "section": 3,
+  "bank": "Get Ahead",
+  "no": 18,
+  "theme": "Management of cardiovascular disease",
+  "page": 215,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "Adenosine",
+   "Atenolol",
+   "Digoxin",
+   "Non-steroidal anti-inflammatory drugs",
+   "Paracetamol",
+   "Streptokinase",
+   "Sublingual glyceryl trinitrate",
+   "Synchronized DC cardioversion",
+   "Tenecteplase alone",
+   "Tenecteplase followed by intravenous heparin infusion",
+   "Unsynchronized DC cardioversion",
+   "Verapamil",
+   "Warfarin"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 67-year-old man presents to the emergency department with palpitations. He has known ischaemic heart disease and hypertension. On examination, he is pale and appears confused, and his hands are cool and clammy. His pulse is 160 beats/min and irregularly irregular, his blood pressure is 70/40 mmHg and his capillary refill time is 6 s."
+   },
+   {
+    "n": 2,
+    "stem": "A 45-year-old woman presents to her GP with a 2-day history of central chest pain. The pain does not radiate and there is no associated shortness of breath. She only gains relief by sitting forward in bed at night. Examination is unremarkable, and an ECG performed in the practice shows ST elevation in V1, V4 and aVL. She has a past history of rheumatoid arthritis."
+   },
+   {
+    "n": 3,
+    "stem": "A 25-year-old asthmatic man presents to the emergency department with palpitations. Examination reveals a regular heart rate of 168 beats/min. The ECG shows a regular narrow complex tachycardia with no obvious P-waves. The Valsalva manoeuvre and carotid sinus massage have failed to slow the heart rate."
+   },
+   {
+    "n": 4,
+    "stem": "A 69-year-old man presents with central chest pain radiating to his left arm that came on suddenly at rest 1 hour ago. He is nauseous, sweaty and short of breath. He describes the pain as similar to that when he had a heart attack 4 years previously, during which he received a ‘clot-busting’ drug that he was instructed never to have again. The ECG shows ST elevation of 4 mm in V2, V3 and V4. On questioning, he has no contraindications to thrombolysis. Aspirin, clopidogrel, morphine and metoclopramide have been given so far."
+   },
+   {
+    "n": 5,
+    "stem": "A 57-year-old man with known end-stage renal failure awaiting renal transplantation collapses at home with chest pain. He is brought to the emergency department attached to a cardiac monitor. The monitor shows a regular broad complex tachycardia with a rate of 230 beats/min. On examination, the carotid pulse is not palpable."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "H, D, L, J, K"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 1,
+  "theme": "Cardiac murmurs and added sounds",
+  "page": 217,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Aortic regurgitation",
+   "Aortic stenosis",
+   "Bicuspid aortic valve",
+   "Mitral regurgitation",
+   "Mitral stenosis",
+   "Patent ductus arteriosus",
+   "Transposition of the great vessels",
+   "Tricuspid regurgitation",
+   "Ventricular septal defect"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 60-year-old man presents with heart failure. On examination he has a collapsing pulse, an early diastolic murmur and a displaced apex beat."
+   },
+   {
+    "n": 2,
+    "stem": "A 56-year-old man gives a history of rheumatic fever. He has flushed cheeks, an irregularly irregular pulse and a mid-diastolic murmur."
+   },
+   {
+    "n": 3,
+    "stem": "A 75-year-old woman presents to AE following a drop attack. Her ECG shows left ventricular hypertrophy. On examination, a harsh systolic murmur is heard over both carotid arteries."
+   },
+   {
+    "n": 4,
+    "stem": "Three days following his MI, Mr Thompson has a sudden deterioration, developing left ventricular failure. He has a new pansystolic murmur radiating from the apex to the axilla."
+   },
+   {
+    "n": 5,
+    "stem": "A baby who is cyanotic at birth with a loud long systolic murmur in whom tetralogy of Fallot is suspected."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "1. A. Aortic regurgitation, E. Mitral stenosis, B. Aortic stenosis, D. Mitral regurgitation, I. Ventricular septal defect tion, J. Ventricular septal defect, A. Aortic regurgitation, E. Graham Steell murmur"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 2,
+  "theme": "Chest pain",
+  "page": 218,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Angina pectoris",
+   "Pericarditis",
+   "Myocardial infarction",
+   "Aortic dissection",
+   "Reflux oesophagitis",
+   "Pulmonary infarct",
+   "Pneumonia",
+   "Costochondritis",
+   "Pneumothorax",
+   "Pulmonary embolus"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A middle-aged man presenting with a central crushing chest pain on exercise but relieved by rest."
+   },
+   {
+    "n": 2,
+    "stem": "Associated with central crushing chest pain which occurs at rest and may radiate to the jaw or arms."
+   },
+   {
+    "n": 3,
+    "stem": "Severe tearing chest pain which may radiate to the back."
+   },
+   {
+    "n": 4,
+    "stem": "Central chest discomfort which is sharp in nature with a tender area on palpation."
+   },
+   {
+    "n": 5,
+    "stem": "Sharp chest pain aggravated by movement, respiration and changes in posture."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "2. A. Angina pectoris, C. Myocardial infarction, D. Aortic dissection, H. Costochondritis, B. Pericarditis"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 3,
+  "theme": "Drugs",
+  "page": 219,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Propranolol",
+   "Nicorandil",
+   "Aspirin",
+   "Nifedipine",
+   "Captopril",
+   "Digoxin",
+   "Bisoprolol",
+   "Bendrofluazide",
+   "Clopidogrel",
+   "Simvastatin"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Used in the treatment of cardiac failure. Known to cause a persistent cough."
+   },
+   {
+    "n": 2,
+    "stem": "Contraindicated in renal artery stenosis."
+   },
+   {
+    "n": 3,
+    "stem": "Associated with bradycardia, headaches and fluid retention."
+   },
+   {
+    "n": 4,
+    "stem": "First-line management in acute coronary syndrome."
+   },
+   {
+    "n": 5,
+    "stem": "Specifically contraindicated in asthmatics and individuals with peripheral vascular disease."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "3. E. Captopril, E. Captopril, D. Nifedipine, C. Aspirin, A. Propranolol"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 4,
+  "theme": "Clinical features of cardiac disease",
+  "page": 219,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Aortic stenosis",
+   "Aortic regurgitation",
+   "Mitral stenosis",
+   "Mitral regurgitation",
+   "Infective endocarditis",
+   "Rheumatic fever",
+   "Tricuspid stenosis",
+   "Tricuspid regurgitation",
+   "Pulmonary hypertension",
+   "Pulmonary embolism"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A pansystolic murmur auscultated at the apex and radiating into the axilla."
+   },
+   {
+    "n": 2,
+    "stem": "Associated with erythematous macules on the palms and haemorrhages under the nails."
+   },
+   {
+    "n": 3,
+    "stem": "Associated with pink-coloured rings on the trunk and subcutaneous nodules over the joints."
+   },
+   {
+    "n": 4,
+    "stem": "Associated with a slow rising carotid pulse and ejection systolic murmur at the right upper sternal border."
+   },
+   {
+    "n": 5,
+    "stem": "Known to cause a right parasternal heave and a loud pulmonary second sound."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "4. D. Mitral regurgitation, E. Infective endocarditis, F. Rheumatic fever, A. Aortic stenosis, I. Pulmonary hypertension"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 5,
+  "theme": "Murmurs",
+  "page": 220,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Aortic regurgitation",
+   "Aortic stenosis",
+   "Austin–Flint murmur",
+   "Flow murmur",
+   "Graham Steell murmur",
+   "Mitral regurgitation",
+   "Mitral stenosis",
+   "Tricuspid regurgitation",
+   "Tricuspid stenosis",
+   "Ventricular septal defect"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 60-year-old Egyptian man with a pansystolic murmur loudest at the right sternal edge, a raised JVP and a pulsatile liver."
+   },
+   {
+    "n": 2,
+    "stem": "A 70-year-old woman in atrial fibrillation, an apex beat palpable in the mid-axillary line and a loud pansystolic murmur which is heard all over the heart."
+   },
+   {
+    "n": 3,
+    "stem": "A 14-year-old girl with a flat occiput, single palmar crease and a pansystolic murmur. She has a chromosomal abnormality affecting chromosome 21."
+   },
+   {
+    "n": 4,
+    "stem": "An elderly gentleman with a collapsing pulse and an early diastolic murmur which is loudest when sitting forward."
+   },
+   {
+    "n": 5,
+    "stem": "A diastolic murmur which is early and continues past mid-diastole."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "5. H. Tricuspid regurgitation, F. Mitral regurgita"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 6,
+  "theme": "Symptoms of heart failure",
+  "page": 221,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Ankle swelling",
+   "Cough",
+   "Hepatomegaly",
+   "Orthopnoea",
+   "Paroxysmal nocturnal dyspnoea",
+   "Pink frothy sputum",
+   "Pulmonary fibrosis",
+   "Pulmonary oedema",
+   "Shortness of breath"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A patient has been on a cardiology ward for 3 weeks with a diagnosis of pulmonary oedema. He is receiving large doses of furosemide. His systolic blood pressure is 74 mmHg and increases on being placed head down in bed. On auscultation he has fine crackles throughout both lung fields."
+   },
+   {
+    "n": 2,
+    "stem": "A patient complains of waking in the middle of the night and racing out of bed to the window, gasping for breath."
+   },
+   {
+    "n": 3,
+    "stem": "A patient sleeps on four pillows at night so he can catch his breath."
+   },
+   {
+    "n": 4,
+    "stem": "A patient with a diagnosis of heart failure complains of this symptom several weeks after starting an ACE inhibitor."
+   },
+   {
+    "n": 5,
+    "stem": "Congestion due to right heart failure can cause a nutmeg appearance and this symptom."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "6. G. Pulmonary fibrosis, E. Paroxysmal nocturnal dyspnoea, D. Orthopnoea, B. Cough, C. Hepatomegaly"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 7,
+  "theme": "Electrocardiograph findings",
+  "page": 222,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Anterior myocardial infarction",
+   "Atrial fibrillation",
+   "Atrial flutter with 2:1 block",
+   "Digitalis effect",
+   "Inferior myocardial infarction",
+   "Pericarditis",
+   "Posterior myocardial infarction",
+   "Sick sinus syndrome",
+   "Third-degree heart block",
+   "Ventricular tachycardia"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "ST depression in V1–3 and tall R wave in V1 and V2."
+   },
+   {
+    "n": 2,
+    "stem": "ST elevation that is present in all leads and is saddle shaped."
+   },
+   {
+    "n": 3,
+    "stem": "ST elevation of 3 mm in leads II, III and aVF."
+   },
+   {
+    "n": 4,
+    "stem": "Broad complex QRS with a rate of 45 beats/min; P waves are present."
+   },
+   {
+    "n": 5,
+    "stem": "No P waves, narrow complex QRS rate of 150 beats/min with sawtooth baseline."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "7. G. Posterior myocardial infarction, F. Pericarditis, E. Inferior myocardial infarction, D. Digitalis effect, C. Atrial flutter with 2:1 block"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 8,
+  "theme": "Heart disease",
+  "page": 223,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Acute myocardial infarction",
+   "Aortic stenosis",
+   "Atrial myxoma",
+   "Complete heart block",
+   "Cor pulmonale",
+   "Dilated cardiomyopathy",
+   "Fibrinous pericarditis",
+   "Infective endocarditis",
+   "Mitral valve stenosis",
+   "Tricuspid incompetence"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 58-year-old woman with known asymptomatic aortic stenosis presents with fever and feeling generally unwell. She has just had three fillings performed by her dentist."
+   },
+   {
+    "n": 2,
+    "stem": "A 49-year-old man presents to his GP with shortness of breath on walking up hills. He also experiences central chest pain which is relieved by resting, as well as occasional dizziness. He has a loud systolic murmur."
+   },
+   {
+    "n": 3,
+    "stem": "On the second day post-MI, a 71-year-old man develops pleuritic sounding chest pain. This is relieved by ibuprofen. The ECG demonstrates saddle-shaped ST changes."
+   },
+   {
+    "n": 4,
+    "stem": "A 63-year-old man presents to AE with shortness of breath. He has a loud pansystolic murmur and a displaced apex beat. CXR demonstrates a straight left heart border and cardiothoracic ratio of >50%. He admits to previous excess alcohol intake."
+   },
+   {
+    "n": 5,
+    "stem": "A 44-year-old woman attends her respiratory clinic appointment. She has known chronic obstructive pulmonary disease and is a previous heavy smoker. Her most recent symptoms are ankle swelling and an exercise tolerance of 15 yards."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "8. H. Infective endocarditis, B. Aortic stenosis, G. Fibrinous pericarditis, F. Dilated cardiomyopathy, E. Cor pulmonale"
+ },
+ {
+  "section": 4,
+  "bank": "Crash Course",
+  "no": 9,
+  "theme": "Chest pain",
+  "page": 224,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Myocardial infarct",
+   "Pulmonary embolus",
+   "Pericarditis",
+   "Left lower lobe pneumonia",
+   "Rib fracture",
+   "Oesophageal reflux disease",
+   "Aortic dissection",
+   "Costochondritis",
+   "Angina pectoris",
+   "Herpes zoster"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 48-year-old housewife is admitted with left-sided chest discomfort, sharp in nature, which is worse on coughing. She has no sputum. She takes the oral contraceptive pill and propranolol hydrochloride (Half-Inderal LA). Her father and uncle died in their 60s from ‘heart attacks’. She smokes 30 cigarettes a day. ECG: sinus tachycardia and right bundle-branch block. D-dimer 0.71 mg/L, troponin I 0.01 mg/L. CXR: no active disease (NAD)."
+   },
+   {
+    "n": 2,
+    "stem": "A 58-year-old insulin-dependent diabetic is admitted at the request of his GP. He has been complaining of intermittent central chest pain for the past month. He is a poor historian but claims he has not noticed any relationship to the pain. He has suffered from AF and hypertension for 6 years. He currently takes digoxin, atenolol, diclofenac and simvastatin. O/E: body mass index 31 kg/m2, no chest wall tenderness, HS I + II + ejection systolic murmur in aortic area. No clinical evidence of deep vein thrombosis. HbA1C 10.5%, random glucose 13.2 mmol/L, digoxin level 1.3 mmol/L. ECG: 1-mm depression in leads V1–V6. CXR: NAD."
+   },
+   {
+    "n": 3,
+    "stem": "A 45-year-old Moroccan man (working in the local chicken factory) attended AE with central chest discomfort. His English is broken, but you establish that this has been a problem for the past week and that it is sharp in nature (‘like a knife, doctor’). He has no recent trauma. Examination is unremarkable. CXR: scarring of right apex and calcified hilar nodes. You return to the patient and he confirms previously being treated for tuberculosis back in Morocco."
+   },
+   {
+    "n": 4,
+    "stem": "A 36-year-old man is admitted via AE with right-sided chest pain associated with shortness of breath. There is no fever. O/E: Thin gentleman, smells of tobacco and alcohol. He is uncooperative to examination. Reduced breath sounds on the right side. Tender over the anterior chest wall. CXR: peripheral area of decreased lung markings on the right side."
+   },
+   {
+    "n": 5,
+    "stem": "A 56-year-old insulin-dependent diabetic is admitted at the request of a concerned relative (a local doctor). He has been complaining of niggling chest pain for the past 2 days, with an associated feeling of shortness of breath. O/E: apyrexial, no chest wall tenderness. Nil adventitious sounds. HS I + II + 0. CXR: NAD. ECG: ST elevation 3-mm leads V4–V6 with T-wave inversion. Troponin 6.5 mg/L."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "9. B. Pulmonary embolus, F. Oesophageal reflux disease, C. Pericarditis, E. Rib fracture, A. Myocardial infarct"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 1,
+  "theme": "Investigations",
+  "page": 226,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G"
+  ],
+  "options": [
+   "Cardiac enzymes",
+   "Trans-thoracic echocardiography",
+   "Trans-esophageal echocardiography",
+   "Treadmill exercise test",
+   "CT angiography for the pulmonary arteries",
+   "Blood cultures",
+   "Doppler ultrasound"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 50-year-old patient with 90 minutes of central chest pain and ST elevation in V1–V6."
+   },
+   {
+    "n": 2,
+    "stem": "A 70-year-old female with fever, left-sided chest pain, a pericardial friction rub and diffuse ST elevation."
+   },
+   {
+    "n": 3,
+    "stem": "A 30-year-old man with irregular pulse, variable BP and syncope"
+   },
+   {
+    "n": 4,
+    "stem": "A 45-year-old smoker with exertional retrosternal chest pain recovering with rest."
+   },
+   {
+    "n": 5,
+    "stem": "A 15-year-old with congenital heart disease, prolonged fever, weight loss, diastolic murmur and other systemic signs."
+   },
+   {
+    "n": 6,
+    "stem": "A patient with thyroid goiter found to have an ejection systolic murmur with wide splitting; TTE is normal."
+   },
+   {
+    "n": 7,
+    "stem": "A 30-year-old female post-procedure with sudden chest tightness, hypotension, and normal ECG"
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "1. 1. A; 2. B; 3. (Not clearly provided); 4. D; 5. C; 6. C; 7. E 1-b 2-f 3-a 4-g 5-e 4-b 5-d"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 2,
+  "theme": "ECG Changes",
+  "page": 226,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F"
+  ],
+  "options": [
+   "Inferior ST elevation myocardial infarction",
+   "Anterior ST elevation myocardial infarction",
+   "Lateral myocardial infarction",
+   "Acute pericarditis (ST elevation in all leads ex cept aVR)",
+   "Vasospastic angina (Transient ST elevation in V1–V4)",
+   "(Other patterns as applicable)"
+  ],
+  "items": [],
+  "images": [],
+  "note": "This theme presents multiple ECG images showing various patterns of ST segment elevation. Each ECG must be matched to the most likely diagnosis based on the pattern observed (for example, diffuse ST elevation in all leads except aVR indicates acute pericarditis, while transient ST elevation in V1–V4 suggests vasospastic angina).",
+  "answers_raw": "2. Example answers: D for acute pericarditis; E for vasospastic angina; other answers depend on the image. 1-a 2-b 3-c 4-d"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 3,
+  "theme": "Diagnosis",
+  "page": 227,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Peripartum cardiomyopathy",
+   "Atrial fibrillation and mitral stenosis",
+   "Ventricular septal defect *(keyed in some papers for PDA)*",
+   "Cardiac tamponade",
+   "Atrial septal defect",
+   "Aortic regurgitation",
+   "Aortic stenosis",
+   "Mitral regurgitation",
+   "Pulmonary embolism",
+   "Left Ventricular (Ischemic/Hypertensive) myocardial infarction"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 1-year-old child with repeated chest infections, a continuous harsh murmur in the left infraclavicular area and bounding pulses."
+   },
+   {
+    "n": 2,
+    "stem": "A 55-year-old hypertensive female with chest pain, ST elevation, positive troponin, low ejection fraction and a systolic murmur."
+   },
+   {
+    "n": 3,
+    "stem": "A 50-year-old heavy smoker with dyspnea, orthopnea and lower-zone infiltrates on CXR but no classic left heart failure signs."
+   },
+   {
+    "n": 4,
+    "stem": "An 8-month pregnant woman with acute dyspnea, orthopnea, frothy sputum and an S3 gallop."
+   },
+   {
+    "n": 5,
+    "stem": "A 70-year-old man with recurrent syncope, slow-rising pulse, narrow pulse pressure, and an ejection systolic murmur in the aortic area."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "3. 1. C; 2. J; 3. I; 4. A; 5. G 1-a 2-e 3-c"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 4,
+  "theme": "Treatments",
+  "page": 227,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Heparin then continue warfarin for 3–6 months",
+   "DC shock (cardioversion) should be given rapidly (within ~7 minutes)",
+   "IV adenosine is the appropriate drug",
+   "IV dobutamine is strongly indicated",
+   "A temporary pacemaker is needed"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 42-year-old diabetic and hypertensive man post-inferior MI with repeated episodes of third-degree AV block."
+   },
+   {
+    "n": 2,
+    "stem": "A 32-year-old male in the CCU with features of cardiac tamponade (pulsus paradoxus, electrical alternans on ECG)."
+   },
+   {
+    "n": 3,
+    "stem": "A 46-year-old female with rapid, irregular heartbeat and near-syncope (atrial fibrillation presentation)."
+   },
+   {
+    "n": 4,
+    "stem": "A 70-year-old man with acute atrial fibrillation at 140/min and signs of congestive failure."
+   },
+   {
+    "n": 5,
+    "stem": "A 31-year-old man with frequent ventricular ectopics (>4% on Holter monitoring)."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "4. 1. J; 2. I; 3. F; 4. G; 5. H 1-e 2-c 3-f"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 5,
+  "theme": "Arrhythmia Treatment (Case 8)",
+  "page": 228,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "intravenous adenosine",
+   "oral warfarin",
+   "oral lidocaine (lignocaine)",
+   "Treatment of electrolyte disturbance",
+   "Defibrillation within 3 minutes",
+   "B blocker",
+   "Only reassure the patient",
+   "Permanent pacemakers",
+   "Oral sotalol + warfarin",
+   "Intravenous magnesium",
+   "CRT",
+   "100% O2, subcutaneous LMW heparin, intravenous fluids"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 26-year-old woman appearing acutely unwell with shortness of breath and pulmonary embolism"
+   },
+   {
+    "n": 2,
+    "stem": "A young patient presenting with muscular pain"
+   },
+   {
+    "n": 3,
+    "stem": "A 34-year-old patient post–cardiac arrest"
+   },
+   {
+    "n": 4,
+    "stem": "A 26-year-old patient with tachycardia"
+   },
+   {
+    "n": 5,
+    "stem": "A patient with irregularly irregular pulse and a history of thyroid disease (AF)"
+   },
+   {
+    "n": 6,
+    "stem": "A patient presenting with syncope"
+   },
+   {
+    "n": 7,
+    "stem": "A patient with a ECG"
+   },
+   {
+    "n": 8,
+    "stem": "A patient with palpitations diagnosed with SVT"
+   }
+  ],
+  "images": [
+   "q/o228_40.jpeg",
+   "q/o229_41.jpeg",
+   "q/o229_42.jpeg",
+   "q/o229_43.png",
+   "q/o229_44.jpeg",
+   "q/o229_45.jpeg",
+   "q/o229_46.jpeg",
+   "q/o230_47.jpeg"
+  ],
+  "note": "",
+  "answers_raw": "5. 1. L; 2. D; 3. E; 4. J; 5. I; 6. H; 7. F; 8. A 1-a 2-b 3-e"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 6,
+  "theme": "Treatment of Arrhythmias (Case 4)",
+  "page": 230,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "intravenous adenosine",
+   "oral warfarin (+/− heparin)",
+   "oral lidocaine (lignocaine)",
+   "Digoxin + (adjunct therapy)",
+   "Intravenous magnesium (+/− ventricular pacing)",
+   "Intravenous amiodarone",
+   "Low-molecular-weight heparin",
+   "Permanent pacemaker",
+   "B-blocker or oral sotalol",
+   "(Other options as needed)"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 65-year-old man with atrial fibrillation of longer than 48 hours prior to DC cardioversion."
+   },
+   {
+    "n": 2,
+    "stem": "A 60-year-old woman presenting with severe bradycardia due to heart block."
+   },
+   {
+    "n": 3,
+    "stem": "A 55-year-old man post–acute MI with a short run of non-sustained VT requiring prophylaxis."
+   },
+   {
+    "n": 4,
+    "stem": "A 50-year-old man with an unidentifiable, regular, narrow-complex tachycardia requiring diagnostic aid."
+   },
+   {
+    "n": 5,
+    "stem": "A patient with varying QRS axis and prolonged QT interval needing VT prophylaxis."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "6. 1. B; 2. H; 3. F; 4. A; 5. E"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 7,
+  "theme": "Cardiac Murmurs (Case 5)",
+  "page": 230,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "Mitral stenosis",
+   "Atrial flutter",
+   "Atrial fibrillation",
+   "Aortic stenosis",
+   "Mitral valve prolapse",
+   "Tricuspid regurgitation",
+   "Aortic regurgitation",
+   "Tetralogy of Fallot",
+   "Atrial septal defect",
+   "Aortic incompetence",
+   "Ventricular septal defect",
+   "Mitral regurgitation"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Pansystolic murmur at left 5th intercostal space radiating to the axilla with a third heart sound."
+   },
+   {
+    "n": 2,
+    "stem": "Late systolic murmur with a mid-systolic click at the left 5th intercostal space."
+   },
+   {
+    "n": 3,
+    "stem": "Mid-diastolic rumbling murmur with a loud S1."
+   },
+   {
+    "n": 4,
+    "stem": "Austin Flint murmur (a mid-diastolic murmur in aortic regurgitation)."
+   },
+   {
+    "n": 5,
+    "stem": "Pansystolic murmur at the left parasternal edge that increases with inspiration."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "7. 1. L; 2. E; 3. A; 4. G; 5. F"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 8,
+  "theme": "ECG Interpretation (Case 6)",
+  "page": 231,
+  "chapter": "cvsemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "Subendocardial infarction",
+   "Pulmonary embolism",
+   "Right bundle-branch block",
+   "Mobitz type II second-degree heart block",
+   "Hyperkalemia",
+   "Inferior myocardial infarction",
+   "Anterolateral myocardial infarction",
+   "Left bundle-branch block",
+   "Pericarditis",
+   "Atrial fibrillation",
+   "Mobitz type I second-degree heart block",
+   "Mitral stenosis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": ""
+   },
+   {
+    "n": 2,
+    "stem": ""
+   },
+   {
+    "n": 3,
+    "stem": ""
+   },
+   {
+    "n": 4,
+    "stem": ""
+   }
+  ],
+  "images": [
+   "q/o231_48.jpeg",
+   "q/o232_49.jpeg",
+   "q/o232_50.jpeg",
+   "q/o232_51.jpeg"
+  ],
+  "note": "",
+  "answers_raw": "8. Answers vary per image – for example, diffuse ST elevation (except aVR) may indicate pericarditis (I), while a right bundle branch block pattern indicates (C)."
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 1,
+  "theme": "Pre - test pleural effusion types to patients",
+  "page": 346,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G"
+  ],
+  "options": [
+   "Unilateral effusion, turbid, cell count 90,000 (95% polymorphonuclear cells), protein 4.5 g/ dL (serum protein 5.2), LDH 255 U/L (serum LDH 290), pH 6.84, glucose 20 mg/dL. Culture and Gram stain pending. rum 5.0), LDH 560 U/L (serum 450), pH 7.27, glucose 77 mg/dL.",
+   "Right-sided effusion, straw colored, cell count 150 (20% polys, 35% lymphocytes, 45% mesothelial cells), protein 1.4 g/L (serum protein 5.4), LDH 66 U/L (serum LDH 175), pH 7.42, glucose 100 mg/dL.",
+   "Bilateral effusions, slightly turbid, cell count 980 (10% polys, 30% lymphocytes, 60% mesothelial cells), protein 3.9 g/L (serum 3.8), LDH 225 U/L (serum 240), pH 7.52, glucose 5 mg/dL.",
+   "Bilateral effusions, straw colored, cell count 4200 (100% lymphocytes), protein 3 g/dL (se",
+   "Right-sided effusion, bloody, white cell count 1200 (15% polys, 5% lymphocytes, 80% “reactive” mesothelial cells), RBC 130,000, protein 4.2 g/L (serum 4.6), LDH 560 U/L (serum 226), pH 6.90, glucose 120 mg/dL.",
+   "Left-sided effusion, turbid, cell count 54,000 (92% polys, 8% lymphocytes), protein 5.2 g/L (serum 5.2), LDH 400 U/L (serum 200), pH 3.02, glucose 40 mg/dL.",
+   "Left-sided effusion, straw colored, cell count 2000 (80% polys, 10% lymphocytes, 10% mesothelial cells) protein 2.0 (serum 4.8), LDH 158 (serum 220), pH 7.52, Gram stain negative, amylase 32,000."
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 65-year-old male complains of shortness of breath at night and nocturnal dyspnea. On physical examination there is neck vein distention and bilateral rales at the bases. A chest x-ray shows bilateral pleural effusions, right larger than left, with cardiomegaly."
+   },
+   {
+    "n": 2,
+    "stem": "A 52-year-old alcoholic man develops left chest pain after repeated bouts of vomiting. On presentation he is diaphoretic with fever of 101.5, heart rate 126, BP 84/52. There are crackles and moderate dullness at the left base. The right lung is clear. He has subcutaneous emphysema over the left supraclavicular area."
+   },
+   {
+    "n": 3,
+    "stem": "A 72-year-old woman is admitted from the nursing home with fever and cough. Physical examination shows right basilar crackles and moderate dullness. CXR shows RLL pneumonia with moderate pleural effusion. She is treated with vancomycin and levofloxacin but remains febrile. Her shortness of breath worsens, and a follow-up chest x-ray shows enlarging pleural effusion."
+   },
+   {
+    "n": 4,
+    "stem": "A 52-year-old woman is admitted with abdominal pain and hypertriglyceridemia. Amylase is elevated, and she is treated for pancreatitis with IV fluids and narcotics. Over the next several days she becomes more short of breath; left basilar dullness develops."
+   },
+   {
+    "n": 5,
+    "stem": "A 68-year-old retired construction worker has complained of right-sided chest pain and shortness of breath with dry cough. There is marked weight loss and anorexia. A chest x-ray shows right pleural effusion with pleural thickening."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "1. 1. A; 2. B; 3. (Not clearly provided); 4. D; 5. C; 6. C; 7. E 1-b 2-f 3-a 4-g 5-e 4-b 5-d"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 2,
+  "theme": "Pre-test chest x-ray",
+  "page": 347,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "options": [
+   "Chest x-ray a",
+   "Chest x-ray b",
+   "Chest x-ray c",
+   "Chest x-ray d"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 60-years-old man develops fever, chills, and productive cough while in the hospital after surgery. There is increased tactile fremitus in the right midlung field. Sputum Gram stain shows few squamous cells, many polys, and gram-positive cocci in clusters."
+   },
+   {
+    "n": 2,
+    "stem": "A 45-year-old male with known coronary artery disease develops shortness of breath and awakens gasping for breath at night. There is dullness to percussion at the right base."
+   },
+   {
+    "n": 3,
+    "stem": "An 85-year-old male, newly arrived from Vietnam, has been complaining of cough and night sweats for more than a year. There are upper lobe crackles bilaterally."
+   },
+   {
+    "n": 4,
+    "stem": "A 50-year-old female has had long-standing hypertension that is poorly controlled. Physical examination shows the PMI to be displaced to the sixth intercostal space"
+   }
+  ],
+  "images": [
+   "q/o347_85.png",
+   "q/o347_84.png"
+  ],
+  "note": "",
+  "answers_raw": "2. Example answers: D for acute pericarditis; E for vasospastic angina; other answers depend on the image. 1-a 2-b 3-c 4-d"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 3,
+  "theme": "Pre-test Arterial blood gas values",
+  "page": 348,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E"
+  ],
+  "options": [
+   "pH 7.50, PO2 75, PCO2 28",
+   "pH 7.14, PO2 78, PCO2 95",
+   "pH 7.06, PO2 36, PCO2 95",
+   "pH 7.06, PO2 108, PCO2 13",
+   "pH 7.37, PO2 48, PCO2 54"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 30-year-old obese female bus driver develops sudden pleuritic left-sided chest pain, hemoptysis, and dyspnea."
+   },
+   {
+    "n": 2,
+    "stem": "A 60-year-old heavy smoker has severe chronic bronchitis, peripheral edema, and cyanosis."
+   },
+   {
+    "n": 3,
+    "stem": "A 22-year-old drug-addicted man is brought to the emergency room by friends who were unable to awaken him."
+   },
+   {
+    "n": 4,
+    "stem": "A 62-year-old man with chronic bronchitis develops chest pain and is given oxygen via mask in the ambulance en route to the hospital. He becomes lethargic in the emergency room."
+   },
+   {
+    "n": 5,
+    "stem": "A 20-year-old man with diabetes mellitus comes to the emergency room with diffuse abdominal pain, tachypnea, and fever."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "3. 1. C; 2. J; 3. I; 4. A; 5. G 1-a 2-e 3-c"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 4,
+  "theme": "Pre-test diagnosis for patients",
+  "page": 348,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H"
+  ],
+  "options": [
+   "Small cell carcinoma of the lung",
+   "Bronchoalveolar carcinoma of the lung",
+   "Silicosis",
+   "Pneumonia",
+   "Cystic fibrosis",
+   "Hodgkin disease",
+   "Asbestosis",
+   "Hypersensitivity pneumonitis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 20-year-old male has a cough and history of bronchitis with thick greenish sputum. There is no history of cigarette smoking. The patient has also been treated for abdominal cramping and malabsorption."
+   },
+   {
+    "n": 2,
+    "stem": "A 40-year-old construction worker has noted increasing shortness of breath and cough over many years. On physical examination bilateral inspiratory crackles are heard. Chest x-ray shows egg shell calcifications in hilar adenopathy and bilateral small nodular interstitial markings in the upper lobes."
+   },
+   {
+    "n": 3,
+    "stem": "A 42-year-old male is evaluated for fever, night sweats, and pruritus. There is a 2-cm firm rubbery supraclavicular node on physical examination as well as bilateral axillary nodes. Chest x-ray shows mediastinal lymphadenopathy."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "4. 1. J; 2. I; 3. F; 4. G; 5. H 1-e 2-c 3-f"
+ },
+ {
+  "section": 5,
+  "bank": "Formative & Previous Years",
+  "no": 5,
+  "theme": "Pre-test diagnosis for clinical situations",
+  "page": 349,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G"
+  ],
+  "options": [
+   "Tuberculosis",
+   "Primary lung tumor",
+   "Pulmonary embolus",
+   "Metastatic lung cancer",
+   "Asbestosis",
+   "Histoplasmosis",
+   "Idiopathic pulmonary fibrosis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 32-year-old male has cough with yellow, blood-tinged sputum. He also has a history of night sweats and a 10-lb weight loss. The patient was born in India. On physical examination there is dullness to percussion above both clavicles. Chest x-ray shows bilateral upper lobe infiltrates with cavity formation."
+   },
+   {
+    "n": 2,
+    "stem": "A 55-year-old woman who is a heavy cigarette smoker complains of cough with small amounts of bright red blood. She has also noted loss of appetite and a 12-lb weight loss. A 3-cm pulmonary nodule with shaggy margins is seen on chest x-ray."
+   },
+   {
+    "n": 3,
+    "stem": "A 65-year-old who is retiring from work as a plumber has complained of a dry cough. He has also had some shortness of breath on walking. On physical examination there are bilateral crackling rales at both lung bases. Bilateral clubbing is also noted. On chest x-ray, bilateral linear infiltrates are seen at the lung bases. Pleural scarring is noted on CT scan."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "5. 1. L; 2. D; 3. E; 4. J; 5. I; 6. H; 7. F; 8. A 1-a 2-b 3-e"
+ },
+ {
+  "section": 6,
+  "bank": "Formative & Previous Years",
+  "no": 1,
+  "theme": "Dyspnea",
+  "page": 350,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N"
+  ],
+  "options": [
+   "Pneumothorax",
+   "MR",
+   "Asthma",
+   "Bronchogenic carcinoma",
+   "Primary (atypical) pneumonia",
+   "Pneumothorax",
+   "Rheumatoid pneumonia",
+   "Eosinophilic pneumonia",
+   "Asbestosis",
+   "Congestive alveolar alveolitis",
+   "VSD",
+   "Cystic fibrosis",
+   "COPD",
+   "Pulmonary edema"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "40-year-old woman collapses after a fight with breathlessness and right-sided pleuritic chest pain."
+   },
+   {
+    "n": 2,
+    "stem": "42-year-old man presents with shortness of breath on exertion, fever and productive cough."
+   },
+   {
+    "n": 3,
+    "stem": "A 28-year-old man with a history of allergies experiences recurrent episodes of wheezing, shortness of breath, and chest tightness during exercise."
+   },
+   {
+    "n": 4,
+    "stem": "A 50-year-old woman with a long-standing history of rheumatoid arthritis presents with gradually worsening dyspnea, a nonproductive cough, and fine inspiratory crackles on lung examination."
+   },
+   {
+    "n": 5,
+    "stem": "A 60-year-old man with known heart failure suddenly develops worsening shortness of breath, orthopnea, and bilateral rales on auscultation."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "1. A. Pneumothorax 2. E. Primary (atypical) pneumonia 3. C. Asthma 4. G. Rheumatoid pneumonia 5. N. Pulmonary edema J. Oral sodium cromoglycate; G. Inhaled steroid; B. Oral prednisolone; I . Inhaled salmeterol"
+ },
+ {
+  "section": 6,
+  "bank": "Formative & Previous Years",
+  "no": 2,
+  "theme": "Haemoptysis",
+  "page": 351,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "tuberculosis (TB)",
+   "haemothorax",
+   "bronchogenic carcinoma",
+   "polyarteritis nodosa",
+   "Wegener’s granulomatosis",
+   "Goodpasture’s syndrome",
+   "haemophilia",
+   "pneumonia",
+   "cardiogenic pulmonary edema",
+   "mucoid impaction",
+   "pulmonary embolism",
+   "Churg-Strauss syndrome"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 24-year-old man with cough and intermittent haemoptysis develops haematuria; renal biopsy shows linear IgG deposits."
+   },
+   {
+    "n": 2,
+    "stem": "A 65-year-old smoker with exertional angina presents with cough and intermittent haemoptysis."
+   },
+   {
+    "n": 3,
+    "stem": "A 34-year-old with nasal obstruction, recurrent sinusitis and hemoptysis; chest imaging may show cavitation and c-ANCA is positive."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "2. F. Goodpasture’s syndrome; C. Bronchogenic carcinoma; E. Wegener’s granulomatosis"
+ },
+ {
+  "section": 6,
+  "bank": "Formative & Previous Years",
+  "no": 3,
+  "theme": "Treatment of Asthma and COPD",
+  "page": 351,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Low-dose oral aminophylline",
+   "Oral prednisolone",
+   "Inhaled beclomethasone",
+   "Inhaled ipratropium bromide",
+   "Inhaled salbutamol",
+   "Nebulized adrenaline",
+   "Inhaled steroid",
+   "Home 100% per min oxygen",
+   "Inhaled salmeterol",
+   "Oral sodium cromoglycate"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 7-year-old girl with slight wheeze and shortness of breath despite using inhaled salbutamol as needed."
+   },
+   {
+    "n": 2,
+    "stem": "A 22-year-old student with mild asthma experiencing occasional early-morning chest tightness."
+   },
+   {
+    "n": 3,
+    "stem": "A 17-year-old who uses his salbutamol inhaler frequently."
+   },
+   {
+    "n": 4,
+    "stem": "A 33-year-old patient on maximum-dose inhaled therapy plus slow-release theophylline yet still uncontrolled."
+   },
+   {
+    "n": 5,
+    "stem": "A 25-year-old woman requiring add-on therapy between inhaled salbutamol and beclomethasone."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "3. C. Inhaled beclomethasone;"
+ },
+ {
+  "section": 6,
+  "bank": "Formative & Previous Years",
+  "no": 4,
+  "theme": "Best Investigation",
+  "page": 352,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Chest X-ray",
+   "High-Resolution CT (HRCT) scan of the chest",
+   "Pulmonary Function Tests (PFTs)",
+   "Arterial Blood Gas (ABG)",
+   "Bronchoscopy",
+   "Ventilation–Perfusion (V/Q) scan",
+   "CT Pulmonary Angiography (CTPA)",
+   "Flow–Volume Loop",
+   "Sputum culture/cytology",
+   "ECG"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 67-year-old lifelong smoker with shortness of breath, bilateral crepitations that clear with coughing, scattered ronchi and ankle edema."
+   },
+   {
+    "n": 2,
+    "stem": "A 50-year-old woman with a 1-week history of dry cough, exertional dyspnea, low-grade fever and bibasal crackles with clubbing."
+   },
+   {
+    "n": 3,
+    "stem": "A 24-year-old male who develops acute dyspnea after taking propranolol, with tachypnea, hypoxemia and wheezing."
+   },
+   {
+    "n": 4,
+    "stem": "A 20-year-old tall, slim man with sudden onset right-sided pleuritic chest pain and reduced breath sounds."
+   },
+   {
+    "n": 5,
+    "stem": "A 35-year-old woman with fever, cough, pleuritic chest pain, confusion and hypotension; bronchial breathing over the left lower zone."
+   },
+   {
+    "n": 6,
+    "stem": "A 70-year-old heavy smoker with cough, sputum, hemoptysis, hoarseness and hypercalcemia."
+   },
+   {
+    "n": 7,
+    "stem": "A 72-year-old heavy smoker lady with chronic productive cough, greenish sputum with blood streaks, progressive dyspnea and digital clubbing."
+   },
+   {
+    "n": 8,
+    "stem": "A 38-year-old woman with hypertriglyceridemia, severe acute pancreatitis and ARDS."
+   },
+   {
+    "n": 9,
+    "stem": "A 55-year-old man with chronic dyspnea, stridor and a large thyroid goiter."
+   },
+   {
+    "n": 10,
+    "stem": "A 68-year-old female post-hip replacement with sudden chest tightness, dyspnea, hypotension and minimal auscultatory findings."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "4. C. Pulmonary Function Tests; B. High-Resolution CT scan; D. Arterial Blood Gas; A. Chest X-ray; A. Chest X-ray; G. CT scan of the chest; B. High-Resolution CT scan; D. Arterial Blood Gas; H. Flow–Volume Loop; G. CT Pulmonary Angiography"
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 5,
+  "theme": "Shortness of breath",
+  "page": 353,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "pleural effusion",
+   "pulmonary oedema",
+   "right-sided rib fracture",
+   "pneumothorax",
+   "bronchogenic carcinoma",
+   "pneumonia",
+   "fibrosing alveolitis",
+   "extrinsic allergic alveolitis",
+   "anaemia",
+   "pulmonary embolus",
+   "acute respiratory distress syndrome",
+   "cystic fibrosis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 21-year-old man has a productive cough, wheeze and steatorrhoea. On examination he is clubbed and cyanosed, and has bilateral coarse crackles."
+   },
+   {
+    "n": 2,
+    "stem": "A 63-year-old man presents to AE with weight loss, cough, haemoptysis and shortness of breath. On examination he is anaemic, clubbed and apyrexial."
+   },
+   {
+    "n": 3,
+    "stem": "A 65-year-old man presents with shortness of breath and cough productive of pink frothy sputum. On examination he is cyanosed and tachycardic, and has bibasal end-inspiratory crackles. His jugular venous pressure (JVP) is elevated."
+   },
+   {
+    "n": 4,
+    "stem": "A 70-year-old woman presents with fever, rigors, shortness of breath and right-sided pleuritic chest pain. On examination the right side of the chest shows reduced expansion, dull percussion and increased tactile vocal fremitus."
+   },
+   {
+    "n": 5,
+    "stem": "A 30-year-old farmer presents with repeated episodes of fever, rigors, dry cough and shortness of breath with onset several hours after starting work. On examination he is pyrexial with coarse end-expiratory crackles. His chest radiograph shows mid-zone mottling."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "5. L,E,B,F,H 9. K,C,E,F,G"
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 6,
+  "theme": "Causes of pneumonia",
+  "page": 354,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N"
+  ],
+  "options": [
+   "Legionella pneumophila",
+   "Aspergillus fumigatus",
+   "Pneumocystis carinii",
+   "Streptococcus pneumoniae",
+   "cytomegalovirus (CMV) infection",
+   "Chlamydia psittaci",
+   "Coxiella burnettii",
+   "Mycoplasma pneumoniae",
+   "Escherichia coli",
+   "Chlamydia pneumoniae",
+   "Moraxella catarrhalis",
+   "varicella zoster",
+   "Staphylococcus aureus",
+   "Pseudomonas sp."
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "An 80-year-old man presents with bilateral cavitating bronchopneumonia after an influenza infection."
+   },
+   {
+    "n": 2,
+    "stem": "A 24-year-old student presents with severe headache, fever, dry cough and arthralgia. He has recently bought several parrots and was previously fit and well."
+   },
+   {
+    "n": 3,
+    "stem": "A 40-year-old man with HIV presents with fever, dry cough, weight loss and exertional dyspnoea."
+   },
+   {
+    "n": 4,
+    "stem": "A 75-year-old man presents with headache, dry cough, anaemia and a skin rash. Blood tests detect cold agglutinins."
+   },
+   {
+    "n": 5,
+    "stem": "A 25-year-old air-conditioning technician, who suffered from flu-like symptoms a week ago, has developed a dry cough. His chest radiograph shows multilobar shadowing. Blood tests show hyponatraemia and lymphopenia. Urinalysis reveals haematuria."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "6. M,F,C,H,A"
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 7,
+  "theme": "Haemoptysis",
+  "page": 355,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "tuberculosis (TB)",
+   "haemothorax",
+   "bronchogenic carcinoma",
+   "polyarteritis nodosa",
+   "Wegener’s granulomatosis",
+   "bronchiectasis",
+   "Goodpasture’s syndrome",
+   "haemophilia",
+   "pulmonary oedema",
+   "pneumonia",
+   "pulmonary embolus",
+   "Churg–Strauss syndrome"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 65-year-old smoker presents with shortness of breath, gallop rhythm and production of pink frothy sputum."
+   },
+   {
+    "n": 2,
+    "stem": "A 24-year-old man initially complaining of cough and intermittent haemoptysis presents a few weeks later with haematuria. Biopsy confirms a crescentic glomerulonephritis. Renal biopsy shows linear pattern deposition on immunofluorescence."
+   },
+   {
+    "n": 3,
+    "stem": "A 34-year-old woman originally complaining of nasal obstruction develops cough, haemoptysis and pleuritic chest pain. Her chest radiograph shows multiple nodular masses."
+   },
+   {
+    "n": 4,
+    "stem": "A 22-year-old man presents with fever, nightsweats, weight loss and cough productive of cupfuls of blood. Ziehl–Neelsen stain is positive for acid-fast bacilli."
+   },
+   {
+    "n": 5,
+    "stem": "A 35-year-old businessman returns from a trip abroad and collapses at the airport with haemoptysis and pleuritic chest pain. He has a sinus tachycardia and his ECG shows right axis deviation."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "7. I,G,E,A,K"
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 8,
+  "theme": "Chest radiograph pathology",
+  "page": 356,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "mitral stenosis",
+   "bronchiectasis",
+   "right upper lobe collapse",
+   "Kartagener’s syndrome",
+   "aortic stenosis",
+   "previous varicella pneumonitis",
+   "asbestosis",
+   "right lower lobe collapse",
+   "Wegener’s granulomatosis",
+   "Caplan’s syndrome",
+   "post-fracture fat embolus",
+   "right ventricular failure",
+   "left ventricular failure"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Multiple bilateral nodules between 0.5 and 5cm in a former miner with rheumatoid arthritis."
+   },
+   {
+    "n": 2,
+    "stem": "Kerley B lines, bat-wing shadowing, prominent upper lobe vessels, cardiomegaly."
+   },
+   {
+    "n": 3,
+    "stem": "Trachea deviated to right, horizontal fissure and right hilum displaced upwards."
+   },
+   {
+    "n": 4,
+    "stem": "Numerous calcified nodules sized less than 5 mm located predominantly in the lower zones of the lungs."
+   },
+   {
+    "n": 5,
+    "stem": "Double shadow right heart border, prominent left atrial appendage, left main bronchus elevation."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "8. J,M,C,F,A"
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 9,
+  "theme": "Chest radiograph pathology",
+  "page": 356,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G"
+  ],
+  "options": [
+   "pneumonia",
+   "silicosis",
+   "bronchiectasis",
+   "aspergillosis",
+   "mesothelioma",
+   "cryptogenic fibrosing alveolitis",
+   "extrinsic allergic alveolitis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 28-year-old African–Caribbean man presents with dry cough and progressive shortness of breath. His chest radiograph shows bilateral hilar lymphadenopathy."
+   },
+   {
+    "n": 2,
+    "stem": "The chest radiograph of a 13-year-old boy with cystic fibrosis has tramline and ring shadows."
+   },
+   {
+    "n": 3,
+    "stem": "A 65-year-old dockyard worker presents with weight loss and shortness of breath. He is clubbed and cachectic. His chest radiograph shows pleural calcification and a lobulated pleural mass."
+   },
+   {
+    "n": 4,
+    "stem": "A 40-year-old woman presents with gross clubbing and progressive shortness of breath. Examination reveals fine end-inspiratory crackles. Her chest radiograph shows a ground-glass appearance of the lung."
+   },
+   {
+    "n": 5,
+    "stem": "A 65-year-old smoker presents with shortness of breath. On the chest radiograph, eight ribs can be seen anteriorly above the diaphragm on each side of the chest in the mid-clavicular line."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": ""
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 10,
+  "theme": "Treatment of asthma and COPD",
+  "page": 357,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "M",
+   "N"
+  ],
+  "options": [
+   "low-dose oral aminophylline",
+   "oral prednisolone",
+   "inhaled beclomethasone",
+   "inhaled ipratropium bromide",
+   "nebulized ipratropium bromide",
+   "inhaled sodium cromoglycate",
+   "nebulized salbutamol",
+   "inhaled salmeterol",
+   "home 100 per cent oxygen",
+   "inhaled aminophylline",
+   "inhaled salbutamol",
+   "oral sodium cromoglycate",
+   "inhaled salbutamol with spacer"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 7-year-old girl with slight wheeze and shortness of breath despite inhaled salbutamol."
+   },
+   {
+    "n": 2,
+    "stem": "A 22-year-old student with mild asthma that needs treatment for occasional early morning wheeze."
+   },
+   {
+    "n": 3,
+    "stem": "A 17-year-old student complains that he has to use his salbutamol inhaler regularly to control wheezing."
+   },
+   {
+    "n": 4,
+    "stem": "A 32-year-old patient taking maximum dose-inhaled therapy and slow-release theophylline shows persistently inadequate control of symptoms."
+   },
+   {
+    "n": 5,
+    "stem": "A 25-year-old woman requires add-on therapy because inhaled beclomethasone and salbutamol do not adequately combat her symptoms."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "10. M,K,C,B,H"
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 11,
+  "theme": "Emergency management: respiratory distress",
+  "page": 358,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "intubation",
+   "left-sided decompression",
+   "chest radiograph",
+   "nasal intermittent positive pressure ventilation",
+   "28 per cent O2, nebulized salbutamol, oral prednisolone",
+   "emergency tracheostomy",
+   "28 per cent O2, nebulized salbutamol, intrave nous hydrocortisone",
+   "right-sided decompression",
+   "100 per cent O2, intramuscular adrenaline",
+   "chest drain",
+   "100 per cent O2, intravenous hydrocortisone",
+   "28 per cent O2, nebulized salbutamol, intramuscular adrenaline"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 65-year-old man with long-standing COPD presents with severe shortness of breath. He has been treated with oxygen and nebulized bronchodilators. An hour later: PaO2 6.0 kPa (on max. O2), PaCO2"
+   },
+   {
+    "n": 16,
+    "stem": "0 kPa, pH 7.2."
+   },
+   {
+    "n": 2,
+    "stem": "A 17-year-old woman presents with wheeze and marked perioral swelling: PaO2 7.0 kPa (on 28 per cent O2), PaCO2 4.1 kPa."
+   },
+   {
+    "n": 3,
+    "stem": "A 14 year old with asthma presents with an acute severe asthma attack. PaO2 10.0 kPa (on 28 per cent O2), PaCO2 8.0 kPa."
+   },
+   {
+    "n": 4,
+    "stem": "A 28-year-old man involved in a road traffic accident presents with severe respiratory distress. Examination reveals decreased expansion on the right side of the chest with mediastinal shift to the left."
+   },
+   {
+    "n": 5,
+    "stem": "A young man presents with an acute onset shortness of breath. Examination reveals decreased expansion on the right: SaO2 95 per cent."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "11. D,K,L,H,C"
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 12,
+  "theme": "Management of COPD",
+  "page": 358,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "inhaled salbutamol",
+   "60 per cent O2 nebulized salbutamol, oral prednisolone, oral amoxicillin",
+   "intravenous salbutamol",
+   "long-term O2 therapy",
+   "lung transplantation",
+   "28 per cent O2, nebulized salbutamol ^ ipratropium, oral prednisolone, oral amoxicillin",
+   "28 per cent O2, inhaled bronchodilators, intravenous amoxicillin",
+   "oral aminophylline",
+   "ICU admission and intubation",
+   "100 per cent O2, amoxicillin",
+   "intravenous salmeterol",
+   "NIPPV"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A previously healthy 65-year-old smoker with early COPD complains of shortness of breath on exertion."
+   },
+   {
+    "n": 2,
+    "stem": "A 65-year-old woman with longstanding COPD presents with shortness of breath and cough productive of coloured sputum."
+   },
+   {
+    "n": 3,
+    "stem": "A 70-year-old man admitted with acute severe exacerbation of COPD does not respond to oxygen and nebulized bronchodilators."
+   },
+   {
+    "n": 4,
+    "stem": "A 65-year-old patient with advanced COPD treated with bronchodilators and steroids still feels breathless. His baseline PaO2 is around 6.5 kPa."
+   },
+   {
+    "n": 5,
+    "stem": "A 55-year-old patient with COPD requires regular add-on therapy after bronchodilators do not control symptoms."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "12. A,F,L,D,H"
+ },
+ {
+  "section": 7,
+  "bank": "Irfan",
+  "no": 13,
+  "theme": "Treatment of respiratory infections",
+  "page": 359,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "intravenous benzylpenicillin",
+   "oral flucloxacillin",
+   "oral tetracycline",
+   "oral ciprofloxacin",
+   "intravenous ceftazidime",
+   "oral isoniazid ^ rifampicin",
+   "intravenous flucloxacillin",
+   "oral amoxicillin",
+   "high-dose AZT (zidovudine) ^ pyrazinamide",
+   "intravenous amoxicillin",
+   "intravenous co-trimoxazole",
+   "intravenous teicoplanin",
+   "intravenous cefuroxime ^ erythromycin"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Standard therapy for community-acquired pneumococcal pneumonia not requiring hospital admission."
+   },
+   {
+    "n": 2,
+    "stem": "A 35-year-old patient on the ward admitted to hospital 10 days ago presents with severe pneumonia."
+   },
+   {
+    "n": 3,
+    "stem": "A 40-year-old builder presents with a severe community-acquired pneumonia. Atypical pathogens are suspected."
+   },
+   {
+    "n": 4,
+    "stem": "A 22-year-old HIV-positive individual on anti-retroviral therapy presents with Pneumocystis carinii pneumonia."
+   },
+   {
+    "n": 5,
+    "stem": "A 19-year-old man contracts pneumonia with symptoms of headache, fever and dry cough. Serology shows evidence of chlamydia infection."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "13. H,E,M,K,C"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 14,
+  "theme": "Causes of collapse",
+  "page": 360,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "Acute myocardial infarction",
+   "Cerebrovascular accident",
+   "Dissecting aortic aneurysm",
+   "Drug allergy",
+   "First-dose hypotension",
+   "Left ventricular failure",
+   "Ruptured abdominal aortic aneurysm",
+   "Stable angina",
+   "Stokes–Adams attack",
+   "Supraventricular tachycardia",
+   "Vasovagal syncope",
+   "Ventricular rupture",
+   "Wolff–Parkinson–White syndrome"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 45-year-old woman collapses during a church service in summer. Her husband states that she turned pale and collapsed shortly after standing up. She did not jerk or lose urinary continence. She denies chest pain, shortness of breath and palpitations. She recovered after 30 seconds and now feels back to her usual self. All observations – including blood tests, ECG, and lying and standing blood pressure – are normal."
+   },
+   {
+    "n": 2,
+    "stem": "A 25-year-old man collapses suddenly while visiting his grandmother in hospital. There appears to be no pulse. The crash team is called, and manage to resuscitate him after identifying ventricular fibrillation on the cardiac monitor. The attending anaesthetist records a repeat ECG and notes that the QRS complexes are broad with slurred upstroke of the R wave."
+   },
+   {
+    "n": 3,
+    "stem": "A 75-year-old woman is brought to the emergency department after collapsing. On examination, her heart rate is 80 beats/min and irregular, with a blood pressure of 150/90 mmHg. She has difficulty in moving her left arm and leg."
+   },
+   {
+    "n": 4,
+    "stem": "A 67-year-old man presents to the emergency department following a collapse. He has a history of ischaemic heart disease and had been diagnosed with hypertension only last week. He remembers feeling dizzy when he got out of his chair to go to the toilet before fainting. He regained consciousness almost immediately and had fully recovered within 5 minutes."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "14. 1. K – Vasovagal syncope 2. M – Wolff–Parkinson–White syndrome 3. B – Cerebrovascular accident 4. E – First-dose hypotension 5. A – Acute myocardial infarction"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 15,
+  "theme": "Diagnosis of respiratory conditions 1",
+  "page": 361,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O"
+  ],
+  "options": [
+   "Asbestos-related lung disease",
+   "Asthma",
+   "Bronchiectasis",
+   "Chronic obstructive pulmonary disease",
+   "Cryptogenic fibrosing alveolitis",
+   "Cystic fibrosis",
+   "Extrinsic allergic alveolitis",
+   "Mesothelioma",
+   "Non-small cell lung tumour",
+   "Open pneumothorax",
+   "Sarcoidosis",
+   "Secondary lung metastases",
+   "Sleep apnoea",
+   "Small cell lung tumour",
+   "Tuberculosis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 68-year-old retired accountant has a 3-week history of small haemoptysis. He has also noticed that he is not passing as much urine as normal, although he is otherwise well. On examination, a monophonic wheeze is heard over the left lobe."
+   },
+   {
+    "n": 2,
+    "stem": "A 12-year-old boy is brought to the GP by his mother. Over the last couple of years, he has suffered from repeated chest infections, and his mother is worried that he is not putting on any weight. On examination, there are coarse crepitations throughout both lung lobes."
+   },
+   {
+    "n": 3,
+    "stem": "A 58-year-old builder complains of left-sided chest discomfort that has been progressing over the last fortnight. He is otherwise well. On examination, the left lower lobe is dull to percussion. A pleural tap is performed, and reveals blood-stained fluid."
+   },
+   {
+    "n": 4,
+    "stem": "A 53-year-old shopfitter is admitted to hospital for an elective inguinal hernia operation. A routine chest X-ray shows white lesions over both lungs that cross the lobar boundaries. The patient feels well and auscultation reveals no abnormality."
+   },
+   {
+    "n": 5,
+    "stem": "A 16-year-old boy presents to his GP with a 6-month history of night cough and intermittent wheeze. He has previously been well and has never had a chest infection. Examination of the chest is unremarkable."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "15. 1. N – Small cell lung tumour 2. F – Cystic fibrosis 3. H – Mesothelioma 4. A – Asbestos-related lung disease 5. B – Asthma"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 16,
+  "theme": "Shortness of breath",
+  "page": 362,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Acute coryza",
+   "Asbestosis",
+   "Aspergillosis",
+   "Bronchiectasis",
+   "Chronic obstructive pulmonary disease",
+   "Cryptogenic fibrosing alveolitis",
+   "Extrinsic allergic alveolitis",
+   "Pneumoconiosis",
+   "Sarcoidosis",
+   "Tuberculosis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 54-year-old man presents to the GP with worsening shortness of breath and a cough productive of bloody sputum. He has lost a stone in weight over the last month. A chest X-ray shows consolidation at the left apex."
+   },
+   {
+    "n": 2,
+    "stem": "A 42-year-old woman presents to the GP with a 6-month history of worsening shortness of breath associated with a dry cough. A chest X-ray shows bilateral hilar lymphadenopathy."
+   },
+   {
+    "n": 3,
+    "stem": "A 56-year-old man presents to the GP with a 6-month history of worsening shortness of breath. Examination reveals bilateral end-inspiratory crackles and clubbing. A chest X-ray shows reticulonodular shadowing, especially in the lower zones."
+   },
+   {
+    "n": 4,
+    "stem": "A 47-year-old man presents to the GP with a 4-month history of worsening shortness of breath. Examination reveals bilateral end-inspiratory crackles. A chest X-ray shows reticulonodular shadowing, especially in the upper zones."
+   },
+   {
+    "n": 5,
+    "stem": "A 38-year-old man presents with an episode of massive haemoptysis. He says that he has had two similar episodes in the last month. He often feels short of breath, but has recently finished a course of treatment for pulmonary tuberculosis. Examination is unremarkable. A chest X-ray shows a cavitating lesion with an opaque mass within it."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "16. 1. J – Tuberculosis 2. I – Sarcoidosis 3. F – Cryptogenic fibrosing alveolitis 4. G – Extrinsic allergic alveolitis 5. C – Aspergillosis"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 17,
+  "theme": "Diagnosis of respiratory conditions 2",
+  "page": 362,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N"
+  ],
+  "options": [
+   "Acute coryza",
+   "Asthma",
+   "Bronchiectasis",
+   "Chronic obstructive pulmonary disease",
+   "Closed non-tension pneumothorax",
+   "Cryptogenic fibrosing alveolitis",
+   "Cystic fibrosis",
+   "Extrinsic allergic alveolitis",
+   "Open non-tension pneumothorax",
+   "Pneumoconiosis",
+   "Pneumonia",
+   "Pulmonary embolism",
+   "Sleep apnoea",
+   "Tension pneumothorax"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 67-year-old man has a 3-day history of worsening shortness of breath. He can normally walk 100 m but now can barely get to the front door. Although he says he normally coughs up small amounts of clear sputum, he is now expectorating large amounts of greeny-yellow sputum. Auscultation reveals widespread wheeze."
+   },
+   {
+    "n": 2,
+    "stem": "A 32-year-old man is stabbed in the right side of his chest. He struggles to the hospital. On arrival, he is in some respiratory distress. On examination, there is decreased air entry and hyper-resonance to percussion on the right side. The trachea is not deviated. The doctor notes the presence of a ‘sucking’ wound in the right chest."
+   },
+   {
+    "n": 3,
+    "stem": "A 26-year-old man presents with a 2-day history of feeling generally unwell and shortness of breath. Today, he started coughing up thick green sputum that had flecks of dry blood in. He complains of a sharp pain over the right side of his chest, which is worse on breathing in. Auscultation reveals bronchial breathing at the right base."
+   },
+   {
+    "n": 4,
+    "stem": "A 48-year-old woman presents with sudden-onset shortness of breath and a sharp pain on the right side of her chest. She was previously well. On examination, there is no wheeze or crackles and no areas of hyper-resonance."
+   },
+   {
+    "n": 5,
+    "stem": "A 21-year-old woman is involved in a road traffic accident. When the paramedics arrive, she has a heart rate of 122 beats/min, a respiratory rate of 32/min and a blood pressure of 86/42 mmHg. On examination, there are absent breath sounds and hyper-resonance to percussion on the left side. The trachea is deviated to the right."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "17. 1. D – Chronic obstructive pulmonary disease 2. I – Open non-tension pneumothorax 3. K – Pneumonia 4. L – Pulmonary embolism 5. N – Tension pneumothorax"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 18,
+  "theme": "Investigation of respiratory disease",
+  "page": 363,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "Bronchoscopy and biopsy",
+   "Chest X-ray",
+   "CT pulmonary angiography",
+   "D-dimers",
+   "Lung function tests",
+   "Kveim–Siltzbach test",
+   "Mantoux test",
+   "No investigation required",
+   "Pleural biopsy",
+   "Sputum culture",
+   "Sweat test",
+   "Ventilation–perfusion scan"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 12-year-old boy is brought to the GP by his mother. Over the last couple of years, he has suffered from repeated chest infections and his mother is worried that he is not putting on any weight. On examination, there are coarse crepitations throughout both lung lobes and his fingers are clubbed."
+   },
+   {
+    "n": 2,
+    "stem": "A 67-year-old man complains of a long history of shortness of breath on exertion and a productive cough. He has been coughing up sputum for the last 4 months, but has had symptoms on and off for a few years. He attributed his symptoms to smoking, but he stopped last year."
+   },
+   {
+    "n": 3,
+    "stem": "A 59-year-old man presents to the GP with worsening shortness of breath and a cough productive of bloody sputum. He has lost a stone in weight over the last month and has been having night sweats. A chest X-ray shows scarring at the apices."
+   },
+   {
+    "n": 4,
+    "stem": "A 67-year-old man presents with a 3-week history of a cough productive of blood-stained sputum. He has lost 2 stone (12 kg) in weight over the last 2 months. Auscultation of the lungs is unremarkable, and a chest X-ray shows a 2 cm density in the left lower lobe."
+   },
+   {
+    "n": 5,
+    "stem": "A 58-year-old man complains of left-sided chest discomfort that has been progressing over the last fortnight. He is otherwise well. On examination, the left lower lobe is dull to percussion, and a chest X-ray confirms a left-sided pleural effusion. A pleural tap is performed and reveals blood-stained fluid."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "18. 1. K – Sweat test 2. E – Lung function tests 3. J – Sputum culture 4. A – Bronchoscopy and biopsy 5. A – Bronchoscopy and biopsy"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 19,
+  "theme": "Investigation of dyspnoea",
+  "page": 364,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L"
+  ],
+  "options": [
+   "Bronchoscopy and biopsy",
+   "Chest X-ray",
+   "CT pulmonary angiography",
+   "D-dimers",
+   "Lung function tests",
+   "Kveim–Siltzbach test",
+   "Mantoux test",
+   "No investigation required",
+   "Pleural biopsy",
+   "Sputum culture",
+   "Sweat test",
+   "Ventilation–perfusion scan"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and a sharp chest pain on the right side. She is obviously distressed. Auscultation of the chest reveals no abnormality and there is no hyper-resonance to percussion."
+   },
+   {
+    "n": 2,
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and a sharp chest pain on the right side. She is obviously distressed. Auscultation of the chest reveals no abnormality and there is no hyper-resonance to percussion. A chest X-ray shows clear lung fields."
+   },
+   {
+    "n": 3,
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and a sharp chest pain on the right side. She is obviously distressed. Auscultation of the chest reveals no abnormality and there is no hyper-resonance to percussion. A chest X-ray shows occasional patchy shadowing."
+   },
+   {
+    "n": 4,
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and a sharp chest pain on the right side. She is obviously distressed and is coughing up large amounts of green sputum. Auscultation of the chest reveals crackles at the right lower zone. A chest X-ray confirms right lower lobe consolidation."
+   },
+   {
+    "n": 5,
+    "stem": "A 42-year-old woman presents with sudden-onset shortness of breath and a sharp chest pain on the right side. She is obviously distressed. Auscultation of the chest reveals hyper-resonance to percussion over the right side. The trachea is deviated to the left."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "19. 1. B – Chest X-ray 2. L – Ventilation–perfusion scan 3. C – CT pulmonary angiography 4. J – Sputum culture 5. H – No investigation required"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 20,
+  "theme": "Management of respiratory disease 1",
+  "page": 365,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O"
+  ],
+  "options": [
+   "Amoxicillin",
+   "Cannula into second intercostal space midclavicular line",
+   "Cannula into sixth intercostal space midclavicular line",
+   "Chemotherapy",
+   "Co-trimoxazole",
+   "Erythromycin",
+   "Inhaled anticholinergic",
+   "Inhaled B-agonist",
+   "Low-molecular-weight heparin",
+   "Metronidazole",
+   "No management required",
+   "Radiotherapy",
+   "Rifampicin and isoniazid",
+   "Steroids",
+   "Warfarin"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 47-year-old man presents with a 2-day history of feeling generally unwell and shortness of breath. Today, he started coughing up thick green sputum. Auscultation reveals bronchial breathing at the right base. He is allergic to penicillin."
+   },
+   {
+    "n": 2,
+    "stem": "A 67-year-old woman has viral gastroenteritis. During the illness, she accidently aspirates some of her vomit. A few days later, she develops a cough with productive sputum. A chest X-ray confirms right middle lobe consolidation."
+   },
+   {
+    "n": 3,
+    "stem": "A 38-year-old woman has a 2-month history of worsening shortness of breath and a dry cough. She also complains of night sweats. On examination, her oxygen saturations are 89%. She has no other symptoms and no history of respiratory disease, but is known to have HIV infection."
+   },
+   {
+    "n": 4,
+    "stem": "A 49-year-old man presents to the GP with worsening shortness of breath and a cough productive of bloody sputum. He has lost a stone (6 kg) in weight over the last month. A chest X-ray shows consolidation at the both apices."
+   },
+   {
+    "n": 5,
+    "stem": "A 68-year-old man has a 3-week history of haemoptysis. He has lost a stone (6 kg) in weight over this period of time. A biopsy taken at bronchoscopy confirms a non-small cell lung tumour. A CT scan shows that the disease is not surgically resectable."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "20. 1. F – Erythromycin 2. J – Metronidazole 3. E – Co-trimoxazole 4. M – Rifampicin and isoniazid 5. L – Radiotherapy"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 21,
+  "theme": "Management of respiratory disease 2",
+  "page": 366,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M",
+   "N",
+   "O"
+  ],
+  "options": [
+   "Amoxicillin",
+   "Cannula into second intercostal space, midclavicular line",
+   "Cannula into sixth intercostal space, midclavicular line",
+   "Chemotherapy",
+   "Co-trimoxazole",
+   "Erythromycin",
+   "Inhaled anticholinergic",
+   "Inhaled B-agonist",
+   "Low-molecular-weight heparin",
+   "Metronidazole",
+   "No management required",
+   "Radiotherapy",
+   "Rifampicin and isoniazid",
+   "Steroids",
+   "Warfarin"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 38-year-old woman presents with sudden-onset shortness of breath and chest pain. Examination is unremarkable. A chest X-ray is clear, but the diagnosis is eventually confirmed on a ventilation–perfusion scan."
+   },
+   {
+    "n": 2,
+    "stem": "A 21-year-old woman is involved in a road traffic accident. When the paramedics arrive, she has a heart rate of 122 beats/min, a respiratory rate of 32/min and a blood pressure of 86/42 mmHg. On examination, breath sounds are absent and there is hyper-resonance to percussion on the left side. The trachea is deviated to the right."
+   },
+   {
+    "n": 3,
+    "stem": "A 68-year-old man has a 3-week history of haemoptysis. He has lost a stone (6 kg) in weight over this period of time. A biopsy taken at bronchoscopy confirms a small cell lung tumour. A CT scan shows that the disease is not surgically resectable."
+   },
+   {
+    "n": 4,
+    "stem": "An 11-year-old boy presents to his GP with a 6-month history of night cough and intermittent wheeze. He has previously been well. On examination, he is small for his age and has mild eczema on his upper limbs."
+   },
+   {
+    "n": 5,
+    "stem": "A 53-year-old man is admitted to hospital after breaking his left arm. An X-ray of the affected limb shows part of the lung fields. On the lungs, holly-shaped white lesions can be seen that cross the lobar boundaries. The patient feels well and auscultation reveals no abnormality."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "21. 1. I – Low-molecular-weight heparin 2. B – Cannula into second intercostal space, midclavicular line 3. D – Chemotherapy 4. H – Inhaled B-agonist 5. K – No management required"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 22,
+  "theme": "Airway management",
+  "page": 367,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H"
+  ],
+  "options": [
+   "Cricothyroidotomy",
+   "Endotracheal tube",
+   "Head tilt and chin lift",
+   "Laryngeal mask airway",
+   "Nasopharyngeal airway",
+   "Oropharyngeal airway",
+   "Suction",
+   "Tracheostomy"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "An 18-year-old man is post-ictal following an epileptic seizure. He is making snoring noises when breathing. His Glasgow Coma Scale score is 6."
+   },
+   {
+    "n": 2,
+    "stem": "An 18-year-old man is post-ictal following an epileptic seizure. He is making snoring noises when breathing. His Glasgow Coma Scale score is 12."
+   },
+   {
+    "n": 3,
+    "stem": "A 65-year-old man collapsed unconscious in a restaurant toilet after complaining of chest pain. An ambulance has been called, but has yet to arrive."
+   },
+   {
+    "n": 4,
+    "stem": "A 30-year-old woman has significant facial and upper airway burns. An attempt at bag-and-mask ventilation and intubation has failed due to laryngeal oedema."
+   },
+   {
+    "n": 5,
+    "stem": "A 67-year-old woman is in ventricular fibrillation. An anaesthetist has yet to arrive."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "22. 1. F – Oropharyngeal airway 2. E – Nasopharyngeal airway 3. C – Head tilt and chin lift 4. A – Cricothyroidotomy 5. D – Laryngeal mask airway"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 23,
+  "theme": "Pathogens in pneumonia",
+  "page": 367,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K"
+  ],
+  "options": [
+   "Chlamydophila pneumoniae",
+   "Chlamydophila psittaci",
+   "Haemophilus influenzae",
+   "Klebsiella pneumoniae",
+   "Legionella pneumophila",
+   "Mycobacterium tuberculosis",
+   "Mycoplasma pneumoniae",
+   "Pneumocystis jiroveci",
+   "Pseudomonas aeruginosa",
+   "Staphylococcus aureus",
+   "Streptococcus pneumoniae"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 26-year-old man has a 2-day history of malaise, fever and shortness of breath associated with pain over the right side of his chest. He has developed a cough and is expectorating rusty sputum. A chest X-ray confirms consolidation of the right lower lobe."
+   },
+   {
+    "n": 2,
+    "stem": "A 67-year-old woman presents with a 5-day history of malaise and a cough productive of yellow sputum. Examination is unremarkable. A chest X-ray shows two cavities with air–fluid levels."
+   },
+   {
+    "n": 3,
+    "stem": "A 42-year-old woman has a 2-month history of worsening shortness of breath and a dry cough. She also complains of night sweats. On examination, her oxygen saturations are 89%. She has no other symptoms and no history of respiratory disease, but is known to have HIV infection."
+   },
+   {
+    "n": 4,
+    "stem": "A 53-year-old man is brought to the emergency department after a fit. His wife says that he has been complaining of malaise, muscle aches and a dry cough for the last 7 days since they returned from holiday. Blood tests reveal a sodium of 124 mmol/L and a potassium of 4.2 mmol/L."
+   },
+   {
+    "n": 5,
+    "stem": "A 62-year-old man presents with a 2-week history of shortness of breath associated with a dry cough and widespread joint ache. He has felt somewhat feverish and unwell over this time. Examination reveals an enlarged liver and spleen. A chest X-ray demonstrates patchy consolidation of both lower lobes."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "23. 1. K – Streptococcus pneumoniae 2. J – Staphylococcus aureus 3. H – Pneumocystis jiroveci 4. E – Legionella pneumophila 5. B – Chlamydophila psittaci"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 24,
+  "theme": "Management of asthma",
+  "page": 368,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J",
+   "K",
+   "L",
+   "M"
+  ],
+  "options": [
+   "Inhaled high-dose steroids",
+   "Inhaled low-dose steroids",
+   "Inhaled short-acting B2-agonist",
+   "Intravenous magnesium sulphate",
+   "Nebulized short-acting B2-agonist",
+   "No further management required",
+   "No treatment required",
+   "Oral leukotriene receptor antagonist",
+   "Oral steroids",
+   "Oxygen via facemask and inhaled short-acting B2-agonist",
+   "Oxygen via facemask, inhaled short-acting B2-agonist and steroids",
+   "Oxygen via facemask and nebulized short-acting B2-agonist",
+   "Oxygen via facemask, nebulized short-acting B2-agonist and steroids"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "An 8-year-old boy presents to his GP with a 6-month history of night cough and intermittent wheeze. He has previously been well. On examination, he is small for his age and has mild eczema on his upper limbs."
+   },
+   {
+    "n": 2,
+    "stem": "A 16-year-old boy attends the GP with poorly controlled chronic asthma. He is currently being managed with an inhaled long-acting B2-agonist and high-dose inhaled steroids. His parents want to know if there is anything else that he can be given."
+   },
+   {
+    "n": 3,
+    "stem": "A 14-year-old girl attends the GP with poorly controlled chronic asthma. She is currently being managed with an inhaled long-acting B2-agonist and high-dose inhaled steroids and monteleukast. Her parents want to know if there is anything else that can be done to help."
+   },
+   {
+    "n": 4,
+    "stem": "A 23-year-old man with known asthma is brought to the emergency department with shortness of breath. He has widespread wheeze, is too breathless to talk, and has a heart rate of 115 beats/min and a respiratory rate of 36/min."
+   },
+   {
+    "n": 5,
+    "stem": "A 21-year-old women with known asthma is brought to the emergency department with shortness of breath. She can barely talk, has a silent chest and has a respiratory rate of 36/min. Although there appears to be some improvement with oxygen, nebulized salbutamol and steroids, her peak flows are still 30% of her best."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "24. 1. C – Inhaled short-acting B2-agonist 2. H – Oral leukotriene receptor antagonist 3. I – Oral steroids 4. M – Oxygen via facemask, nebulized short-acting B2-agonist and steroids 5. D – Intravenous magnesium sulphate"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 25,
+  "theme": "Respiratory diseases of childhood",
+  "page": 369,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I"
+  ],
+  "options": [
+   "Aspiration of vomit",
+   "Asthma",
+   "Bronchiolitis",
+   "Croup",
+   "Cystic fibrosis",
+   "Epiglottitis",
+   "Infectious mononucleosis",
+   "Inhalation of foreign body",
+   "Pertussis"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 5-year-old unimmunized boy presents to the GP with a chronic cough. His mother reports that he has had this cough for 3 months. It started with a normal ‘cold and cough’, but he has not managed to shake it off. For the first 4 weeks, the cough would occur in bursts and he would get very distressed, occasionally going blue and vomiting."
+   },
+   {
+    "n": 2,
+    "stem": "A 2-year-old boy presents with a non-productive cough that started suddenly yesterday afternoon. He is otherwise well and has a temperature of 36.5°C. On examination, there are reduced breath sounds on the right side."
+   },
+   {
+    "n": 3,
+    "stem": "An 18-month-old girl presents with a non-productive cough and stridor. The cough is described as ‘barking’ in nature. She has a temperature of 38°C and is restless. She does not appear systemically unwell and is not cyanotic, but there is a moderate stridor on exertion."
+   },
+   {
+    "n": 4,
+    "stem": "A 7-year-old boy presents to the emergency department. His mother says that he has become very unwell very quickly. It started with a high fever and a sore throat. He is now very quiet, and is drooling while sitting upright on the edge of the bed. You examine him briefly, and he appears shocked and tachypnoeic and has a very faint stridor. He has a past medical history of asthma and has never been immunized."
+   },
+   {
+    "n": 5,
+    "stem": "A 6-month-old baby presents with a cough. The illness began 4 days ago with a runny nose and a mild fever. Over the last 24 hours, he has developed a high-pitched cough associated with a wheeze. On examination, crepitations are heard throughout the lung fields."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "25. 1. I – Pertussis 2. H – Inhalation of foreign body 3. D – Croup 4. F – Epiglottitis 5. C – Bronchiolitis"
+ },
+ {
+  "section": 8,
+  "bank": "Get Ahead",
+  "no": 26,
+  "theme": "Scoring the severity of pneumonia",
+  "page": 370,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G"
+  ],
+  "options": [
+   "CURB 0 pneumonia",
+   "CURB 1 pneumonia",
+   "CURB 2 pneumonia",
+   "CURB 3 pneumonia",
+   "CURB 4 pneumonia",
+   "CURB 5 pneumonia",
+   "Not a pneumonia"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 55-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows left basal consolidation. Other investigations show a blood pressure of 118/78 mmHg, respiratory rate 18/ min and urea 5.4 mmol/L. He scores 10/10 on the Abbreviated Mental Test Score (AMTS)."
+   },
+   {
+    "n": 2,
+    "stem": "A 69-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows left basal consolidation. Other investigations show a blood pressure of 86/62 mmHg, respiratory rate 34/ min and urea 9.6 mmol/L. He scores 6/10 on the AMTS."
+   },
+   {
+    "n": 3,
+    "stem": "A 71-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows no evidence of consolidation. Other investigations show a blood pressure of 96/68 mmHg, respiratory rate 28/min and urea 6.6 mmol/L. He scores 9/10 on the AMTS."
+   },
+   {
+    "n": 4,
+    "stem": "A 71-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows left basal consolidation. Other investigations show a blood pressure of 96/68 mmHg, respiratory rate 32/ min and urea 8.3 mmol/L. He scores 9/10 on the AMTS."
+   },
+   {
+    "n": 5,
+    "stem": "A 42-year-old man presents with a cough productive of purulent sputum. A chest X-ray shows left basal consolidation. Other investigations show a blood pressure of 106/78 mmHg, respiratory rate 24/ min and urea 7.3 mmol/L. He scores 10/10 on the AMTS."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "26. 1. A – CURB 0 pneumonia 2. F – CURB 5 pneumonia 3. G – Not a pneumonia 4. D – CURB 3 pneumonia 5. B – CURB 1 pneumonia"
+ },
+ {
+  "section": 9,
+  "bank": "Crash Course",
+  "no": 27,
+  "theme": "Pneumonia",
+  "page": 372,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Mycoplasma pneumoniae",
+   "Chlamydia psittaci",
+   "Staphylococcus aureus",
+   "Legionella pneumophila",
+   "Haemophilus influenzae",
+   "Aspiration pneumonia",
+   "Pseudomonas aeruginosa",
+   "Pneumocystis jiroveci",
+   "Streptococcus pneumoniae",
+   "Mycobacterium avium intracellulare"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 32-year-old man presenting with SOB and feeling generally unwell. He has a known history of cystic fibrosis."
+   },
+   {
+    "n": 2,
+    "stem": "A common cause of pneumonia in patients with COPD."
+   },
+   {
+    "n": 3,
+    "stem": "A middle-aged man presenting with a cough and generalized muscular pains. He is known to be a keen collector of rare birds."
+   },
+   {
+    "n": 4,
+    "stem": "An intravenous drug abuser presenting with SOB and a fever."
+   },
+   {
+    "n": 5,
+    "stem": "A middle-aged woman having recently returned from Las Vegas presenting with a nonproductive cough, fever and diarrhoea."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "27. G,E,B,C,D"
+ },
+ {
+  "section": 9,
+  "bank": "Crash Course",
+  "no": 28,
+  "theme": "Respiratory drugs",
+  "page": 372,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Ethambutol",
+   "Pyrazinamide",
+   "Isoniazid",
+   "Rifampicin",
+   "Metronidazole",
+   "Erythromycin",
+   "Clarithromycin",
+   "Flucloxacillin",
+   "Tobramycin",
+   "Ticarcillin"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Associated with induction of liver enzymes."
+   },
+   {
+    "n": 2,
+    "stem": "Associated with blurred vision and colour blindness."
+   },
+   {
+    "n": 3,
+    "stem": "An intravenous drug abuser diagnosed with pneumonia associated with patchy areas of consolidation on his CXR."
+   },
+   {
+    "n": 4,
+    "stem": "Known to cause liver inflammation and gout."
+   },
+   {
+    "n": 5,
+    "stem": "A middle-aged woman recently diagnosed with a stroke aspirates when given some water."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "28. D,A,H,B,E"
+ },
+ {
+  "section": 9,
+  "bank": "Crash Course",
+  "no": 29,
+  "theme": "Lung cancer",
+  "page": 373,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Lambert–Eaton myasthenic syndrome (LEMS)",
+   "Dermatomyositis",
+   "Herpes zoster",
+   "Acanthosis nigricans",
+   "Hypertrophic pulmonary osteoarthropathy",
+   "Horner syndrome",
+   "Pancoast tumour",
+   "Cushing syndrome",
+   "Thrombophlebitis migrans",
+   "Clubbing"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 75-year-old man recently diagnosed with lung cancer complaining of painful wrists and ankles."
+   },
+   {
+    "n": 2,
+    "stem": "A middle-aged man recently presenting with haemoptysis and shoulder pain."
+   },
+   {
+    "n": 3,
+    "stem": "A 65-year-old woman presenting with breathlessness, haemoptysis and pigmented skin in her axillae."
+   },
+   {
+    "n": 4,
+    "stem": "A middle-aged woman with known lung cancer presenting with dropping of her upper eyelid, pupillary constriction and a sunken eye on the right side."
+   },
+   {
+    "n": 5,
+    "stem": "A patient recently diagnosed with lung cancer presenting with lower limb weakness and difficulty in climbing stairs."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "29. E,G,D,F,A"
+ },
+ {
+  "section": 9,
+  "bank": "Crash Course",
+  "no": 30,
+  "theme": "Diseases of the respiratory tract",
+  "page": 374,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Bronchiectasis",
+   "Sinusitis",
+   "Rhinitis",
+   "Pharyngitis",
+   "Laryngotracheobronchitis",
+   "Influenza",
+   "Emphysema",
+   "Acute bronchitis",
+   "Asthma",
+   "Obstructive sleep apnoea"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "Dilatation and destruction of lung tissue distal to terminal bronchioles."
+   },
+   {
+    "n": 2,
+    "stem": "A 23-year-old man presenting with sudden-onset cough, fever and muscular aches."
+   },
+   {
+    "n": 3,
+    "stem": "Associated with a hoarse voice and barking cough."
+   },
+   {
+    "n": 4,
+    "stem": "An 18-year-old woman with cystic fibrosis presenting with a persistent cough productive of yellow/ green-coloured sputum."
+   },
+   {
+    "n": 5,
+    "stem": "A middle-aged man presenting with cough, chest tightness and wheeze."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "30. G,F,E,A,H"
+ },
+ {
+  "section": 9,
+  "bank": "Crash Course",
+  "no": 31,
+  "theme": "Investigative findings",
+  "page": 374,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "COPD",
+   "Obstructive sleep apnoea",
+   "Sarcoidosis",
+   "Wegener granulomatosis",
+   "Bronchiectasis",
+   "Cystic fibrosis",
+   "Extrinsic allergic alveolitis",
+   "Asthma",
+   "Cryptogenic fibrosing alveolitis",
+   "Pneumonia"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A middle-aged woman with SOB and a groundglass appearance on her CXR."
+   },
+   {
+    "n": 2,
+    "stem": "A 55-year-old farmer presenting with a cough and SOB. His CXR demonstrates fluffy nodular shadowing."
+   },
+   {
+    "n": 3,
+    "stem": "A lifelong smoker with an FEV1:FVC ratio of 62% with an increase in FEV1 of 12% following use of salbutamol."
+   },
+   {
+    "n": 4,
+    "stem": "A 23-year-old woman presenting with a fever, cough and SOB. Routine blood investigations reveal a white cell count of 23 × 10^9/L. A CXR demonstrates evidence of patchy consolidation."
+   },
+   {
+    "n": 5,
+    "stem": "A 45-year-old man presenting with haemoptysis. A CXR reveals evidence of cavitation and routine blood investigations demonstrate increased levels of antineutrophil cytoplasmic antibodies."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "31. I,G,A,J,D"
+ },
+ {
+  "section": 9,
+  "bank": "Crash Course",
+  "no": 32,
+  "theme": "Lung diseases",
+  "page": 375,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Asbestosis",
+   "Asthma",
+   "Bird fancier’s lung",
+   "COPD",
+   "Cor pulmonale",
+   "Pleural effusion",
+   "Pneumoconiosis",
+   "Pulmonary embolus",
+   "Rheumatoid lung",
+   "Pneumothorax"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 65-year-old woman with tar-stained fingers, central cyanosis and a widespread wheeze."
+   },
+   {
+    "n": 2,
+    "stem": "A 30-year-old man who was involved in a road traffic accident has an area of bruising over his chest, has shortness of breath."
+   },
+   {
+    "n": 3,
+    "stem": "A 55-year-old man presenting with a cough and SOB. His symptoms suggest that this is likely secondary to a lung malignancy."
+   },
+   {
+    "n": 4,
+    "stem": "A 24-year-old male master’s student is admitted to a district general hospital acutely SOB for the past day. He recalls a similar incident during his first year at university. He returned from a summer tour of Australasia 1 week ago. On examination: Oxygen saturations 93% (RA). Haemodynamically stable. Reduced breath sounds on left side and asymmetrical chest expansion. A medical student informs you ‘the lungs look different’ on the CXR."
+   },
+   {
+    "n": 5,
+    "stem": "A 73-year-old former mill worker is admitted dyspnoeic with mild haemoptysis mixed with her sputum. She has had three previous admissions in the last 5 months with similar presentations. On examination: Thin, grade 2 finger clubbing. Increased anteroposterior chest diameter with scattered wheeze and a few bibasal crepitations, right more than left. Arterial blood gas (on 28% oxygen): PO2 13.6 kPa, PCO2 5.6 kPa. CXR: borderline cardiomegaly, blunted right costophrenic angle. Chronic inflammatory changes throughout and a bulky left hilum."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "32. D,J,F,I,E"
+ },
+ {
+  "section": 9,
+  "bank": "Crash Course",
+  "no": 33,
+  "theme": "Shortness of breath",
+  "page": 376,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Pulmonary embolus",
+   "Aortic stenosis",
+   "Congestive cardiac failure",
+   "Asthma",
+   "Cryptogenic fibrosing alveolitis",
+   "Pleural effusion",
+   "Bronchial carcinoma",
+   "COPD",
+   "Right middle lobe pneumonia",
+   "Pneumothorax"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "A 55-year-old baker is admitted with increasing SOB over the past 6 weeks along with chest tightness and two syncopal episodes whilst at work. He suffered from asthma as a child. He admits to 20 pack years of smoking. Admission blood test results, including D-dimer, are unremarkable. CXR: No active disease (NAD). Peak expiratory flow rate 450 L/min."
+   },
+   {
+    "n": 2,
+    "stem": "A 32-year-old woman of childbearing age recently returned from a 2-month sabbatical in Thailand. She has been short of breath for the past week. On examination: Reduced air entry at the right middle and lower zones. No calf swelling. Oxygen saturations 92%. D-dimer 0.45 mg/L, white cell count 13.6 × 10^9/L. CXR: indistinct right heart border."
+   },
+   {
+    "n": 3,
+    "stem": "A 61-year-old retired plumber is admitted with increasing SOB over the past 2 months. He smokes 20 cigarettes a day. SOB is associated with mild pleuritic chest pain. On examination: Reduced breath sounds at the left lower zone and decreased vocal resonance. CXR: loss of the left hemidiaphragm silhouette."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "33. B,I,F"
+ },
+ {
+  "section": 9,
+  "bank": "Crash Course",
+  "no": 34,
+  "theme": "Respiratory infections",
+  "page": 376,
+  "chapter": "resemq",
+  "option_letters": [
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F",
+   "G",
+   "H",
+   "I",
+   "J"
+  ],
+  "options": [
+   "Cytomegalovirus",
+   "Staphylococcus aureus",
+   "Pseudomonas aeruginosa",
+   "Escherichia coli",
+   "Legionella pneumophila",
+   "Streptococcus pneumoniae",
+   "Candida albicans",
+   "Mycobacterium tuberculosis",
+   "Coxiella burnetii",
+   "Mycoplasma pneumoniae"
+  ],
+  "items": [
+   {
+    "n": 1,
+    "stem": "The patient has been ventilated on the intensive therapy unit (ITU) for a week following a complicated laparotomy and now has lung infiltrates and mucopurulent secretions coming up the endotracheal tube."
+   },
+   {
+    "n": 2,
+    "stem": "A young, previously fit man presents acutely unwell with pneumonia and his chest radiograph shows numerous small abscesses."
+   },
+   {
+    "n": 3,
+    "stem": "A middle-aged man is admitted to ITU with a severe, acute pneumonia. He is the second ITU admission and the third case of pneumonia occurring in workers at the same factory in town."
+   },
+   {
+    "n": 4,
+    "stem": "A 71-year-old woman develops a chest infection 3 days after an uncomplicated operation to remove a Duke’s A colonic carcinoma."
+   },
+   {
+    "n": 5,
+    "stem": "A 36-year-old woman has a 3-day history of fever, cough and pleuritic pain. She has coughed up a bit of blood in some purulent sputum. She has a pleural rub and her chest radiograph shows segmental consolidation in the left upper lobe."
+   }
+  ],
+  "images": [],
+  "note": "",
+  "answers_raw": "34. C,B,E,D,F"
+ }
+]

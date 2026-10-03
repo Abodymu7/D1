@@ -1,0 +1,48 @@
+crit-0012	Lung-protective ventilation uses 6 mL/kg of ideal body weight: 6 × 59 ≈ 354 mL, with plateau pressure ≤ 30 cmH2O.
+crit-0013	Hypoxaemia, confusion and petechiae 24–72 h after a long-bone fracture is fat embolism syndrome; supportive care, early fixation prevents it.
+crit-0014	Berlin ARDS criteria: onset < 1 week, bilateral opacities, not cardiac, PaO2/FiO2 ≤ 300 on PEEP ≥ 5. Respiratory rate is not a criterion.
+crit-0016	Acute type 2 failure with relative bradycardia after trauma suggests a high cervical cord injury (C3–C5) paralysing the diaphragm; immobilise and image.
+crit-0017	Lobar collapse causes a shunt with normal/low PaCO2 (type 1). Flail chest, OSA, myasthenia and opioids cause hypoventilation (type 2).
+crit-0018	Acute respiratory acidosis with a normal A–a gradient (~7 mmHg) means pure hypoventilation, e.g. opioid overdose: give naloxone.
+crit-0019	In MND, NIV is offered when symptoms of hypoventilation (orthopnoea, poor sleep, morning headache, breathlessness) accompany hypercapnia.
+crit-0020	High-flow oxygen caused CO2 narcosis; stuporous with acidosis and worsening hypoxia, he cannot protect his airway: intubate and ventilate.
+resinf-0083	Exudate-filled alveoli are perfused but not ventilated (true shunt), so hypoxaemia barely improves with high FiO2; PEEP recruits them.
+pleura-0001	Nephrotic syndrome causes a transudate (low oncotic pressure); pneumonia, malignancy and infarction cause exudates.
+pleura-0002	Recurrent high fever with rigors and pleuritic pain weeks after pneumonia is empyema; aspirate (pH < 7.2, pus) and drain.
+pleura-0003	Purulent fluid with pH < 7.2, glucose < 3.3 mmol/L and neutrophils is empyema: chest drain plus antibiotics.
+pleura-0004	Empyema follows pneumonia, TB, infected haemothorax, surgery, oesophageal rupture or subphrenic abscess; rheumatic fever is not a cause.
+pleura-0005	Stony dullness and a dense homogeneous opacity after blunt chest trauma is a haemothorax.
+pleura-0006	Traumatic haemothorax: left chest drain in the safe triangle; > 1500 mL initially or ~200 mL/h ongoing indicates thoracotomy.
+pleura-0009	Sudden pleuritic pain in a tall young athlete with hyper-resonance and reduced expansion is primary spontaneous pneumothorax.
+pleura-0010	A large left effusion with a week of fever and pleuritic pain in a heavy drinker is most likely empyema; aspirate urgently.
+pleura-0011	Homogeneous lower-zone opacity with a meniscus and lost costophrenic angle is a pleural effusion; unilateral with normal LV needs investigation.
+pleura-0012	Unilateral effusion with normal LV function: bedside ultrasound and diagnostic aspiration; no need to stop apixaban (BTS 2023).
+pleura-0013	A visible pleural edge with no markings beyond and a hyperlucent hemithorax is a left pneumothorax.
+pleura-0014	In a cannabis smoker, a large bulla can mimic pneumothorax; CT distinguishes them before any drain (risk of bronchopleural fistula).
+pleura-0015	Asbestos, cytology-negative exudate and circumferential thickening suggest mesothelioma; thoracoscopic biopsy (yield > 90%).
+pleura-0016	Hypothyroidism can cause a transudate; infarction, RA, TB and drugs cause exudates.
+pleura-0017	Light's exudate criteria: protein ratio > 0.5, LDH ratio > 0.6, or fluid LDH > 2/3 of the upper limit of serum LDH.
+pleura-0018	A septated effusion with fever means complicated parapneumonic effusion/empyema: pH < 7.2 (here 6.9) with low glucose and high LDH.
+pleura-0019	If needle aspiration fails to re-expand the lung, insert a chest drain (or ambulatory device); stop aspiration at 2.5 L.
+pleura-0020	In poorly draining pleural infection, intrapleural alteplase plus DNase improves drainage and reduces surgery (MIST-2).
+pleura-0021	Sudden hypotension, high airway pressure and absent breath sounds in a ventilated patient is tension pneumothorax: needle decompression.
+pleura-0022	Complicated parapneumonic effusion: loculation, pus, positive Gram stain/culture, pH < 7.2 or glucose < 3.3 mmol/L. Reaccumulation alone is not one.
+pleura-0023	The fluid is a lymphocytic exudate (protein ratio 0.8, LDH ratio 0.89); cirrhosis causes a transudate, so it is not the cause.
+pleura-0024	Recurrent primary pneumothorax is treated by VATS pleurectomy/abrasion (recurrence 1–5%); stopping smoking cuts recurrence.
+pleura-0025	Protein separates transudate from exudate (ratio > 0.5, or > 35 g/L); Light's criteria are used when protein is 25–35 g/L.
+pleura-0027	A new effusion with ongoing sepsis during pneumonia: ultrasound-guided diagnostic tap; pH < 7.2 or pus means a drain.
+pleura-0028	Remove a pneumothorax drain only when bubbling has stopped and the lung is re-expanded; never clamp a bubbling drain.
+pleura-0029	Sudden breathlessness and desaturation during subclavian line insertion is iatrogenic pneumothorax; urgent CXR.
+pleura-0030	Hypotension and tracheal deviation away from a silent hemithorax is tension pneumothorax: immediate large-bore cannula decompression.
+pleura-0033	Stony dullness, reduced breath sounds and fremitus with the trachea pushed away is a large effusion (TB or malignancy here).
+pleura-0034	All Light's criteria negative (protein 0.38, LDH 0.46, LDH < 127): a transudate, most commonly heart failure.
+pleura-0037	Pneumothorax: hyper-resonance and reduced breath sounds on the affected side, with a large one pushing the trachea away.
+pleura-0038	Smoking (including cannabis) is the main modifiable risk for pneumothorax recurrence: advise stopping.
+pleura-0039	A lymphocytic sterile exudate with a 3-month history in an older woman suggests malignancy (lung cancer); cytology and CT.
+pleura-0040	Recurrent right pneumothorax within 72 h of menstruation is catamenial pneumothorax from thoracic endometriosis.
+pleura-0041	Symptomatic primary pneumothorax without high-risk features, wishing to avoid admission: ambulatory valve device (BTS 2023).
+pleura-0042	Secondary pneumothorax in COPD is high-risk; symptomatic or > 2 cm needs admission and a chest drain.
+pleura-0043	Photosensitive rash, arthralgia and pleural effusion suggest SLE serositis; check ANA, anti-dsDNA and complement.
+pleura-0045	Pneumothorax with cyanosis, hypotension and tracheal deviation away is tension pneumothorax: needle decompression then drain.
+resinf-0078	Rheumatoid effusions are exudates with very low glucose and pH, mimicking empyema; new polyarthritis reveals the diagnosis.
+ild-0001	Dry cough, progressive dyspnoea, clubbing, Velcro crackles and hypoxaemia in an older adult is IPF; HRCT for UIP pattern.

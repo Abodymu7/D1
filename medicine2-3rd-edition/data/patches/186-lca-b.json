@@ -1,0 +1,328 @@
+[
+ {
+  "id": "lca-0031",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung cancer staging",
+    "Malignant pleural effusion",
+    "TNM staging"
+   ],
+   "explanation": "In the TNM 8th (and 9th) edition a malignant pleural or pericardial effusion is M1a, which is stage IVA whatever the size of the primary or the nodal status, so this 4-cm tumour (T2a) with an ipsilateral hilar node (N1) is stage IV rather than IIB. Positive effusion cytology completes the staging for treatment purposes, although brain imaging may still be needed. Treatment is systemic – targeted therapy if a driver alteration is found, otherwise immunotherapy with or without chemotherapy – plus control of the effusion (indwelling pleural catheter or talc pleurodesis).",
+   "stem": "A 56-year-old smoker with a new cough has a CT showing a 4-cm peripheral left lung mass with an enlarged ipsilateral hilar lymph node and a pleural effusion; pleural fluid cytology is positive for malignant cells. What is the correct stage?"
+  }
+ },
+ {
+  "id": "lca-0032",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Bronchial carcinoid",
+    "Haemoptysis"
+   ],
+   "explanation": "A young non-smoker with haemoptysis and lobar collapse caused by a vascular (cherry-red) endobronchial tumour at a lobar orifice has a bronchial carcinoid, a low-grade neuroendocrine tumour that bleeds readily at biopsy. Adenocarcinoma is usually peripheral; small cell and squamous carcinomas are central but occur almost exclusively in older smokers; endobronchial breast metastases are rare. Treatment is surgical resection (sleeve resection or lobectomy) with an excellent prognosis, and carcinoid syndrome is rare without liver metastases.",
+   "stem": "A 36-year-old non-smoker has isolated haemoptysis. CT shows collapse of the left upper lobe with a vascular tumour at the left upper lobe orifice. What is the most likely tumour type?"
+  }
+ },
+ {
+  "id": "lca-0033",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lymphangitis carcinomatosa",
+    "Breast cancer"
+   ],
+   "explanation": "Lymphangitis carcinomatosa – tumour spread through the pulmonary lymphatics, commonly from breast, stomach, lung, pancreatic and prostate cancers – causes progressive breathlessness and dry cough, and CT shows nodular or beaded thickening of the interlobular septa and bronchovascular bundles radiating from the hila, often with hilar nodes and effusions. Failure to respond to antibiotics argues against infection; Pneumocystis gives diffuse ground-glass; drug pneumonitis gives ground-glass or reticulation without beaded septa; pulmonary oedema has cardiomegaly and smooth septal lines; thromboembolism does not thicken the interstitium. The prognosis is poor; corticosteroids and opioids ease breathlessness."
+  }
+ },
+ {
+  "id": "lca-0034",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lymphoma",
+    "Anterior mediastinal mass"
+   ],
+   "explanation": "Anterior mediastinal masses are the 'four Ts': thymoma, teratoma (germ cell tumour), thyroid (retrosternal goitre) and 'terrible' lymphoma. With cervical and axillary lymphadenopathy in a young adult, lymphoma (Hodgkin or primary mediastinal B-cell) is by far the most likely. Neurogenic tumours lie in the posterior mediastinum, bronchogenic cysts in the middle mediastinum near the carina and oesophageal tumours in the middle or posterior mediastinum of older patients. Excision biopsy of a peripheral node is easier and safer than mediastinal biopsy.",
+   "stem": "A 28-year-old man has a large anterior mediastinal mass with cervical and axillary lymphadenopathy. What is the most likely diagnosis?"
+  }
+ },
+ {
+  "id": "lca-0035",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Mesothelioma",
+    "Pleural thickening"
+   ],
+   "explanation": "A unilateral effusion with mediastinal pleural thickening in an asbestos-exposed man is highly suspicious of malignant pleural mesothelioma; CT features suggesting malignancy include circumferential or nodular pleural thickening, parietal thickening over 1 cm and involvement of the mediastinal pleura. Pleural plaques and asbestosis mark exposure but do not cause an effusion; benign asbestos pleurisy occurs earlier (within 10–20 years of exposure) and is a diagnosis of exclusion; diffuse pleural thickening spares the mediastinal pleura. Thoracoscopic or image-guided pleural biopsy is needed, as effusion cytology is often non-diagnostic."
+  }
+ },
+ {
+  "id": "lca-0036",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Supraclavicular lymph node",
+    "Tissue diagnosis"
+   ],
+   "explanation": "NICE NG122 advises choosing the investigation that gives both the diagnosis and the highest possible stage with the least risk. A palpable supraclavicular node (N3) can be sampled by ultrasound-guided needle aspiration or core biopsy in clinic, establishing histology, molecular markers and stage at once. EBUS and bronchoscopy are more invasive and would stage only hilar or mediastinal nodes, CT-guided biopsy of the primary risks pneumothorax and gives no staging, and an indeterminate liver lesion is harder and riskier to biopsy.",
+   "stem": "A 72-year-old smoker has a 5-cm peripheral left lung mass, left hilar lymphadenopathy, an indeterminate liver lesion and a palpable, hard 2-cm left supraclavicular lymph node. What should be the next diagnostic test?"
+  },
+  "why": "The key (supraclavicular node biopsy) requires a palpable supraclavicular node, which the stem omitted; added. Garbled 'monkey dung' exposure removed"
+ },
+ {
+  "id": "lca-0037",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Hoarseness",
+    "Mediastinoscopy"
+   ],
+   "explanation": "Hoarseness starting immediately after a general anaesthetic, with normal vocal cord movement, is most likely due to laryngeal trauma from endotracheal intubation (oedema, granuloma or arytenoid injury), which usually settles within days to weeks. Involvement or surgical injury of the left recurrent laryngeal nerve would paralyse the left cord; chronic laryngitis, laryngeal TB and psychogenic aphonia do not fit the abrupt post-procedural onset. Hoarseness persisting beyond 3 weeks needs ENT review.",
+   "stem": "A 55-year-old woman with a left apical lung cancer and suspected mediastinal node involvement undergoes mediastinoscopy under general anaesthesia, followed by radiotherapy. She has been hoarse since waking from the procedure, but laryngoscopy shows normal vocal cord movement. What is the most likely cause?"
+  },
+  "why": "Onset timing (hoarse since waking from mediastinoscopy) added so that intubation trauma is the single best answer"
+ },
+ {
+  "id": "lca-0038",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "PET-CT",
+    "Solitary pulmonary nodule"
+   ],
+   "explanation": "FDG accumulates in any metabolically active tissue, so avid uptake occurs in cancer but also in infection (TB, fungi, abscess) and inflammation (sarcoidosis, rheumatoid nodules, organising pneumonia) – particularly relevant in a patient with connective tissue disease. A positive scan raises the probability of malignancy but cannot confirm cancer or exclude infection, so tissue sampling (CT-guided biopsy or bronchoscopy/EBUS) is required, with the Herder model used to estimate pre-biopsy risk. Low-avidity tumours such as carcinoid or adenocarcinoma in situ can give false negatives.",
+   "stem": "A woman with systemic sclerosis is found to have a 3-cm lung lesion that is FDG-avid on PET-CT. Which statement is most accurate?"
+  }
+ },
+ {
+  "id": "lca-0039",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Mesothelioma",
+    "Asbestos"
+   ],
+   "explanation": "Mesothelioma can follow brief or low-level asbestos exposure (1–2 years, or even household exposure from washing work clothes), with a latency of 30–40 years or longer, so a full lifetime occupational history is essential. Smoking does not increase mesothelioma risk (although it multiplies asbestos-related lung cancer risk); death is usually from local invasion of the chest wall, mediastinum and lung rather than distant metastases; pleural fluid cytology is diagnostic in only about a third, so thoracoscopic biopsy is usually needed; and radical surgery has not improved survival (MARS2). First-line treatment is nivolumab plus ipilimumab or platinum–pemetrexed chemotherapy.",
+   "stem": "A 75-year-old man with previous asbestos exposure has a pleural effusion suspicious for mesothelioma. Which statement about this condition is true?",
+   "options": [
+    "Cigarette smoking increases the likelihood of developing the condition",
+    "Death is usually due to widespread distant metastases",
+    "Exposure can be brief (1–2 years) and the latency may be 40 years or more",
+    "Repeated pleural fluid cytology usually gives a definitive diagnosis",
+    "Combined surgical resection and chemotherapy significantly improves survival"
+   ]
+  }
+ },
+ {
+  "id": "lca-0040",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Superior vena cava obstruction",
+    "Lung cancer"
+   ],
+   "explanation": "SVC obstruction is caused by malignancy in most cases – mainly lung cancer (especially small cell) and lymphoma – usually through enlarged right paratracheal or mediastinal lymph nodes or tumour compressing or invading the thin-walled SVC, sometimes with superadded thrombus. A central tumour obstructing the right main bronchus causes collapse, an apical (Pancoast) tumour causes Horner's syndrome and brachial plexopathy, and effusions do not obstruct the SVC. Management is endovascular stenting for rapid relief and treatment guided by histology.",
+   "stem": "A 64-year-old man has facial swelling and distended neck veins, and superior vena cava obstruction is suspected. Which CT finding is most likely?"
+  }
+ },
+ {
+  "id": "lca-0041",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Superior vena cava obstruction",
+    "Oncological emergencies"
+   ],
+   "explanation": "In SVC obstruction without airway compromise or cerebral oedema the priority is a tissue diagnosis, because treatment depends on histology (small cell lung cancer and lymphoma are highly chemosensitive) and radiotherapy given first can obscure the diagnosis. Emergency radiotherapy is reserved for stridor or cerebral oedema, and endovascular stenting now gives the fastest relief. While awaiting diagnosis, supportive measures include elevating the head of the bed, oxygen, a low-sodium diet and loop diuretics; dexamethasone is often given but ideally after biopsy if lymphoma is possible.",
+   "answer": "C",
+   "stem": "A 64-year-old man has facial swelling and distended neck veins from superior vena cava obstruction caused by enlarged mediastinal lymph nodes. He has no stridor or confusion, and no tissue diagnosis has yet been made. Initial management includes all of the following EXCEPT:",
+   "options": [
+    "Intravenous furosemide for diuresis",
+    "Elevation of the head of the bed",
+    "Emergency radiotherapy",
+    "Low-sodium diet",
+    "Oxygen"
+   ]
+  },
+  "why": "Key changed from furosemide to emergency radiotherapy: loop diuretics are a recognised supportive measure, whereas radiotherapy before a tissue diagnosis is inappropriate unless there is stridor or cerebral oedema (these details added to the stem)"
+ },
+ {
+  "id": "lca-0042",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Metastatic spinal cord compression",
+    "Dexamethasone",
+    "Oncological emergencies"
+   ],
+   "explanation": "In suspected metastatic spinal cord compression with a neurological deficit, high-dose dexamethasone (NICE NG234: 16 mg) is given immediately to reduce vasogenic cord oedema, without waiting for imaging. MRI of the whole spine – because multilevel disease is common – should follow as soon as possible and within 24 hours, and definitive treatment (surgical decompression and stabilisation in selected patients, otherwise radiotherapy) is then planned urgently with the MSCC coordinator. Brain MRI is irrelevant to a cord syndrome, and specialist consultation follows rather than precedes steroids.",
+   "stem": "A 58-year-old woman with metastatic breast cancer develops acute paraplegia from suspected metastatic spinal cord compression. What is the first step in management?"
+  }
+ },
+ {
+  "id": "lca-0043",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Smoking",
+    "Squamous cell carcinoma"
+   ],
+   "explanation": "Tobacco smoking is the dominant cause of lung cancer (about 85%) and is most strongly linked with squamous and small cell types, so in a lifelong smoker it is the most likely cause despite her other exposures. Asbestos from shipyard work multiplies the risk from smoking (roughly fivefold alone and more than 50-fold combined), while urban air pollution and family history raise the risk only modestly and female sex is not an independent cause. Smoking cessation should be supported even after diagnosis, because it improves treatment outcomes."
+  }
+ },
+ {
+  "id": "lca-0044",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Adenocarcinoma of lung",
+    "Never-smokers"
+   ],
+   "explanation": "Adenocarcinoma is the commonest lung cancer in lifelong never-smokers (and overall), is usually peripheral, and is more likely to carry EGFR mutations or ALK/ROS1 rearrangements, particularly in women and East Asian patients. Asbestos increases the risk of all histological types, but squamous and small cell carcinomas are strongly smoking-associated. 'Alveolar cell' (bronchoalveolar) carcinoma is an obsolete term for adenocarcinoma in situ or minimally invasive adenocarcinoma. As an asbestos-exposed worker he may be eligible for industrial compensation."
+  }
+ },
+ {
+  "id": "lca-0045",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Small cell lung cancer",
+    "Ectopic ACTH syndrome"
+   ],
+   "explanation": "Purple striae and easy bruising indicate Cushing's syndrome, which in lung cancer results from ectopic ACTH secretion by neuroendocrine tumours – small cell carcinoma or bronchial carcinoid. Small cell cancers also cause SIADH and Lambert–Eaton syndrome, whereas squamous cell carcinoma is associated with PTHrP-mediated hypercalcaemia and adenocarcinoma with hypertrophic pulmonary osteoarthropathy. Ectopic ACTH typically causes hypokalaemic alkalosis and proximal myopathy; management is treating the tumour, with adrenal enzyme inhibitors such as metyrapone to control cortisol."
+  }
+ },
+ {
+  "id": "lca-0046",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Finger clubbing",
+    "Paraneoplastic syndromes",
+    "Lung cancer"
+   ],
+   "explanation": "Finger clubbing is the commonest extrapulmonary manifestation of lung cancer, seen in up to a third of patients (mainly non-small cell cancers), and may be accompanied by painful hypertrophic pulmonary osteoarthropathy. Hypercalcaemia (bone metastases or PTHrP from squamous carcinoma) occurs in about 10%, while Lambert–Eaton syndrome (small cell, about 3%), dermatomyositis and thrombophlebitis migrans are uncommon. NICE advises an urgent chest X-ray for anyone over 40 with new finger clubbing."
+  }
+ },
+ {
+  "id": "lca-0047",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Lung cancer",
+    "Paraneoplastic syndromes"
+   ],
+   "explanation": "Lung cancer causes hypercalcaemia, not hypocalcaemia, through PTHrP secretion by squamous carcinoma or through bone metastases. Hyponatraemia (SIADH from small cell carcinoma), hypertrophic pulmonary osteoarthropathy (non-small cell cancer), adrenal metastases (a common, often asymptomatic site) and ptosis (Horner's syndrome from an apical Pancoast tumour invading the sympathetic chain) are all recognised. An adrenal lesion on staging CT should be characterised, as an isolated adrenal metastasis may change treatment."
+  }
+ },
+ {
+  "id": "lca-0048",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Non-small cell lung cancer",
+    "Finger clubbing"
+   ],
+   "explanation": "A 30-year smoker with cough, chest pain, rapid weight loss, finger clubbing and a peripheral mass with an effusion has lung cancer, and clubbing (with or without hypertrophic pulmonary osteoarthropathy) is characteristic of non-small cell types – squamous cell carcinoma and adenocarcinoma – but uncommon in small cell carcinoma, which is typically central with early metastases and endocrine syndromes. Mesothelioma requires asbestos exposure and causes pleural thickening rather than a lung mass, while asbestosis and coal worker's pneumoconiosis are fibrotic or nodular diseases without a mass or rapid weight loss. CT staging, tissue diagnosis and molecular testing come next.",
+   "answer": "B",
+   "stem": "A 65-year-old factory worker presents with a dry cough, right-sided chest pain and finger clubbing. He has lost 4 kg in weight in the last 2 weeks and has a 30-year smoking history. The right lower chest is dull to percussion with reduced expansion, and a chest X-ray shows a right peripheral lung mass with a small pleural effusion. What is the most likely diagnosis?",
+   "options": [
+    "Asbestosis",
+    "Non-small cell lung cancer",
+    "Mesothelioma",
+    "Coal worker's pneumoconiosis",
+    "Small cell lung cancer"
+   ]
+  },
+  "why": "Source key (small cell cancer) is poorly supported, since clubbing is uncommon in SCLC and characteristic of NSCLC; the obsolete 'bronchioalveolar' option was replaced by non-small cell lung cancer, key changed accordingly, and the chest X-ray finding added"
+ },
+ {
+  "id": "lca-0049",
+  "delete": true,
+  "dup_of": "lca-0009",
+  "why": "Same idea as 39 Blocks lca-0009 (heavy smoker with weight loss, haemoptysis and a lung opacity = bronchial carcinoma)"
+ },
+ {
+  "id": "lca-0050",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Pulmonary metastases",
+    "Chondrosarcoma"
+   ],
+   "explanation": "Calcification or ossification of lung metastases is characteristic of bone- and cartilage-forming sarcomas (osteosarcoma, chondrosarcoma) and also occurs with mucinous adenocarcinoma, thyroid carcinoma and after chemotherapy. Cavitation is typical of squamous cell metastases (head and neck, cervix), haemorrhagic metastases of choriocarcinoma, renal cell carcinoma and melanoma, and a miliary pattern of thyroid and renal carcinoma or melanoma. Because calcification in a nodule is usually reassuring, this history matters when interpreting it.",
+   "stem": "A 42-year-old man has had a grade III chondrosarcoma of the right maxilla resected. He now has breathlessness and a dry cough, and a chest X-ray suggests lung metastases. Which radiological feature of lung metastases is characteristic of this tumour?",
+   "options": [
+    "Consolidation",
+    "Cavitation",
+    "Haemorrhage",
+    "Calcification",
+    "Miliary pattern"
+   ]
+  },
+  "why": "Option typo 'Military' corrected to 'Miliary'; stem shortened"
+ },
+ {
+  "id": "lca-0051",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Small cell lung cancer",
+    "SIADH"
+   ],
+   "explanation": "A central (hilar) mass with a fixed monophonic wheeze, no clubbing and hyponatraemia (Na 128 mmol/L) in a smoker points to small cell lung cancer, which arises centrally and is the tumour most associated with SIADH. Squamous carcinoma is also central but is linked with hypercalcaemia and cavitation; sarcoidosis causes bilateral hilar nodes; lymphoma rarely causes SIADH; TB is upper-zone and febrile. Small cell cancer is usually disseminated at diagnosis and extensive disease is treated with platinum–etoposide chemotherapy plus immunotherapy (atezolizumab or durvalumab).",
+   "stem": "A 66-year-old man with COPD is referred by his GP to the rapid-access chest clinic after several courses of antibiotics and steroids for an exacerbation that has not fully resolved. His chest X-ray shows a suspicious 3-cm mass at the right hilum with background changes of COPD. Blood tests: Hb 142 g/L, platelets 323 × 10⁹/L, WBC 9.1 × 10⁹/L, Na 128 mmol/L, K 3.9 mmol/L, urea 6.4 mmol/L, creatinine 99 µmol/L. There is no clubbing, and a fixed monophonic wheeze is heard in the right lung. What is the most likely underlying cause?"
+  }
+ },
+ {
+  "id": "lca-0052",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Consolidation",
+    "Lung cancer",
+    "Clinical signs"
+   ],
+   "explanation": "Consolidated lung with a patent bronchus conducts sound well, so over it there is dullness, bronchial breathing, increased vocal resonance and whispering pectoriloquy (whispered words heard clearly). If the tumour completely occluded the bronchus, collapse would instead cause reduced breath sounds and vocal resonance – hence the importance of the patent airway. Hyper-resonance indicates pneumothorax or emphysema, polyphonic wheeze diffuse airway narrowing (a tumour gives a fixed monophonic wheeze), and crackles may occur but are not the classic sign. CT staging and bronchoscopy should follow.",
+   "answer": "E",
+   "stem": "A 74-year-old man who has smoked 40 cigarettes per day for 30 years presents with increasing shortness of breath. He takes diclofenac and paracetamol for joint pain. His chest X-ray shows a spiculated left hilar mass with dense consolidation of the left lower lobe beyond it, and air bronchograms indicate that the lobar bronchus is still patent. Which finding would be expected on examination over the left lower lobe?",
+   "options": [
+    "Decreased breath sounds",
+    "Hyper-resonance",
+    "Inspiratory crackles",
+    "Polyphonic wheeze",
+    "Whispering pectoriloquy"
+   ]
+  },
+  "why": "Parsed key (inspiratory crackles) was wrong; source key whispering pectoriloquy. Stem extended (post-obstructive consolidation with a patent bronchus) because a hilar mass alone did not determine the signs"
+ },
+ {
+  "id": "lca-0053",
+  "delete": true,
+  "dup_of": "lca-0052",
+  "why": "The same PasTest question printed twice in the source",
+  "silent": true
+ },
+ {
+  "id": "lca-0054",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Radical radiotherapy",
+    "Malignant pleural effusion"
+   ],
+   "explanation": "A malignant pleural effusion makes the disease M1a (stage IVA): the pleural space cannot be encompassed in a radical radiotherapy field, so radical treatment is inappropriate and management is systemic therapy and palliation. Adenocarcinoma histology and a tumour adjacent to the hilum do not preclude radical radiotherapy; an FEV1 below 60% raises the risk of pneumonitis but is not an absolute contraindication (radiotherapy is often chosen precisely because poor lung function precludes surgery); and SVC obstruction may itself be treated with radiotherapy.",
+   "stem": "A 68-year-old man who smokes 40 cigarettes per day has a proven diagnosis of bronchial carcinoma, and radical radiotherapy is being considered. Which of the following is the most significant contraindication to radical radiotherapy?"
+  }
+ },
+ {
+  "id": "lca-0055",
+  "delete": true,
+  "dup_of": "lca-0009",
+  "why": "Same idea as 39 Blocks lca-0009 (lifelong smoker with haemoptysis and a hilar mass/lobar opacity on chest X-ray = bronchial carcinoma)"
+ }
+]

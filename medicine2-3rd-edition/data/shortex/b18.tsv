@@ -1,0 +1,48 @@
+airway-0085	NIV suits a conscious COPD patient with persistent hypercapnic acidosis; confusion, profound hypoxia, undrained pneumothorax and secretions favour intubation.
+airway-0086	LTOT ≥ 15 h/day improved survival in hypoxaemic COPD with cor pulmonale (MRC, NOTT); no survival benefit shown in CF, IPF or sarcoid.
+airway-0087	Post-bronchodilator FEV1/FVC 0.67 with low transfer factor is COPD with emphysema; asbestosis would be restrictive.
+resinf-0035	Copious purulent sputum, coarse basal crackles and clubbing after severe childhood measles is post-infective bronchiectasis; HRCT confirms.
+resinf-0037	Severe childhood measles, pertussis or TB damage bronchial walls, causing post-infectious bronchiectasis.
+resinf-0038	Cystic fibrosis (thick mucus from CFTR defect) causes bronchiectasis in the young; also consider ciliary dyskinesia, immunodeficiency, ABPA.
+resinf-0039	Haemoptysis is common in bronchiectasis (enlarged bronchial arteries); massive bleeding may need bronchial artery embolisation.
+resinf-0042	The signet-ring sign (bronchus wider than its artery) is the key HRCT sign of bronchiectasis; honeycombing means fibrotic ILD.
+resinf-0044	Chronic infection and neutrophilic inflammation of dilated bronchi cause the large daily sputum volumes; airway clearance is central.
+resinf-0086	Persistent daily sputum in bronchiectasis needs daily airway clearance (e.g. oscillating PEP flutter device) taught by a physiotherapist.
+resinf-0114	Bronchiectasis exacerbations are reduced by daily airway clearance (postural drainage); add long-term azithromycin if ≥ 3 exacerbations/year.
+resinf-0120	Chronic purulent sputum and coarse basal crackles in rheumatoid arthritis is bronchiectasis; RA-ILD gives a dry cough and fine crackles.
+resinf-0001	Months of cough, fever, sweats and weight loss with upper-zone shadowing is TB: 2–3 sputum samples for AFB smear, culture and Xpert MTB/RIF.
+resinf-0002	Jaundice weeks into RIPE therapy is drug-induced hepatitis; stop if ALT > 5× normal, then reintroduce drugs one at a time.
+resinf-0003	Diabetes is an associated disease raising TB risk (like HIV, steroids, CKD, silicosis); contact, overcrowding and smoking are patient factors.
+resinf-0004	Most pulmonary TB is treated as outpatients; admit for uncertain diagnosis, intolerance, poor adherence, severe illness or MDR-TB. Diabetes alone is not a reason.
+resinf-0005	Drug resistance comes from inadequate treatment and non-adherence (previous treatment is the strongest predictor); diabetes is not a cause.
+resinf-0006	CURB-65 = 5 with multilobar disease and high lactate is high-severity pneumonia: early ICU review, IV co-amoxiclav plus clarithromycin.
+resinf-0008	Pyrazinamide causes both hepatitis and hyperuricaemia/gout; isoniazid causes neuropathy, rifampicin cholestasis, ethambutol optic neuritis.
+resinf-0009	High-resolution CT confirms bronchiectasis (signet ring, no tapering); then test for a cause (immunoglobulins, ABPA, CF, cilia).
+resinf-0010	Rising PaCO2 in pneumonia means the patient is tiring: an indication for ICU assessment. CURB-65 of 2 is ward care.
+resinf-0011	Primary TB may cause hypersensitivity: erythema nodosum and phlyctenular conjunctivitis, with a Ghon focus and hilar nodes.
+resinf-0012	A heavy drinker with foul sputum and a right lower-lobe cavity with air–fluid level has an aspiration lung abscess; prolonged antibiotics with anaerobic cover.
+resinf-0013	Primary TB can cause erythema nodosum, phlyctenular conjunctivitis and dactylitis; erythema marginatum belongs to rheumatic fever.
+resinf-0014	S. pneumoniae is the commonest cause of lobar pneumonia; the fever often reactivates herpes labialis (cold sores).
+resinf-0015	IGRA cannot separate latent from active TB and is often positive in high-prevalence countries; sputum smear, culture and Xpert diagnose active disease.
+resinf-0016	CURB-65 = 2 with penicillin allergy: doxycycline or clarithromycin (amoxicillin otherwise).
+resinf-0017	S. aureus pneumonia is necrotising and bacteraemic, seeding metastatic abscesses including brain abscess.
+resinf-0018	TB risk is highest in young children and the elderly; age 20–25 is not a risk factor.
+resinf-0019	TB granulomas contain epithelioid macrophages, Langhans giant cells and lymphocytes with caseation; neutrophils are not characteristic.
+resinf-0021	Fever, sweats, weight loss and haemoptysis in a young adult is pulmonary TB until proven otherwise; send sputum for AFB.
+resinf-0023	Sputum AFB smear and culture (± molecular test) is the key test for pulmonary TB; culture is the gold standard and gives sensitivities.
+resinf-0026	Dullness, bronchial breathing and reduced expansion in one zone with fever and purulent sputum are the signs of lobar consolidation.
+resinf-0027	S. pneumoniae is the commonest identified cause of community-acquired pneumonia and classic lobar consolidation.
+resinf-0028	Low-severity pneumonia (CURB-65 0–1): oral amoxicillin 500 mg tds for 5 days; doxycycline or clarithromycin if allergic.
+resinf-0029	Chronic productive cough, clubbing and male infertility suggest bronchiectasis from CF, primary ciliary dyskinesia or Young syndrome.
+resinf-0031	Overbreathing healthy alveoli removes CO2 but cannot add oxygen to saturated blood, so shunt through consolidation causes type 1 failure.
+resinf-0046	TB control: case-finding, DOT, isolation, contact tracing with preventive therapy and BCG. Pneumococcal vaccine has no effect on TB.
+resinf-0050	Mild transaminase rises are common early in TB treatment but serious hepatitis is rare; isoniazid neuropathy, ethambutol optic neuritis.
+resinf-0053	Nasal disease then haemoptysis with multiple cavitating nodules is granulomatosis with polyangiitis (c-ANCA/PR3).
+resinf-0055	Cavitation indicates active, usually smear-positive, post-primary TB; calcified nodes and fibrosis are old disease.
+resinf-0057	S. pneumoniae is a Gram-positive lancet-shaped diplococcus; clusters mean staphylococci.
+resinf-0058	Lobar pneumonia gives homogeneous consolidation bounded by fissures, with air bronchograms and a silhouette sign.
+resinf-0059	Extensive left airspace opacity with air bronchograms and preserved volume is consolidation; hotel travel and confusion suggest Legionella.
+resinf-0061	Confusion (1) + urea > 7 (1) = CURB-65 2: moderate severity, hospital treatment with amoxicillin plus clarithromycin; send Legionella antigen.
+resinf-0063	Hotel water systems, confusion, diarrhoea, hyponatraemia and deranged LFTs suggest Legionella; urinary antigen, treat with a macrolide or quinolone.
+resinf-0064	Patchy left basal opacity obscuring the hemidiaphragm is left lower-lobe consolidation; with cold sores, typical pneumococcal pneumonia.
+resinf-0065	Hotel stay plus a sick contact: multiplex PCR on sputum/swab rapidly detects Legionella, influenza and other pathogens.

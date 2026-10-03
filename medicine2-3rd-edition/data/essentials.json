@@ -1,0 +1,2685 @@
+{
+ "cad": [
+  {
+   "type": "flowchart",
+   "title": "Acute chest pain: suspected acute coronary syndrome",
+   "source": "ESC 2023 ACS · NICE NG185",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Acute chest pain or anginal equivalent"
+    },
+    {
+     "k": "step",
+     "t": "**12-lead ECG within 10 min**, monitor, aspirin 300 mg, GTN; O₂ only if SpO₂ < 90%; opioid for severe pain"
+    },
+    {
+     "k": "split",
+     "q": "ECG?",
+     "br": [
+      {
+       "l": "ST elevation / new LBBB / posterior MI",
+       "n": [
+        {
+         "k": "step",
+         "t": "**STEMI**: primary PCI if achievable ≤ 120 min of diagnosis (radial, drug-eluting stent)"
+        },
+        {
+         "k": "step",
+         "t": "Otherwise fibrinolysis (tenecteplase) ≤ 12 h, then angiography 2–24 h; **rescue PCI** if ST resolution < 50% at 60–90 min"
+        },
+        {
+         "k": "end",
+         "t": "Cardiogenic shock: culprit-vessel PCI, noradrenaline ± dobutamine"
+        }
+       ]
+      },
+      {
+       "l": "No ST elevation",
+       "n": [
+        {
+         "k": "step",
+         "t": "**hs-troponin 0/1 h (or 0/2 h)**: rise/fall = NSTEMI, normal = unstable angina or non-cardiac"
+        },
+        {
+         "k": "step",
+         "t": "Very high risk (shock, refractory pain, VT/VF, acute HF) → angiography **< 2 h**"
+        },
+        {
+         "k": "step",
+         "t": "High risk (NSTEMI, dynamic ST/T, GRACE > 140) → angiography **< 24 h**"
+        },
+        {
+         "k": "end",
+         "t": "Low risk → non-invasive imaging or selective invasive strategy"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Antithrombotics: P2Y12 inhibitor (prasugrel if PCI, ticagrelor; clopidogrel if high bleeding risk) + anticoagulant (UFH at PCI, fondaparinux if conservative)"
+    },
+    {
+     "k": "end",
+     "t": "Secondary prevention: DAPT 12 months · high-intensity statin to **LDL < 1.4 mmol/L** (+ ezetimibe) · ACEi · beta-blocker if LVEF ≤ 40% · MRA if LVEF ≤ 40% with HF/diabetes · SGLT2i if HF · cardiac rehab · stop smoking"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Stable chest pain: chronic coronary syndrome",
+   "source": "ESC 2024 CCS · NICE CG95",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Exertional chest pain relieved by rest/GTN, no ACS features"
+    },
+    {
+     "k": "step",
+     "t": "ECG, FBC, lipids, HbA1c, renal & thyroid function; echo if murmur or suspected HF"
+    },
+    {
+     "k": "split",
+     "q": "Clinical likelihood of obstructive CAD",
+     "br": [
+      {
+       "l": "Low–moderate",
+       "n": [
+        {
+         "k": "step",
+         "t": "**CT coronary angiography** first line"
+        }
+       ]
+      },
+      {
+       "l": "High / known CAD / CT non-diagnostic",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Functional imaging** (stress echo, SPECT, perfusion CMR) or invasive angiography"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Anti-anginal: **GTN PRN + beta-blocker or rate-limiting CCB** (combine if needed); add long-acting nitrate, ivabradine, nicorandil or ranolazine"
+    },
+    {
+     "k": "step",
+     "t": "Prevention: aspirin 75 mg (clopidogrel if intolerant), statin, ACEi if diabetes/HTN/CKD/LV dysfunction; risk-factor control"
+    },
+    {
+     "k": "end",
+     "t": "Revascularise (PCI/CABG, heart team) if symptoms persist on drugs or high-risk anatomy: left main, proximal LAD, 3-vessel disease with LV dysfunction"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Aorta and limb ischaemia",
+   "source": "ESC 2024 Aortic & PAD · NICE NG156",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Vascular presentation"
+    },
+    {
+     "k": "split",
+     "q": "Which picture?",
+     "br": [
+      {
+       "l": "Tearing chest/back pain",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Aortic dissection**: IV labetalol/esmolol → HR < 60, SBP 100–120; analgesia"
+        },
+        {
+         "k": "step",
+         "t": "CT aortography (TOE if unstable); never thrombolyse"
+        },
+        {
+         "k": "end",
+         "t": "Type A → emergency surgery · Type B uncomplicated → medical; TEVAR if complicated"
+        }
+       ]
+      },
+      {
+       "l": "Cold, pale, pulseless limb (6 Ps)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Acute limb ischaemia**: IV unfractionated heparin + analgesia, urgent vascular review"
+        },
+        {
+         "k": "end",
+         "t": "Viable → imaging + catheter thrombolysis/endovascular · threatened → embolectomy · irreversible → amputation; find source (AF)"
+        }
+       ]
+      },
+      {
+       "l": "Calf pain on walking",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Claudication**: ABPI < 0.9 confirms PAD (falsely high if calcified)"
+        },
+        {
+         "k": "step",
+         "t": "Stop smoking, statin, clopidogrel, supervised exercise; naftidrofuryl/cilostazol"
+        },
+        {
+         "k": "end",
+         "t": "Revascularise if lifestyle-limiting or chronic limb-threatening ischaemia"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "AAA: ultrasound screen men at 65 · repair if ≥ 5.5 cm, growth > 1 cm/yr or symptomatic (EVAR or open) · 3.0–5.4 cm → surveillance + risk-factor control"
+    }
+   ]
+  }
+ ],
+ "hf": [
+  {
+   "type": "flowchart",
+   "title": "Chronic heart failure: diagnosis to treatment",
+   "source": "ESC 2021 + 2023 update · NICE NG106",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Breathlessness, orthopnoea, oedema, fatigue"
+    },
+    {
+     "k": "step",
+     "t": "**NT-proBNP** + ECG (normal ECG makes HF unlikely)"
+    },
+    {
+     "k": "split",
+     "q": "NT-proBNP",
+     "br": [
+      {
+       "l": "< 400 ng/L",
+       "n": [
+        {
+         "k": "end",
+         "t": "HF unlikely → look for another cause"
+        }
+       ]
+      },
+      {
+       "l": "400–2000",
+       "n": [
+        {
+         "k": "step",
+         "t": "Echo + specialist **within 6 weeks**"
+        }
+       ]
+      },
+      {
+       "l": "> 2000",
+       "n": [
+        {
+         "k": "step",
+         "t": "Echo + specialist **within 2 weeks**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Echo: LVEF",
+     "br": [
+      {
+       "l": "≤ 40%: HFrEF",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Four pillars, started rapidly**: ACEi/ARNI (sacubitril–valsartan) + beta-blocker + MRA + SGLT2i"
+        },
+        {
+         "k": "step",
+         "t": "Loop diuretic for congestion only"
+        }
+       ]
+      },
+      {
+       "l": "41–49%: HFmrEF",
+       "n": [
+        {
+         "k": "step",
+         "t": "SGLT2i + diuretic; consider ACEi/ARNI, beta-blocker, MRA"
+        }
+       ]
+      },
+      {
+       "l": "≥ 50%: HFpEF",
+       "n": [
+        {
+         "k": "step",
+         "t": "**SGLT2i** (dapagliflozin/empagliflozin) + diuretic; consider MRA; treat HTN, AF, obesity, OSA"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Still symptomatic: ivabradine (sinus, HR ≥ 70) · hydralazine–nitrate if ACEi/ARB intolerant · **IV iron** if ferritin < 100 or 100–299 with TSAT < 20% · digoxin for symptoms/AF"
+    },
+    {
+     "k": "end",
+     "t": "Devices: **ICD** if LVEF ≤ 35% after ≥ 3 months optimal therapy · **CRT** if LVEF ≤ 35% + LBBB, QRS ≥ 150 ms · advanced HF → LVAD/transplant, palliative care"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Acute heart failure",
+   "source": "ESC 2021 · NICE CG187",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Acute breathlessness, crackles, raised JVP, pink frothy sputum"
+    },
+    {
+     "k": "step",
+     "t": "Sit up · O₂ if SpO₂ < 90% · ECG, troponin, NT-proBNP, CXR, bedside echo"
+    },
+    {
+     "k": "step",
+     "t": "Find the trigger (**CHAMPIT**): ACS, Hypertension, Arrhythmia, Mechanical cause, PE, Infection, Tamponade"
+    },
+    {
+     "k": "split",
+     "q": "Haemodynamic profile",
+     "br": [
+      {
+       "l": "Warm & wet (commonest)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**IV furosemide** ≥ usual oral dose; IV nitrate if SBP > 110"
+        }
+       ]
+      },
+      {
+       "l": "Hypertensive pulmonary oedema",
+       "n": [
+        {
+         "k": "step",
+         "t": "IV nitrates + diuretic; **CPAP/NIV** if respiratory distress"
+        }
+       ]
+      },
+      {
+       "l": "Cold & wet: cardiogenic shock",
+       "n": [
+        {
+         "k": "step",
+         "t": "Inotrope (dobutamine) ± noradrenaline; urgent PCI if ACS; mechanical support"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Avoid routine opioids · before discharge: euvolaemic, start/continue all four pillars, review within 1–2 weeks"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Cardiomyopathies",
+   "source": "ESC 2023 Cardiomyopathy",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Abnormal myocardium on echo / cardiac MRI"
+    },
+    {
+     "k": "split",
+     "q": "Phenotype",
+     "br": [
+      {
+       "l": "Dilated (DCM)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Exclude CAD, alcohol, thyroid, iron overload, myocarditis, anthracyclines, peripartum, genetic (TTN, LMNA)"
+        },
+        {
+         "k": "end",
+         "t": "Treat as HFrEF · ICD/CRT by criteria · screen first-degree relatives"
+        }
+       ]
+      },
+      {
+       "l": "Hypertrophic (HCM, wall ≥ 15 mm)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Beta-blocker or verapamil; **mavacamten** if obstructive & symptomatic; myectomy / alcohol septal ablation"
+        },
+        {
+         "k": "end",
+         "t": "HCM Risk-SCD ≥ 6% → ICD · avoid dehydration & vasodilators · family screening (autosomal dominant)"
+        }
+       ]
+      },
+      {
+       "l": "Restrictive / infiltrative",
+       "n": [
+        {
+         "k": "step",
+         "t": "Amyloid: serum & urine immunofixation + free light chains (AL) → bone scintigraphy (ATTR → tafamidis)"
+        },
+        {
+         "k": "end",
+         "t": "Sarcoid: CMR/FDG-PET → immunosuppression, pacing/ICD · haemochromatosis → venesection"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Takotsubo: apical ballooning after stress with normal coronaries → supportive; recovers within weeks"
+    }
+   ]
+  }
+ ],
+ "chd": [
+  {
+   "type": "flowchart",
+   "title": "Congenital heart disease: from clue to action",
+   "source": "ESC 2020 ACHD",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Murmur, cyanosis or failure to thrive → echocardiography"
+    },
+    {
+     "k": "split",
+     "q": "Cyanosis?",
+     "br": [
+      {
+       "l": "Acyanotic (L→R shunt or obstruction)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**ASD**: fixed split S2, RBBB → close (device for secundum) if RV dilated"
+        },
+        {
+         "k": "step",
+         "t": "**VSD**: harsh pansystolic at LSE → small: observe; LV overload or Qp:Qs ≥ 1.5 → close"
+        },
+        {
+         "k": "step",
+         "t": "**PDA**: machinery murmur → preterm: ibuprofen/indometacin/paracetamol; later: device closure"
+        },
+        {
+         "k": "end",
+         "t": "**Coarctation**: radiofemoral delay, arm–leg BP gradient, rib notching → stent/surgery; lifelong BP review"
+        }
+       ]
+      },
+      {
+       "l": "Cyanotic (R→L)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Tetralogy**: spells, boot-shaped heart → knee–chest, O₂, morphine, propranolol → complete repair < 1 yr"
+        },
+        {
+         "k": "step",
+         "t": "**Transposition**: cyanosis at birth → prostaglandin E1 → balloon septostomy → arterial switch"
+        },
+        {
+         "k": "end",
+         "t": "**Eisenmenger**: shunt reversal → never close; PAH drugs; pregnancy contraindicated"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "All: endocarditis prophylaxis only for cyanotic disease or prosthetic material (ESC) · pregnancy counselling (mWHO class) · associations: Turner (coarctation, bicuspid), Down (AVSD)"
+    }
+   ]
+  }
+ ],
+ "arr": [
+  {
+   "type": "flowchart",
+   "title": "Tachycardia with a pulse",
+   "source": "Resuscitation Council UK 2021 · ERC 2025",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Tachycardia: ABCDE, O₂ if hypoxic, IV access, 12-lead ECG"
+    },
+    {
+     "k": "split",
+     "q": "Adverse features? (shock, syncope, myocardial ischaemia, severe heart failure)",
+     "br": [
+      {
+       "l": "Yes: unstable",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Synchronised DC shock** (up to 3) under sedation → amiodarone 300 mg IV over 10–20 min → repeat shock"
+        }
+       ]
+      },
+      {
+       "l": "No: stable",
+       "n": [
+        {
+         "k": "step",
+         "t": "Assess QRS width and regularity"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Stable rhythm",
+     "br": [
+      {
+       "l": "Narrow regular (SVT, flutter)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Vagal manoeuvres (modified Valsalva) → **adenosine 6–12–18 mg** → verapamil or beta-blocker"
+        }
+       ]
+      },
+      {
+       "l": "Narrow irregular (AF)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Rate control: beta-blocker or diltiazem (digoxin/amiodarone if HF) → see AF chart"
+        }
+       ]
+      },
+      {
+       "l": "Broad regular (VT)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Amiodarone 300 mg IV** over 20–60 min; expert help"
+        }
+       ]
+      },
+      {
+       "l": "Broad irregular",
+       "n": [
+        {
+         "k": "step",
+         "t": "Pre-excited AF: **no AV-nodal blockers** → DC shock; torsades → **IV magnesium 2 g**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Pulseless VT/VF → cardiac arrest algorithm (ALS chart)"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Atrial fibrillation: AF-CARE",
+   "source": "ESC 2024 AF · NICE NG196",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "AF confirmed on ECG"
+    },
+    {
+     "k": "step",
+     "t": "**C**omorbidity & risk factors: BP, weight, alcohol, OSA, diabetes, exercise"
+    },
+    {
+     "k": "split",
+     "q": "**A**void stroke: CHA₂DS₂-VA (ESC 2024; NICE uses CHA₂DS₂-VASc)",
+     "br": [
+      {
+       "l": "Score ≥ 2",
+       "n": [
+        {
+         "k": "step",
+         "t": "**DOAC recommended**; warfarin if mechanical valve or moderate–severe mitral stenosis"
+        }
+       ]
+      },
+      {
+       "l": "Score 1",
+       "n": [
+        {
+         "k": "step",
+         "t": "Consider DOAC"
+        }
+       ]
+      },
+      {
+       "l": "Score 0",
+       "n": [
+        {
+         "k": "step",
+         "t": "No anticoagulation; reassess yearly"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Bleeding risk: correct modifiable factors (BP, alcohol, NSAIDs, antiplatelets) — never withhold OAC because of a high bleeding score"
+    },
+    {
+     "k": "split",
+     "q": "**R**educe symptoms",
+     "br": [
+      {
+       "l": "Rate control (everyone)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Beta-blocker or diltiazem/verapamil (not if LVEF ≤ 40%); digoxin add-on; resting HR < 110"
+        }
+       ]
+      },
+      {
+       "l": "Rhythm control",
+       "n": [
+        {
+         "k": "step",
+         "t": "Onset < 24 h, or ≥ 3 weeks of OAC / TOE-guided → DC or drug cardioversion (flecainide if no structural disease, amiodarone if structural)"
+        },
+        {
+         "k": "step",
+         "t": "**Catheter ablation** if drugs fail, or early in selected patients/HFrEF"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "**E**valuate dynamically: echo, TFTs, renal function, reassess risk at every review"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Bradycardia and heart block",
+   "source": "Resuscitation Council UK 2021",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Bradycardia: ABCDE, 12-lead ECG, check K⁺, drugs, TFTs"
+    },
+    {
+     "k": "split",
+     "q": "Adverse features or risk of asystole? (Mobitz II, CHB with broad QRS, pause > 3 s, recent asystole)",
+     "br": [
+      {
+       "l": "Yes",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Atropine 500 µg IV**, repeat to 3 mg"
+        },
+        {
+         "k": "step",
+         "t": "No response → isoprenaline/adrenaline infusion or **transcutaneous pacing** → transvenous pacing"
+        }
+       ]
+      },
+      {
+       "l": "No",
+       "n": [
+        {
+         "k": "step",
+         "t": "Observe; stop AV-nodal blockers (beta-blocker, CCB, digoxin); treat cause"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "**Permanent pacemaker**: symptomatic sick sinus, Mobitz II, complete heart block (unless reversible, e.g. inferior MI, drugs) · 1st-degree & Mobitz I usually benign"
+    }
+   ]
+  }
+ ],
+ "valv": [
+  {
+   "type": "flowchart",
+   "title": "Aortic stenosis",
+   "source": "ESC/EACTS 2025 Valvular Heart Disease",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Ejection systolic murmur → echocardiography"
+    },
+    {
+     "k": "split",
+     "q": "Severity",
+     "br": [
+      {
+       "l": "Severe (Vmax ≥ 4 m/s, mean ≥ 40 mmHg, AVA ≤ 1 cm²)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Symptoms or LVEF < 50% → intervene**"
+        },
+        {
+         "k": "step",
+         "t": "Asymptomatic: exercise test, BNP; early intervention increasingly favoured (very severe, Vmax ≥ 5 m/s, rapid progression)"
+        }
+       ]
+      },
+      {
+       "l": "Low-flow, low-gradient",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Dobutamine stress echo** or CT calcium score to confirm true severe AS"
+        }
+       ]
+      },
+      {
+       "l": "Mild–moderate",
+       "n": [
+        {
+         "k": "step",
+         "t": "Echo every 1–3 years; treat BP; no drug slows progression"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Heart team: **TAVI** if ≥ 70 years or high surgical risk with suitable access · **SAVR** if younger / low risk / bicuspid · balloon valvuloplasty only as a bridge"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Mitral valve disease",
+   "source": "ESC/EACTS 2025 Valvular Heart Disease",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Mitral murmur → echocardiography"
+    },
+    {
+     "k": "split",
+     "q": "Lesion",
+     "br": [
+      {
+       "l": "Mitral stenosis (rheumatic)",
+       "n": [
+        {
+         "k": "step",
+         "t": "AF → **warfarin** (not DOAC) + rate control (beta-blocker)"
+        },
+        {
+         "k": "end",
+         "t": "Symptomatic, MVA ≤ 1.5 cm², favourable valve → **balloon commissurotomy**; unfavourable → surgery"
+        }
+       ]
+      },
+      {
+       "l": "Primary MR (prolapse, flail)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Symptoms, LVEF ≤ 60%, LVESD ≥ 40 mm, new AF or PASP > 50 mmHg → **repair** (preferred to replacement)"
+        },
+        {
+         "k": "end",
+         "t": "High surgical risk → transcatheter edge-to-edge repair (TEER)"
+        }
+       ]
+      },
+      {
+       "l": "Secondary MR (dilated LV)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Optimise HF therapy ± CRT first"
+        },
+        {
+         "k": "end",
+         "t": "Persistent symptoms → TEER in selected patients (COAPT)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Prevent rheumatic recurrence with secondary penicillin prophylaxis · dental hygiene for all"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Aortic regurgitation and prosthetic valves",
+   "source": "ESC/EACTS 2025 Valvular Heart Disease",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Early diastolic murmur, collapsing pulse, wide pulse pressure"
+    },
+    {
+     "k": "split",
+     "q": "Onset",
+     "br": [
+      {
+       "l": "Acute (dissection, endocarditis)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Emergency surgery**; vasodilator (nitroprusside) as bridge; IABP contraindicated"
+        }
+       ]
+      },
+      {
+       "l": "Chronic severe",
+       "n": [
+        {
+         "k": "step",
+         "t": "Surgery if symptoms, LVEF ≤ 50–55%, or LVESD > 50 mm (> 25 mm/m²)"
+        },
+        {
+         "k": "step",
+         "t": "Inoperable: ACEi/ARB or dihydropyridine for symptoms · Marfan: beta-blocker/ARB, root surgery ≥ 50 mm"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Mechanical valve → lifelong **warfarin** (INR 2.5–3.5 mitral; 2–3 bileaflet aortic) — DOACs contraindicated · bioprosthesis degenerates after ~10–15 years"
+    }
+   ]
+  }
+ ],
+ "peri": [
+  {
+   "type": "flowchart",
+   "title": "Acute pericarditis and tamponade",
+   "source": "ESC 2025 Myocarditis & Pericarditis",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Pleuritic chest pain eased by sitting forward"
+    },
+    {
+     "k": "step",
+     "t": "Diagnosis: ≥ 2 of typical pain · rub · widespread concave ST↑ with PR↓ · new effusion (supported by ↑CRP)"
+    },
+    {
+     "k": "step",
+     "t": "ECG, CRP, troponin, CXR and **echo for all**"
+    },
+    {
+     "k": "split",
+     "q": "Risk features? (fever > 38 °C, large effusion/tamponade, immunosuppression, anticoagulation, trauma, no response to NSAID)",
+     "br": [
+      {
+       "l": "None",
+       "n": [
+        {
+         "k": "step",
+         "t": "Outpatient: **aspirin/NSAID + PPI**, tapered over 1–2 weeks, + **colchicine 3 months**; restrict exercise"
+        }
+       ]
+      },
+      {
+       "l": "Present",
+       "n": [
+        {
+         "k": "step",
+         "t": "Admit; look for cause (TB, malignancy, autoimmune, uraemia, post-MI/Dressler)"
+        }
+       ]
+      },
+      {
+       "l": "Troponin ↑ (myopericarditis)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Lower-dose NSAID; cardiac MRI; avoid sport ≥ 6 months"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Recurrent: colchicine ≥ 6 months; steroid-dependent → IL-1 blockade (anakinra, rilonacept)"
+    },
+    {
+     "k": "end",
+     "t": "**Tamponade** (hypotension, ↑JVP, muffled sounds, pulsus paradoxus) → urgent echo-guided **pericardiocentesis** · constriction → pericardiectomy"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Infective endocarditis",
+   "source": "ESC 2023 Endocarditis",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Fever + new murmur, embolic event, or risk (prosthetic valve, PWID, CIED)"
+    },
+    {
+     "k": "step",
+     "t": "**3 sets of blood cultures** from separate sites before antibiotics"
+    },
+    {
+     "k": "step",
+     "t": "**TTE first** → TOE if prosthetic valve, negative TTE with high suspicion, or to look for abscess; PET-CT for prosthetic/device IE"
+    },
+    {
+     "k": "split",
+     "q": "Modified Duke criteria (ESC 2023)",
+     "br": [
+      {
+       "l": "Definite (2 major / 1 major + 3 minor / 5 minor)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Empirical: native/late prosthetic → ampicillin + (flu)cloxacillin + gentamicin; early prosthetic/MRSA risk → vancomycin + gentamicin (+ rifampicin for staphylococcal PVE)"
+        },
+        {
+         "k": "step",
+         "t": "Tailor to organism; 4–6 weeks; stable patients may switch to oral after ≥ 10 days IV"
+        }
+       ]
+      },
+      {
+       "l": "Possible / culture-negative",
+       "n": [
+        {
+         "k": "step",
+         "t": "Repeat cultures, serology (Coxiella, Bartonella), PCR, imaging"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Surgery (endocarditis team): heart failure · uncontrolled infection (abscess, fungi, resistant organism) · vegetation ≥ 10 mm with embolism"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Acute rheumatic fever",
+   "source": "AHA revised Jones 2015 · WHO",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "2–4 weeks after group A streptococcal pharyngitis"
+    },
+    {
+     "k": "step",
+     "t": "Evidence of strep infection (raised ASO / anti-DNase B, culture) **plus** 2 major, or 1 major + 2 minor"
+    },
+    {
+     "k": "step",
+     "t": "Major: **carditis, polyarthritis, chorea, erythema marginatum, subcutaneous nodules** · Minor: fever, arthralgia, ↑ESR/CRP, prolonged PR"
+    },
+    {
+     "k": "step",
+     "t": "Treat: penicillin (eradication; macrolide if allergic), aspirin/NSAID for arthritis, steroids for severe carditis, echo for all"
+    },
+    {
+     "k": "end",
+     "t": "**Secondary prophylaxis**: benzathine penicillin every 3–4 weeks — ≥ 10 years or to age 21–40 if carditis"
+    }
+   ]
+  }
+ ],
+ "htn": [
+  {
+   "type": "flowchart",
+   "title": "Raised blood pressure: diagnosis and urgency",
+   "source": "NICE NG136 · ESC 2024 Hypertension",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Clinic BP ≥ 140/90 mmHg"
+    },
+    {
+     "k": "split",
+     "q": "How high, and is there acute organ damage?",
+     "br": [
+      {
+       "l": "≥ 180/120 + acute damage (papilloedema, retinal haemorrhage, encephalopathy, AKI, ACS, HF, dissection)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Hypertensive emergency** → admit, IV labetalol / nicardipine / nitroprusside"
+        },
+        {
+         "k": "end",
+         "t": "Lower MAP by no more than 20–25% in the first hours"
+        }
+       ]
+      },
+      {
+       "l": "≥ 180/120, no acute damage",
+       "n": [
+        {
+         "k": "step",
+         "t": "Urgency: check target organs same day; start oral treatment and review within days — never lower rapidly"
+        }
+       ]
+      },
+      {
+       "l": "140–179/90–119",
+       "n": [
+        {
+         "k": "step",
+         "t": "Confirm with **ABPM or HBPM** (mean ≥ 135/85)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Work-up: U&E/eGFR, urine ACR, HbA1c, lipids, ECG (LVH), fundoscopy, QRISK3"
+    },
+    {
+     "k": "end",
+     "t": "Look for a secondary cause if < 40, resistant, hypokalaemic or abrupt: aldosterone:renin ratio, metanephrines, renal ultrasound/MRA, sleep study"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Drug treatment steps",
+   "source": "NICE NG136 (2023) · ESC 2024",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Lifestyle for everyone: salt < 6 g, weight, alcohol, exercise, stop smoking"
+    },
+    {
+     "k": "split",
+     "q": "Step 1",
+     "br": [
+      {
+       "l": "Type 2 diabetes, or < 55 and not Black African/Caribbean",
+       "n": [
+        {
+         "k": "step",
+         "t": "**ACE inhibitor** (ARB if Black or ACEi-intolerant)"
+        }
+       ]
+      },
+      {
+       "l": "≥ 55, or Black African/Caribbean (no diabetes)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Calcium-channel blocker** (amlodipine)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Step 2: ACEi/ARB + CCB, or + thiazide-like diuretic (indapamide)"
+    },
+    {
+     "k": "step",
+     "t": "Step 3: ACEi/ARB + CCB + thiazide-like diuretic"
+    },
+    {
+     "k": "step",
+     "t": "Step 4 (confirm with ABPM, check adherence): K⁺ ≤ 4.5 → **spironolactone**; K⁺ > 4.5 → alpha- or beta-blocker; specialist review"
+    },
+    {
+     "k": "end",
+     "t": "Targets: clinic < 140/90 (< 80 yrs), < 150/90 (≥ 80 yrs) · ESC 2024: SBP 120–129 if tolerated · ESC favours single-pill combinations"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Hypertension in pregnancy",
+   "source": "NICE NG133",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "BP ≥ 140/90 in pregnancy"
+    },
+    {
+     "k": "split",
+     "q": "Type",
+     "br": [
+      {
+       "l": "Before 20 weeks",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Chronic hypertension**: stop ACEi/ARB/thiazide → labetalol (nifedipine, methyldopa)"
+        }
+       ]
+      },
+      {
+       "l": "After 20 weeks, no proteinuria",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Gestational hypertension**: labetalol; target 135/85"
+        }
+       ]
+      },
+      {
+       "l": "After 20 weeks + proteinuria or organ dysfunction",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Pre-eclampsia**: admit if severe; labetalol; **MgSO₄** for severe disease/eclampsia; plan delivery"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "High risk of pre-eclampsia → **aspirin 75–150 mg** from 12 weeks to birth"
+    }
+   ]
+  }
+ ],
+ "cpharm": [
+  {
+   "type": "flowchart",
+   "title": "Choosing an antithrombotic",
+   "source": "ESC 2023 ACS · ESC 2024 AF · NICE NG158",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "What is the indication?"
+    },
+    {
+     "k": "split",
+     "q": "Indication",
+     "br": [
+      {
+       "l": "ACS / PCI",
+       "n": [
+        {
+         "k": "step",
+         "t": "**DAPT**: aspirin + ticagrelor or prasugrel for 12 months (clopidogrel if high bleeding risk), then single antiplatelet"
+        }
+       ]
+      },
+      {
+       "l": "Stable CAD / PAD / ischaemic stroke",
+       "n": [
+        {
+         "k": "step",
+         "t": "Single antiplatelet: aspirin 75 mg or clopidogrel"
+        }
+       ]
+      },
+      {
+       "l": "AF / VTE",
+       "n": [
+        {
+         "k": "step",
+         "t": "**DOAC** (apixaban, rivaroxaban, edoxaban, dabigatran); warfarin for mechanical valve, moderate–severe MS, antiphospholipid syndrome"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "AF + PCI: triple therapy ≤ 1 week → DOAC + clopidogrel to 12 months → DOAC alone"
+    },
+    {
+     "k": "end",
+     "t": "Reversal: warfarin → vitamin K + prothrombin complex · dabigatran → idarucizumab · factor Xa inhibitors → andexanet alfa or PCC"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Prescribing cardiovascular drugs safely",
+   "source": "BNF · NICE",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Starting or reviewing a cardiovascular drug"
+    },
+    {
+     "k": "split",
+     "q": "Drug group",
+     "br": [
+      {
+       "l": "ACEi / ARB / MRA",
+       "n": [
+        {
+         "k": "step",
+         "t": "U&E before and 1–2 weeks after; accept creatinine rise < 30%; stop if K⁺ ≥ 6; ACEi cough → ARB; angioedema → stop"
+        }
+       ]
+      },
+      {
+       "l": "Rate & rhythm drugs",
+       "n": [
+        {
+         "k": "step",
+         "t": "Amiodarone: TFTs, LFTs, CXR, eyes, skin · digoxin toxicity ↑ with low K⁺, CKD, amiodarone/verapamil · flecainide only without structural disease"
+        }
+       ]
+      },
+      {
+       "l": "Statins & nitrates",
+       "n": [
+        {
+         "k": "step",
+         "t": "Statin myalgia → CK; avoid simvastatin with clarithromycin · no nitrates within 24–48 h of PDE-5 inhibitors"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Avoid: NSAIDs in HF/CKD ('triple whammy') · non-dihydropyridine CCB in HFrEF · non-selective beta-blockers in asthma · verapamil + beta-blocker IV"
+    }
+   ]
+  }
+ ],
+ "cvsx": [
+  {
+   "type": "flowchart",
+   "title": "Cardiac arrest: advanced life support",
+   "source": "Resuscitation Council UK 2021 · ERC 2025",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Unresponsive, not breathing normally"
+    },
+    {
+     "k": "step",
+     "t": "Call arrest team · **CPR 30:2** · attach defibrillator; minimise pauses"
+    },
+    {
+     "k": "split",
+     "q": "Rhythm",
+     "br": [
+      {
+       "l": "Shockable (VF / pulseless VT)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Shock** → CPR 2 min → reassess"
+        },
+        {
+         "k": "step",
+         "t": "After 3rd shock: **adrenaline 1 mg + amiodarone 300 mg**; adrenaline every 3–5 min; amiodarone 150 mg after 5th"
+        }
+       ]
+      },
+      {
+       "l": "Non-shockable (PEA / asystole)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Adrenaline 1 mg ASAP**, then every 3–5 min; CPR 2-min cycles"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Treat reversible causes — **4 Hs**: hypoxia, hypovolaemia, hypo/hyperkalaemia, hypothermia · **4 Ts**: thrombosis, tamponade, toxins, tension pneumothorax"
+    },
+    {
+     "k": "end",
+     "t": "After ROSC: ABCDE, SpO₂ 94–98%, 12-lead ECG, PCI if STEMI, avoid fever, ICU"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Syncope",
+   "source": "ESC 2018 Syncope · NICE CG109",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Transient loss of consciousness"
+    },
+    {
+     "k": "step",
+     "t": "History (witness), examination, **lying & standing BP**, 12-lead ECG"
+    },
+    {
+     "k": "split",
+     "q": "Risk",
+     "br": [
+      {
+       "l": "Low risk: reflex or orthostatic features, normal ECG",
+       "n": [
+        {
+         "k": "step",
+         "t": "Reassure, explain triggers, review drugs; discharge"
+        }
+       ]
+      },
+      {
+       "l": "High risk: exertional, supine, palpitations, structural heart disease, abnormal ECG, family sudden death",
+       "n": [
+        {
+         "k": "step",
+         "t": "Urgent assessment: monitoring, echo, ± EP study; pacing/ICD as indicated"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Unexplained and recurrent → implantable loop recorder · driving advice (DVLA)"
+    }
+   ]
+  }
+ ],
+ "cvsemq": [
+  {
+   "type": "flowchart",
+   "title": "Murmur decoder",
+   "source": "Clinical examination",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Time the murmur against the carotid pulse"
+    },
+    {
+     "k": "split",
+     "q": "Timing",
+     "br": [
+      {
+       "l": "Systolic",
+       "n": [
+        {
+         "k": "step",
+         "t": "Ejection, right 2nd ICS → carotids, slow-rising pulse: **AS**"
+        },
+        {
+         "k": "step",
+         "t": "Ejection at LSE, louder on Valsalva/standing: **HOCM**"
+        },
+        {
+         "k": "step",
+         "t": "Pansystolic apex → axilla: **MR** · lower LSE, louder on inspiration: **TR** · harsh with thrill: **VSD**"
+        }
+       ]
+      },
+      {
+       "l": "Diastolic",
+       "n": [
+        {
+         "k": "step",
+         "t": "Early, LSE, sitting forward, collapsing pulse: **AR** (+ Austin Flint rumble)"
+        },
+        {
+         "k": "step",
+         "t": "Mid-diastolic apex, loud S1, opening snap: **MS** · early, with pulmonary hypertension: Graham Steell (PR)"
+        }
+       ]
+      },
+      {
+       "l": "Continuous",
+       "n": [
+        {
+         "k": "step",
+         "t": "Machinery murmur under left clavicle: **PDA** · AV fistula"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Next: echocardiography for every new murmur; ECG and CXR"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Leg oedema and the JVP",
+   "source": "Clinical examination",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Bilateral leg oedema"
+    },
+    {
+     "k": "split",
+     "q": "JVP",
+     "br": [
+      {
+       "l": "Raised, pulsatile",
+       "n": [
+        {
+         "k": "step",
+         "t": "Giant v waves → **TR** · rises on inspiration + knock → **constriction** · Beck's triad → **tamponade** · COPD + flap → **cor pulmonale** · crackles + S3 → **CCF**"
+        }
+       ]
+      },
+      {
+       "l": "Raised, non-pulsatile",
+       "n": [
+        {
+         "k": "step",
+         "t": "**SVC obstruction** (facial and arm swelling)"
+        }
+       ]
+      },
+      {
+       "l": "Normal",
+       "n": [
+        {
+         "k": "step",
+         "t": "Low albumin (nephrotic, liver) · drugs (**amlodipine**) · venous insufficiency · hypothyroidism"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Unilateral swollen leg → DVT (Wells score, ultrasound) · cellulitis · ruptured Baker's cyst"
+    }
+   ]
+  }
+ ],
+ "airway": [
+  {
+   "type": "flowchart",
+   "title": "Asthma in adults: diagnosis and stepwise treatment",
+   "source": "BTS/NICE/SIGN 2024 · GINA 2025",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Suspected asthma: variable wheeze, cough, chest tightness"
+    },
+    {
+     "k": "step",
+     "t": "Objective tests: **FeNO ≥ 50 ppb** (or raised eosinophils), bronchodilator reversibility ≥ 12% + 200 mL, PEF variability"
+    },
+    {
+     "k": "step",
+     "t": "Step 1: **as-needed low-dose ICS–formoterol** (AIR) — no SABA-only treatment"
+    },
+    {
+     "k": "step",
+     "t": "Step 2: **low-dose MART** (ICS–formoterol maintenance and reliever)"
+    },
+    {
+     "k": "step",
+     "t": "Step 3: moderate-dose MART"
+    },
+    {
+     "k": "step",
+     "t": "Step 4: check FeNO/eosinophils → specialist: biologics (anti-IL-5/5R, anti-IL-4R, anti-TSLP, anti-IgE) · if not type 2: trial LTRA or LAMA"
+    },
+    {
+     "k": "end",
+     "t": "At every step: adherence, inhaler technique, triggers, written action plan · never LABA without ICS"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Acute asthma",
+   "source": "BTS/SIGN · NICE",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Acute attack: PEF, SpO₂, RR, HR, speech"
+    },
+    {
+     "k": "split",
+     "q": "Severity",
+     "br": [
+      {
+       "l": "Moderate: PEF > 50%",
+       "n": [
+        {
+         "k": "step",
+         "t": "Salbutamol via spacer; **prednisolone 40–50 mg** ≥ 5 days"
+        }
+       ]
+      },
+      {
+       "l": "Acute severe: PEF 33–50%, RR ≥ 25, HR ≥ 110, can't finish sentences",
+       "n": [
+        {
+         "k": "step",
+         "t": "O₂ to 94–98%, **nebulised salbutamol 5 mg** (back-to-back) + ipratropium, steroid"
+        }
+       ]
+      },
+      {
+       "l": "Life-threatening: PEF < 33%, SpO₂ < 92%, silent chest, normal PaCO₂, exhaustion",
+       "n": [
+        {
+         "k": "step",
+         "t": "As above + **IV magnesium 1.2–2 g**, ABG, senior & ICU review"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Rising PaCO₂ / drowsiness → intubate · discharge when PEF > 75%, on ICS, inhaler checked, review within 2 days"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "COPD: diagnosis and maintenance",
+   "source": "GOLD 2025 · NICE NG115",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Smoker/exposed with breathlessness, cough, sputum"
+    },
+    {
+     "k": "step",
+     "t": "**Post-bronchodilator FEV1/FVC < 0.70** · grade GOLD 1–4 by FEV1"
+    },
+    {
+     "k": "step",
+     "t": "Everyone: stop smoking · vaccines (flu, pneumococcal, COVID, RSV) · pulmonary rehab · SABA/SAMA reliever"
+    },
+    {
+     "k": "split",
+     "q": "GOLD group",
+     "br": [
+      {
+       "l": "A: few symptoms, ≤ 1 moderate exacerbation",
+       "n": [
+        {
+         "k": "step",
+         "t": "A bronchodilator (LAMA or LABA)"
+        }
+       ]
+      },
+      {
+       "l": "B: mMRC ≥ 2 / CAT ≥ 10",
+       "n": [
+        {
+         "k": "step",
+         "t": "**LABA + LAMA**"
+        }
+       ]
+      },
+      {
+       "l": "E: ≥ 2 moderate or ≥ 1 hospitalised exacerbation",
+       "n": [
+        {
+         "k": "step",
+         "t": "LABA + LAMA; **+ ICS if eosinophils ≥ 300**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Still exacerbating: azithromycin (ex-smokers) or roflumilast (FEV1 < 50%, chronic bronchitis); dupilumab if eosinophilic"
+    },
+    {
+     "k": "end",
+     "t": "**LTOT** if stable PaO₂ < 7.3 kPa (or < 8 with oedema, polycythaemia, pulmonary hypertension) · home NIV for persistent hypercapnia · volume reduction in selected"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "COPD exacerbation",
+   "source": "GOLD 2025 · BTS NIV · NICE NG115",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Worse breathlessness, sputum volume or purulence"
+    },
+    {
+     "k": "step",
+     "t": "SABA ± SAMA · **prednisolone 30–40 mg × 5 days** · antibiotic if purulent (amoxicillin, doxycycline, clarithromycin)"
+    },
+    {
+     "k": "step",
+     "t": "Hospital: ABG, CXR, ECG · **controlled O₂ 24–28% → SpO₂ 88–92%**"
+    },
+    {
+     "k": "split",
+     "q": "ABG after 1 h of optimal therapy",
+     "br": [
+      {
+       "l": "pH < 7.35 and PaCO₂ > 6.5 kPa",
+       "n": [
+        {
+         "k": "step",
+         "t": "**NIV (BiPAP)**; agree ceiling of care; intubate if NIV fails"
+        }
+       ]
+      },
+      {
+       "l": "pH ≥ 7.35",
+       "n": [
+        {
+         "k": "step",
+         "t": "Continue treatment; titrate O₂"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Before discharge: inhaler technique, rehab within 4 weeks, smoking cessation, follow-up"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Bronchiectasis and cystic fibrosis",
+   "source": "BTS 2019 · NICE NG78",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Chronic productive cough, recurrent chest infections, haemoptysis"
+    },
+    {
+     "k": "step",
+     "t": "**HRCT**: bronchus wider than its artery (signet ring), no tapering"
+    },
+    {
+     "k": "step",
+     "t": "Find the cause: FBC, immunoglobulins, Aspergillus IgE/IgG (ABPA), sweat chloride/CFTR, ciliary tests, α1-antitrypsin"
+    },
+    {
+     "k": "split",
+     "q": "Situation",
+     "br": [
+      {
+       "l": "Stable",
+       "n": [
+        {
+         "k": "step",
+         "t": "Daily **airway clearance** physiotherapy; ≥ 3 exacerbations/yr → long-term azithromycin or inhaled antibiotic; eradicate new Pseudomonas"
+        }
+       ]
+      },
+      {
+       "l": "Exacerbation",
+       "n": [
+        {
+         "k": "step",
+         "t": "**14 days** of antibiotic guided by sputum (Pseudomonas: ciprofloxacin or IV anti-pseudomonal)"
+        }
+       ]
+      },
+      {
+       "l": "Cystic fibrosis",
+       "n": [
+        {
+         "k": "step",
+         "t": "CFTR modulator (elexacaftor–tezacaftor–ivacaftor), dornase alfa, pancreatic enzymes, CF centre"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Massive haemoptysis → bronchial artery embolisation"
+    }
+   ]
+  }
+ ],
+ "resinf": [
+  {
+   "type": "flowchart",
+   "title": "Community-acquired pneumonia",
+   "source": "NICE · BTS",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Acute LRTI symptoms + new shadowing on CXR"
+    },
+    {
+     "k": "step",
+     "t": "Severity: **CURB-65** (confusion, urea > 7, RR ≥ 30, SBP < 90 or DBP ≤ 60, age ≥ 65); CRB-65 in the community"
+    },
+    {
+     "k": "split",
+     "q": "CURB-65",
+     "br": [
+      {
+       "l": "0–1: low",
+       "n": [
+        {
+         "k": "step",
+         "t": "Home: **amoxicillin 5 days** (doxycycline or clarithromycin if allergic)"
+        }
+       ]
+      },
+      {
+       "l": "2: moderate",
+       "n": [
+        {
+         "k": "step",
+         "t": "Hospital: amoxicillin (+ clarithromycin if atypical suspected), 5 days"
+        }
+       ]
+      },
+      {
+       "l": "3–5: high",
+       "n": [
+        {
+         "k": "step",
+         "t": "**IV co-amoxiclav + clarithromycin**; blood cultures, urinary antigens; consider ICU"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Review at 48–72 h; switch IV to oral; stop at 5 days if stable"
+    },
+    {
+     "k": "end",
+     "t": "Not improving → repeat CXR (effusion, empyema, abscess), unusual organisms (Legionella, S. aureus) · follow-up CXR at 6 weeks if symptoms persist or high cancer risk"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Tuberculosis",
+   "source": "NICE NG33 · WHO 2022",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Cough > 2–3 weeks, fever, sweats, weight loss, haemoptysis; upper-zone shadowing"
+    },
+    {
+     "k": "step",
+     "t": "Isolate · **3 sputum samples**: AFB smear, culture, NAAT (Xpert MTB/RIF detects rifampicin resistance) · HIV test"
+    },
+    {
+     "k": "split",
+     "q": "Result",
+     "br": [
+      {
+       "l": "Drug-sensitive active TB",
+       "n": [
+        {
+         "k": "step",
+         "t": "**2 months RHZE → 4 months RH** + pyridoxine; baseline LFT, U&E, visual acuity; DOT if needed; CNS: 12 months + steroids"
+        }
+       ]
+      },
+      {
+       "l": "Rifampicin-resistant / MDR",
+       "n": [
+        {
+         "k": "step",
+         "t": "Specialist: **BPaLM** (bedaquiline, pretomanid, linezolid ± moxifloxacin) for 6 months"
+        }
+       ]
+      },
+      {
+       "l": "Latent (IGRA/TST +, normal CXR)",
+       "n": [
+        {
+         "k": "step",
+         "t": "3 months RH or 6 months isoniazid — essential before anti-TNF"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Toxicity: R orange fluids + enzyme induction · H neuropathy, hepatitis · Z hepatitis, gout · E optic neuritis · notify and trace contacts"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Granulomatous and vasculitic lung disease",
+   "source": "ERS 2021 Sarcoidosis · EULAR 2022 Vasculitis",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Bilateral hilar nodes, nodules or pulmonary–renal picture"
+    },
+    {
+     "k": "step",
+     "t": "CXR (Scadding 0–IV), HRCT, calcium, ACE, LFT, ECG, eye review; **EBUS-TBNA** for non-caseating granulomas (exclude TB, lymphoma)"
+    },
+    {
+     "k": "split",
+     "q": "Pattern",
+     "br": [
+      {
+       "l": "Löfgren: erythema nodosum + BHL + arthritis",
+       "n": [
+        {
+         "k": "step",
+         "t": "NSAIDs, observe — usually remits"
+        }
+       ]
+      },
+      {
+       "l": "Organ-threatening sarcoid (falling lung function, eye, heart, CNS, hypercalcaemia)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Prednisolone 20–40 mg**; methotrexate as steroid-sparing"
+        }
+       ]
+      },
+      {
+       "l": "Haemoptysis + nodules ± AKI",
+       "n": [
+        {
+         "k": "step",
+         "t": "ANCA (PR3 → GPA, MPO → MPA), anti-GBM → steroids + rituximab/cyclophosphamide; plasma exchange for anti-GBM"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "ABPA (asthma, IgE > 1000, fleeting infiltrates) → prednisolone ± itraconazole"
+    }
+   ]
+  }
+ ],
+ "crit": [
+  {
+   "type": "flowchart",
+   "title": "Respiratory failure: reading the ABG",
+   "source": "BTS Oxygen 2017",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "ABG: PaO₂ < 8 kPa = respiratory failure"
+    },
+    {
+     "k": "split",
+     "q": "PaCO₂",
+     "br": [
+      {
+       "l": "Normal / low: type 1",
+       "n": [
+        {
+         "k": "step",
+         "t": "V/Q mismatch or shunt: pneumonia, PE, pulmonary oedema, ARDS, asthma"
+        },
+        {
+         "k": "end",
+         "t": "O₂ to SpO₂ 94–98%, high-flow nasal oxygen, treat cause"
+        }
+       ]
+      },
+      {
+       "l": "> 6 kPa: type 2",
+       "n": [
+        {
+         "k": "step",
+         "t": "Hypoventilation: COPD, neuromuscular, chest wall, opioids, obesity"
+        },
+        {
+         "k": "end",
+         "t": "Controlled O₂ to **88–92%**; **NIV** if pH < 7.35; naloxone for opioids"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "A–a gradient: normal → pure hypoventilation (central/neuromuscular); raised → lung disease"
+    },
+    {
+     "k": "end",
+     "t": "Chronic type 2: raised HCO₃⁻ with near-normal pH · acute-on-chronic: raised HCO₃⁻ and low pH"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Acute respiratory distress syndrome",
+   "source": "Berlin + 2023 global definition · ESICM 2023 · ATS 2024",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Hypoxaemia within 1 week of an insult (sepsis, pneumonia, aspiration, pancreatitis, trauma)"
+    },
+    {
+     "k": "step",
+     "t": "Bilateral opacities not explained by effusion/collapse · oedema not fully cardiac (echo)"
+    },
+    {
+     "k": "split",
+     "q": "PaO₂/FiO₂ (on PEEP/CPAP ≥ 5)",
+     "br": [
+      {
+       "l": "201–300: mild",
+       "n": [
+        {
+         "k": "step",
+         "t": "High-flow nasal oxygen or NIV with close monitoring"
+        }
+       ]
+      },
+      {
+       "l": "101–200: moderate",
+       "n": [
+        {
+         "k": "step",
+         "t": "Intubate if failing: **Vt 6 mL/kg ideal body weight**, plateau ≤ 30 cmH₂O, higher PEEP, conservative fluids"
+        }
+       ]
+      },
+      {
+       "l": "≤ 100: severe",
+       "n": [
+        {
+         "k": "step",
+         "t": "+ **Prone 12–16 h/day** · neuromuscular blockade if dyssynchrony · VV-ECMO if refractory"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Treat the cause · consider corticosteroids (dexamethasone in COVID-19) · daily spontaneous breathing trial once FiO₂ ≤ 0.4, PEEP ≤ 8, off vasopressors"
+    }
+   ]
+  }
+ ],
+ "pleura": [
+  {
+   "type": "flowchart",
+   "title": "Pleural effusion",
+   "source": "BTS Pleural 2023",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Effusion on CXR"
+    },
+    {
+     "k": "split",
+     "q": "Clear transudative cause? (bilateral, HF, cirrhosis, renal failure)",
+     "br": [
+      {
+       "l": "Yes",
+       "n": [
+        {
+         "k": "step",
+         "t": "Treat the cause (diuretics); tap only if atypical or not responding"
+        }
+       ]
+      },
+      {
+       "l": "No / unilateral",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Ultrasound-guided diagnostic aspiration**: pH, protein, LDH, glucose, cytology, MC&S ± AFB"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Fluid",
+     "br": [
+      {
+       "l": "Transudate (protein < 25 g/L, Light's negative)",
+       "n": [
+        {
+         "k": "step",
+         "t": "HF, cirrhosis, nephrotic syndrome, hypoalbuminaemia, hypothyroidism"
+        }
+       ]
+      },
+      {
+       "l": "Exudate (protein > 35 g/L or Light's positive)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Contrast CT · cytology negative → **thoracoscopic or CT-guided biopsy** (TB, cancer, mesothelioma)"
+        }
+       ]
+      },
+      {
+       "l": "Infection: pus or pH < 7.2",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Chest drain** + antibiotics with anaerobic cover; poor drainage → alteplase + DNase or surgery"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Recurrent malignant effusion → indwelling pleural catheter or talc pleurodesis"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Pneumothorax",
+   "source": "BTS Pleural 2023",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Sudden pleuritic pain ± breathlessness; erect CXR"
+    },
+    {
+     "k": "step",
+     "t": "**Tension** (hypotension, tracheal deviation, hypoxia) → immediate needle/finger decompression, then drain — do not wait for X-ray"
+    },
+    {
+     "k": "split",
+     "q": "Symptoms and high-risk features? (instability, significant hypoxia, bilateral, underlying lung disease, ≥ 50 + smoker, haemopneumothorax)",
+     "br": [
+      {
+       "l": "Minimal symptoms, no high-risk features",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Conservative** outpatient management, even if large"
+        }
+       ]
+      },
+      {
+       "l": "Symptomatic, no high-risk features",
+       "n": [
+        {
+         "k": "step",
+         "t": "Needle aspiration or **ambulatory valve device** — guided by patient priorities"
+        }
+       ]
+      },
+      {
+       "l": "High-risk / secondary pneumothorax",
+       "n": [
+        {
+         "k": "step",
+         "t": "Admit · **chest drain** (8–14 F) · surgery if air leak > 3–5 days"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Stop smoking · fly ≥ 1 week after resolution · no diving unless bilateral surgery · recurrence → VATS pleurectomy/abrasion"
+    }
+   ]
+  }
+ ],
+ "ild": [
+  {
+   "type": "flowchart",
+   "title": "Interstitial lung disease",
+   "source": "ATS/ERS/JRS/ALAT 2022 · NICE TA",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Dry cough, exertional breathlessness, Velcro crackles, clubbing"
+    },
+    {
+     "k": "step",
+     "t": "PFTs: restrictive with low TLCO · **HRCT** · CTD serology (ANA, RF, anti-CCP, myositis antibodies) · drug & exposure history (amiodarone, methotrexate, nitrofurantoin, birds, moulds, asbestos, silica)"
+    },
+    {
+     "k": "split",
+     "q": "HRCT pattern (MDT)",
+     "br": [
+      {
+       "l": "UIP: basal subpleural honeycombing, no cause",
+       "n": [
+        {
+         "k": "step",
+         "t": "**IPF** — diagnosed without biopsy: **nintedanib or pirfenidone**; no steroids"
+        }
+       ]
+      },
+      {
+       "l": "Upper/mid zone, mosaic, air trapping + antigen",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Hypersensitivity pneumonitis**: remove antigen; steroids if severe"
+        }
+       ]
+      },
+      {
+       "l": "NSIP / organising pneumonia / CTD-ILD",
+       "n": [
+        {
+         "k": "step",
+         "t": "Immunosuppression (mycophenolate, steroids); organising pneumonia is steroid-responsive"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Progressive pulmonary fibrosis of any cause → nintedanib"
+    },
+    {
+     "k": "end",
+     "t": "All: stop smoking, rehab, oxygen, vaccines, early transplant & palliative referral · silicosis → screen for TB · asbestosis → compensation"
+    }
+   ]
+  }
+ ],
+ "pvasc": [
+  {
+   "type": "flowchart",
+   "title": "Suspected pulmonary embolism",
+   "source": "NICE NG158 · ESC 2019 PE",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Suspected PE"
+    },
+    {
+     "k": "split",
+     "q": "Haemodynamically unstable? (SBP < 90 mmHg)",
+     "br": [
+      {
+       "l": "Yes: high-risk",
+       "n": [
+        {
+         "k": "step",
+         "t": "Bedside echo (RV dysfunction) → UFH + **systemic thrombolysis** (alteplase); embolectomy if contraindicated"
+        }
+       ]
+      },
+      {
+       "l": "No",
+       "n": [
+        {
+         "k": "step",
+         "t": "**2-level Wells**: > 4 → CTPA (interim anticoagulation) · ≤ 4 → D-dimer → CTPA if positive"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "V/Q scan if contrast allergy, renal failure, or pregnancy with normal CXR"
+    },
+    {
+     "k": "step",
+     "t": "Risk-stratify (sPESI, RV strain, troponin): low risk → outpatient treatment"
+    },
+    {
+     "k": "end",
+     "t": "Anticoagulate ≥ 3 months: **DOAC** (apixaban/rivaroxaban) · LMWH in pregnancy · unprovoked → consider long-term · IVC filter only if anticoagulation impossible"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Pulmonary hypertension",
+   "source": "ESC/ERS 2022 PH",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Unexplained breathlessness, RV heave, loud P2, raised JVP"
+    },
+    {
+     "k": "step",
+     "t": "Echo: TR velocity > 2.8 m/s → probability of PH"
+    },
+    {
+     "k": "step",
+     "t": "Look first for left heart disease (group 2) and lung disease/hypoxia (group 3)"
+    },
+    {
+     "k": "step",
+     "t": "**V/Q scan**: mismatched defects → CTEPH (group 4) → endarterectomy, balloon angioplasty, riociguat"
+    },
+    {
+     "k": "step",
+     "t": "Right heart catheter: **mPAP > 20 mmHg**, PAWP ≤ 15, PVR > 2 WU = pre-capillary PH"
+    },
+    {
+     "k": "split",
+     "q": "Pulmonary arterial hypertension (group 1)",
+     "br": [
+      {
+       "l": "Vasoreactive (idiopathic)",
+       "n": [
+        {
+         "k": "step",
+         "t": "High-dose calcium-channel blocker"
+        }
+       ]
+      },
+      {
+       "l": "Non-vasoreactive",
+       "n": [
+        {
+         "k": "step",
+         "t": "**ERA + PDE5 inhibitor** (e.g. ambrisentan + tadalafil); add prostacyclin pathway / sotatercept if high risk; transplant"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Cor pulmonale in COPD → LTOT and diuretics"
+    }
+   ]
+  }
+ ],
+ "lca": [
+  {
+   "type": "flowchart",
+   "title": "Suspected lung cancer",
+   "source": "NICE NG122 (2024)",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Haemoptysis, persistent cough, weight loss, clubbing in a smoker > 40, or abnormal CXR"
+    },
+    {
+     "k": "step",
+     "t": "Urgent CXR → **contrast CT chest + upper abdomen** (liver, adrenals) → lung cancer MDT"
+    },
+    {
+     "k": "step",
+     "t": "Biopsy the site giving **diagnosis + highest stage with least risk** (node, effusion, EBUS-TBNA, CT-guided); PET-CT if curative treatment possible"
+    },
+    {
+     "k": "split",
+     "q": "NSCLC stage",
+     "br": [
+      {
+       "l": "I–II, fit",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Lobectomy** + nodal sampling (SABR if unfit); adjuvant chemo-immunotherapy or osimertinib if EGFR+"
+        }
+       ]
+      },
+      {
+       "l": "III",
+       "n": [
+        {
+         "k": "step",
+         "t": "Concurrent chemoradiotherapy → durvalumab; selected resectable → neoadjuvant chemo-immunotherapy"
+        }
+       ]
+      },
+      {
+       "l": "IV",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Molecular testing** (EGFR, ALK, ROS1, KRAS…) → targeted drug; otherwise PD-L1 → immunotherapy ± chemotherapy"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Small cell: limited → chemoradiotherapy · extensive → platinum–etoposide + atezolizumab/durvalumab"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Lung cancer emergencies and syndromes",
+   "source": "NICE NG234 · NICE NG122",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Patient with lung cancer becomes unwell"
+    },
+    {
+     "k": "split",
+     "q": "Problem",
+     "br": [
+      {
+       "l": "SVC obstruction",
+       "n": [
+        {
+         "k": "step",
+         "t": "Head up; get tissue first; **endovascular stent** for rapid relief; treat tumour"
+        }
+       ]
+      },
+      {
+       "l": "Spinal cord compression",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Dexamethasone 16 mg** now; whole-spine MRI within 24 h; surgery or radiotherapy"
+        }
+       ]
+      },
+      {
+       "l": "Hyponatraemia / hypercalcaemia",
+       "n": [
+        {
+         "k": "step",
+         "t": "SIADH (small cell): fluid restriction, hypertonic saline if seizures · Ca²⁺ (squamous, PTHrP): IV fluids + zoledronate"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Others: Lambert–Eaton (small cell) · ectopic ACTH · HPOA (non-small cell) · Pancoast tumour with Horner syndrome"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Incidental pulmonary nodule",
+   "source": "BTS Pulmonary Nodules",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Solid nodule on CT"
+    },
+    {
+     "k": "split",
+     "q": "Size / appearance",
+     "br": [
+      {
+       "l": "< 5 mm or benign calcification",
+       "n": [
+        {
+         "k": "step",
+         "t": "No follow-up"
+        }
+       ]
+      },
+      {
+       "l": "5–8 mm",
+       "n": [
+        {
+         "k": "step",
+         "t": "CT surveillance (volume doubling time)"
+        }
+       ]
+      },
+      {
+       "l": "≥ 8 mm: Brock risk > 10%",
+       "n": [
+        {
+         "k": "step",
+         "t": "**PET-CT** → Herder < 10% surveillance · 10–70% biopsy · > 70% resection"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Sub-solid nodules: longer surveillance (up to 4 years)"
+    }
+   ]
+  }
+ ],
+ "resx": [
+  {
+   "type": "flowchart",
+   "title": "Sepsis",
+   "source": "Surviving Sepsis 2021 · NICE NG51",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Suspected infection + deterioration (NEWS2 ≥ 5)"
+    },
+    {
+     "k": "step",
+     "t": "Sepsis = infection + organ dysfunction (SOFA ≥ 2)"
+    },
+    {
+     "k": "step",
+     "t": "**Within 1 hour**: blood cultures, lactate, broad-spectrum antibiotics, fluids (30 mL/kg if hypotensive or lactate ≥ 4), O₂, urine output"
+    },
+    {
+     "k": "split",
+     "q": "After fluids",
+     "br": [
+      {
+       "l": "MAP ≥ 65",
+       "n": [
+        {
+         "k": "step",
+         "t": "Sepsis: source control, review cultures at 48 h"
+        }
+       ]
+      },
+      {
+       "l": "Vasopressor needed + lactate > 2",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Septic shock**: noradrenaline to MAP 65, ICU; hydrocortisone if ongoing vasopressor"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Glucose target 8–10 mmol/L (not tight) · transfuse at Hb < 70 g/L"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Haemoptysis",
+   "source": "NICE NG12 · BTS",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Haemoptysis"
+    },
+    {
+     "k": "split",
+     "q": "Volume",
+     "br": [
+      {
+       "l": "Massive (> 200 mL/24 h or compromise)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Bleeding side down, secure airway, tranexamic acid → CT angiography → **bronchial artery embolisation**; rigid bronchoscopy"
+        }
+       ]
+      },
+      {
+       "l": "Non-massive",
+       "n": [
+        {
+         "k": "step",
+         "t": "CXR, CT chest; bronchoscopy if cancer risk"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Causes: cancer, bronchiectasis/CF, TB/aspergilloma, PE, vasculitis/anti-GBM, mitral stenosis, anticoagulation"
+    },
+    {
+     "k": "end",
+     "t": "Unexplained haemoptysis ≥ 40 years → urgent suspected-cancer pathway"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Obstructive sleep apnoea",
+   "source": "NICE NG202",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Snoring, witnessed apnoeas, daytime sleepiness"
+    },
+    {
+     "k": "step",
+     "t": "Epworth score, STOP-BANG → **home sleep apnoea test** (polysomnography if complex)"
+    },
+    {
+     "k": "split",
+     "q": "AHI (events/hour)",
+     "br": [
+      {
+       "l": "5–14: mild",
+       "n": [
+        {
+         "k": "step",
+         "t": "Weight loss, alcohol avoidance; CPAP if symptomatic; mandibular advancement device"
+        }
+       ]
+      },
+      {
+       "l": "≥ 15: moderate–severe",
+       "n": [
+        {
+         "k": "step",
+         "t": "**CPAP** first line"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Stop driving if excessively sleepy until treated (DVLA) · obesity hypoventilation (PaCO₂ > 6 kPa) → NIV"
+    }
+   ]
+  }
+ ],
+ "resemq": [
+  {
+   "type": "flowchart",
+   "title": "Chest examination decoder",
+   "source": "Clinical examination",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Abnormal chest signs on one side"
+    },
+    {
+     "k": "split",
+     "q": "Percussion and breath sounds",
+     "br": [
+      {
+       "l": "Dull + bronchial breathing, ↑ vocal resonance",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Consolidation**"
+        }
+       ]
+      },
+      {
+       "l": "Stony dull, ↓ breath sounds, trachea away",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Pleural effusion**"
+        }
+       ]
+      },
+      {
+       "l": "Dull, ↓ breath sounds, trachea towards",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Collapse** (tumour, mucus plug)"
+        }
+       ]
+      },
+      {
+       "l": "Hyper-resonant, ↓ breath sounds",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Pneumothorax** (trachea away + shock = tension)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Fine Velcro crackles + clubbing → fibrosis · coarse crackles + clubbing → bronchiectasis · COPD alone does not cause clubbing"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Chronic cough",
+   "source": "ERS 2020 · BTS",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Cough > 8 weeks"
+    },
+    {
+     "k": "step",
+     "t": "**CXR + spirometry** for all · stop ACE inhibitor · stop smoking"
+    },
+    {
+     "k": "split",
+     "q": "Findings",
+     "br": [
+      {
+       "l": "Red flags: haemoptysis, weight loss, smoker > 40, abnormal CXR",
+       "n": [
+        {
+         "k": "step",
+         "t": "CT ± bronchoscopy: cancer, TB, ILD, bronchiectasis"
+        }
+       ]
+      },
+      {
+       "l": "Normal CXR",
+       "n": [
+        {
+         "k": "step",
+         "t": "Asthma/eosinophilic bronchitis (FeNO → ICS trial) · rhinitis/upper airway (nasal steroid) · GORD (PPI if reflux symptoms)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Refractory → neuromodulators (low-dose morphine, gabapentin), speech therapy"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "The child with cough or stridor",
+   "source": "NICE NG9 · RCPCH",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Child with cough or stridor"
+    },
+    {
+     "k": "split",
+     "q": "Picture",
+     "br": [
+      {
+       "l": "Barking cough, stridor, 6 m–3 y",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Croup**: oral dexamethasone 0.15 mg/kg; nebulised adrenaline if severe"
+        }
+       ]
+      },
+      {
+       "l": "Toxic, drooling, upright, unimmunised",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Epiglottitis**: don't examine throat; anaesthetist/ENT airway; IV ceftriaxone"
+        }
+       ]
+      },
+      {
+       "l": "Sudden cough, unilateral signs, afebrile",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Inhaled foreign body**: rigid bronchoscopy"
+        }
+       ]
+      },
+      {
+       "l": "Infant: coryza → wheeze + crackles",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Bronchiolitis** (RSV): supportive; O₂ if SpO₂ < 90–92%"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Paroxysms + whoop / post-tussive vomiting → **pertussis**: macrolide, notify"
+    }
+   ]
+  }
+ ]
+}

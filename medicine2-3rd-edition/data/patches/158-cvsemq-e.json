@@ -1,0 +1,482 @@
+[
+ {
+  "id": "cvsemq-0047",
+  "status": "expanded",
+  "set": {
+   "theme": "Valvular heart disease",
+   "topics": [
+    "Valvular heart disease",
+    "Prosthetic heart valve",
+    "Tricuspid regurgitation"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "I",
+    "explanation": "A sternotomy scar with a Coombs-negative normocytic anaemia and red cell fragments (schistocytes) indicates mechanical intravascular haemolysis, classically from a prosthetic (especially mechanical or leaking) heart valve. Check LDH, haptoglobin and reticulocytes, and arrange echocardiography to look for a paravalvular leak."
+   },
+   "2": {
+    "answer": "D",
+    "explanation": "A bicuspid aortic valve is the commonest congenital cardiac anomaly (1–2% of people) and causes combined aortic stenosis and regurgitation that typically presents in middle age, earlier than degenerative calcific stenosis. It is associated with aortic dilatation and coarctation, so the whole aorta should be imaged."
+   },
+   "3": {
+    "answer": "G",
+    "explanation": "An apical pansystolic murmur radiating to the axilla is mitral regurgitation; in a heavy drinker with heart failure this is functional regurgitation from annular dilatation in alcoholic dilated cardiomyopathy. The haematemesis is a red herring pointing to his alcohol use."
+   },
+   "4": {
+    "answer": "H",
+    "explanation": "Bifid P waves (P mitrale, >120 ms in lead II) reflect left atrial enlargement, the hallmark of rheumatic mitral stenosis, which remains common in South Asia and the Middle East. Mitral stenosis also predisposes to atrial fibrillation and left atrial thrombus."
+   },
+   "5": {
+    "answer": "L",
+    "explanation": "Pulmonary hypertension causes right ventricular dilatation and functional tricuspid regurgitation, producing a pansystolic murmur at the left lower sternal edge, peripheral oedema and a tender, congested (pulsatile) liver that explains her abdominal pain. Tricuspid stenosis is almost always rheumatic and is not caused by pulmonary hypertension."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0048",
+  "status": "corrected",
+  "set": {
+   "theme": "Pathogens of infective endocarditis",
+   "topics": [
+    "Infective endocarditis",
+    "Staphylococcus aureus",
+    "Streptococcus gallolyticus"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "F",
+    "explanation": "Right-sided (tricuspid) endocarditis in an injecting drug user is caused by Staphylococcus aureus in most cases; the pansystolic murmur at the left sternal edge with a raised JVP and oedema reflects tricuspid regurgitation. Septic pulmonary emboli are common, and empirical treatment must cover S. aureus (including MRSA if prevalent)."
+   },
+   "2": {
+    "answer": "J",
+    "explanation": "Subacute endocarditis on a previously damaged (rheumatic) mitral valve after a dental procedure is classically due to viridans group streptococci (e.g. Streptococcus sanguinis, S. mitis) from the oral flora. The indolent course of weeks with night sweats and weight loss fits these low-virulence organisms."
+   },
+   "3": {
+    "answer": "H",
+    "explanation": "Early prosthetic valve endocarditis (within a year, especially within 2 months of surgery) is typically caused by coagulase-negative staphylococci such as Staphylococcus epidermidis, introduced at operation and forming biofilm on the sewing ring. Staphylococcus aureus is the main alternative, but it is coagulase positive; management usually requires surgery plus vancomycin, rifampicin and gentamicin.",
+    "stem": "A 64-year-old man presents to the emergency department with fever. His temperature is 40.2 °C, blood pressure 100/48 mmHg and heart rate 114 beats/min. He had a metallic aortic valve replacement 1 month ago. Transoesophageal echocardiography shows vegetations at the sewing ring, and blood cultures grow Gram-positive cocci in clusters that are coagulase negative."
+   },
+   "4": {
+    "answer": "C",
+    "explanation": "Enterococcus faecalis is a gut and urinary tract organism, and endocarditis often follows genitourinary instrumentation such as catheterisation in older men. It tends to affect the aortic or mitral valve (here a new diastolic murmur of aortic regurgitation with heart failure) and needs amoxicillin combined with gentamicin or ceftriaxone."
+   },
+   "5": {
+    "answer": "G",
+    "explanation": "Streptococcus bovis (now S. gallolyticus) endocarditis is strongly associated with colorectal neoplasia, so a new aortic regurgitant murmur with splinter haemorrhages in a woman with a history of sigmoid carcinoma points to this organism. Any patient with S. gallolyticus bacteraemia needs colonoscopy."
+   }
+  },
+  "why": "Item 3: added the blood culture result so coagulase-negative staphylococcus is the single best answer rather than Staphylococcus aureus"
+ },
+ {
+  "id": "cvsemq-0049",
+  "status": "corrected",
+  "set": {
+   "theme": "Investigation of cardiovascular disease",
+   "options": [
+    "24-hour ECG tape",
+    "Ambulatory blood-pressure monitoring",
+    "Chest X-ray",
+    "CT pulmonary angiogram",
+    "Doppler ultrasound scan",
+    "Exercise (stress) ECG",
+    "Myocardial biopsy",
+    "Myocardial perfusion scan",
+    "Resting ECG",
+    "Serum brain-type natriuretic peptide (BNP)",
+    "Serum D-dimer levels",
+    "Serum lactate dehydrogenase",
+    "Serum myoglobin",
+    "Serum troponin",
+    "Thrombophilia screen",
+    "Transoesophageal echocardiography",
+    "Transthoracic echocardiography",
+    "CT coronary angiography"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R"
+   ],
+   "topics": [
+    "Stable angina",
+    "Infective endocarditis",
+    "Deep vein thrombosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "R",
+    "explanation": "This is typical stable angina. NICE (CG95) and ESC 2024 chronic coronary syndrome guidance recommend CT coronary angiography as the first-line diagnostic test when the clinical likelihood is low–moderate, because it has much higher sensitivity than an exercise ECG. The exercise ECG is no longer recommended for diagnosis; functional imaging (e.g. a perfusion scan) is reserved for when CT is non-diagnostic or likelihood is high.",
+    "stem": "A 55-year-old man presents to his GP following several episodes of central chest pain that occurred while gardening. On each occasion, the pain was relieved by rest within 5 minutes. His resting ECG, full blood count and thyroid function tests are normal. Which investigation should be requested first to diagnose the cause?"
+   },
+   "2": {
+    "answer": "N",
+    "explanation": "Rest pain with ST depression in the inferior leads is a non-ST-elevation acute coronary syndrome; a high-sensitivity troponin (at presentation and repeated per the 0/1-hour or 0/3-hour algorithm) distinguishes NSTEMI from unstable angina and guides risk stratification. Myoglobin is non-specific and no longer used."
+   },
+   "3": {
+    "answer": "E",
+    "explanation": "A red, swollen, tender leg with engorged superficial veins 10 days after pelvic surgery is a high-probability (Wells ≥2) deep vein thrombosis, so proximal leg vein compression (Doppler) ultrasound is the diagnostic test. D-dimer is only useful to exclude DVT when clinical probability is low, and it is almost always raised after surgery."
+   },
+   "4": {
+    "answer": "Q",
+    "explanation": "Suspected native-valve endocarditis (fever and a new murmur after dental extraction in a patient with rheumatic heart disease) needs blood cultures and then transthoracic echocardiography as the first-line imaging test (ESC 2023). Transoesophageal echocardiography follows if the TTE is negative but suspicion remains, if a prosthetic valve is present, or to look for abscess."
+   },
+   "5": {
+    "answer": "A",
+    "explanation": "Palpitations occurring almost daily with a normal resting ECG are best captured with ambulatory (24–48-hour Holter) ECG monitoring to correlate symptoms with rhythm. Less frequent episodes would need an event recorder or implantable loop recorder.",
+    "stem": "A 56-year-old man with hypertension and ischaemic heart disease presents to his GP with almost daily episodes of palpitations. Each episode lasts approximately 1 hour and terminates spontaneously. A resting ECG performed in the practice shows no abnormalities. Routine blood tests taken a week previously were within normal limits."
+   }
+  },
+  "why": "Item 1 re-keyed from exercise ECG to CT coronary angiography (option added) per NICE CG95/ESC 2024; item 4 re-keyed from TOE to transthoracic echocardiography (first-line in suspected native-valve endocarditis, ESC 2023); item 5 stem states episode frequency"
+ },
+ {
+  "id": "cvsemq-0050",
+  "status": "corrected",
+  "set": {
+   "theme": "Symptoms of cardiovascular disease",
+   "topics": [
+    "Heart failure",
+    "Mesenteric ischaemia",
+    "Postural hypotension"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "F",
+    "explanation": "Paroxysmal nocturnal dyspnoea with breathlessness on less than ordinary activity (washing, dressing, walking around the house) but comfort at rest is chronic left ventricular failure, NYHA class III. NYHA class I means no limitation of ordinary activity, so it cannot explain these symptoms.",
+    "stem": "A 75-year-old man wakes from sleep feeling extremely breathless and anxious. His breathlessness resolves after a few minutes of walking around the bedroom. During the day he is comfortable at rest but becomes breathless while getting dressed or walking a few metres around the house."
+   },
+   "2": {
+    "answer": "D",
+    "explanation": "Acute breathlessness with pink frothy sputum and inability to lie flat is acute pulmonary oedema, here probably precipitated by a tachyarrhythmia. Management is sitting up, oxygen if hypoxaemic, intravenous furosemide, and nitrates if blood pressure allows."
+   },
+   "3": {
+    "answer": "K",
+    "explanation": "Post-prandial abdominal pain ('intestinal angina') 15–60 minutes after eating in a patient with widespread atherosclerosis, with normal endoscopy, is chronic mesenteric ischaemia; weight loss from food fear is typical. CT angiography confirms stenosis of the coeliac or superior mesenteric artery. Acute mesenteric infarction presents with constant severe pain and a very sick patient, not episodic pain."
+   },
+   "4": {
+    "answer": "M",
+    "explanation": "Migratory polyarthritis of large joints, fever and breathlessness (carditis) following a streptococcal sore throat fulfil the revised Jones criteria for acute rheumatic fever. Confirm recent infection with ASO titre, and treat with penicillin, aspirin/NSAID and secondary prophylaxis."
+   },
+   "5": {
+    "answer": "L",
+    "explanation": "Recurrent collapse on standing in a woman with Addison's disease (mineralocorticoid deficiency and volume depletion) is postural hypotension; brief twitching during syncope is convulsive syncope, not epilepsy, and recovery is rapid. Check lying and standing blood pressure and review her fludrocortisone dose."
+   }
+  },
+  "why": "Item 1 stem changed: breathlessness on climbing stairs is NYHA class II, so the effort level was altered to fit NYHA class III"
+ },
+ {
+  "id": "cvsemq-0051",
+  "status": "corrected",
+  "set": {
+   "theme": "Management of cardiovascular disease",
+   "topics": [
+    "Tachyarrhythmias",
+    "Acute pericarditis",
+    "Thrombolysis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "H",
+    "explanation": "Fast atrial fibrillation with shock (hypotension, confusion, poor perfusion) is an unstable tachyarrhythmia with adverse features, so the Resuscitation Council UK algorithm calls for synchronised DC cardioversion (up to three attempts under sedation), followed by amiodarone if unsuccessful. Rate-controlling drugs such as digoxin or verapamil are too slow and would worsen hypotension."
+   },
+   "2": {
+    "answer": "D",
+    "explanation": "Pleuritic central chest pain relieved by sitting forward with widespread saddle-shaped ST elevation is acute pericarditis, here possibly related to rheumatoid arthritis. First-line treatment is a high-dose NSAID (or aspirin) with gastroprotection, combined with colchicine for 3 months to reduce recurrence (ESC 2015).",
+    "stem": "A 45-year-old woman presents to her GP with a 2-day history of sharp central chest pain. The pain does not radiate and there is no associated shortness of breath. She only gains relief by sitting forward in bed at night. Examination is unremarkable, and an ECG shows widespread concave ST elevation with PR-segment depression. She has a past history of rheumatoid arthritis."
+   },
+   "3": {
+    "answer": "L",
+    "explanation": "A regular narrow-complex tachycardia resistant to vagal manoeuvres would normally be treated with adenosine, but adenosine can cause severe bronchospasm and is avoided in asthma. Intravenous verapamil is the recommended alternative in a stable patient with no pre-excitation."
+   },
+   "4": {
+    "answer": "J",
+    "explanation": "An anterior STEMI within 12 hours of onset needs reperfusion; when primary PCI cannot be delivered within 120 minutes, fibrinolysis is given. Streptokinase must not be repeated because of neutralising antibodies, so a fibrin-specific agent (tenecteplase) is used, and it must be accompanied by an anticoagulant (heparin or enoxaparin) to prevent re-occlusion, followed by transfer for angiography.",
+    "stem": "A 69-year-old man presents to a rural hospital with central chest pain radiating to his left arm that came on suddenly at rest 1 hour ago. He is nauseated, sweaty and short of breath. He had a heart attack 4 years ago, during which he received a 'clot-busting' drug that he was told never to have again. The ECG shows ST elevation of 4 mm in V2, V3 and V4. The nearest PCI-capable centre is more than 2 hours away and he has no contraindications to thrombolysis. Aspirin, clopidogrel, morphine and metoclopramide have been given so far."
+   },
+   "5": {
+    "answer": "K",
+    "explanation": "A broad-complex tachycardia with no palpable pulse is pulseless ventricular tachycardia, a shockable cardiac arrest rhythm; treatment is immediate unsynchronised shocks (defibrillation) with CPR. Synchronised cardioversion is for VT with a pulse. His end-stage renal failure suggests hyperkalaemia as a reversible cause to correct."
+   }
+  },
+  "why": "Item 2 ECG corrected to widespread ST elevation (V1, V4 and aVL is not a pericarditis pattern); item 4 states that primary PCI is not available within 120 minutes so fibrinolysis is appropriate"
+ },
+ {
+  "id": "cvsemq-0052",
+  "status": "corrected",
+  "set": {
+   "theme": "Cardiac murmurs",
+   "options": [
+    "Aortic regurgitation",
+    "Aortic stenosis",
+    "Bicuspid aortic valve",
+    "Mitral regurgitation",
+    "Mitral stenosis",
+    "Patent ductus arteriosus",
+    "Transposition of the great arteries",
+    "Tricuspid regurgitation",
+    "Ventricular septal defect",
+    "Pulmonary stenosis"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J"
+   ],
+   "topics": [
+    "Heart murmurs",
+    "Aortic regurgitation",
+    "Tetralogy of Fallot"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "A collapsing (water-hammer) pulse, an early diastolic murmur and a displaced, volume-loaded apex are chronic aortic regurgitation, which leads to left ventricular dilatation and heart failure. Surgery is indicated once symptoms or LV dilatation/dysfunction develop."
+   },
+   "2": {
+    "answer": "E",
+    "explanation": "Rheumatic fever, malar flush, atrial fibrillation and a mid-diastolic rumbling murmur at the apex are classic mitral stenosis. The irregular pulse is AF from left atrial enlargement, which demands anticoagulation with warfarin (DOACs are not used in moderate–severe rheumatic mitral stenosis)."
+   },
+   "3": {
+    "answer": "B",
+    "explanation": "Syncope ('drop attack'), left ventricular hypertrophy on ECG and a harsh ejection systolic murmur radiating to both carotids indicate severe aortic stenosis. Exertional syncope is an indication for valve replacement (surgical or TAVI).",
+    "stem": "A 75-year-old woman presents to the emergency department following a sudden collapse. Her ECG shows left ventricular hypertrophy. On examination, a harsh ejection systolic murmur is heard at the right upper sternal edge radiating to both carotid arteries."
+   },
+   "4": {
+    "answer": "D",
+    "explanation": "Sudden left ventricular failure with a new apical pansystolic murmur radiating to the axilla 2–7 days after MI is acute mitral regurgitation from papillary muscle rupture (usually the posteromedial muscle after inferior MI). A post-infarct VSD also gives a new pansystolic murmur, but it is loudest at the left sternal edge with a thrill.",
+    "stem": "Three days after a myocardial infarction, a 64-year-old man suddenly deteriorates with acute left ventricular failure. He has a new pansystolic murmur at the apex radiating to the axilla."
+   },
+   "5": {
+    "answer": "J",
+    "explanation": "In tetralogy of Fallot the loud systolic ejection murmur arises from the right ventricular outflow tract (infundibular pulmonary stenosis); the VSD itself is large and unrestrictive so produces little murmur. The degree of outflow obstruction determines the severity of cyanosis.",
+    "stem": "A baby is cyanosed at birth and has a loud, long ejection systolic murmur at the left upper sternal edge. Tetralogy of Fallot is suspected. What lesion produces the murmur?"
+   }
+  },
+  "why": "Item 5 re-keyed: the murmur in tetralogy of Fallot comes from pulmonary (RV outflow) stenosis, not the VSD; option added"
+ },
+ {
+  "id": "cvsemq-0053",
+  "status": "corrected",
+  "why": "Item 5 stem made specific (worse lying flat, relieved sitting forward) because 'aggravated by movement and respiration' also fits costochondritis; stems tidied into short vignettes",
+  "set": {
+   "theme": "Chest pain",
+   "topics": [
+    "Chest pain",
+    "Angina pectoris",
+    "Acute pericarditis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "Central crushing chest pain brought on by exertion and relieved by rest (within minutes) is stable angina pectoris, caused by fixed coronary stenosis limiting supply during increased demand. It also responds to sublingual GTN.",
+    "stem": "A middle-aged man has central crushing chest pain on exertion that is relieved by rest within a few minutes."
+   },
+   "2": {
+    "answer": "C",
+    "explanation": "Crushing central chest pain at rest lasting more than 20 minutes, radiating to the jaw or arms with sweating, is an acute myocardial infarction until proven otherwise. A 12-lead ECG within 10 minutes and a high-sensitivity troponin are needed.",
+    "stem": "A 60-year-old man has central crushing chest pain at rest for the last hour, radiating to his jaw and left arm, with sweating."
+   },
+   "3": {
+    "answer": "D",
+    "explanation": "Sudden severe tearing pain radiating through to the back (interscapular) is aortic dissection; look for unequal arm pulses or blood pressures and a widened mediastinum. CT aortography confirms it, and thrombolysis must be avoided.",
+    "stem": "A 65-year-old hypertensive man has sudden severe tearing chest pain radiating to his back."
+   },
+   "4": {
+    "answer": "H",
+    "explanation": "Sharp, well-localised anterior chest pain reproduced by pressure over the costal cartilages is costochondritis (Tietze's syndrome if there is swelling). It is a diagnosis of exclusion that responds to simple analgesia and NSAIDs.",
+    "stem": "A 30-year-old woman has sharp central chest discomfort with a localised tender area over the costal cartilages on palpation."
+   },
+   "5": {
+    "answer": "B",
+    "explanation": "Sharp central chest pain that is worse on inspiration and lying flat and eased by sitting forward is acute pericarditis; a pericardial friction rub and widespread saddle-shaped ST elevation support it. Musculoskeletal pain is reproduced by palpation rather than relieved by posture.",
+    "stem": "A 25-year-old man has sharp central chest pain that is worse on deep inspiration and lying flat, and relieved by sitting forward."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0054",
+  "status": "corrected",
+  "set": {
+   "theme": "Cardiovascular drugs",
+   "options": [
+    "Propranolol",
+    "Nicorandil",
+    "Aspirin",
+    "Nifedipine",
+    "Captopril",
+    "Digoxin",
+    "Bisoprolol",
+    "Bendroflumethiazide",
+    "Clopidogrel",
+    "Simvastatin"
+   ],
+   "topics": [
+    "ACE inhibitors",
+    "Calcium channel blockers",
+    "Beta-blockers"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "explanation": "ACE inhibitors such as captopril improve survival in heart failure with reduced ejection fraction, but bradykinin accumulation causes a persistent dry cough in about 10% of patients. An angiotensin receptor blocker (or sacubitril–valsartan) is substituted if the cough is intolerable."
+   },
+   "2": {
+    "answer": "E",
+    "explanation": "In bilateral renal artery stenosis (or stenosis to a single functioning kidney) glomerular filtration depends on angiotensin II-mediated efferent arteriolar constriction, so ACE inhibitors can precipitate acute kidney injury. Check creatinine and potassium 1–2 weeks after starting."
+   },
+   "3": {
+    "answer": "D",
+    "explanation": "Dihydropyridine calcium channel blockers such as nifedipine cause arteriolar vasodilatation, producing headache, flushing, reflex tachycardia and ankle oedema (from precapillary dilatation rather than true fluid overload). Rate-limiting calcium channel blockers (verapamil, diltiazem) cause bradycardia instead.",
+    "stem": "Associated with headache, flushing, reflex tachycardia and ankle swelling."
+   },
+   "4": {
+    "answer": "C",
+    "explanation": "Aspirin 300 mg chewed is given as soon as an acute coronary syndrome is suspected because it irreversibly inhibits platelet cyclo-oxygenase and reduces mortality. A second antiplatelet (ticagrelor, prasugrel or clopidogrel) is added once the diagnosis is confirmed."
+   },
+   "5": {
+    "answer": "A",
+    "explanation": "Propranolol is a non-selective beta-blocker: beta-2 blockade causes bronchospasm in asthma and peripheral vasoconstriction that can worsen claudication and Raynaud's. Cardioselective agents such as bisoprolol are safer in COPD and peripheral arterial disease, though still avoided in asthma."
+   }
+  },
+  "why": "Item 3 stem corrected: nifedipine causes reflex tachycardia, not bradycardia; outdated drug name bendrofluazide updated"
+ },
+ {
+  "id": "cvsemq-0055",
+  "status": "corrected",
+  "set": {
+   "theme": "Clinical features of cardiac disease",
+   "topics": [
+    "Heart murmurs",
+    "Infective endocarditis",
+    "Rheumatic fever"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "D",
+    "explanation": "A pansystolic murmur at the apex radiating to the axilla is mitral regurgitation, as regurgitant flow is directed back into the left atrium throughout systole. It is often accompanied by a soft S1 and a third heart sound when severe."
+   },
+   "2": {
+    "answer": "E",
+    "explanation": "Janeway lesions (painless erythematous macules on the palms and soles) and splinter haemorrhages are vascular phenomena of infective endocarditis, caused by septic microemboli. Take three sets of blood cultures before antibiotics and arrange echocardiography."
+   },
+   "3": {
+    "answer": "F",
+    "explanation": "Erythema marginatum (pink rings with pale centres on the trunk) and subcutaneous nodules over bony prominences are major Jones criteria for acute rheumatic fever. The other major criteria are carditis, migratory polyarthritis and Sydenham's chorea.",
+    "stem": "Associated with pink rings with pale centres on the trunk and subcutaneous nodules over the extensor surfaces of the joints."
+   },
+   "4": {
+    "answer": "A",
+    "explanation": "A slow-rising, small-volume carotid pulse with an ejection systolic murmur at the right upper sternal edge radiating to the carotids is aortic stenosis. A soft or absent A2 and a narrow pulse pressure indicate severe disease."
+   },
+   "5": {
+    "answer": "I",
+    "explanation": "A left parasternal heave (right ventricular hypertrophy) and a loud pulmonary component of the second heart sound are the signs of pulmonary hypertension. Echocardiography estimates pulmonary artery pressure, and right heart catheterisation confirms it (mean pulmonary artery pressure >20 mmHg).",
+    "stem": "Known to cause a left parasternal heave and a loud pulmonary component of the second heart sound."
+   }
+  },
+  "why": "Item 5 stem corrected: right ventricular hypertrophy gives a LEFT parasternal heave"
+ },
+ {
+  "id": "cvsemq-0056",
+  "status": "corrected",
+  "set": {
+   "theme": "Murmurs",
+   "topics": [
+    "Heart murmurs",
+    "Tricuspid regurgitation",
+    "Graham Steell murmur"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "H",
+    "explanation": "A pansystolic murmur loudest at the lower left/right sternal edge with a raised JVP (giant v waves) and a pulsatile liver is tricuspid regurgitation. In an Egyptian man, schistosomal pulmonary hypertension or rheumatic disease are possible underlying causes."
+   },
+   "2": {
+    "answer": "F",
+    "explanation": "A grossly displaced, volume-loaded apex (mid-axillary line) with a loud pansystolic murmur and atrial fibrillation is chronic severe mitral regurgitation, which dilates both the left ventricle and left atrium. Severe MR may radiate widely over the precordium."
+   },
+   "3": {
+    "answer": "J",
+    "explanation": "Down syndrome (trisomy 21) is associated with endocardial cushion defects (atrioventricular septal defects) and ventricular septal defects, which produce a pansystolic murmur at the left sternal edge. Of the options listed, a ventricular septal defect is the best fit."
+   },
+   "4": {
+    "answer": "A",
+    "explanation": "A collapsing pulse with an early diastolic murmur at the left sternal edge, loudest with the patient sitting forward in held expiration, is aortic regurgitation. In an elderly man, causes include aortic root dilatation and degenerative valve disease."
+   },
+   "5": {
+    "answer": "E",
+    "explanation": "A Graham Steell murmur is the high-pitched early diastolic murmur of pulmonary regurgitation secondary to pulmonary hypertension, classically from severe mitral stenosis; it is heard at the left sternal edge and increases with inspiration. An Austin Flint murmur, by contrast, is a mid-diastolic apical rumble in severe aortic regurgitation.",
+    "stem": "A 50-year-old woman with severe rheumatic mitral stenosis and pulmonary hypertension has a high-pitched early diastolic murmur at the left upper sternal edge that is louder on inspiration."
+   }
+  },
+  "why": "Item 5 was an unanswerable fragment ('early diastolic murmur continuing past mid-diastole') with no key; rewritten as a Graham Steell murmur vignette"
+ },
+ {
+  "id": "cvsemq-0057",
+  "status": "corrected",
+  "set": {
+   "theme": "Symptoms and signs of heart failure",
+   "topics": [
+    "Heart failure",
+    "Paroxysmal nocturnal dyspnoea",
+    "Pulmonary fibrosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "G",
+    "explanation": "Persistent fine crackles in a patient who is now volume depleted (hypotensive, with blood pressure rising when head-down) cannot be pulmonary oedema; the likely explanation is misdiagnosed pulmonary fibrosis, supported by velcro-like crackles and clubbing. High-resolution CT of the chest should be arranged and the diuretic reduced.",
+    "stem": "A patient has been on a cardiology ward for 3 weeks with a diagnosis of pulmonary oedema and is receiving large doses of furosemide. His systolic blood pressure is now 74 mmHg and rises when he is tilted head-down. He has finger clubbing, and fine end-inspiratory 'velcro' crackles are still heard throughout both lung fields."
+   },
+   "2": {
+    "answer": "E",
+    "explanation": "Waking suddenly at night gasping for breath and needing to get up is paroxysmal nocturnal dyspnoea, caused by redistribution of fluid from the legs into the circulation when supine, producing interstitial pulmonary oedema. It is quite specific for left ventricular failure."
+   },
+   "3": {
+    "answer": "D",
+    "explanation": "Breathlessness when lying flat that forces the patient to sleep propped up on several pillows is orthopnoea; the number of pillows is a useful way to track severity. It reflects increased venous return and pulmonary congestion when supine."
+   },
+   "4": {
+    "answer": "B",
+    "explanation": "A dry cough developing after starting an ACE inhibitor is due to bradykinin accumulation; it occurs in roughly 10% of patients and resolves within weeks of stopping. Switch to an angiotensin receptor blocker or sacubitril–valsartan, but first exclude worsening pulmonary oedema as the cause."
+   },
+   "5": {
+    "answer": "C",
+    "explanation": "Chronic passive venous congestion in right heart failure gives the liver a 'nutmeg' cut surface and causes tender hepatomegaly, sometimes with a pulsatile liver if tricuspid regurgitation coexists. Long-standing congestion can progress to cardiac cirrhosis.",
+    "stem": "Congestion due to right heart failure can give the liver a 'nutmeg' appearance and cause this sign."
+   }
+  },
+  "why": "Item 1 stem clarified (clubbing and persistent velcro crackles in a hypovolaemic patient) so pulmonary fibrosis is the single best answer"
+ }
+]

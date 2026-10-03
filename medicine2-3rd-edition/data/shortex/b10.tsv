@@ -1,0 +1,45 @@
+cpharm-0006	Evidence-based beta-blockers cut mortality by about a third in chronic HFrEF (start low when euvolaemic). They are harmful in acute LVF and cardiogenic shock.
+cpharm-0007	AF rate control without heart failure: a beta-blocker or rate-limiting CCB first (target < 110/min). Her CHA2DS2-VASc is 3, so anticoagulate too.
+cpharm-0008	Oral anticoagulants cut AF stroke by ~two-thirds; apixaban beat warfarin with less bleeding (ARISTOTLE). Aspirin is not recommended.
+cpharm-0009	Dipyridamole inhibits platelet phosphodiesterase and adenosine reuptake (raises cAMP). Clopidogrel, prasugrel and ticagrelor block P2Y12.
+cpharm-0011	Mortality benefit in HFrEF is proven for bisoprolol, carvedilol and metoprolol succinate (MERIT-HF); short-acting metoprolol tartrate was inferior.
+cpharm-0012	GTN is mainly a venodilator: its benefit is preload (not afterload) reduction. Avoid in hypotension, RV infarction and after PDE-5 inhibitors.
+cpharm-0013	NSAIDs block renal prostaglandins, causing salt retention that blunts ACEi; with a diuretic they form the 'triple whammy' for AKI.
+cpharm-0014	ACE inhibitors cause dry cough in 10–15% (bradykinin accumulation), often weeks after starting; switch to an ARB.
+cpharm-0015	Dipyridamole is a phosphodiesterase inhibitor that also blocks adenosine reuptake; MR dipyridamole + aspirin is used after TIA/stroke if clopidogrel is not tolerated.
+cpharm-0016	Tirofiban (like eptifibatide, abciximab) blocks platelet GP IIb/IIIa, the final common pathway of aggregation; now mainly bail-out during PCI.
+cpharm-0017	Clarithromycin strongly inhibits CYP3A4, raising simvastatin levels and risking rhabdomyolysis; withhold the statin during the course.
+cvsx-0001	Exertional syncope in a young person suggests structural disease (HCM, AS, anomalous coronaries); echocardiography is the key test.
+cvsx-0005	BLS is support of airway, breathing and circulation without equipment: call for help, CPR 30:2 and early AED. Drugs belong to ALS.
+cvsx-0006	PEA is non-shockable: CPR, adrenaline 1 mg ASAP then every 3–5 min, and treat the 4 Hs and 4 Ts (e.g. hypoxia, hypothermia).
+cvsx-0007	Atrial myxoma (75% left atrial, from the septum) can obstruct the mitral valve, embolise and cause fever/high ESR (IL-6); excise surgically.
+cvsx-0008	The commonest primary cardiac tumour in adults is myxoma, a pedunculated LA mass on the septum; metastases are commoner overall.
+cvsx-0009	In China-like populations, as CVD peaks, stroke mortality exceeds coronary mortality (high hypertension and salt intake).
+cvsx-0010	The RA lies ~5 cm below the sternal angle, so venous pulsation above the clavicle when sitting upright means a raised JVP.
+cvsx-0011	Pulse amplification makes systolic pressure higher and diastolic lower in distal arteries (leg SBP > arm, basis of the ABPI).
+cvsx-0012	Normal conduction: SA node → atria → AV node → His bundle → bundle branches → Purkinje fibres → ventricles (endocardium to epicardium).
+cvsx-0013	The P wave is atrial depolarisation; atrial repolarisation is hidden in the PR segment/QRS. T = ventricular repolarisation.
+cvsx-0014	Normal QRS axis is −30° to +90°, so −20° is normal; −30° to −90° is left axis deviation.
+cvsx-0015	Sinus rhythm with normal axis, intervals, R-wave progression and no ST shift or tall T waves: a normal ECG.
+cvsx-0017	SA node cells depolarise spontaneously in phase 4 (funny current) faster than any other tissue, so they reach threshold first and dominate.
+cvsx-0018	Multifocal/sinus tachycardia driven by pain, dehydration and hypoxia after a hip fracture: treat the cause (analgesia, IV fluids, oxygen).
+cvsx-0019	Missed dialysis with a sine-wave ECG is pre-terminal hyperkalaemia: IV calcium, insulin–glucose and salbutamol, then urgent dialysis.
+cvsx-0020	A denervated transplanted heart lacks vagal tone, so it runs at its intrinsic rate (~90–110/min) and responds only to circulating catecholamines.
+cvsx-0022	Late after transplant, breathlessness without angina suggests cardiac allograft vasculopathy (denervated heart); diagnose by angiography.
+cvsx-0023	Lymphatic filariasis (Wuchereria bancrofti) is the commonest cause of secondary lymphoedema worldwide; cancer treatment in high-income countries.
+cvsx-0024	Lymphoedema is protein-rich fluid, so diuretics do not help. Use decongestive therapy, compression, skin care and exercise.
+cvsx-0025	PEA from massive haemorrhage will not reverse without volume: give blood products rapidly via the major haemorrhage protocol during CPR.
+cvsx-0026	Sharp localised pain reproduced by palpation with normal ECG and CXR is musculoskeletal (costochondritis); no further tests, reassure and analgesia.
+cvsx-0033	HFrEF on ACEi, beta-blocker and MRA: add an SGLT2 inhibitor (dapagliflozin), which cuts CV death and admissions with or without diabetes.
+cvsx-0034	EF ≤ 30% > 40 days after MI: a primary-prevention ICD reduces mortality (MADIT-II). CRT needs LBBB with QRS ≥ 150 ms.
+cvsx-0035	A resting rate of ~90/min in a well heart-transplant recipient is expected (denervation); reassure.
+cvsx-0036	A donor heart tolerates only about 4 h of cold ischaemia, so it must be allocated within a limited radius of the donor.
+cvsx-0038	In transplant-ineligible stage D heart failure, a durable LVAD (destination therapy) improves survival; inotropes do not.
+cvsx-0039	CHD affects ~1% of births and ~90% of neonates now survive, so adults with CHD now outnumber children.
+cvsx-0041	A flap that opens intermittently between atria is a PFO (~25% of adults), allowing paradoxical embolism; no treatment if incidental.
+cvsx-0042	A small restrictive VSD with Qp:Qs < 1.5 and normal pulmonary pressures needs no closure; review periodically and maintain dental hygiene.
+cvsx-0043	A coronary sinus saturation of 91% (normally ~30–40%) means arterial blood is entering it: a coronary AV fistula, causing a continuous murmur and steal.
+cvsx-0044	Bicuspid aortic valve carries an aortopathy, so measure the aortic root/ascending aorta on every echo; repair at 55 mm (50 mm with risk factors).
+cvsx-0045	Tetralogy of Fallot: VSD, overriding aorta, RVOT obstruction and RV hypertrophy. Tricuspid atresia is a separate cyanotic lesion.
+cvsx-0046	Calcific AS of a trileaflet valve at 78 shares atherosclerotic risk factors: age, diabetes, hypertension, smoking, lipids, CKD.
+cvsx-0047	Untreated severe AS: average survival ~5 years after angina, 3 after syncope and 2 after heart failure; any symptom means valve replacement.

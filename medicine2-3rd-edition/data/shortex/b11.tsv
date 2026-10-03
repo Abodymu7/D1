@@ -1,0 +1,45 @@
+cvsx-0048	Cardiogenic shock from critical AS: balloon aortic valvuloplasty temporarily relieves obstruction as a bridge to AVR/TAVI (restenosis within months).
+cvsx-0049	Low-flow low-gradient AS with poor EF: dobutamine stress echo separates true severe AS (gradient rises, area stays ≤ 1 cm²) from pseudo-severe and shows contractile reserve.
+cvsx-0050	In chronic severe AR diastolic pressure falls and pulse pressure widens; LV end-diastolic volume, stroke volume and afterload all increase.
+cvsx-0051	Acute severe AR: nitroprusside (± dobutamine) increases forward flow as a bridge to surgery. IABP is contraindicated; beta-blockers lengthen diastole.
+cvsx-0052	Rheumatic heart disease is by far the commonest cause of mitral stenosis/LV inflow obstruction worldwide; annular calcification in the elderly.
+cvsx-0053	In MS left atrial pressure rises to drive flow across the valve; LV end-diastolic pressure is normal or low and output falls.
+cvsx-0054	Anything raising heart rate or output raises LA pressure in MS. Beta-blockers (metoprolol) lengthen diastole and lower LA pressure.
+cvsx-0055	In MS, LA pressure falls with diuretics, valvotomy, cardioversion or rate control. Pacing at 90/min shortens diastole and raises it.
+cvsx-0056	MVA 1.7 cm² is moderate MS; asymptomatic with exercise PASP < 60 mmHg, so review and serial echo every 1–2 years.
+cvsx-0057	In secondary (functional) MR surgery does not improve survival, but transcatheter edge-to-edge repair reduced mortality in selected patients (COAPT).
+cvsx-0058	Diastolic gradients RA > RVEDP and wedge > LVEDP mean tricuspid and mitral stenosis; no systolic gradients exclude pulmonary and aortic stenosis.
+cvsx-0059	Functional TR from pulmonary hypertension is treated by diuretics, salt restriction and pulmonary vasodilator therapy; valve surgery is high-risk.
+cvsx-0060	Doming pulmonary valve with peak gradient > ~64 mmHg is congenital pulmonary stenosis: percutaneous balloon valvotomy.
+cvsx-0061	New severe MR gives the LV a low-pressure outlet, so EF rises while forward flow and the aortic gradient fall.
+cvsx-0062	AF with moderate–severe rheumatic MS needs warfarin (INR 2–3) regardless of CHA2DS2-VASc; rivaroxaban was inferior (INVICTUS).
+cvsx-0063	Peripartum cardiomyopathy risk factors: older age, multiparity, twins, pre-eclampsia/hypertension, African ancestry. Primiparity is not one.
+cvsx-0064	A wheelchair-bound young man with scoliosis and DCM has Duchenne muscular dystrophy (X-linked dystrophin); tall R in V1–V2 is typical.
+cvsx-0065	Most familial cardiomyopathies are autosomal dominant missense mutations (MYH7, MYBPC3, TTN, LMNA); offer cascade screening.
+cvsx-0066	TSH is part of routine tests in new heart failure, as hypo- and hyperthyroidism are reversible causes.
+cvsx-0067	Fulminant lymphocytic myocarditis has a good outcome if supported (inotropes, ECMO/VAD); LV function often recovers fully.
+cvsx-0068	Giant cell myocarditis (with autoimmune disease) progresses rapidly with heart block and VT; immunosuppression helps but many need urgent transplant.
+cvsx-0069	Anthracycline cardiotoxicity rises with cumulative dose (> 400–450 mg/m²), chest radiotherapy, heart disease, age extremes and trastuzumab.
+cvsx-0070	Viral pericarditis (rub, diffuse concave ST elevation, PR depression, normal troponin): high-dose aspirin or NSAID with PPI plus colchicine.
+cvsx-0072	In tamponade inspiration increases RV filling (tricuspid inflow) while LV filling and SBP fall (pulsus paradoxus).
+cvsx-0073	Pericarditis: diffuse concave ST elevation, PR depression, no reciprocal change or Q waves. ST elevation in V2 occurs in both, so it does not help.
+cvsx-0074	Post-radiotherapy constriction (knock, dip-and-plateau) is treated definitively by pericardiectomy; diuretics give only temporary relief.
+cvsx-0075	A pedunculated LA mass at the fossa ovalis with fever, arthralgia and TIA is myxoma: surgical excision without delay.
+cvsx-0076	Melanoma has the highest propensity for cardiac metastasis; lung and breast cancer are commonest by number.
+cvsx-0077	Commotio cordis: a precordial blow on the T-wave upslope triggers VF in a normal heart; immediate CPR and defibrillation save life.
+cvsx-0078	Coronary artery disease is the leading cause of death in type 2 diabetes (2–4× risk, often silent ischaemia).
+cvsx-0079	High-output heart failure in a heavy drinker that responds rapidly is wet beriberi from thiamine deficiency; give thiamine before glucose.
+cvsx-0080	Hypothyroidism lowers heart rate, stroke volume and output, raises SVR and prolongs (not shortens) the QT.
+cvsx-0081	Atherogenesis begins with LDL retention in the intima; oxidation, endothelial activation, monocyte recruitment and foam cells follow.
+cvsx-0082	Arteries remodel outward, so a plaque does not narrow the lumen until it exceeds ~40% of the area within the internal elastic lamina (Glagov).
+cvsx-0083	Statin benefit groups: clinical ASCVD, LDL ≥ 4.9 mmol/L, diabetes aged 40–75, 10-year risk ≥ 7.5%. Raised hs-CRP alone is not one.
+cvsx-0084	HDL-raising drugs (CETP inhibitors, niacin, fibrates) did not cut events; weight loss and exercise improve HDL and overall risk.
+cvsx-0085	Myocardial oxygen demand depends on heart rate, contractility and wall stress (preload and afterload); rhythm itself is not a primary determinant.
+cvsx-0086	The heart already extracts ~70–75% of oxygen at rest, so extra demand is met by arteriolar dilatation and increased coronary flow.
+cvsx-0087	Ischaemia shifts to anaerobic glycolysis: lactate and H⁺ accumulate (pH falls), ATP depletes, calcium rises and potassium leaks out.
+cvsx-0088	Angina radiates to arms, neck, jaw, epigastrium and back; radiation to the trapezius ridge is characteristic of pericarditis.
+cvsx-0092	Peaked T waves with flat P waves are hyperkalaemia: give IV calcium gluconate first, then insulin–glucose and salbutamol.
+cvsx-0093	Long QT from ST-segment lengthening the day after thyroidectomy suggests hypocalcaemia (parathyroid injury): measure ionised calcium.
+cvsx-0094	S4 is atrial contraction into a stiff ventricle, so it falls just after the P wave; S1 coincides with QRS. No S4 in AF.
+resx-0055	Cardiogenic shock after MI: urgent PCI, with noradrenaline as first-line vasopressor (SOAP II), ± dobutamine. Routine IABP is not recommended.
+resx-0056	Morphine is not recommended in acute heart failure, especially in shock (hypotension, respiratory depression, worse outcomes).

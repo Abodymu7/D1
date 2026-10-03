@@ -1,0 +1,6 @@
+[
+{"id":"cad-0029","delete":true,"dup_of":"cad-0019","why":"Same idea and level as cad-0019 (feature least consistent with unstable angina)"},
+{"id":"chd-0005","delete":true,"dup_of":"chd-0004","why":"Same scenario and idea as chd-0004 (arm BP difference = coarctation)"},
+{"id":"airway-0069","delete":true,"dup_of":"airway-0004","why":"Same idea as airway-0004 (LTOT prolongs survival in hypoxaemic COPD with cor pulmonale)"},
+{"id":"ild-0020","delete":true,"dup_of":"ild-0006","why":"Same idea as ild-0006 (basal honeycombing on HRCT = IPF)"}
+]

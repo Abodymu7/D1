@@ -1,0 +1,45 @@
+hf-0072	Primary-prevention ICD: LVEF ≤ 35% despite ≥ 3 months of optimal therapy, NYHA II–III and reasonable survival. Recheck EF after myocarditis or peripartum disease.
+hf-0074	Spironolactone cut HFrEF mortality by ~30% (RALES), eplerenone in milder HF (EMPHASIS-HF). Diuretics relieve congestion but activate RAAS.
+hf-0075	In chronic HF digoxin is given 62.5–250 µg daily without loading; levels only if toxicity, renal impairment or interactions. It reduces admissions, not mortality.
+hf-0077	Heart-failure CXR: cardiomegaly, upper-lobe diversion, bat-wing oedema, Kerley B lines, effusions, fissure fluid. The left lung has no horizontal fissure.
+hf-0079	Breathless at rest with gross oedema: relieve congestion first with a loop diuretic; start/titrate ACEi and beta-blocker once less congested.
+hf-0080	ACE inhibitors cause hyperkalaemia (less aldosterone), not hypokalaemia; also cough, angioedema, first-dose hypotension and AKI. Check U&E before and after dose changes.
+hf-0082	An ICD is the only proven way to prevent sudden death in HCM: after aborted arrest (as here) or when the ESC 5-year risk is ≥ 6%.
+hf-0083	Ascites, tender liver, jaundice, AF, oedema, orthopnoea and systolic JVP waves (TR) mean congestive (biventricular) failure. Cirrhosis does not raise the JVP.
+hf-0086	Decompensated aortic stenosis first raises LA and pulmonary venous pressure, giving bibasal crackles; raised JVP and oedema follow only with right failure.
+hf-0087	Venous hypertension causes upper-lobe diversion; 'lower-lobe diversion' is not a sign. Cardiomegaly, effusions, alveolar oedema and Kerley B lines are typical.
+hf-0088	Nausea, anorexia and yellow vision/halos are digoxin toxicity, promoted by hypokalaemia, CKD and interacting drugs; give Digifab for life-threatening toxicity.
+hf-0091	Acute LV failure (likely MI) raises pulmonary capillary pressure, causing hydrostatic oedema, hypoxaemia and hyperventilation (respiratory alkalosis). Permeability = ARDS.
+hf-0096	Exertional breathlessness with an S3 suggests heart failure; a raised BNP/NT-proBNP supports it and NICE then arranges echo (within 2 or 6 weeks).
+hf-0097	A perihilar bat-wing pattern is alveolar oedema; in a breathless smoker the likeliest cause is LV failure. TR causes systemic, not pulmonary, congestion.
+hf-0098	Syncope during exertion is a red flag (HCM, anomalous coronaries, long QT, ARVC, WPW): ECG and echo, and no competitive sport until cleared.
+hf-0099	EF 38% after heart failure (stage C) needs prognostic therapy: ACEi (or ARB/ARNI) plus beta-blocker, then MRA and SGLT2i, even if now asymptomatic.
+hf-0100	Peripartum cardiomyopathy (EF < 45% late pregnancy to 5 months postpartum): about half recover fully; recurrence in later pregnancies is common.
+hf-0101	HFrEF still NYHA III on ACEi, beta-blocker and diuretic: add an MRA (spironolactone) with K⁺/renal monitoring; SGLT2i and ARNI follow.
+hf-0102	Multiply transfused patients develop iron-overload cardiomyopathy: check ferritin and transferrin saturation, then cardiac MRI T2*; chelation can reverse it.
+hf-0104	BNP < 100 pg/mL (NT-proBNP < 300 acutely) has a high negative predictive value: acute heart failure is unlikely, so look for another cause.
+hf-0105	BNP causes natriuresis, vasodilatation and inhibits RAAS and sympathetic activity. Sacubitril raises natriuretic peptides by blocking neprilysin.
+hf-0106	BNP/NT-proBNP is secreted mainly by ventricular myocytes in response to stretch; ANP comes from the atria.
+hf-0107	BNP can be raised without LV failure in COPD (RV strain), PE, AF, sepsis, CKD, cirrhosis and age > 70. Obesity and HF drugs lower it.
+chd-0001	Pulmonary flow murmur, fixed wide S2 splitting and incomplete RBBB (RSR' in V1) with plethoric lungs is a secundum ASD.
+chd-0003	About half of patients with coarctation have a bicuspid aortic valve; both are common in Turner syndrome.
+chd-0004	Hypertension in a young man with an arm BP difference suggests coarctation at or near the left subclavian origin (left arm lower). Check radiofemoral delay.
+chd-0006	Inferior rib notching (ribs 3–8) from dilated intercostal collaterals is classic of coarctation, rarely before age 8; the '3 sign' is another clue.
+chd-0007	Significant coarctation (gradient ≥ 20 mmHg or hypertension) is repaired: stenting in suitable adults, surgery in infants. Lifelong follow-up for recoarctation.
+chd-0008	A small secundum ASD without pulmonary hypertension is well tolerated in pregnancy (mWHO II); routine follow-up is enough.
+chd-0009	Isolated secundum ASD has very low endocarditis risk; prophylaxis is not indicated (NICE never routinely; ESC only for high-risk lesions).
+chd-0010	In ASD the shunt keeps RV volume high throughout respiration, so S2 is widely split with a fixed interval. Paradoxical splitting = LBBB or severe AS.
+chd-0011	Secundum ASD typically shows RSR' in V1 (incomplete RBBB) with right axis deviation; left axis deviation suggests a primum defect.
+chd-0012	Eisenmenger develops in a minority of large unrepaired shunts (< 10% of adult ASDs); a small secundum ASD carries low risk.
+chd-0013	Exertional collapse with deep cyanosis in congenital heart disease is a tetralogy of Fallot spell (RVOT spasm increases right-to-left shunt).
+chd-0014	Eisenmenger syndrome: shunt reversal causes cyanosis, clubbing and erythrocytosis; life expectancy is markedly reduced and pregnancy is very high-risk.
+chd-0015	A small restrictive VSD gives a loud harsh pansystolic murmur with thrill at the left sternal edge despite a trivial shunt (maladie de Roger).
+chd-0016	Clubbing and cyanosis of toes but not fingers (differential cyanosis) is PDA with pulmonary hypertension and shunt reversal.
+chd-0017	Maternal anti-Ro/La antibodies damage the fetal conduction system, causing congenital complete heart block; monitor the fetal heart from 16 weeks.
+chd-0018	Limb ischaemia in a young woman with a childhood murmur suggests paradoxical embolism through an ASD/PFO; echo with bubble study shows the shunt.
+chd-0019	Fixed S2 splitting with flow murmurs and a stroke in a young adult suggests paradoxical embolism across an ASD; confirm with bubble echo and consider closure.
+chd-0020	A small VSD causes no overload or pulmonary hypertension; its main long-term risk is infective endocarditis. Many small muscular VSDs close spontaneously.
+chd-0021	VSD gives a harsh holosystolic murmur at the mid/lower left sternal border. ASD = pulmonary flow murmur; PDA = continuous machinery murmur.
+chd-0022	Significant PDA in a preterm infant is closed medically with a COX inhibitor (ibuprofen/indomethacin) or paracetamol; prostaglandin E1 keeps it open.
+chd-0023	VSD complications: heart failure, Eisenmenger, aortic regurgitation, endocarditis. AF reflects atrial overload (ASD, mitral disease), not VSD.
+arr-0001	Thyrotoxic AF: a non-selective beta-blocker (propranolol) controls rate and adrenergic symptoms; antithyroid treatment restores sinus rhythm. Amiodarone worsens thyroid disease.

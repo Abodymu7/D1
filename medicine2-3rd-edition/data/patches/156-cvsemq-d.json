@@ -1,0 +1,573 @@
+[
+ {
+  "id": "cvsemq-0036",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "ECG interpretation",
+    "Electrolyte disturbance",
+    "Hypothermia"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "J",
+    "explanation": "Prolonged diarrhoea and vomiting cause potassium loss; muscle weakness and cramps with prominent U waves (plus flattened T waves and ST depression) indicate hypokalaemia. Replace potassium and check magnesium, which is often low as well."
+   },
+   "2": {
+    "answer": "I",
+    "explanation": "A missed haemodialysis session in end-stage renal failure causes hyperkalaemia, whose earliest ECG sign is tall tented T waves, progressing to flattened P waves, broad QRS and a sine-wave pattern. Give IV calcium gluconate for cardioprotection and insulin–glucose to shift potassium, and arrange urgent dialysis."
+   },
+   "3": {
+    "answer": "H",
+    "explanation": "Pleuritic pain, haemoptysis and exertional breathlessness in a woman taking the combined oral contraceptive pill suggest pulmonary embolism, whose commonest ECG abnormality is sinus tachycardia. The S1Q3T3 pattern is uncommon; confirm with CT pulmonary angiography."
+   },
+   "4": {
+    "answer": "F",
+    "explanation": "Hypothermia (core temperature below 35 °C) produces J (Osborn) waves, a positive deflection at the QRS–ST junction, with bradycardia, prolonged intervals and shivering artefact. Rewarm carefully and handle gently, because the cold myocardium is prone to ventricular fibrillation."
+   },
+   "5": {
+    "answer": "H",
+    "stem": "A 32-year-old man is brought to the emergency department after a road traffic collision. He has no obvious injuries but is anxious and in pain, with a regular pulse of 118 beats/min.",
+    "explanation": "Pain, anxiety and catecholamine release after trauma cause sinus tachycardia (a regular rhythm above 100/min with a normal P wave before each QRS). In any trauma patient, persistent tachycardia should also prompt a search for occult bleeding."
+   }
+  },
+  "why": "Item 5 gave no clinical information from which an ECG finding could be deduced; stem expanded (anxious, in pain, regular pulse 118/min) to support sinus tachycardia"
+ },
+ {
+  "id": "cvsemq-0037",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Myocardial infarction complications",
+    "Papillary muscle rupture",
+    "Dressler's syndrome"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "stem": "A 68-year-old woman had an inferior myocardial infarction 2 days ago. She has become acutely short of breath and is coughing up pink frothy sputum. There is a new pansystolic murmur at the apex radiating to the axilla, and bilateral crackles are heard at the lung bases.",
+    "explanation": "Sudden pulmonary oedema with a new apical pansystolic murmur 2–7 days after MI indicates acute mitral regurgitation from papillary muscle rupture, most often the posteromedial muscle (single right coronary supply) after inferior MI. Ventricular septal rupture also causes a new pansystolic murmur, but at the left sternal edge with a thrill; arrange urgent echocardiography and surgery."
+   },
+   "2": {
+    "answer": "H",
+    "explanation": "Fever and pleuritic chest pain relieved by sitting forward and NSAIDs, weeks after MI, is Dressler's syndrome, an autoimmune pericarditis. Treat with high-dose aspirin or NSAIDs plus colchicine; pericarditis in the first few days after MI is early infarct-related pericarditis instead."
+   },
+   "3": {
+    "answer": "G",
+    "explanation": "P waves (90/min) and broad QRS complexes (40/min) with no relationship between them indicate complete heart block. A broad-complex escape rhythm with hypotension implies an unstable infranodal block needing atropine and temporary pacing."
+   },
+   "4": {
+    "answer": "F",
+    "explanation": "Sudden collapse 2–5 days after anterior MI with hypotension, tachycardia, a raised JVP that rises on inspiration and small QRS complexes indicates cardiac tamponade from free-wall rupture. Urgent echocardiography, pericardiocentesis and emergency surgery are required."
+   },
+   "5": {
+    "answer": "J",
+    "explanation": "Progressive breathlessness, orthopnoea and paroxysmal nocturnal dyspnoea in the weeks after MI indicate left ventricular failure from loss of contractile myocardium. Confirm with echocardiography and start diuretics plus prognostic heart failure therapy."
+   }
+  },
+  "why": "Item 1 made to discriminate acute MR from ventricular septal rupture (inferior MI, apical murmur radiating to the axilla)"
+ },
+ {
+  "id": "cvsemq-0038",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Secondary hypertension",
+    "Primary hyperaldosteronism",
+    "Phaeochromocytoma"
+   ],
+   "options": [
+    "Acromegaly",
+    "Adult polycystic kidney disease",
+    "Aortic dissection",
+    "Berry aneurysm",
+    "Coarctation of the aorta",
+    "Conn's syndrome",
+    "Cushing's syndrome",
+    "Non-steroidal anti-inflammatory drug use",
+    "Oral contraception",
+    "Phaeochromocytoma",
+    "Pre-eclampsia",
+    "Stress at work",
+    "White coat syndrome"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "F",
+    "stem": "A 30-year-old man presents to the emergency department with headache and muscle weakness. He also complains of increased thirst and urine output. Apart from a blood pressure of 190/95 mmHg, examination is normal. Serum potassium is 2.2 mmol/L, sodium 150 mmol/L, urea 4.3 mmol/L and creatinine 69 μmol/L.",
+    "explanation": "Hypertension with profound hypokalaemia, high-normal or raised sodium and polyuria (hypokalaemic nephrogenic diabetes insipidus) indicates primary hyperaldosteronism (Conn's syndrome). Screen with the aldosterone:renin ratio, then confirm and localise with adrenal CT and adrenal venous sampling."
+   },
+   "2": {
+    "answer": "J",
+    "explanation": "Paroxysms of anxiety, palpitations, chest tightness, headache and flushing with tachycardia and hypertension suggest phaeochromocytoma. Measure plasma free or 24-hour urinary metanephrines, then image; alpha-blockade (phenoxybenzamine) must precede beta-blockade and surgery."
+   },
+   "3": {
+    "answer": "E",
+    "explanation": "Turner's syndrome is associated with bicuspid aortic valve and coarctation of the aorta; hypertension with a systolic murmur heard between the scapulae suggests coarctation. Look for radiofemoral delay and rib notching, and confirm with MR or CT angiography."
+   },
+   "4": {
+    "answer": "B",
+    "explanation": "Hypertension, a flank mass and a family history of early 'brain haemorrhage' (ruptured berry aneurysm) point to autosomal dominant polycystic kidney disease. Confirm with renal ultrasound; the berry aneurysm is a complication, not the cause of the hypertension."
+   },
+   "5": {
+    "answer": "G",
+    "explanation": "Hypertension with acne, hirsutism and easy bruising indicates glucocorticoid excess (Cushing's syndrome). Screen with an overnight dexamethasone suppression test, 24-hour urinary free cortisol or late-night salivary cortisol, then measure ACTH to separate pituitary (Cushing's disease), ectopic and adrenal causes."
+   }
+  },
+  "why": "Option 'Cushing's disease' changed to Cushing's syndrome (vignette does not establish a pituitary source); creatinine unit corrected (pmol/L -> μmol/L)"
+ },
+ {
+  "id": "cvsemq-0039",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Heart sounds",
+    "Cardiac murmurs",
+    "Auscultation"
+   ],
+   "options": [
+    "Austin Flint murmur",
+    "Continuous murmur radiating to the back",
+    "Ejection systolic murmur heard at the right second intercostal space only",
+    "Ejection systolic murmur heard best in the right second intercostal space that radiates into the right carotid artery",
+    "Graham Steell murmur",
+    "Muffled heart sounds",
+    "Mid-systolic click loudest at the apex",
+    "Fixed splitting of the second heart sound",
+    "Normal heart sounds",
+    "Opening snap best heard at the apex",
+    "Pansystolic murmur heard best at the apex with radiation into the axilla",
+    "Physiological splitting of the second heart sound",
+    "Reverse splitting of the second heart sound",
+    "Summation gallop rhythm"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "N",
+    "explanation": "In acute left ventricular failure both a third and a fourth heart sound may be present; at fast rates diastole shortens and they fuse into a single loud extra sound (summation gallop). It indicates raised filling pressures and a stiff, failing ventricle."
+   },
+   "2": {
+    "answer": "K",
+    "explanation": "Mitral regurgitation produces a pansystolic murmur heard best at the apex and radiating to the axilla; the headache is incidental. Murmur loudness does not reliably reflect severity, which is graded by echocardiography."
+   },
+   "3": {
+    "answer": "C",
+    "explanation": "Aortic sclerosis (valve thickening without significant obstruction) gives an ejection systolic murmur at the right second intercostal space that does not radiate to the carotids, with a normal pulse and A2. Radiation to the carotids, a slow-rising pulse and a soft A2 would instead indicate aortic stenosis."
+   },
+   "4": {
+    "answer": "F",
+    "explanation": "A large chronic pericardial effusion insulates the heart so the heart sounds are muffled; a friction rub often disappears as fluid separates the pericardial layers. Look for signs of tamponade such as pulsus paradoxus, a raised JVP and hypotension."
+   },
+   "5": {
+    "answer": "A",
+    "explanation": "Severe aortic regurgitation, as in Marfan's syndrome, can cause an Austin Flint murmur: a low-pitched apical mid-diastolic rumble as the regurgitant jet impinges on the anterior mitral leaflet (functional mitral stenosis). Unlike true mitral stenosis there is no opening snap or loud S1; the Graham Steell murmur is pulmonary regurgitation."
+   }
+  },
+  "why": "Generic 'midsystolic murmur' option replaced by fixed splitting of S2 (it overlapped with the aortic sclerosis answer); 'mid-diastolic click' corrected to mid-systolic click"
+ },
+ {
+  "id": "cvsemq-0040",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Clinical signs",
+    "Familial hypercholesterolaemia",
+    "Aortic regurgitation"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "explanation": "An irregularly irregular pulse is characteristic of atrial fibrillation (frequent ectopics can mimic it); confirm with a 12-lead ECG showing absent P waves and irregular R–R intervals. Assess stroke risk with CHA2DS2-VASc before anticoagulation."
+   },
+   "2": {
+    "answer": "H",
+    "explanation": "Corneal arcus, xanthelasma and tendon xanthomas in a young man with premature coronary deaths in the family indicate heterozygous familial hypercholesterolaemia (an LDL-receptor mutation, about 1 in 250 people). The homozygous form presents in childhood with coronary disease in the teens; cascade testing of relatives is recommended."
+   },
+   "3": {
+    "answer": "O",
+    "explanation": "Fever, weight loss, lethargy and splinter haemorrhages suggest subacute bacterial endocarditis, typically due to viridans streptococci. Take three sets of blood cultures before antibiotics and perform echocardiography (modified Duke criteria)."
+   },
+   "4": {
+    "answer": "B",
+    "explanation": "Bradycardia of 40/min with intermittent cannon a waves in the JVP (atria contracting against closed atrioventricular valves) indicates atrioventricular dissociation, i.e. complete heart block. Collapse (a Stokes–Adams attack) is an indication for permanent pacing."
+   },
+   "5": {
+    "answer": "C",
+    "stem": "While examining a 65-year-old man who is being treated for a suspected type A aortic dissection with sudden acute pulmonary oedema, you hear a short, soft early diastolic murmur. He is tachycardic and hypotensive, and his pulse pressure is not widened.",
+    "explanation": "Acute aortic regurgitation (e.g. from type A dissection or endocarditis) floods a non-dilated left ventricle, causing abrupt pulmonary oedema and shock with a short, soft early diastolic murmur and no wide pulse pressure. Corrigan's pulse and pistol-shot femorals belong to chronic regurgitation, where the dilated ventricle has adapted to a large stroke volume; acute aortic regurgitation needs emergency surgery."
+   }
+  },
+  "why": "Item 5 described chronic-AR peripheral signs (Corrigan's pulse, pistol-shot femorals) that are absent in acute AR; rewritten to a consistent acute AR picture"
+ },
+ {
+  "id": "cvsemq-0041",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Adverse drug reactions",
+    "Cardiovascular drugs"
+   ],
+   "options": [
+    "Amlodipine",
+    "Amiodarone",
+    "Atenolol",
+    "Candesartan",
+    "Dalteparin",
+    "Digoxin",
+    "Furosemide",
+    "Glyceryl trinitrate",
+    "Ramipril",
+    "Sando-K",
+    "Simvastatin",
+    "Spironolactone",
+    "Streptokinase",
+    "Verapamil"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "I",
+    "explanation": "A dry, persistent cough affects about 10% of patients on ACE inhibitors such as ramipril, owing to accumulation of bradykinin that ACE normally degrades. Switch to an angiotensin II receptor blocker such as candesartan, which does not cause cough."
+   },
+   "2": {
+    "answer": "A",
+    "explanation": "Dihydropyridine calcium-channel blockers, especially amlodipine, cause dose-dependent ankle oedema through preferential precapillary arteriolar dilatation that raises capillary pressure; it responds poorly to diuretics. Verapamil more typically causes constipation and bradycardia."
+   },
+   "3": {
+    "answer": "G",
+    "explanation": "Loop diuretics such as furosemide cause hypokalaemia, which produces prominent U waves, flattened T waves and ST depression. Monitor electrolytes and replace potassium or add a potassium-sparing agent."
+   },
+   "4": {
+    "answer": "K",
+    "explanation": "Statins such as simvastatin can cause myalgia, myositis and, rarely, rhabdomyolysis, particularly with interacting drugs (e.g. clarithromycin, or amlodipine with high-dose simvastatin). Stop the statin and check creatine kinase and renal function."
+   },
+   "5": {
+    "answer": "M",
+    "explanation": "Streptokinase commonly causes hypotension during infusion and allergic reactions because it is a bacterial protein. Slow or stop the infusion and raise the legs; it should not be given again because neutralising antibodies develop."
+   }
+  },
+  "why": "Duplicate option (ramipril listed twice) replaced by amlodipine; item 2 re-keyed to amlodipine, the classic cause of drug-induced ankle oedema"
+ },
+ {
+  "id": "cvsemq-0042",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "Cardiac arrest",
+    "Advanced life support",
+    "Resuscitation drugs"
+   ],
+   "options": [
+    "Adrenaline",
+    "Amiodarone",
+    "Atropine",
+    "Calcium gluconate",
+    "Digoxin",
+    "Dopamine",
+    "Magnesium sulfate",
+    "Naloxone",
+    "Salbutamol"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "explanation": "Adrenaline's alpha-adrenergic vasoconstriction raises aortic diastolic pressure and hence coronary and cerebral perfusion pressure during CPR. Give 1 mg IV every 3–5 minutes: immediately in non-shockable rhythms and after the third shock in VF/pulseless VT."
+   },
+   "2": {
+    "answer": "B",
+    "explanation": "Amiodarone 300 mg IV after the third shock (with a further 150 mg after the fifth) is the standard antiarrhythmic for shock-refractory VF/pulseless VT. Lidocaine is an alternative when amiodarone is unavailable."
+   },
+   "3": {
+    "answer": "C",
+    "stem": "This drug is the first-line treatment of peri-arrest bradycardia with adverse features, given as 500 micrograms IV and repeated to a maximum of 3 mg.",
+    "explanation": "Atropine blocks vagal (muscarinic) tone at the sinoatrial and atrioventricular nodes and is first-line for unstable bradycardia. It is no longer recommended for asystole or slow pulseless electrical activity, having been removed from UK and US arrest algorithms in 2010."
+   },
+   "4": {
+    "answer": "G",
+    "stem": "This drug is given in cardiac arrest or peri-arrest instability caused by polymorphic ventricular tachycardia (torsades de pointes), or when hypomagnesaemia is suspected.",
+    "explanation": "Magnesium sulfate 2 g IV suppresses the early afterdepolarisations that trigger torsades de pointes and corrects hypomagnesaemia. It is not a routine drug for refractory VF without these indications."
+   },
+   "5": {
+    "answer": "D",
+    "explanation": "In hyperkalaemic cardiac arrest, IV calcium (10 mL of 10% calcium chloride or 30 mL of 10% calcium gluconate) stabilises the myocardial membrane against the effect of potassium. Calcium does not lower serum potassium, so insulin–glucose and sodium bicarbonate are given to shift it into cells and dialysis removes it."
+   }
+  },
+  "why": "Items 3 and 4 were outdated (atropine removed from the asystole/PEA algorithm in 2010; magnesium is not indicated for simple refractory VF); rewritten to current Resuscitation Council UK indications"
+ },
+ {
+  "id": "cvsemq-0043",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Chest pain",
+    "Aortic dissection",
+    "Boerhaave's syndrome"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "B",
+    "explanation": "Tearing chest and interscapular pain in a hypertensive man followed by a stroke suggests aortic dissection extending into the carotid circulation. Compare both arm BPs and obtain urgent CT aortography; thrombolysis must be avoided."
+   },
+   "2": {
+    "answer": "G",
+    "explanation": "Atypical chest pain and palpitations with a mid-systolic click at the apex (sometimes followed by a late systolic murmur) is mitral valve prolapse, which is associated with connective tissue disorders. Echocardiography confirms it, and beta-blockers help palpitations."
+   },
+   "3": {
+    "answer": "D",
+    "explanation": "Decubitus angina is angina brought on by lying flat, as increased venous return raises ventricular wall stress and oxygen demand; it responds to nitrates and implies severe coronary disease or left ventricular dysfunction. It warrants specialist assessment for coronary angiography."
+   },
+   "4": {
+    "answer": "C",
+    "stem": "A 36-year-old man with alcohol dependence presents to the emergency department with a 5-hour history of vomiting followed by chest pain. His heart sounds are normal. There is reduced air entry at the left lung base, which is also dull to percussion, and you feel crepitus (surgical emphysema) in the neck. The ECG shows sinus tachycardia.",
+    "explanation": "Boerhaave's syndrome is spontaneous full-thickness oesophageal rupture after forceful vomiting, often with alcohol excess, causing chest pain, a left pleural effusion and surgical emphysema (Mackler's triad: vomiting, chest pain, subcutaneous emphysema). Confirm with CT using water-soluble oral contrast; manage nil by mouth with broad-spectrum antibiotics and urgent surgery."
+   },
+   "5": {
+    "answer": "H",
+    "explanation": "Diffuse oesophageal spasm causes crushing retrosternal pain triggered by hot or cold drinks, mimicking angina and partly relieved by nitrates through smooth-muscle relaxation. A normal ECG and swallowing trigger point to it; barium swallow ('corkscrew oesophagus') or manometry confirms it."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0044",
+  "status": "corrected",
+  "set": {
+   "theme": "Diseases of the myocardium and pericardium",
+   "topics": [
+    "Cardiomyopathy",
+    "Pericarditis",
+    "Myocarditis"
+   ],
+   "options": [
+    "Arrhythmogenic right ventricular cardiomyopathy",
+    "Atrial myxoma",
+    "Cardiac tamponade",
+    "Constrictive pericarditis",
+    "Dilated cardiomyopathy",
+    "Hypertrophic obstructive cardiomyopathy",
+    "Myocarditis",
+    "Non-ST-elevation myocardial infarction",
+    "Restrictive cardiomyopathy",
+    "Subacute bacterial endocarditis",
+    "Uraemic pericarditis",
+    "Viral pericarditis"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "F",
+    "stem": "A 23-year-old amateur footballer collapses and dies while training, with no contact from other players. He had two previous episodes of syncope at the gym for which no cause was found, and a harsh ejection systolic murmur that became louder on standing had been noted at a pre-season medical.",
+    "explanation": "Exertional syncope and sudden death in a young athlete, with an ejection systolic murmur that increases on standing or Valsalva (dynamic outflow obstruction), indicates hypertrophic obstructive cardiomyopathy, the commonest cause of sudden cardiac death in young athletes. Arrhythmogenic right ventricular cardiomyopathy also causes exercise-related death but has no outflow murmur; first-degree relatives need ECG and echocardiographic screening."
+   },
+   "2": {
+    "answer": "E",
+    "explanation": "Alcohol excess (suggested by spider naevi) can cause dilated cardiomyopathy, with heart failure, a displaced apex, functional mitral regurgitation and atrial fibrillation. Abstinence may reverse it, alongside standard heart failure therapy."
+   },
+   "3": {
+    "answer": "B",
+    "stem": "A 64-year-old woman is referred for echocardiography after a history of weight loss, low-grade fever, non-specific chest pain and palpitations. The echocardiogram shows a pedunculated mass in the left atrium attached to the interatrial septum.",
+    "explanation": "Atrial myxoma, the commonest primary cardiac tumour, usually arises from the interatrial septum in the left atrium and causes constitutional symptoms (fever, weight loss, raised ESR), obstructive symptoms and emboli. A tumour plop may be heard; treatment is surgical excision."
+   },
+   "4": {
+    "answer": "K",
+    "stem": "A 45-year-old man presents to the emergency department with stabbing central chest pain that is worse when lying down at night. Potassium is 5.4 mmol/L, sodium 145 mmol/L, urea 15 mmol/L and creatinine 540 μmol/L.",
+    "explanation": "Positional pericarditic chest pain in a patient with advanced renal failure indicates uraemic pericarditis. It is an indication to start or intensify dialysis, and it carries a risk of effusion and tamponade."
+   },
+   "5": {
+    "answer": "G",
+    "explanation": "Breathlessness and reduced exercise tolerance after 2 weeks of fever, myalgia and palpitations, with raised inflammatory markers and troponin, suggest viral myocarditis. Cardiac MRI supports the diagnosis once coronary disease is excluded; treat heart failure and avoid competitive exercise for 3–6 months."
+   }
+  },
+  "why": "Option 'constrictive cardiomyopathy' corrected to constrictive pericarditis; item 1 given a discriminating HCM sign (murmur louder on standing) to separate it from ARVC; creatinine unit fixed (pmol/L -> μmol/L)"
+ },
+ {
+  "id": "cvsemq-0045",
+  "status": "expanded",
+  "set": {
+   "topics": [
+    "Tachyarrhythmias",
+    "Sick sinus syndrome",
+    "Torsades de pointes"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "E",
+    "explanation": "Alternating sinus bradycardia and tachycardia (tachy-brady syndrome) in an older patient with ischaemic heart disease is sick sinus syndrome, due to sinoatrial node fibrosis. Symptomatic patients need a permanent pacemaker, which also allows rate-controlling drugs for the tachycardic episodes."
+   },
+   "2": {
+    "answer": "F",
+    "explanation": "A heart rate of 110/min with severe pain after epidural analgesia was stopped is a sinus tachycardia driven by pain and sympathetic activation. Treat the cause with analgesia, while excluding bleeding, sepsis, hypovolaemia and pulmonary embolism."
+   },
+   "3": {
+    "answer": "D",
+    "explanation": "Acute embolic limb ischaemia in a patient with occasional palpitations but a normal ECG between episodes suggests paroxysmal atrial fibrillation as the embolic source. Paroxysmal AF carries a similar embolic risk to permanent AF; confirm with ambulatory monitoring and anticoagulate according to CHA2DS2-VASc."
+   },
+   "4": {
+    "answer": "I",
+    "stem": "A 55-year-old man is brought to the emergency department after a sudden collapse while gardening. He is unconscious and unresponsive, with no palpable pulse or respiratory effort. The monitor shows a disorganised, irregular, broad-complex rhythm with a fluctuating baseline.",
+    "explanation": "Pulseless, unresponsive collapse with a chaotic, irregular broad-complex rhythm and a fluctuating baseline is ventricular fibrillation. Start CPR and defibrillate immediately."
+   },
+   "5": {
+    "answer": "G",
+    "explanation": "Antipsychotic drugs used in schizophrenia prolong the QT interval, predisposing to torsades de pointes, a polymorphic ventricular tachycardia whose QRS axis twists around the baseline. Give magnesium sulfate 2 g IV, stop QT-prolonging drugs, correct potassium and defibrillate if pulseless."
+   }
+  }
+ },
+ {
+  "id": "cvsemq-0046",
+  "status": "corrected",
+  "set": {
+   "topics": [
+    "STEMI",
+    "Thrombolysis",
+    "Primary PCI"
+   ],
+   "options": [
+    "Aspirin",
+    "Beta-blockers",
+    "Calcium-channel blockers",
+    "Clopidogrel",
+    "Cyclizine",
+    "Emergency coronary artery bypass graft",
+    "Emergency external pacing",
+    "Loop diuretics",
+    "Metoclopramide",
+    "Past medical history of a haemorrhagic stroke 6 weeks ago",
+    "Past medical history of ischaemic stroke 2 years ago",
+    "Past medical history of peptic ulcer disease",
+    "Primary percutaneous coronary intervention (angioplasty ± stenting)",
+    "Previous thrombolysis with streptokinase",
+    "ST depression of 2 mm in leads II, III and aVF",
+    "Statins",
+    "ST elevation of 2 mm in leads II, III and aVF",
+    "ST elevation of 2 mm in leads V1–V5",
+    "Tented T waves"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "Q",
+    "stem": "A 62-year-old man with diabetes presents to a district general hospital with sudden-onset, central, crushing chest pain that began at rest. The junior doctor on call records an ECG showing an acute inferior myocardial infarction that meets the criteria for reperfusion therapy. Which ECG change has he seen?",
+    "explanation": "ST elevation of at least 1 mm in two contiguous inferior leads (II, III, aVF) defines an inferior STEMI, usually from right coronary artery occlusion, often with reciprocal ST depression in I and aVL. ST elevation in V1–V5 would indicate an anterior (LAD) infarct, and ST depression alone suggests ischaemia or NSTEMI, which is not treated with fibrinolysis."
+   },
+   "2": {
+    "answer": "M",
+    "explanation": "Primary PCI is the preferred reperfusion strategy for STEMI when it can be delivered within 120 minutes of diagnosis, as in a teaching hospital with a catheter laboratory. It gives higher vessel patency and lower rates of reinfarction, stroke and death than fibrinolysis."
+   },
+   "3": {
+    "answer": "J",
+    "explanation": "Any previous intracranial haemorrhage is an absolute contraindication to fibrinolysis, as are ischaemic stroke within 6 months, recent major trauma or surgery, active bleeding and aortic dissection. An ischaemic stroke 2 years ago and peptic ulcer disease are at most relative contraindications, and previous streptokinase only rules out re-use of streptokinase."
+   },
+   "4": {
+    "answer": "E",
+    "explanation": "Cyclizine can raise systemic vascular resistance and left ventricular filling pressures, counteracting the haemodynamic benefit of opiates in acute MI and heart failure, so it is best avoided. Metoclopramide is the preferred antiemetic alongside titrated IV morphine."
+   },
+   "5": {
+    "answer": "A",
+    "stem": "A 62-year-old man with diabetes presents to a district general hospital with sudden-onset, central, crushing chest pain that began at rest. The junior doctor starts treatment according to an evidence-based hospital protocol. Which drug, given as early as possible as a 300 mg loading dose, reduced 5-week vascular mortality after acute myocardial infarction by about a quarter in the ISIS-2 trial?",
+    "explanation": "Aspirin 300 mg, chewed as soon as possible, irreversibly inhibits platelet cyclo-oxygenase and reduced 5-week vascular mortality by about 23% in ISIS-2, additive to streptokinase. A P2Y12 inhibitor (clopidogrel, ticagrelor or prasugrel) is added for dual antiplatelet therapy, whereas routine early intravenous beta-blockade is no longer recommended."
+   }
+  },
+  "why": "Garbled options fixed (p-Blockers, 'Calcium channel', 'reciprocal ST elevation' -> ST depression); item 1 stem specifies infarction rather than 'ischaemia'; item 5 rewritten because routine acute beta-blockade to limit infarct size is outdated (COMMIT) and now asks about aspirin (ISIS-2)"
+ }
+]

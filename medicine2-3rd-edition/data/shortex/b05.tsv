@@ -1,0 +1,45 @@
+arr-0002	Digoxin effect is down-sloping ('reverse tick') ST depression with T flattening and short QT; toxicity shows as brady/junctional rhythms, ectopics or atrial tachycardia with block.
+arr-0003	Hypertension is the commonest condition underlying AF (atrial pressure load); others: IHD, heart failure, valve disease, thyroid, alcohol, obesity, sleep apnoea.
+arr-0004	Mobitz I: progressive PR prolongation until a dropped beat; AV-nodal, often benign, rarely needs pacing. Mobitz II (infranodal) progresses and needs pacing.
+arr-0005	AF is treated with rate control, rhythm control (cardioversion, drugs, ablation) and anticoagulation. An ICD treats ventricular arrhythmias only.
+arr-0006	AF at 120/min with hypertension and IHD: a beta-blocker (metoprolol) controls rate, BP and angina. He also needs a DOAC rather than aspirin.
+arr-0007	Fusion beats prove AV dissociation and are diagnostic of VT; collapse means pulseless VT, treated like VF with immediate defibrillation.
+arr-0008	A rate of 36/min with P waves independent of QRS is complete heart block; after anterior MI it is infranodal (septal necrosis) and needs pacing.
+arr-0009	AF with shock (BP 70/50) needs immediate synchronised DC cardioversion under sedation, with heparin, whatever the AF duration.
+arr-0011	CHA2DS2-VASc = 6 (age ≥ 75 ×2, female, HTN, diabetes, HF): long-term anticoagulation, preferably a DOAC (rivaroxaban/apixaban). Antiplatelets are not adequate.
+arr-0012	Symptomatic AF despite drugs in an older HF patient: 'pace and ablate' (pacemaker then AV-node ablation) gives permanent rate control; PV isolation is the rhythm option.
+arr-0013	Rate control uses beta-blockers, diltiazem/verapamil or digoxin. Amiodarone is mainly for rhythm control and too toxic for long-term rate control.
+arr-0014	CHA2DS2-VASc: heart failure, hypertension, age, diabetes, stroke/TIA, vascular disease, female sex. Obesity raises AF risk but is not in the score.
+arr-0015	PR > 200 ms: AV-nodal drugs, hypokalaemia, rheumatic fever, Lyme disease, inferior MI, fibrosis. Hypocalcaemia prolongs the QT, not the PR.
+arr-0018	The key complication of AF is ischaemic stroke from left atrial appendage thrombus (risk ×5); hence CHA2DS2-VASc and anticoagulation.
+arr-0019	Antipsychotics (risperidone, haloperidol) block hERG channels, prolong QT and cause torsades. Treat with IV magnesium and stop the drug.
+arr-0022	Irregular cannon a waves mean AV dissociation (complete heart block, VT); regular ones occur in junctional rhythms. AF abolishes a waves.
+arr-0023	Orthodromic AVRT is narrow and AV-node-dependent, so adenosine terminates it. In pre-excited AF (irregular, broad) AV-nodal blockers are dangerous.
+arr-0024	Rapid irregular palpitations in an older person are most likely AF (prevalence ~10% over 80); confirm with an ECG during symptoms.
+arr-0026	Constant PR with sudden dropped P waves is Mobitz II: infranodal, progresses to complete block and causes Stokes–Adams attacks — permanent pacemaker.
+arr-0027	Sick sinus syndrome: sinus bradycardia, pauses, SA block, often with AF/atrial tachycardia (tachy–brady). VT is not a feature.
+arr-0028	Age ≥ 75 (2) + female (1) + hypertension (1) + diabetes (1) = 5: high stroke risk; offer a DOAC.
+arr-0029	Stable regular narrow-complex tachycardia: vagal manoeuvres first (modified Valsalva), then adenosine 6–12–18 mg rapid bolus. DC shock if unstable.
+arr-0030	Permanent pacing for symptomatic bradycardia (sick sinus with syncope), Mobitz II and complete heart block. Athletes' bradycardia is physiological.
+arr-0031	Alcohol triggers AF ('holiday heart') and heavy intake raises AF incidence; abstinence reduces recurrence. It also causes dilated cardiomyopathy.
+arr-0032	Heart block plus erythema nodosum suggests sarcoidosis: granulomas in the septum/conduction system; confirm with cardiac MRI or FDG-PET.
+arr-0033	Broad QRS with rSR' ('M') in V1–V2 and slurred S in I, aVL, V5–V6 is RBBB. LBBB gives a broad QS in V1 and notched R in V6.
+arr-0034	Sinus bradycardia, first-degree and Wenckebach block are physiological in asymptomatic athletes; no tests or restriction needed.
+arr-0035	A prolonged sinus node recovery time after overdrive pacing (1800 ms) with low intrinsic rate means intrinsic SA node disease.
+arr-0036	Reversible SA node dysfunction: hypothermia, hypothyroidism, raised ICP, drugs, hyperkalaemia, vagal tone. Radiation causes permanent fibrosis.
+arr-0037	Tachy–brady syndrome includes AF/flutter; atrial enlargement (and age, prior stroke, LV dysfunction) adds embolic risk. A pacemaker does not remove it.
+arr-0038	Decremental conduction (slower conduction at faster rates) is shown by atrial pacing at shorter cycle lengths with a lengthening AH interval until Wenckebach.
+arr-0039	The AV node lies near the aortic annulus, so AVR/TAVI can cause complete heart block; pace permanently if it persists beyond ~5–7 days.
+arr-0040	Constant PR then sudden dropped P waves with syncope is Mobitz II; it tends to progress to complete block, so implant a permanent pacemaker.
+arr-0041	Nocturnal Mobitz I in an asymptomatic athlete is high vagal tone; it resolves with exercise. Reassure.
+arr-0042	Monitoring depends on symptom frequency: Holter for daily symptoms, event recorder for every few days, implantable loop recorder for rare episodes.
+arr-0043	Atrial premature complexes are common and benign in a normal heart; reassure and reduce caffeine/alcohol. Beta-blocker only if troublesome.
+arr-0044	Sudden loss of the delta wave on exercise shows a pathway with a long refractory period, so low risk of pre-excited AF degenerating to VF.
+arr-0045	Recent-onset AF converts with DC shock, flecainide or amiodarone. Adenosine only transiently blocks the AV node and does not convert AF.
+arr-0046	AF with heart failure, hypertension, vascular disease and age ≥ 75 (CHA2DS2-VASc ≥ 5): oral anticoagulation is class I. Flecainide is contraindicated.
+arr-0048	Rhythm control did not improve survival (AFFIRM) and asymptomatic recurrence is common, so anticoagulation follows CHA2DS2-VASc, not apparent sinus rhythm.
+arr-0049	Irregular very fast broad complexes of varying shape are pre-excited AF; with collapse give immediate DC shock. AV-nodal blockers can precipitate VF.
+arr-0050	Irregularly irregular broad complexes with varying width and RR < 250 ms is AF conducting down an accessory pathway. VT and AVRT are regular.
+arr-0051	A regular broad ventricular rhythm at 60–110/min soon after thrombolysis is accelerated idioventricular rhythm, a benign reperfusion marker.
+arr-0053	Torsades from methadone + erythromycin persisting after magnesium: raise the rate with isoprenaline or overdrive pacing to shorten QT. Amiodarone worsens it.
+arr-0054	AV dissociation (independent P waves, fusion or capture beats) is diagnostic of VT. Prior MI, QRS > 160 ms and chest-lead concordance also favour VT.

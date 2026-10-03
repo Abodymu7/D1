@@ -1,0 +1,60 @@
+resx-0098	No obstruction, clear CXR and a slightly low TLCO with normal KCO (small alveolar volume) point to obesity as the cause of breathlessness.
+resx-0099	Upper-lobe cavitating pneumonia in an alcohol-dependent inpatient is classically Klebsiella pneumoniae ('redcurrant jelly' sputum).
+resx-0101	C. psittaci is intracellular, so beta-lactams fail: switch to doxycycline 100 mg bd for 10–14 days (macrolide if pregnant).
+resx-0102	Ataxia and slurred speech after ascent is high-altitude cerebral oedema: descend immediately and give dexamethasone (and oxygen).
+resx-0103	Pink frothy sputum and crackles at altitude is HAPE: descent, oxygen and nifedipine to lower pulmonary artery pressure.
+resx-0106	A fall in VC > 20–25% from upright to supine indicates diaphragm weakness — here phrenic palsy after cardiac surgery.
+resx-0107	Fluctuating diplopia with breathlessness in a young woman suggests myasthenia gravis; antibodies, EMG and CT for thymoma.
+resx-0108	Unilateral hyperlucent emphysematous lung is Swyer–James (MacLeod) syndrome after childhood obliterative bronchiolitis.
+resx-0109	Clubbing is not a feature of chronic bronchitis/COPD; it occurs in cancer, fibrosis, asbestosis and chronic suppurative lung disease.
+resx-0110	OSA is 2–3 times commoner in men, so female gender is the least frequent feature listed.
+resx-0111	Isolated low TLCO with normal volumes suggests pulmonary vascular disease, e.g. arteriovenous malformation (HHT); bubble echo or CTPA.
+resemq-0001#1	Chronic productive cough after childhood measles with clubbing and coarse crackles is bronchiectasis; HRCT confirms.
+resemq-0001#2	Haemoptysis, anaemia and a fixed localised wheeze with gynaecomastia (ectopic hCG) is bronchial carcinoma.
+resemq-0001#3	Sudden pink frothy sputum, bilateral crackles, cold peripheries and hypotension is cardiogenic pulmonary oedema with shock.
+resemq-0001#4	Fever, rusty sputum and pleuritic pain with dullness and bronchial breathing is lobar pneumonia (pneumococcal).
+resemq-0001#5	Fever, cough and breathlessness 4–8 h after work in a farmer is acute extrinsic allergic alveolitis (farmer's lung).
+resemq-0001#6	Stony dullness with absent breath sounds is a pleural effusion; with fever and sweats in a young person, likely tuberculous.
+resemq-0001#7	Sudden pleuritic pain with hyper-resonance and absent breath sounds in a young man is primary spontaneous pneumothorax.
+resemq-0001#8	Post-operative hypoxaemia, raised JVP and hypotension with a clear chest is massive PE: systemic thrombolysis.
+resemq-0001#9	Hypotension, pulsus paradoxus, raised JVP and soft heart sounds days after MI is tamponade (free-wall rupture).
+resemq-0001#10	Exertional syncope with S4, basal ejection murmur and apical MR murmur in a young athlete is HOCM.
+resemq-0001#11	Recurrent cough and breathlessness with widespread wheeze and a normal CXR is asthma; confirm variable obstruction.
+resemq-0002#1	A left atrial mass obstructing the mitral valve with syncope and clubbing is atrial myxoma; excise surgically.
+resemq-0002#2	Fever with a new regurgitant murmur and clubbing suggests subacute infective endocarditis; blood cultures and echo.
+resemq-0002#3	Swinging fever, pleuritic pain and stony dullness with clubbing is empyema; aspirate (pus, pH < 7.2) and drain.
+resemq-0002#4	Chronic purulent sputum with clubbing, crackles and infertility is bronchiectasis (CF or ciliary dyskinesia).
+resemq-0002#5	Progressive dry cough with clubbing and bilateral Velcro crackles is idiopathic pulmonary fibrosis.
+resemq-0002#6	Clubbing (thyroid acropachy) with exophthalmos and pretibial myxoedema is specific to Graves' disease.
+resemq-0003#1	Resonant silent hemithorax with hypotension after trauma is tension pneumothorax: decompress, then chest tube.
+resemq-0003#2	PaO2 < 8 kPa with a normal PaCO2 despite maximal asthma therapy means tiring: ICU for intubation and ventilation.
+resemq-0003#3	Sudden breathlessness with RV strain and SBP < 90 in a bed-bound patient is massive PE: alteplase.
+resemq-0003#4	Dry cough, clubbing and fine crackles is IPF; pirfenidone or nintedanib slows FVC decline.
+resemq-0003#5	Itch, facial/tongue swelling and wheeze after a new drug is anaphylaxis: IM adrenaline 0.5 mg, repeat after 5 min if needed.
+resemq-0004#1	Dry cough after starting antihypertensive treatment with a normal CXR is ACE-inhibitor cough; switch to an ARB.
+resemq-0004#2	Persistent fever with a turbid effusion of pH 7.0 after pneumonia is empyema: chest drain plus antibiotics.
+resemq-0005#1	A persistent hilar opacity with bloody sputum in a heavy smoker suggests central carcinoma: CT, then bronchoscopy and biopsy.
+resemq-0005#2	Chronic cough, sweats, weight loss and apical opacities is TB: sputum for AFB smear, culture and NAAT.
+resemq-0005#3	Ischaemic pain with ST depression: high-sensitivity troponin to separate NSTEMI from unstable angina.
+resemq-0005#4	Nocturnal cough after moving house in an atopic non-smoker suggests cough-variant asthma: spirometry with reversibility (± FeNO).
+resemq-0005#5	Paroxysmal headache, palpitations and sweating with hypertension and postural drop suggest phaeochromocytoma: metanephrines.
+resemq-0006#1	Nocturnal breathlessness with frothy sputum in IHD is acute pulmonary oedema: IV furosemide (plus nitrates if BP allows).
+resemq-0006#2	Post-operative PE with SBP > 90 is not high-risk: anticoagulate with heparin; thrombolysis only for shock.
+resemq-0006#3	Restriction (FVC 60%, ratio ~0.88) with clubbing is IPF; pirfenidone is recommended at FVC 50–80%.
+resemq-0006#4	Absent air entry with the mediastinum shifted away and hypotension after trauma is tension pneumothorax: decompress and drain.
+resemq-0006#5	HFrEF on furosemide and aspirin with BP 165/95: add an ACE inhibitor (lisinopril) for survival and BP.
+resemq-0007#1	New COPD with exertional breathlessness: start an as-needed short-acting bronchodilator (salbutamol), stop smoking, rehab.
+resemq-0007#2	Infective COPD exacerbation: 28% oxygen, nebulised salbutamol + ipratropium, prednisolone and oral amoxicillin.
+resemq-0007#3	COPD exacerbation with persistent acidosis (pH 7.28, PaCO2 9.4) despite treatment: non-invasive ventilation (BiPAP).
+resemq-0007#4	Stable PaO2 6.5 kPa twice in a non-smoker with COPD: long-term oxygen therapy (≥ 15 h/day) improves survival.
+resemq-0007#5	COPD still symptomatic on short-acting bronchodilators: add a LABA + LAMA inhaler.
+resemq-0008#1	Pink frothy sputum with a gallop rhythm is acute cardiogenic pulmonary oedema.
+resemq-0008#2	Haemoptysis then crescentic GN with linear IgG on the GBM is anti-GBM (Goodpasture's) disease.
+resemq-0008#3	Nasal obstruction then haemoptysis with multiple nodules is granulomatosis with polyangiitis (c-ANCA).
+resemq-0008#4	Fever, sweats, weight loss and haemoptysis with AFB on ZN stain is pulmonary TB.
+resemq-0008#5	Collapse with haemoptysis and pleuritic pain after a long flight, with RV strain on ECG, is PE.
+resemq-0009#1	Heart failure gives a transudate (protein and LDH ratios below Light's thresholds, few cells), often bilateral; treat with diuretics.
+resemq-0009#2	Pain and surgical emphysema after vomiting is Boerhaave rupture: left effusion with pH ~6, food particles and high amylase.
+resemq-0009#3	Turbid neutrophilic fluid with pH < 7.2 and very low glucose not responding to antibiotics is empyema: chest drain.
+resemq-0009#4	Pancreatitis causes a left-sided exudate with very high pleural amylase.
+resemq-0009#5	A bloody high-LDH exudate with atypical mesothelial cells after asbestos exposure suggests mesothelioma; pleural biopsy.

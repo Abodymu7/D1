@@ -1,0 +1,60 @@
+cvsemq-0060#3	Positional pain with saddle ST elevation and previous TB with calcified hilar nodes suggests tuberculous pericarditis; echo and fluid ADA/culture.
+cvsemq-0060#4	Point tenderness and crepitus after a fall are rib fractures, here complicated by a small traumatic pneumothorax; analgesia and assess size.
+cvsemq-0060#5	ST elevation in V4–V6 with markedly raised troponin is an anterolateral STEMI; diabetics often have atypical pain. Reperfuse if < 12 h.
+cvsemq-0061#1	Ischaemic pain with a non-diagnostic ECG: high-sensitivity troponin at presentation and at 1–3 h to diagnose or exclude NSTEMI.
+cvsemq-0061#3	Exertional syncope, jerky pulse, murmur louder on Valsalva and familial sudden death suggest HCM; transthoracic echo is the key test.
+cvsemq-0061#4	Exertional angina in a smoker: exercise testing is the best listed option, though NICE/ESC now prefer CT coronary angiography first.
+cvsemq-0061#5	Prolonged fever, weight loss and a murmur in congenital heart disease is IE: ≥ 3 blood culture sets before antibiotics.
+cvsemq-0061#6	Fixed S2 splitting with a flow murmur but normal TTE suggests an ASD missed by TTE (e.g. sinus venosus); TOE or cardiac MRI.
+cvsemq-0061#7	Sudden chest tightness and hypotension after surgery is PE until proven otherwise: CTPA (bedside echo if too unstable).
+cvsemq-0062#1	ST elevation in II, III, aVF with reciprocal I/aVL depression is inferior STEMI (RCA); record V4R and avoid nitrates if RV involved.
+cvsemq-0062#2	ST elevation V1–V4 with evolving Q waves is anterior STEMI (LAD), the worst-prognosis territory: primary PCI.
+cvsemq-0062#3	ST elevation in I, aVL, V5–V6 with reciprocal inferior depression is lateral STEMI (circumflex or diagonal).
+cvsemq-0062#4	Widespread concave ST elevation with PR depression after a viral illness is acute pericarditis: NSAID plus colchicine.
+cvsemq-0062#5	Early-morning rest pain with transient ST elevation, normal troponin and normal coronaries is Prinzmetal angina: CCB and nitrates.
+cvsemq-0062#6	Persistent ST elevation with Q waves 8 weeks after anterior MI with heart failure suggests LV aneurysm; echo confirms.
+cvsemq-0063#1	Continuous machinery murmur below the left clavicle with bounding pulses and chest infections is PDA; device or surgical closure.
+cvsemq-0063#2	Chest pain, ST elevation, raised troponin and new anterior akinesia is acute STEMI: primary PCI, then ACEi and beta-blocker.
+cvsemq-0063#3	Rheumatic history with congestion, preserved LV function, AF, tapping apex and diastolic rumble is MS with AF: warfarin.
+cvsemq-0063#4	New heart failure at 8 months' pregnancy without another cause is peripartum cardiomyopathy (EF < 45%).
+cvsemq-0063#5	Recurrent syncope with a slow-rising pulse, narrow pulse pressure and aortic ejection murmur is severe AS: valve replacement.
+cvsemq-0064#1	Recurrent symptomatic complete heart block after inferior MI unresponsive to atropine needs temporary transvenous pacing.
+cvsemq-0064#2	Hypotension, pulsus paradoxus, raised JVP and electrical alternans is tamponade: urgent echo-guided pericardiocentesis.
+cvsemq-0064#3	Stable regular narrow-complex tachycardia after failed vagal manoeuvres: IV adenosine 6, 12, then 18 mg.
+cvsemq-0064#4	Recent AF with pulmonary oedema and hypotension is unstable: synchronised DC cardioversion under sedation.
+cvsemq-0064#5	Frequent unifocal ectopics in an asymptomatic man with a normal heart are benign: reassure and cut caffeine and alcohol.
+cvsemq-0065#1	Non-massive PE (hypoxaemic, normotensive) on the pill: oxygen and therapeutic LMWH; thrombolysis only if haemodynamically compromised.
+cvsemq-0065#2	Weakness after diarrhoea with ST depression, flat T and U waves is hypokalaemia: replace K⁺ (and Mg) with monitoring.
+cvsemq-0065#3	Chaotic waveforms without QRS in a pulseless patient is VF: immediate defibrillation and CPR.
+cvsemq-0065#4	Polymorphic VT with twisting axis on QT-prolonging drugs is torsades: IV magnesium 2 g and stop the drugs.
+cvsemq-0065#5	Paroxysmal AF needing rhythm control with CHA2DS2-VASc 4: an antiarrhythmic (sotalol) plus anticoagulation (DOAC preferred).
+cvsemq-0065#6	A long sinus pause coinciding with syncope and no reversible cause is sinus node dysfunction: permanent pacemaker.
+cvsemq-0065#7	Symptomatic benign unifocal ventricular ectopics despite reassurance and no caffeine: a beta-blocker is first line.
+cvsemq-0065#8	Stable regular narrow-complex SVT after failed modified Valsalva: IV adenosine with ECG recording.
+cvsemq-0067#1	Apical pansystolic murmur to the axilla with S3 is significant mitral regurgitation.
+cvsemq-0067#2	Mid-systolic click then late systolic murmur at the apex is mitral valve prolapse.
+cvsemq-0067#4	An apical mid-diastolic rumble with a collapsing pulse and early diastolic murmur is the Austin Flint murmur of severe AR.
+cvsemq-0067#5	Pansystolic murmur at the lower left sternal edge louder on inspiration (Carvallo) is tricuspid regurgitation.
+cvsemq-0068#1	Irregularly irregular narrow complexes without P waves is AF; assess CHA2DS2-VASc and choose rate or rhythm control.
+cvsemq-0068#2	Broad QRS with QS in V1–V3, discordant ST changes and left axis is old LBBB; echo for structural disease (new LBBB with pain = STEMI equivalent).
+cvsemq-0068#3	Inferior STEMI with ST elevation in V4R, hypotension and clear lungs is RV infarction: fluids, no nitrates, primary PCI.
+cvsemq-0068#4	Progressive PR lengthening until a dropped beat with grouped beating is Mobitz I (Wenckebach), benign in athletes.
+resemq-0027#1	Brief faint with pallor on prolonged standing in a warm place, rapid recovery and normal ECG is vasovagal syncope.
+resemq-0027#2	A slurred QRS upstroke (delta wave) with short PR is WPW; AF conducting down the pathway can cause VF and collapse. Ablate.
+resemq-0027#3	Collapse with AF and new left hemiparesis is a right-hemisphere stroke (cardioembolic): urgent CT before thrombolysis/thrombectomy.
+resemq-0027#4	Postural syncope soon after starting an antihypertensive (e.g. doxazosin) is first-dose hypotension; start low at bedtime.
+airway-0001	SpO2 < 92% is a life-threatening feature: oxygen, nebulised salbutamol + ipratropium, steroids and IV magnesium 1.2–2 g, with early ICU review.
+airway-0002	Acute severe asthma (PEF 33–50%, no life-threatening feature): repeated nebulised salbutamol, oxygen to 94–98% and prednisolone 40–50 mg.
+airway-0003	COPD exacerbation with acidosis: controlled O2 (88–92%), nebulised salbutamol/ipratropium, prednisolone, antibiotic; NIV if acidosis persists.
+airway-0004	LTOT (≥ 15 h/day) for stable PaO2 < 7.3 kPa, or 7.3–8 with oedema, polycythaemia or pulmonary hypertension; it improves survival.
+airway-0005	Wheeze comes from narrowed airways (asthma, bronchitis, foreign body). Pneumothorax gives reduced breath sounds and hyper-resonance, not wheeze.
+airway-0006	Smoking cessation and LTOT (for chronic hypoxaemia) are the classic interventions that prolong survival in COPD.
+airway-0007	DLCO is low in emphysema (alveolar destruction) but near normal in chronic bronchitis; spirometry is obstructive in both.
+airway-0008	SpO2 < 92% is life-threatening asthma (with PEF < 33%, silent chest, normal PaCO2, exhaustion); PEF 33–50% is acute severe.
+airway-0009	Childhood asthma is commoner in boys, but after puberty it is commoner and more severe in women.
+airway-0010	In hypercapnic COPD with PaO2 8.2 kPa (SpO2 ~90%), 35% oxygen would worsen CO2 retention; use 24–28% Venturi to SpO2 88–92%.
+airway-0011	Ventilate in asthma for exhaustion, drowsiness, confusion, arrest or rising PaCO2 despite maximal therapy; involve ICU early.
+airway-0012	CXR signs of COPD correlate poorly with airflow limitation, which is graded by post-bronchodilator FEV1 (GOLD 1–4).
+airway-0013	Long-acting bronchodilators (LAMA + LABA) are maintenance in moderate–severe COPD; short-acting agents are relievers only.
+airway-0014	Uncontrolled asthma on low-dose ICS + SABA: switch to low-dose ICS–formoterol MART (BTS/NICE/SIGN 2024, GINA). Never LABA without ICS.
+airway-0015	Post-bronchodilator FEV1/FVC < 0.70 in a symptomatic smoker confirms COPD; partial reversibility does not exclude it.

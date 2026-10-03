@@ -1,0 +1,449 @@
+[
+ {
+  "id": "resemq-0013",
+  "status": "corrected",
+  "set": {
+   "theme": "Diagnosis of lung disease",
+   "options": [
+    "Tuberculosis",
+    "Primary lung tumour",
+    "Pulmonary embolism",
+    "Metastatic lung cancer",
+    "Asbestosis",
+    "Histoplasmosis",
+    "Idiopathic pulmonary fibrosis"
+   ],
+   "topics": [
+    "Tuberculosis",
+    "Lung cancer",
+    "Asbestosis"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "A",
+    "stem": "A 32-year-old man born in India has a cough with yellow, blood-streaked sputum, night sweats and 4.5 kg weight loss. There is dullness to percussion above both clavicles, and the chest X-ray shows bilateral upper-lobe infiltrates with cavitation.",
+    "explanation": "Bilateral upper-lobe cavitating infiltrates with night sweats, weight loss and haemoptysis in a person from a high-incidence country is post-primary pulmonary tuberculosis. Isolate the patient and send three sputum samples for acid-fast bacilli, culture and NAAT."
+   },
+   "2": {
+    "answer": "B",
+    "stem": "A 55-year-old woman who smokes heavily has a cough with small amounts of bright red blood, loss of appetite and 5.5 kg weight loss. The chest X-ray shows a solitary 3-cm pulmonary nodule with spiculated (shaggy) margins.",
+    "explanation": "A solitary spiculated nodule with haemoptysis and weight loss in a heavy smoker is a primary bronchial carcinoma until proven otherwise. Metastases are usually multiple, round and smooth; staging CT/PET-CT and biopsy follow."
+   },
+   "3": {
+    "answer": "E",
+    "stem": "A 65-year-old man retiring from work as a plumber has a dry cough and breathlessness on walking. There are bilateral basal crackles and finger clubbing; the chest X-ray shows bilateral lower-zone linear shadowing and CT shows calcified pleural plaques.",
+    "explanation": "Lower-zone fibrosis with clubbing and crackles plus pleural plaques (the marker of asbestos exposure, e.g. pipe lagging) indicates asbestosis. Idiopathic pulmonary fibrosis looks similar but has no pleural plaques or exposure history."
+   }
+  },
+  "why": "Item 3 'pleural scarring' made specific (calcified pleural plaques) so asbestosis rather than idiopathic pulmonary fibrosis is the single best answer; weights converted to kg; keys supplied (none in source)"
+ },
+ {
+  "id": "resemq-0014",
+  "delete": true,
+  "dup_of": "resemq-0001",
+  "why": "Same breathlessness-diagnosis theme and level as 39 Blocks resemq-0001 (pneumothorax, pneumonia, asthma, pulmonary oedema), with a garbled option list"
+ },
+ {
+  "id": "resemq-0015",
+  "delete": true,
+  "dup_of": "resemq-0008",
+  "why": "Same haemoptysis theme and options as 39 Blocks resemq-0008 (Goodpasture's with linear IgG, Wegener's with nasal disease, smoker with carcinoma)"
+ },
+ {
+  "id": "resemq-0016",
+  "status": "corrected",
+  "set": {
+   "theme": "Treatment of asthma",
+   "options": [
+    "Low-dose oral theophylline",
+    "Oral prednisolone",
+    "Regular inhaled beclometasone",
+    "Inhaled ipratropium bromide",
+    "Inhaled salbutamol as needed",
+    "Nebulised adrenaline",
+    "Salbutamol metered-dose inhaler via a spacer",
+    "Home oxygen",
+    "Inhaled salmeterol added to the inhaled corticosteroid",
+    "Oral sodium cromoglicate"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J"
+   ],
+   "topics": [
+    "Asthma",
+    "Inhaled corticosteroids",
+    "Inhaler technique"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "G",
+    "stem": "A 7-year-old girl has slight wheeze and breathlessness despite using her salbutamol metered-dose inhaler as needed; she cannot coordinate pressing the canister with breathing in.",
+    "explanation": "Before stepping up treatment, check inhaler technique; a child who cannot coordinate a metered-dose inhaler should use it through a spacer, which greatly increases lung deposition. If symptoms persist with good technique, a paediatric low-dose inhaled corticosteroid is added."
+   },
+   "2": {
+    "answer": "E",
+    "stem": "A 22-year-old student with asthma well controlled on regular low-dose inhaled beclometasone gets mild wheeze during football and asks what to take before exercise.",
+    "explanation": "Exercise-induced bronchoconstriction in otherwise controlled asthma is prevented by a short-acting beta2-agonist such as salbutamol taken shortly before exercise. Frequent symptoms at other times would indicate the need to step up maintenance therapy."
+   },
+   "3": {
+    "answer": "C",
+    "stem": "A 17-year-old with asthma treated with salbutamol alone uses it most days and wakes with wheeze once a week.",
+    "explanation": "Needing a reliever three or more times a week or night waking means asthma is uncontrolled on a reliever alone, so a regular inhaled corticosteroid such as beclometasone is added (or as-needed/maintenance ICS–formoterol under GINA/NICE 2024). A long-acting beta2-agonist must never be used without an inhaled corticosteroid."
+   },
+   "4": {
+    "answer": "B",
+    "stem": "A 33-year-old with asthma remains uncontrolled despite high-dose inhaled corticosteroid, a long-acting beta2-agonist and slow-release theophylline, with good adherence and technique.",
+    "explanation": "Asthma uncontrolled despite high-dose inhaled therapy and add-on agents needs a maintenance oral corticosteroid (the lowest effective dose of prednisolone) and referral to a specialist asthma clinic, where biologic therapy (anti-IgE or anti-IL-5) may replace oral steroids."
+   },
+   "5": {
+    "answer": "I",
+    "stem": "A 25-year-old woman needs add-on therapy because regular inhaled beclometasone plus salbutamol as needed does not control her symptoms.",
+    "explanation": "When low-dose inhaled corticosteroid does not control asthma, a long-acting beta2-agonist such as salmeterol is added, ideally in a single combination inhaler with the steroid (or switch to ICS–formoterol MART). A leukotriene receptor antagonist is an alternative add-on."
+   }
+  },
+  "why": "Duplicate options ('inhaled beclometasone' and 'inhaled steroid') removed and a spacer option added; items 1–2 rewritten so each has a single best answer under current BTS/NICE/GINA guidance (spacer for poor technique; SABA before exercise), items 3–5 re-keyed"
+ },
+ {
+  "id": "resemq-0017",
+  "status": "corrected",
+  "set": {
+   "theme": "Best investigation in respiratory presentations",
+   "options": [
+    "Chest X-ray",
+    "High-resolution CT (HRCT) of the chest",
+    "Spirometry and full lung function tests",
+    "Arterial blood gas (ABG)",
+    "Bronchoscopy",
+    "Ventilation–perfusion (V/Q) scan",
+    "CT pulmonary angiography (CTPA)",
+    "Flow–volume loop",
+    "Sputum culture and cytology",
+    "ECG",
+    "Contrast-enhanced CT of the chest and upper abdomen"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+   ],
+   "topics": [
+    "Respiratory investigations",
+    "HRCT",
+    "Flow–volume loop"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "C",
+    "stem": "A 67-year-old lifelong smoker has progressive breathlessness; there are bilateral crackles that clear with coughing, scattered rhonchi and ankle oedema.",
+    "explanation": "Chronic breathlessness in a smoker with secretions, wheeze and signs of cor pulmonale suggests COPD; the diagnostic test is spirometry showing a post-bronchodilator FEV1/FVC below 0.7. Transfer factor and lung volumes help assess emphysema."
+   },
+   "2": {
+    "answer": "B",
+    "stem": "A 50-year-old woman has had a dry cough and exertional breathlessness for several months, with bibasal fine crackles and finger clubbing.",
+    "explanation": "Progressive dry cough, velcro crackles and clubbing suggest interstitial lung disease such as idiopathic pulmonary fibrosis. HRCT is the key investigation, showing the pattern (e.g. basal subpleural honeycombing of usual interstitial pneumonia) and often avoiding biopsy."
+   },
+   "3": {
+    "answer": "D",
+    "stem": "A 24-year-old man with asthma develops acute breathlessness after taking propranolol; he is tachypnoeic, hypoxaemic and wheezy.",
+    "explanation": "Non-selective beta-blockers can precipitate severe bronchospasm in asthma. In acute severe asthma with SpO2 below 92%, arterial blood gases are needed to detect a normal or rising PaCO2, a life-threatening feature that mandates ICU review."
+   },
+   "4": {
+    "answer": "A",
+    "stem": "A tall, slim 20-year-old man has sudden right-sided pleuritic chest pain with reduced breath sounds on the right.",
+    "explanation": "Suspected primary spontaneous pneumothorax is confirmed with a standard erect chest X-ray, which also shows its size. CT is reserved for uncertain or complex cases."
+   },
+   "5": {
+    "answer": "A",
+    "stem": "A 35-year-old woman has fever, cough, pleuritic chest pain, confusion and hypotension, with bronchial breathing over the left lower zone.",
+    "explanation": "A chest X-ray confirms consolidation and so the diagnosis of community-acquired pneumonia, and shows complications such as effusion. Confusion and hypotension give a CURB-65 score of at least 2, so she needs admission and IV antibiotics."
+   },
+   "6": {
+    "answer": "K",
+    "stem": "A 70-year-old heavy smoker has cough, sputum, haemoptysis, hoarseness and hypercalcaemia.",
+    "explanation": "Haemoptysis with hoarseness (recurrent laryngeal nerve involvement) and hypercalcaemia (PTHrP, typical of squamous carcinoma) suggests advanced lung cancer. Contrast-enhanced CT of the chest, liver and adrenals is the first investigation for diagnosis and staging, and guides the choice of biopsy (bronchoscopy, EBUS or CT-guided)."
+   },
+   "7": {
+    "answer": "B",
+    "stem": "A 72-year-old woman who has never smoked has had a daily cough with copious green sputum, sometimes blood-streaked, since whooping cough in childhood; there are coarse crackles and digital clubbing.",
+    "explanation": "Lifelong copious purulent sputum after a childhood infection, with coarse crackles and clubbing, is bronchiectasis. HRCT is the diagnostic test (bronchial dilatation with the signet-ring sign and lack of tapering)."
+   },
+   "8": {
+    "answer": "D",
+    "stem": "A 38-year-old woman with hypertriglyceridaemia and severe acute pancreatitis becomes increasingly breathless and hypoxaemic, with bilateral infiltrates on chest X-ray.",
+    "explanation": "Acute respiratory distress syndrome complicating pancreatitis is defined and graded by the arterial PaO2/FiO2 ratio on PEEP (Berlin definition: at most 300 mmHg, or 40 kPa). The ABG also guides ventilatory support."
+   },
+   "9": {
+    "answer": "H",
+    "stem": "A 55-year-old man has chronic breathlessness and inspiratory stridor with a large thyroid goitre.",
+    "explanation": "Stridor from a retrosternal goitre is extrathoracic upper airway obstruction, detected by a flattened (truncated) inspiratory limb on the flow–volume loop. CT of the neck and thoracic inlet then defines tracheal compression."
+   },
+   "10": {
+    "answer": "G",
+    "stem": "A 68-year-old woman develops sudden chest tightness, breathlessness and hypotension after a hip replacement, with few findings on auscultation.",
+    "explanation": "Sudden breathlessness and hypotension with a clear chest after orthopaedic surgery is pulmonary embolism, confirmed by CT pulmonary angiography (bedside echocardiography if she is too unstable to move). A V/Q scan is slower and less useful in an unstable patient."
+   }
+  },
+  "why": "Added a staging CT chest option (the source keyed the hypercalcaemia/hoarseness item to a CT chest that was not in the list); ILD item's 1-week history changed to several months; bronchiectasis item rewritten (non-smoker, childhood infection) so it is not confused with lung cancer; keys supplied"
+ },
+ {
+  "id": "resemq-0018",
+  "delete": true,
+  "dup_of": "resemq-0001",
+  "why": "Same Irfan 'Shortness of breath' cases (clubbed young man with coarse crackles, smoker with haemoptysis, pink frothy sputum, lobar pneumonia, farmer with mid-zone mottling) as the 39 Blocks theme resemq-0001"
+ },
+ {
+  "id": "resemq-0019",
+  "status": "expanded",
+  "set": {
+   "options": [
+    "Legionella pneumophila",
+    "Aspergillus fumigatus",
+    "Pneumocystis jirovecii (formerly P. carinii)",
+    "Streptococcus pneumoniae",
+    "Cytomegalovirus (CMV)",
+    "Chlamydia psittaci",
+    "Coxiella burnetii",
+    "Mycoplasma pneumoniae",
+    "Escherichia coli",
+    "Chlamydia pneumoniae",
+    "Moraxella catarrhalis",
+    "Varicella zoster virus",
+    "Staphylococcus aureus",
+    "Pseudomonas aeruginosa"
+   ],
+   "topics": [
+    "Pneumonia",
+    "Atypical pneumonia",
+    "Legionella"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "M",
+    "explanation": "Staphylococcus aureus classically causes a severe, cavitating bronchopneumonia (with abscesses and pneumatoceles) after influenza. Treat with flucloxacillin, or vancomycin/linezolid for MRSA or Panton–Valentine leukocidin strains."
+   },
+   "2": {
+    "answer": "F",
+    "explanation": "Psittacosis is caught from infected birds such as parrots and budgerigars; it causes headache, fever, dry cough and systemic features (arthralgia, sometimes splenomegaly). Treatment is doxycycline."
+   },
+   "3": {
+    "answer": "C",
+    "stem": "A 40-year-old man with untreated HIV infection presents with fever, dry cough, weight loss and exertional breathlessness with desaturation on exertion.",
+    "explanation": "Subacute dry cough and exertional breathlessness with desaturation in untreated HIV (CD4 below 200 cells/µL) is Pneumocystis jirovecii pneumonia. Treat with high-dose co-trimoxazole, plus steroids if PaO2 is below 9.3 kPa."
+   },
+   "4": {
+    "answer": "H",
+    "explanation": "Mycoplasma pneumoniae causes an atypical pneumonia with headache and dry cough, and cold agglutinins (IgM) can cause haemolytic anaemia; erythema multiforme is a recognised rash. It is treated with a macrolide or doxycycline."
+   },
+   "5": {
+    "answer": "A",
+    "explanation": "Legionella spreads from contaminated water in air-conditioning systems and causes multilobar pneumonia with hyponatraemia, lymphopenia, deranged liver tests and haematuria. The urinary antigen test is diagnostic and a macrolide or fluoroquinolone is used."
+   }
+  }
+ },
+ {
+  "id": "resemq-0020",
+  "delete": true,
+  "dup_of": "resemq-0008",
+  "why": "Same Irfan 'Haemoptysis' theme (identical options and five items) as the 39 Blocks theme resemq-0008"
+ },
+ {
+  "id": "resemq-0021",
+  "status": "corrected",
+  "set": {
+   "options": [
+    "Mitral stenosis",
+    "Bronchiectasis",
+    "Right upper lobe collapse",
+    "Kartagener's syndrome",
+    "Aortic stenosis",
+    "Previous varicella pneumonitis",
+    "Asbestosis",
+    "Right lower lobe collapse",
+    "Granulomatosis with polyangiitis (Wegener's)",
+    "Caplan's syndrome",
+    "Post-fracture fat embolism",
+    "Right ventricular failure",
+    "Left ventricular failure"
+   ],
+   "topics": [
+    "Chest X-ray",
+    "Caplan's syndrome",
+    "Lobar collapse"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "J",
+    "stem": "The chest X-ray of a former coal miner with rheumatoid arthritis shows multiple bilateral well-defined nodules 0.5–5 cm in diameter.",
+    "explanation": "Caplan's syndrome is rheumatoid pneumoconiosis: multiple rheumatoid nodules developing rapidly in the lungs of dust-exposed workers (coal, silica, asbestos) with rheumatoid arthritis. The nodules may cavitate or calcify."
+   },
+   "2": {
+    "answer": "G",
+    "stem": "The chest X-ray of a retired shipyard worker shows calcified plaques along both hemidiaphragms and reticular shadowing in both lower zones.",
+    "explanation": "Calcified diaphragmatic pleural plaques mark previous asbestos exposure, and lower-zone reticular fibrosis indicates asbestosis. The risk of mesothelioma and lung cancer (greatly increased by smoking) is raised."
+   },
+   "3": {
+    "answer": "H",
+    "stem": "The chest X-ray shows a triangular opacity behind the right side of the heart with loss of the outline of the right hemidiaphragm; the right heart border remains visible.",
+    "explanation": "Right lower lobe collapse produces a triangular retrocardiac opacity and silhouettes the right hemidiaphragm, whereas middle lobe collapse obscures the right heart border. In an adult an obstructing tumour or mucus plug should be sought by bronchoscopy."
+   },
+   "4": {
+    "answer": "F",
+    "stem": "The chest X-ray shows numerous tiny calcified nodules, each less than 5 mm, scattered through both lungs in an adult who had severe chickenpox in adulthood.",
+    "explanation": "Healed varicella pneumonia leaves multiple widespread punctate (1–3 mm) calcified nodules. Other causes of this pattern include healed miliary tuberculosis or histoplasmosis."
+   },
+   "5": {
+    "answer": "D",
+    "stem": "The chest X-ray of a man with chronic productive cough, recurrent sinusitis and infertility shows the cardiac apex and aortic knuckle on the right with tramline and ring shadows in both lower zones.",
+    "explanation": "Dextrocardia (situs inversus) with bronchiectasis, sinusitis and male infertility (immotile sperm) is Kartagener's syndrome, a form of primary ciliary dyskinesia. Diagnosis is by nasal nitric oxide and ciliary studies."
+   }
+  },
+  "why": "Items 2, 3 and 5 (Kerley B lines/LVF, right upper lobe collapse, double right heart border/mitral stenosis) repeated the chest X-ray items of cvsemq-0018, so they were rewritten into new scenarios using unused options (asbestosis, right lower lobe collapse, Kartagener's syndrome)"
+ },
+ {
+  "id": "resemq-0022",
+  "status": "corrected",
+  "set": {
+   "theme": "Chest radiograph pathology (clinical cases)",
+   "options": [
+    "Pneumonia",
+    "Silicosis",
+    "Bronchiectasis",
+    "Aspergillosis",
+    "Mesothelioma",
+    "Idiopathic pulmonary fibrosis (cryptogenic fibrosing alveolitis)",
+    "Extrinsic allergic alveolitis",
+    "Sarcoidosis",
+    "Emphysema"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I"
+   ],
+   "topics": [
+    "Sarcoidosis",
+    "Mesothelioma",
+    "Chest X-ray"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "H",
+    "explanation": "Bilateral hilar lymphadenopathy in a young African–Caribbean adult with dry cough and breathlessness is typical of pulmonary sarcoidosis. Raised serum ACE and calcium support it, and histology shows non-caseating granulomas."
+   },
+   "2": {
+    "answer": "C",
+    "stem": "The chest X-ray of a 13-year-old boy with cystic fibrosis shows tramline and ring shadows.",
+    "explanation": "Tramlines (thickened parallel bronchial walls) and ring shadows (dilated bronchi seen end-on) are the plain-film signs of bronchiectasis, a universal complication of cystic fibrosis. HRCT is more sensitive."
+   },
+   "3": {
+    "answer": "E",
+    "explanation": "A lobulated pleural mass with pleural calcification (asbestos exposure in a dockyard) and weight loss is malignant mesothelioma. Diagnosis needs pleural biopsy, preferably thoracoscopic or CT-guided."
+   },
+   "4": {
+    "answer": "F",
+    "explanation": "Gross clubbing, progressive breathlessness and fine end-inspiratory crackles with ground-glass/reticular shadowing are idiopathic pulmonary fibrosis (cryptogenic fibrosing alveolitis). Extrinsic allergic alveolitis rarely causes clubbing and has an exposure history."
+   },
+   "5": {
+    "answer": "I",
+    "stem": "A 65-year-old smoker has breathlessness. On the chest X-ray eight anterior ribs are visible above the diaphragm in the mid-clavicular line on each side, and the diaphragms are flat.",
+    "explanation": "More than six anterior ribs above the diaphragm in the mid-clavicular line with flattened hemidiaphragms indicate hyperinflation, as in emphysema (COPD). Spirometry confirms airflow obstruction."
+   }
+  },
+  "why": "Two items had no correct option (bilateral hilar lymphadenopathy = sarcoidosis; hyperinflation = emphysema); both options added and keyed; keys supplied (none in source)"
+ },
+ {
+  "id": "resemq-0023",
+  "delete": true,
+  "dup_of": "resemq-0016",
+  "why": "Same Irfan asthma-treatment theme (7-year-old wheezing on salbutamol, early-morning wheeze, frequent salbutamol use, uncontrolled on theophylline, add-on to beclometasone) as resemq-0016"
+ },
+ {
+  "id": "resemq-0024",
+  "status": "corrected",
+  "set": {
+   "theme": "Emergency management of respiratory distress",
+   "options": [
+    "Intubation and mechanical ventilation",
+    "Left-sided needle decompression",
+    "Chest X-ray",
+    "Non-invasive positive pressure ventilation (NIV)",
+    "28% oxygen, nebulised salbutamol, oral prednisolone",
+    "Emergency tracheostomy",
+    "28% oxygen, nebulised salbutamol, intravenous hydrocortisone",
+    "Right-sided needle decompression",
+    "100% oxygen, intramuscular adrenaline",
+    "Intercostal chest drain",
+    "100% oxygen, intravenous hydrocortisone",
+    "28% oxygen, nebulised salbutamol, intramuscular adrenaline"
+   ],
+   "topics": [
+    "Tension pneumothorax",
+    "Anaphylaxis",
+    "Non-invasive ventilation"
+   ]
+  },
+  "items": {
+   "1": {
+    "answer": "D",
+    "stem": "A 65-year-old man with long-standing COPD presents with severe breathlessness. He has been treated with controlled oxygen, nebulised bronchodilators and steroids. An hour later, on 28% oxygen, his ABG shows PaO2 7.5 kPa, PaCO2 9.0 kPa and pH 7.26.",
+    "explanation": "Persistent hypercapnic respiratory acidosis (pH < 7.35, PaCO2 > 6.5 kPa) despite optimal medical therapy in a COPD exacerbation is the indication for non-invasive ventilation (BTS). Intubation is considered if NIV fails or is contraindicated."
+   },
+   "16": {
+    "n": 6,
+    "answer": "J",
+    "stem": "A 30-year-old man with a stab wound to the right chest is breathless but haemodynamically stable; there is dullness and absent breath sounds at the right base, and the chest X-ray shows a large right haemothorax.",
+    "explanation": "A large traumatic haemothorax is drained with a large-bore intercostal chest drain, which also lets ongoing blood loss be measured (over 1500 mL initially or 200 mL/h indicates thoracotomy). Needle decompression is for tension pneumothorax, not blood."
+   },
+   "2": {
+    "answer": "I",
+    "stem": "A 17-year-old woman presents with wheeze and marked perioral swelling after eating a peanut snack: PaO2 7.0 kPa on 28% oxygen, PaCO2 4.1 kPa.",
+    "explanation": "Wheeze, angio-oedema and hypoxaemia after an allergen are anaphylaxis: give intramuscular adrenaline 0.5 mg (repeat after 5 minutes if needed) with high-flow oxygen. Steroids and antihistamines are not first-line and 28% oxygen is inadequate."
+   },
+   "3": {
+    "answer": "A",
+    "stem": "A 14-year-old with asthma has an acute attack and is tiring despite nebulised bronchodilators and steroids: PaO2 10.0 kPa on 28% oxygen, PaCO2 8.0 kPa.",
+    "explanation": "A raised PaCO2 in acute asthma is near-fatal asthma, reflecting exhaustion; the patient needs ICU for intubation and mechanical ventilation. NIV is not recommended in acute asthma."
+   },
+   "4": {
+    "answer": "H",
+    "explanation": "Severe respiratory distress after trauma with reduced expansion on the right and the mediastinum shifted to the left is a right tension pneumothorax. Immediate right-sided needle (or finger) decompression in the second intercostal space, mid-clavicular line (or fifth space, mid-axillary line), then a chest drain."
+   },
+   "5": {
+    "answer": "C",
+    "stem": "A young man presents with sudden breathlessness. Examination reveals reduced expansion on the right; he is haemodynamically stable with SaO2 95%.",
+    "explanation": "A stable patient with a suspected spontaneous pneumothorax needs a chest X-ray to confirm it and measure its size before deciding between observation, aspiration or a drain. Decompression is only for tension physiology."
+   }
+  },
+  "items_order": true,
+  "why": "Item 1 had been split by the parse (PaCO2 lost into a fragment numbered 16); item 1 rebuilt with a coherent ABG and the fragment replaced by a new haemothorax item (6); anaphylaxis item re-keyed to 100% oxygen with IM adrenaline; near-fatal asthma item keyed to intubation"
+ }
+]
