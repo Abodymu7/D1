@@ -10,6 +10,7 @@ The PDF and the InDesign (IDML) parts are regenerated from the data and are neve
 | `idml/NN-<chapter>.idml` + `idml/Links/` | one InDesign document per chapter (open in InDesign 2020+, keep `Links/` next to it) |
 | `questions.csv` | every question, for review in Excel |
 | `../data/corrections.csv` | log of every change (old value → new value, reason) |
+| `Medicine-2-3rd-Edition-IDML-PDF.zip` | the PDF + all IDML files + `Links/` images in one archive |
 
 ## What changed from the V4 (2nd-edition) project
 1. **Edition** — 3rd Edition / 2026 on cover, title page, colophon and file names. Every chapter divider has new
@@ -21,18 +22,21 @@ The PDF and the InDesign (IDML) parts are regenerated from the data and are neve
    *REPEATED n× · ALSO ASKED IN …* with the exams/books where it was asked. Patches `300`, `301`.
 3. **Explanations** — every explanation (MCQs and each EMQ scenario) cut to 2–3 lines that say why the answer is
    right (patch `302`; drafts in `data/shortex/`). Key fix: `peri-0084` → D (oral amoxicillin, ESC 2023 IE prophylaxis).
-4. **Numbering** — restarts for every source inside a chapter. The local exams (39th-batch end-block papers,
+4. **Numbering** — restarts for every source inside a chapter. The local exams (39th-batch end-block and final papers,
    end-block exams 2025, formative & previous-years exams, log book) share one sequence with a sub-heading for each
    source; each international book (Harrison, Davidson, Crash Course, …) has its own sequence from 1.
    EMQs: *Theme 1, Theme 2 …*, scenarios 1, 2 … inside each theme, options A–Z; answers are grouped by theme.
 5. **Summaries** — the old summary tables were removed (kept in `data/backups/` only). Each chapter now opens with
    step-by-step management flowcharts (49 charts) built from the source books' summaries and current guidance
    (ESC 2023/2024, NICE, BTS/SIGN, GINA 2025, GOLD 2025, BTS pleural 2023, WHO TB …). Source: `data/import/flow_src.py`.
-
-## Not done — needs the files
-The "Questions of 39 batch" **Paper 1** and **Paper 2** files were not attached (only the project zip arrived).
-Send them and they will be imported with `tools/import_source.py … --bank "39 Blocks Questions"`, filtered to the
-chapters of this book, de-duplicated and numbered in the local-exams sequence.
+6. **39th batch final papers** — the cardiovascular and respiratory questions of Paper 1 (33 MCQs) and Paper 2
+   (31 EMQ scenarios in 6 themes) were added as a new local source, *39th Batch Final Papers*, placed in each chapter
+   right after the 39 Blocks questions and numbered in the same local sequence (patch `303`, source
+   `data/import/b39_papers_src.py`). The papers came without a key: every answer was set and explained here.
+   Blank options in the recalled papers were completed with plausible distractors; changes to the recalled
+   wording of an EMQ theme are recorded in that question's `notes`.
+   The other four files in that HTML (4th midterm, Block D, Medicine 2 Block 2, Medicine 2) were already in the book.
+   Repeats: P1 Q52 (LTOT) merged into the 39 Blocks question; Crash Course peri-0070 merged into P1 Q26.
 
 ## Rebuild
 ```

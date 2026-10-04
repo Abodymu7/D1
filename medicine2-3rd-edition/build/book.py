@@ -73,9 +73,9 @@ def fontcss():
 
 
 # ------------------------------------------------------------------ repeat captions (user rule)
-LOCAL_BANKS = ['39 Blocks Questions', 'End-Block Exams', 'Formative & Previous Years', 'Log Book']
+LOCAL_BANKS = ['39 Blocks Questions', '39th Batch Final Papers', 'End-Block Exams', 'Formative & Previous Years', 'Log Book']
 LOCAL_LABEL = 'Local Exams'
-LOCAL_BLURB = '39th-batch end-block papers · end-block exams 2025 · formative & previous-years exams · log book — one numbering'
+LOCAL_BLURB = '39th-batch end-block & final papers · end-block exams 2025 · formative & previous-years exams · log book — one numbering'
 
 
 def src_label(q):
@@ -83,6 +83,8 @@ def src_label(q):
     s, b = q.get('source', ''), q['bank']
     if b == '39 Blocks Questions':
         return '39th batch end-block (cardiology)' if 'Cardiology' in s else '39th batch end-block (respiratory)' if 'Respiratory' in s else '39th batch end-block'
+    if b == '39th Batch Final Papers':
+        return '39th batch final ' + ('Paper 1' if 'Paper 1' in s else 'Paper 2')
     if b == 'End-Block Exams':
         return 'End-block exam 2025'
     if b == 'Formative & Previous Years':
@@ -182,6 +184,7 @@ def page_css(c):
 INDEX = collections.defaultdict(lambda: collections.defaultdict(list))   # l1 -> l2 -> [anchor ids]
 PAGE = {}                                                                  # anchor id -> page (filled after pass 1)
 SUBLAB = {'39 Blocks Questions': ('39 Blocks Questions', 'End-block papers of the 39th batch (2024–2025)'),
+          '39th Batch Final Papers': ('39th Batch Final Papers', 'Final exam Paper 1 & Paper 2 of the 39th batch (recalled)'),
           'End-Block Exams': ('End-Block Exams 2025', 'End-block & induction exams'),
           'Formative & Previous Years': ('Formative & Previous Years', 'College formative and previous-years exams'),
           'Log Book': ('Log Book 2025', 'Log-book questions')}
@@ -416,7 +419,7 @@ def front_html(meta, totals):
     # colophon
     col = [('This edition', 'The %s of the Internal Medicine Bank for Medicine 2 (cardiovascular and respiratory medicine). %s questions — %d MCQs and %d EMQ items in %d chapters — with answers and explanations.' % (
         book['edition'].split('/')[0].strip(), fmt['total'], totals['mcq'], totals['emq'], len(book['chapters'])))]
-    col.append(('What changed in the 3rd edition', 'Every key was checked against current guidance (ESC, NICE, BTS, GINA, GOLD, WHO); %d questions were corrected, and every explanation was rewritten and then cut to two or three lines that say why the answer is right. %d questions whose idea had already been asked were removed: the question kept is the one from the earliest source in the chapter, and a highlighted note under it says how many times the idea was asked and in which exams or books. Numbering now restarts for each source: the local exams of a chapter (39th batch, end-block, formative & previous years, log book) share one sequence, and each international book has its own; EMQs are numbered by theme. All changes are logged in the corrections file that accompanies this book.' % (totals['corrected'], totals['merged'])))
+    col.append(('What changed in the 3rd edition', 'Every key was checked against current guidance (ESC, NICE, BTS, GINA, GOLD, WHO); %d questions were corrected, and every explanation was rewritten and then cut to two or three lines that say why the answer is right. %d questions whose idea had already been asked were removed: the question kept is the one from the earliest source in the chapter, and a highlighted note under it says how many times the idea was asked and in which exams or books. Numbering now restarts for each source: the local exams of a chapter (39th batch end-block and final papers, end-block, formative & previous years, log book) share one sequence, and each international book has its own; EMQs are numbered by theme. All changes are logged in the corrections file that accompanies this book.' % (totals['corrected'], totals['merged'])))
     col.append(('Management flowcharts', 'The old summary tables were removed. Each chapter now opens with step-by-step flowcharts that combine the summaries of the source books with current guidelines, so that the next step in management can be read at a glance.'))
     col.append(('Artwork', 'Chapter and cover artwork was drawn for this edition; each illustration shows the subject of its chapter.'))
     col.append(('Important', 'This book is a revision aid. Guidelines change: always check current local and national guidance before applying anything to patient care.'))
@@ -441,7 +444,7 @@ def front_html(meta, totals):
     s.append('''<section class="howto" style="page: plain"><h2 class="fh">How to use this book</h2>
 <div class="hgrid">
 <div><h5>Flowcharts first</h5><p>Each chapter opens with management flowcharts updated to current guidelines: follow the arrows from the presenting problem, answer the <b>?</b> decision boxes, and read the next step.</p></div>
-<div><h5>Local exams first, then the books</h5><p>Questions come grouped by source. <b>Local Exams</b> — the 39th-batch end-block papers, end-block exams 2025, formative and previous-years exams and the log book — come first and share one numbering. Each international book (Davidson, Harrison, Crash Course, PreTest, Passmedicine, PasTest, Irfan, Get Ahead, other sources) follows with its own numbering from 1.</p></div>
+<div><h5>Local exams first, then the books</h5><p>Questions come grouped by source. <b>Local Exams</b> — the 39th-batch end-block and final papers, end-block exams 2025, formative and previous-years exams and the log book — come first and share one numbering. Each international book (Davidson, Harrison, Crash Course, PreTest, Passmedicine, PasTest, Irfan, Get Ahead, other sources) follows with its own numbering from 1.</p></div>
 <div><h5>MCQs and EMQs</h5><p>MCQs are numbered 1, 2, 3 … within their source. EMQs are numbered <b>Theme 1, Theme 2 …</b>; each theme lists its options A, B, C … and its scenarios are numbered 1, 2, 3 ….</p></div>
 <div><h5>Answers after every set</h5><p>Answers follow each set of up to 25 questions, each with a two- or three-line explanation. Tap a question number to jump to its answer and the answer number to jump back.</p></div>
 <div><h5>Repeated questions</h5><p>When an idea was asked more than once, one question is kept — the one from the earliest source — and a highlighted note under it says how many times and where else it was asked. Repeats are a strong signal of a high-yield topic.</p>%s</div>
