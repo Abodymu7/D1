@@ -10,7 +10,7 @@ The PDF and the InDesign (IDML) parts are regenerated from the data and are neve
 | `idml/NN-<chapter>.idml` + `idml/Links/` | one InDesign document per chapter (open in InDesign 2020+, keep `Links/` next to it) |
 | `questions.csv` | every question, for review in Excel |
 | `../data/corrections.csv` | log of every change (old value → new value, reason) |
-| `Medicine-2-3rd-Edition-IDML-PDF.zip` | the PDF + all IDML files + `Links/` images in one archive |
+| `Medicine-2-3rd-Edition-IDML.zip`, `Medicine-2-3rd-Edition-PDF.zip`, `Medicine-2-3rd-Edition-IDML-PDF.zip` | IDML files + `Links/`; the PDF; both together |
 
 ## What changed from the V4 (2nd-edition) project
 1. **Edition** — 3rd Edition / 2026 on cover, title page, colophon and file names. Every chapter divider has new
