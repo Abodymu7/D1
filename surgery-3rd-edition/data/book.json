@@ -1,0 +1,697 @@
+{
+ "title": "Surgery Bank",
+ "volume": "Surgery 1 — General Surgery",
+ "edition": "3rd Edition / 2026",
+ "authors": [
+  "Ruqaya Mohammed Kadhim",
+  "Abdullah Musab Jefferz"
+ ],
+ "team": "118 Team",
+ "telegram": "https://t.me/AR_med118",
+ "file_name": "Surgery-Bank-Surgery-1-3rd-Edition",
+ "cover": {
+  "image": "",
+  "credit": ""
+ },
+ "layout": {
+  "answers_every": 25
+ },
+ "banks": [
+  {
+   "name": "39th Batch Exams",
+   "blurb": "Block, end-induction and final papers of the 39th batch, recalled"
+  },
+  {
+   "name": "Ministerial Exam",
+   "blurb": "Ministerial evaluation examinations"
+  },
+  {
+   "name": "Formative",
+   "blurb": "College formative examinations"
+  },
+  {
+   "name": "Previous Years",
+   "blurb": "Previous-years college examinations"
+  },
+  {
+   "name": "Essay to MCQ",
+   "blurb": "College essay questions converted to MCQs"
+  },
+  {
+   "name": "Bailey & Love",
+   "blurb": "After Bailey & Love's Short Practice of Surgery MCQs & EMQs"
+  },
+  {
+   "name": "Lange",
+   "blurb": "After Lange Review of Surgery"
+  },
+  {
+   "name": "SBA",
+   "blurb": "Single best answers in surgery"
+  },
+  {
+   "name": "Oxford",
+   "blurb": "After the Oxford Specialty Training / Oxford surgery questions"
+  },
+  {
+   "name": "PreTest",
+   "blurb": "After PreTest Surgery"
+  },
+  {
+   "name": "Get Ahead",
+   "blurb": "After Get ahead! Surgery MCQs & EMQs"
+  },
+  {
+   "name": "Crash Course",
+   "blurb": "After Crash Course Surgery SBAs & EMQs"
+  },
+  {
+   "name": "Irfan",
+   "blurb": "Irfan surgery EMQ collection"
+  }
+ ],
+ "texts": {
+  "cover_lines": [
+   "SURGERY",
+   "BANK"
+  ],
+  "tagline": "MCQs and EMQs with short explanations and step-by-step management flowcharts.",
+  "back_headline": "Practise like the exam. Learn from every answer.",
+  "back_points": [
+   "{total} questions across {chapters} chapters, numbered by source",
+   "Management flowcharts updated to current guidelines in every chapter",
+   "Two-to-three-line explanations",
+   "Repeated questions merged with a note of where they were asked"
+  ]
+ },
+ "contributors": {
+  "data": [
+   "Huda Mahdi N.",
+   "Naqaa Zuhair Abod",
+   "Rafal Raheem M.",
+   "Russul Falah R.",
+   "Mariam Safeer D."
+  ],
+  "participants": [
+   "Zahraa Mohammed Talib",
+   "Moheib Mohammed Burhan",
+   "Mohammed Ali Fadhil Hasson"
+  ]
+ },
+ "parts": [
+  "Neck Lumps & Endocrine",
+  "Breast",
+  "Gastrointestinal Tract",
+  "Paediatric Surgery",
+  "Abdomen",
+  "Urology",
+  "Trauma & Critical Care"
+ ],
+ "chapters": [
+  {
+   "id": "neck",
+   "order": 1,
+   "part": "Neck Lumps & Endocrine",
+   "title": "Neck Lumps, Thyroid & Parathyroid",
+   "short": "Neck Lumps",
+   "color": "1F7A8C",
+   "intro": "Salivary, thyroid, parathyroid and other neck swellings: triangles of the neck, FNA, thyroid cancer and hyperparathyroidism.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "endo",
+   "order": 2,
+   "part": "Neck Lumps & Endocrine",
+   "title": "Endocrine Surgery",
+   "short": "Endocrine",
+   "color": "2C6E91",
+   "intro": "Adrenal, pituitary and pancreatic endocrine tumours, MEN syndromes and the surgical endocrine work-up.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "neckemq",
+   "order": 3,
+   "part": "Neck Lumps & Endocrine",
+   "title": "Neck Lumps & Endocrine EMQs",
+   "short": "Neck EMQs",
+   "color": "265F7E",
+   "intro": "Extended matching questions on neck swellings, dysphagia, thyroid disease and skin lumps.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "bbreast",
+   "order": 4,
+   "part": "Breast",
+   "title": "Benign Breast Disorders",
+   "short": "Benign Breast",
+   "color": "B8467A",
+   "intro": "Breast assessment and triple assessment, fibroadenoma, cysts, mastalgia, nipple discharge, infection and gynaecomastia.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "bca",
+   "order": 5,
+   "part": "Breast",
+   "title": "Breast Cancer",
+   "short": "Breast Cancer",
+   "color": "9C2F62",
+   "intro": "Screening, risk and BRCA, DCIS and invasive cancer, staging, surgery, sentinel node biopsy and adjuvant therapy.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "breastemq",
+   "order": 6,
+   "part": "Breast",
+   "title": "Breast EMQs",
+   "short": "Breast EMQs",
+   "color": "7F2853",
+   "intro": "Extended matching questions on breast lumps, nipple discharge, investigation and treatment of breast cancer.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "saliv",
+   "order": 7,
+   "part": "Gastrointestinal Tract",
+   "title": "Salivary Glands",
+   "short": "Salivary",
+   "color": "C0612B",
+   "intro": "Parotid and submandibular swellings: sialolithiasis, sialadenitis, pleomorphic adenoma, Warthin tumour and the facial nerve.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "oeso",
+   "order": 8,
+   "part": "Gastrointestinal Tract",
+   "title": "Oesophagus",
+   "short": "Oesophagus",
+   "color": "B4552A",
+   "intro": "Dysphagia, achalasia, reflux and hiatus hernia, Barrett oesophagus, perforation and oesophageal cancer.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "stom",
+   "order": 9,
+   "part": "Gastrointestinal Tract",
+   "title": "Stomach & Duodenum",
+   "short": "Stomach",
+   "color": "A44B27",
+   "intro": "Peptic ulcer and its complications, gastric outlet obstruction, gastric cancer, GIST and bariatric anatomy.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "intest",
+   "order": 10,
+   "part": "Gastrointestinal Tract",
+   "title": "Small & Large Intestine",
+   "short": "Intestine",
+   "color": "944224",
+   "intro": "Intestinal obstruction, appendicitis, inflammatory bowel disease, diverticular disease, volvulus, polyps and colorectal cancer.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "anus",
+   "order": 11,
+   "part": "Gastrointestinal Tract",
+   "title": "Anorectal Disorders",
+   "short": "Anorectal",
+   "color": "843A21",
+   "intro": "Haemorrhoids, fissure, abscess and fistula, pilonidal disease, prolapse and anal cancer.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "gibleed",
+   "order": 12,
+   "part": "Gastrointestinal Tract",
+   "title": "Gastrointestinal Bleeding",
+   "short": "GI Bleeding",
+   "color": "74321E",
+   "intro": "Upper and lower GI bleeding: resuscitation, risk scores, endoscopy, varices, angiodysplasia and diverticular bleeding.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "gitum",
+   "order": 13,
+   "part": "Gastrointestinal Tract",
+   "title": "Gastrointestinal Tumours",
+   "short": "GI Tumours",
+   "color": "6C2E1C",
+   "intro": "Oesophageal, gastric, small-bowel, colorectal and anal tumours: polyps, polyposis syndromes, staging and treatment.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "gitemq",
+   "order": 14,
+   "part": "Gastrointestinal Tract",
+   "title": "Gastrointestinal EMQs",
+   "short": "GIT EMQs",
+   "color": "64291A",
+   "intro": "Extended matching questions on the acute abdomen, dysphagia, GI bleeding, hernias, anorectal and hepatobiliary disease.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "paed",
+   "order": 15,
+   "part": "Paediatric Surgery",
+   "title": "Paediatric Surgery",
+   "short": "Paediatric",
+   "color": "3E8E4F",
+   "intro": "Pyloric stenosis, intussusception, malrotation, Hirschsprung disease, atresias, NEC, hernias and the neonatal abdomen.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "paedemq",
+   "order": 16,
+   "part": "Paediatric Surgery",
+   "title": "Paediatric Surgery EMQs",
+   "short": "Paediatric EMQs",
+   "color": "2F7440",
+   "intro": "Extended matching questions on vomiting infants, neonatal obstruction and the paediatric acute abdomen.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "acute",
+   "order": 17,
+   "part": "Abdomen",
+   "title": "Acute Abdomen & Abdominal Trauma",
+   "short": "Acute Abdomen",
+   "color": "5A4FA3",
+   "intro": "Assessment of the acute abdomen, peritonitis and perforation, and blunt and penetrating abdominal trauma.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "liver",
+   "order": 18,
+   "part": "Abdomen",
+   "title": "Liver",
+   "short": "Liver",
+   "color": "50479A",
+   "intro": "Liver abscess, hydatid cyst, benign and malignant liver tumours, portal hypertension and liver trauma.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "gb",
+   "order": 19,
+   "part": "Abdomen",
+   "title": "Gallbladder & Biliary Tree",
+   "short": "Biliary",
+   "color": "463F8E",
+   "intro": "Gallstones, cholecystitis, cholangitis, obstructive jaundice, bile-duct injury and cholangiocarcinoma.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "panc",
+   "order": 20,
+   "part": "Abdomen",
+   "title": "Pancreas",
+   "short": "Pancreas",
+   "color": "3D3782",
+   "intro": "Acute and chronic pancreatitis, pseudocyst, pancreatic cancer and periampullary tumours.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "spleen",
+   "order": 21,
+   "part": "Abdomen",
+   "title": "Spleen",
+   "short": "Spleen",
+   "color": "352F76",
+   "intro": "Splenic trauma, splenomegaly, indications for splenectomy and post-splenectomy sepsis.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "adrenal",
+   "order": 22,
+   "part": "Abdomen",
+   "title": "Adrenal Gland",
+   "short": "Adrenal",
+   "color": "2E2869",
+   "intro": "Phaeochromocytoma, Conn and Cushing syndromes, incidentaloma and adrenal surgery.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "hernia",
+   "order": 23,
+   "part": "Abdomen",
+   "title": "Hernias & Abdominal Wall",
+   "short": "Hernias",
+   "color": "27225C",
+   "intro": "Inguinal, femoral, umbilical, incisional and rare hernias: anatomy, complications and repair.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "abdemq",
+   "order": 24,
+   "part": "Abdomen",
+   "title": "Abdomen EMQs",
+   "short": "Abdomen EMQs",
+   "color": "211D50",
+   "intro": "Extended matching questions on abdominal pain, masses, splenomegaly, pancreatic and hepatobiliary disease.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "uti",
+   "order": 25,
+   "part": "Urology",
+   "title": "Urinary Tract Infection",
+   "short": "UTI",
+   "color": "1E8A87",
+   "intro": "Cystitis, pyelonephritis, prostatitis, renal abscess and urinary tuberculosis.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "stone",
+   "order": 26,
+   "part": "Urology",
+   "title": "Urinary Stones",
+   "short": "Stones",
+   "color": "1A7B78",
+   "intro": "Renal colic, imaging, medical expulsive therapy, ESWL, ureteroscopy and PCNL.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "renal",
+   "order": 27,
+   "part": "Urology",
+   "title": "Renal Tumours",
+   "short": "Renal Tumours",
+   "color": "176D6A",
+   "intro": "Renal cell carcinoma, Wilms tumour, angiomyolipoma and the renal mass.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "urogen",
+   "order": 28,
+   "part": "Urology",
+   "title": "Urological Investigation & Haematuria",
+   "short": "Uro Investigation",
+   "color": "145F5C",
+   "intro": "Haematuria work-up, urinalysis, imaging and endoscopy of the urinary tract.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "uroemerg",
+   "order": 29,
+   "part": "Urology",
+   "title": "Urological Emergencies & Trauma",
+   "short": "Uro Emergencies",
+   "color": "12524F",
+   "intro": "Urinary retention, testicular torsion, priapism, Fournier gangrene and renal, bladder and urethral injury.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "prostate",
+   "order": 30,
+   "part": "Urology",
+   "title": "Prostate",
+   "short": "Prostate",
+   "color": "0F4643",
+   "intro": "Benign prostatic hyperplasia, LUTS, PSA and prostate cancer.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "congur",
+   "order": 31,
+   "part": "Urology",
+   "title": "Congenital Urology",
+   "short": "Congenital Uro",
+   "color": "0D3B39",
+   "intro": "Undescended testis, hypospadias, PUJ obstruction, vesicoureteric reflux and posterior urethral valves.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "scrotum",
+   "order": 32,
+   "part": "Urology",
+   "title": "Scrotum & Testis",
+   "short": "Scrotum",
+   "color": "0B3230",
+   "intro": "Hydrocele, varicocele, epididymo-orchitis, scrotal swellings and testicular tumours.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "bladder",
+   "order": 33,
+   "part": "Urology",
+   "title": "Bladder Tumours",
+   "short": "Bladder",
+   "color": "0A2A28",
+   "intro": "Haematuria, transitional cell carcinoma, TURBT, cystectomy and urinary diversion.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "uroemq",
+   "order": 34,
+   "part": "Urology",
+   "title": "Urology EMQs",
+   "short": "Urology EMQs",
+   "color": "082322",
+   "intro": "Extended matching questions on haematuria, LUTS, scrotal swellings, urological investigation and emergencies.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "trauma",
+   "order": 35,
+   "part": "Trauma & Critical Care",
+   "title": "Trauma",
+   "short": "Trauma",
+   "color": "B23A3A",
+   "intro": "ATLS primary survey, airway, chest, head and limb injuries, and burns.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "metab",
+   "order": 36,
+   "part": "Trauma & Critical Care",
+   "title": "Metabolic Response to Trauma",
+   "short": "Metabolic",
+   "color": "A03434",
+   "intro": "The stress response, fluids, electrolytes and nutrition in the surgical patient.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "shock",
+   "order": 37,
+   "part": "Trauma & Critical Care",
+   "title": "Shock",
+   "short": "Shock",
+   "color": "8E2E2E",
+   "intro": "Classes of haemorrhage, types of shock, resuscitation and transfusion.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "obesity",
+   "order": 38,
+   "part": "Trauma & Critical Care",
+   "title": "Obesity & Bariatric Surgery",
+   "short": "Obesity",
+   "color": "7C2828",
+   "intro": "Indications for bariatric surgery, operations and their complications.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  },
+  {
+   "id": "extraemq",
+   "order": 39,
+   "part": "Trauma & Critical Care",
+   "title": "Trauma & Perioperative EMQs",
+   "short": "Trauma EMQs",
+   "color": "6A2222",
+   "intro": "Extended matching questions on shock, trauma, burns, perioperative care and postoperative complications.",
+   "keywords": [],
+   "divider": {
+    "image": "",
+    "credit": ""
+   },
+   "summaries": []
+  }
+ ]
+}

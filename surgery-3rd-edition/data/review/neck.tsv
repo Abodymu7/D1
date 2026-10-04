@@ -1,0 +1,17 @@
+neck-0009	EX	Recurrent malignant salivary tumour: surgical excision with neck dissection, then adjuvant (chemo)radiotherapy; chemotherapy alone has a limited role.
+neck-0012	OPTC	Injury to the marginal mandibular branch of the facial nerve during submandibular gland excision
+neck-0012	EX	An asymmetric smile after submandibular gland surgery is weakness of depressor anguli oris from injury to the marginal mandibular branch of the facial nerve.
+neck-0035	KEY	ABCDE
+neck-0035	EX	All are causes of hypercalcaemia; in chronic renal failure it arises with tertiary hyperparathyroidism or calcium/vitamin D therapy.
+neck-0055	STEM	A 22-year-old man has a 2-cm thyroid nodule. His family history includes thyroid carcinoma and an unknown abdominal tumour in his father, now deceased; his BP is 145/90 mmHg. Fine-needle aspiration shows medullary thyroid carcinoma. Screening for which of the following must be undertaken before treatment of the thyroid carcinoma?
+neck-0055	EX	Familial medullary carcinoma suggests MEN2: exclude phaeochromocytoma (plasma metanephrines) first, as an unrecognised tumour can cause a fatal crisis at thyroidectomy.
+neck-0087	EX	In differentiated thyroid cancer, age is the strongest prognostic factor (AJCC 8th: ≥55 years is high risk); a 1-cm node-negative tumour otherwise has an excellent outlook.
+neck-0038	CH	endo
+neck-0043	CH	endo
+neck-0044	CH	endo
+neck-0045	CH	endo
+neck-0046	CH	endo
+neck-0047	CH	adrenal
+neck-0048	CH	adrenal
+neck-0085	CH	endo
+neck-0095	CH	adrenal

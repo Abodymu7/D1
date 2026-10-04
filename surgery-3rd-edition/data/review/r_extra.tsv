@@ -1,0 +1,191 @@
+trauma-0001	STEM	Regarding trauma, which of the following statements is true?
+trauma-0001	EX	About 30% of over-65s die within a year of a proximal femoral fracture; trauma is the leading (not second) cause of death under 40 and most injuries are low-energy.
+trauma-0003	OPTS	The mechanisms are direct or indirect.|In indirect injury, associated injuries may be present and should be sought.|In chest injuries, damage to abdominal organs is rare.|Overt injury should lead the clinician to look for covert (hidden) injuries.|Significant internal injury may be present with little external evidence.
+trauma-0003	EX	Blunt injury to the lower chest commonly damages the liver and spleen lying under the lower ribs, so abdominal injury must always be sought.
+trauma-0007	EX	Early polytrauma care is protocol-driven, but the experienced clinician may need to deviate from the protocol when the clinical situation demands it.
+trauma-0008	EX	Seat belts reduce death or serious injury in front-seat occupants by about 45–50%, not 20%; airbags reduce fatality in head-on collisions by about 30%.
+trauma-0009	EX	A GCS of 8 or less mandates a definitive airway, so a GCS of 7 is an indication; a patient who is talking has a patent airway for now.
+trauma-0011	STEM	Which of the following is not a routine adjunct to the primary survey?
+trauma-0011	EX	CT (± angiography) follows in the stable patient after the primary survey; pulse oximetry, catheter, bloods and chest/pelvic films are primary-survey adjuncts.
+trauma-0013	EX	Bailey & Love quotes normal values for a preschool child of pulse 140/min, systolic BP 90 mmHg, respiratory rate 30/min and urine output 1.5 mL/kg/h.
+trauma-0014	STEM	Regarding the hazards of imaging and radiation, which of the following statements are true?
+trauma-0014	EX	B false: routine steroid prophylaxis is not recommended; C false: metformin need not be stopped if eGFR >30; D false: most exposure is natural background radiation.
+trauma-0015	STEM	Regarding diagnostic imaging, which of the following statements is false?
+trauma-0016	STEM	Regarding imaging modalities, which of the following statements are true?
+trauma-0016	KEY	BCE
+trauma-0016	EX	A and D are false: US is operator-dependent and blocked by bone and gas, and MRI is slow, costly and contraindicated with some implants; radionuclide imaging shows function.
+trauma-0017	EX	Portable films and fluoroscopy give higher doses and should be minimised; the most radiosensitive tissues are the gonads, lens, thyroid, breast and marrow.
+trauma-0018	STEM	Regarding orthopaedic imaging, which of the following statements is false?
+trauma-0019	STEM	Regarding imaging in trauma, which of the following statements is false?
+trauma-0020	KEY	ADE
+trauma-0020	EX	B is false: incisions should avoid bony prominences but are best placed in skin creases; C is false: no single blade suits all incisions (the 10 and 15 are standard).
+trauma-0021	STEM	Regarding wound closure, all of the following statements are true except:
+trauma-0021	EX	Non-absorbable sutures in the biliary or urinary tract act as a nidus for stone formation, so absorbable sutures are used; the other statements are true.
+trauma-0022	STEM	Regarding the principles of anastomosis, which of the following statements are true?
+trauma-0022	KEY	AD
+trauma-0022	EX	B false: routine bowel preparation is not required; C false: size mismatch is overcome by a Cheatle slit or side-to-side join; E false: a longitudinal arteriotomy with patch is often used.
+trauma-0023	STEM	Regarding surgical drains, which of the following statements are false?
+trauma-0024	STEM	Regarding the principles of diathermy, which of the following statements are true?
+trauma-0024	EX	B is false: bipolar (not monopolar) suits microsurgery and delicate work; bipolar is safer with pacemakers, monopolar causes more burns and capacitance coupling can occur.
+trauma-0025	CH	metab
+trauma-0026	CH	metab
+trauma-0027	CH	metab
+trauma-0028	CH	metab
+trauma-0029	CH	metab
+trauma-0030	CH	metab
+trauma-0031	STEM	Which of the following statements about filariasis are true?
+trauma-0031	OPTB	Infective larvae inoculated by a mosquito bite migrate to the lymphatics, where they mature into adult worms.
+trauma-0031	EX	A false: Wuchereria bancrofti causes ~90% of cases and Brugia ~10%; D false: filariasis is a classic cause of chyluria and chylous ascites.
+trauma-0031	NOTES	Filariasis (0031, 0032) is not trauma; no infection chapter exists, so left here; editor may prefer to move both.
+trauma-0032	STEM	Which of the following statements about filariasis are true?
+trauma-0032	EX	A false: blood shows eosinophilia; C false: diethylcarbamazine kills microfilariae but cannot reverse established elephantiasis; E false: limb-reduction surgery is difficult.
+trauma-0033	EX	A precordial stab wound with hypotension, distant heart sounds, midline trachea and equal breath sounds is tamponade; tension pneumothorax or haemothorax alters breath sounds.
+trauma-0034	STEM	A 26-year-old man with a stab wound to the left fifth intercostal space is tachycardic and hypotensive with distant heart sounds, a midline trachea and equal breath sounds. Which is the most appropriate next step in management?
+trauma-0034	EX	Pericardiocentesis relieves tamponade as a temporising measure; definitive repair is by sternotomy or thoracotomy in theatre. ED thoracotomy is for traumatic arrest.
+trauma-0035	STEM	As well as measuring oxygen saturation, a pulse oximeter also gives useful information regarding what other factor in the initial assessment of the traumatised patient?
+trauma-0035	EX	The plethysmographic trace and a reliable signal depend on pulsatile flow, so a poor trace indicates poor peripheral perfusion; oximetry gives no CO2 or acid–base information.
+trauma-0036	STEM	A 42-year-old construction worker is admitted following a crush injury. The patient is in great distress, complaining of chest pain and working hard to breathe, with paradoxical movement of the chest wall. Arterial blood gases show pO2 7.5 kPa and pCO2 8.2 kPa. A chest radiograph shows multiple rib fractures. The life-saving intervention is
+trauma-0036	EX	Flail chest with type 2 respiratory failure (hypoxia and hypercapnia) needs intubation and positive-pressure ventilation; oxygen and analgesia alone are insufficient.
+trauma-0038	EX	Ultrasound characterises the collection (fluid, loculation, septation) and guides aspiration and chest-drain placement; blind drain insertion is avoided.
+trauma-0039	EX	Initial drainage ≥1500 mL or ongoing loss of >200 mL/h for 2–4 hours (here 300 mL/h) indicates thoracotomy to control the bleeding.
+trauma-0042	EX	Zone I: clavicles/sternal notch to cricoid; zone II: cricoid to angle of the mandible; zone III: angle of the mandible to the skull base.
+trauma-0045	CH	spleen
+trauma-0046	CH	anus
+metab-0004	CH	neck
+metab-0004	EX	A fall in PTH of at least 50% from the highest pre-excision value 10 minutes after gland removal (Miami criterion) predicts cure.
+shock-0001	STEM	A 58-year-old woman with type 2 diabetes controlled on oral hypoglycaemic agents is to undergo a major abdominal operation. What is the best way to control her blood glucose perioperatively?
+shock-0001	OPTS	Increase the dose of her oral hypoglycaemic agents|Continue oral agents on the morning of surgery and check glucose after the operation|Use long-acting insulin preoperatively|Switch to intermittent subcutaneous sliding-scale insulin|Stop oral agents and give an IV infusion of soluble insulin with glucose and potassium (KCl)
+shock-0001	EX	For major surgery oral agents are stopped and a variable-rate IV soluble insulin infusion with glucose and potassium (GKI) is given, adjusted to hourly capillary glucose.
+shock-0001	CH	metab
+shock-0002	EX	B is false: anaerobic metabolism produces lactate (metabolic acidosis); E is false: reperfusion injury and organ dysfunction may persist after circulation is restored.
+shock-0003	STEM	Regarding the severity of shock, which of the following statements are false?
+shock-0004	STEM	Regarding resuscitation, which of the following statements are true?
+shock-0004	EX	Bleeding (AAA, ulcer) needs haemorrhage control, not prolonged fluid loading; obstruction needs full resuscitation first. Inotropes are not first-line and crystalloid is preferred.
+shock-0005	STEM	Regarding monitoring in shock, which of the following statements are true?
+shock-0005	KEY	ABC
+shock-0005	EX	D false: PAWP catheters are not routine in shocked ICU patients; E false: Allen's test has poor predictive value and is not mandatory before radial arterial cannulation.
+shock-0006	STEM	Regarding haemorrhage, all of the following statements are true except:
+shock-0007	STEM	Regarding blood transfusion, which of the following statements are true?
+shock-0007	EX	C false: about 85% of people are RhD positive; D false: coagulopathy needs FFP, platelets and cryoprecipitate, not red cells. FFP keeps about 2 years frozen.
+shock-0008	STEM	Regarding conscious sedation, which of the following statements is false?
+shock-0009	STEM	A 30-year-old man with a pelvic fracture is hypotensive and tachycardic. Arterial blood gas shows pH 7.24, PaCO2 32 mmHg, HCO3− 14 mmol/L and base deficit −10. What is the most appropriate management of his acid–base derangement?
+shock-0009	OPTS	Administration of sodium bicarbonate to correct the base deficit|Restoration of blood volume with aggressive IV fluid and blood resuscitation|IV hydrochloric acid|Intubation and hyperventilation|No treatment; this patient has no acid–base abnormality
+shock-0009	EX	Lactic (metabolic) acidosis from hypoperfusion is corrected by restoring circulating volume and perfusion; bicarbonate does not treat the cause and may worsen intracellular acidosis.
+shock-0010	OPTS	IV furosemide|A bolus of IV crystalloid|A dopamine infusion|A nitroprusside infusion|IV digoxin
+shock-0010	EX	A low wedge pressure with tachycardia and oliguria after AAA repair means hypovolaemia, so a crystalloid bolus is given; diuretics or vasodilators would worsen it.
+shock-0011	STEM	A 70-year-old man is given IV fluids for hypovolaemia after AAA repair. Several hours later his BP is 150/85 mmHg with distended neck veins and an elevated pulmonary wedge pressure, and urine output remains low. What is the next step?
+shock-0011	OPTS	IV furosemide|A bolus of IV crystalloid|A dopamine infusion|A nitroprusside infusion|IV digoxin
+shock-0011	EX	Hypertension with high filling pressures and poor output after fluid loading responds to afterload reduction with nitroprusside, improving cardiac output and renal perfusion.
+shock-0012	OPTA	Immediate blood transfusion (volume resuscitation)
+shock-0012	KEY	A
+shock-0012	EX	She is in haemorrhagic shock, so blood volume is restored first, then the placenta is removed manually; with a firm fundus, uterotonics or packing for atony will not help.
+shock-0013	STEM	A patient is admitted following a motorcycle accident. He has fractured his left femur, tibia, fibula and pelvis. His blood pressure is 70/35 mmHg, pulse 140 beats/min, respiratory rate 35 breaths/min and Glasgow Coma Scale score 9/15. You wish to resuscitate the patient. Which one of the following procedures may be contraindicated in such a patient?
+shock-0013	EX	A pelvic fracture may tear the urethra, so a urethral catheter is avoided until urethral injury is excluded (blood at meatus, retrograde urethrogram).
+shock-0014	STEM	A patient is admitted following an assault. On assessment, he has a stab wound to his chest. Clinically, he has a massive haemothorax and his Glasgow Coma Scale score is 4/15. Without further management, this patient will succumb to which cause of death first?
+shock-0015	STEM	Which of the following techniques does not provide a definitive airway?
+shock-0015	EX	A definitive airway is a cuffed tube in the trachea (oro/nasotracheal, surgical); a laryngeal mask sits above the larynx and does not protect against aspiration.
+shock-0016	STEM	A patient is admitted following a road traffic accident. He has sustained significant blunt injury to his head, chest and abdomen and has a Glasgow Coma Scale score of 8/15. His saturations are poor at 89% on 15 L of oxygen via a non-rebreathing mask. You note bruising around both eyes and blood-stained fluid issuing from his left ear, which forms concentric rings when dripped on a white sheet. You wish to support his airway to improve oxygenation. The first choice of airway adjunct would be:
+shock-0016	EX	Raccoon eyes and CSF otorrhoea suggest a basal skull fracture, so a nasopharyngeal airway is avoided; an oropharyngeal airway is used pending a definitive airway.
+shock-0018	STEM	A 35-year-old butcher is admitted after inadvertently stabbing himself with a knife. His airway is patent and there is no identifiable hindrance to breathing. His pulse is 110 beats/min, BP 130/105 mmHg and respiratory rate 25 breaths/min. Assuming a body mass of 70 kg, what is the best estimate of the volume of blood lost?
+shock-0018	EX	Tachycardia, narrowed pulse pressure and RR 25 with normal systolic BP is class II shock (15–30% loss, 750–1500 mL in a 70 kg adult), i.e. about 1000 mL.
+shock-0019	STEM	A patient is admitted in haemorrhagic shock following a road traffic accident. A final year medical student has inserted a pink (20 G) cannula in the antecubital fossa. What rate of flow into the patient will this allow?
+shock-0020	STEM	A homeless man is admitted unresponsive after being found by police on a park bench. He has no external signs of injury. An oesophageal temperature probe records his core body temperature to be 34 °C. Which of the following management options is not routinely indicated in this case?
+shock-0020	EX	At 34 °C (mild hypothermia) passive and active external rewarming with warmed IV fluids suffice; invasive core rewarming such as peritoneal lavage is for severe hypothermia.
+shock-0023	CH	gb
+shock-0024	EX	Red cells stay intravascular and restore oxygen-carrying capacity, whereas only about a quarter of infused saline remains intravascular; dextrose spreads through all body water.
+shock-0025	CH	adrenal
+shock-0026	EX	Give 100% oxygen via a tight-fitting mask at once (COHb half-life ~80 min vs ~5 h on air); hyperbaric oxygen is reserved for coma, seizures or severe cases.
+shock-0027	EX	Hypotension with a very low ejection fraction (15%) and high CVP in a patient with coronary disease is cardiogenic shock (pump failure, probably perioperative MI).
+shock-0029	EX	Salmon-coloured (serosanguinous) wound discharge on day 3 heralds fascial dehiscence, so the wound is explored and the abdomen closed in theatre.
+shock-0030	STEM	A 65-year-old diabetic man develops spiking fever on the 6th day after laparotomy for duodenal ulcer, with incisional discomfort and a small amount of wound drainage. Appropriate evaluation and management should include which of the following?
+shock-0030	EX	A superficial wound infection is treated by opening the incision, sending pus for culture and local wound care; antibiotics only if there is cellulitis or systemic sepsis.
+obesity-0001	STEM	A 40-year-old woman with a BMI of 45 kg/m² has an HbA1c of 7% (53 mmol/mol) and a fasting blood glucose of 140 mg/dL (7.8 mmol/L). What metabolic disorder does she have?
+obesity-0001	OPTC	Insulin resistance with impaired glucose control (type 2 diabetes)
+obesity-0001	EX	HbA1c ≥6.5% (48 mmol/mol) and fasting glucose ≥126 mg/dL (7.0 mmol/L) confirm type 2 diabetes, driven by obesity-related insulin resistance.
+obesity-0002	STEM	A 40-year-old woman with a BMI of 45 kg/m² has type 2 diabetes (HbA1c 7%) despite lifestyle measures. What is the most appropriate surgical management of her metabolic disorder?
+obesity-0002	OPTC	Bariatric (metabolic) surgery, e.g. sleeve gastrectomy
+obesity-0002	EX	BMI ≥40 (or ≥35 with comorbidity such as diabetes) qualifies for bariatric/metabolic surgery, which often induces remission of type 2 diabetes.
+obesity-0003	STEM	A 45-year-old man with a BMI of 37 kg/m² has a fasting blood glucose of 6.5 mmol/L (117 mg/dL) and an HbA1c of 6.2% (44 mmol/mol) on two occasions, despite 6 months of diet and exercise. Does he need any treatment for his blood sugar?
+obesity-0003	EX	He has prediabetes (non-diabetic hyperglycaemia); if intensive lifestyle change fails, metformin reduces progression to diabetes, especially when BMI ≥35.
+obesity-0004	STEM	A 45-year-old obese man has fasting triglycerides of 600 mg/dL (6.8 mmol/L), LDL cholesterol 95 mg/dL (2.5 mmol/L) and HDL 38 mg/dL, despite 3 months of diet and exercise. Does he need any treatment for his lipid profile?
+obesity-0004	EX	Severe hypertriglyceridaemia (>500 mg/dL) with normal LDL risks pancreatitis and is treated with a fibrate when lifestyle measures fail; statins mainly lower LDL.
+obesity-0006	EX	D is a counselling point (avoid pregnancy for 12–18 months after surgery), not a selection criterion; the others are standard international selection criteria.
+obesity-0007	EX	B is false: corticosteroid hormones are not part of nutritional screening; fat-soluble vitamins, PTH, minerals, iron studies, B12/folate and trace elements are checked.
+obesity-0009	EX	D is false: erosion complicates gastric banding, not BPD or sleeve gastrectomy; internal hernia, leaks, pouch/sleeve dilatation and band slippage are recognised.
+extraemq-0001	THEME	Postoperative complications
+extraemq-0001#1	EX	Fever on day 1 with reduced air entry and lobar collapse on CXR is atelectasis, the commonest cause of early postoperative pyrexia.
+extraemq-0001#2	EX	Sudden breathlessness, tachycardia and circulatory collapse with right ventricular strain a week after surgery in a very obese patient is massive pulmonary embolism.
+extraemq-0001#3	EX	Separation of the healing incision exposing deeper tissues after laparotomy is wound dehiscence (burst abdomen).
+extraemq-0001#4	STEM	A lady underwent sleeve gastrectomy 2 days earlier. She presents with tachycardia and tachypnoea. Chest examination is normal. Abdominal examination shows mild epigastric tenderness but normal-looking laparoscopic incisions. Gastrografin swallow shows contrast leaking from the staple line.
+extraemq-0001#4	EX	Tachycardia and tachypnoea after sleeve gastrectomy suggest a staple-line leak even with minimal abdominal signs; contrast extravasation confirms it.
+extraemq-0002#1	EX	Hypoxia, hypotension, raised JVP, trachea deviated to the left and a hyper-resonant silent right chest is a right tension pneumothorax: needle or finger decompression now.
+extraemq-0002#2	EX	Reduced GCS in a drinker without head injury or shock suggests hypoglycaemia (alcohol impairs gluconeogenesis): check capillary glucose as part of 'D' in the primary survey.
+extraemq-0002#3	EX	A penetrating left precordial wound with hypotension, raised JVP and muffled heart sounds (Beck's triad) is cardiac tamponade.
+extraemq-0003	OPTS	Anaphylactic shock|Autologous blood transfusion|Cardiogenic shock|Hypovolaemic shock|Mismatched blood transfusion|Neurogenic shock|Septic shock
+extraemq-0003#1	KEY	E
+extraemq-0003#1	EX	Sudden diffuse oozing from all wounds during the first unit of blood suggests an acute haemolytic (ABO-mismatch) reaction with DIC; stop the transfusion at once.
+extraemq-0003#2	EX	Sudden breathlessness, itching, rash and hypotension with warm peripheries after a sting while gardening is anaphylactic shock.
+extraemq-0003#3	KEY	F
+extraemq-0003#3	EX	A fall from height with flaccid limbs suggests a high spinal cord injury; loss of sympathetic tone causes neurogenic shock (hypotension, bradycardia, warm peripheries).
+extraemq-0003#4	KEY	C
+extraemq-0003#4	EX	Hypotension, confusion and vasoconstriction in a high-risk patient with a quiet abdomen after surgery suggests pump failure (perioperative MI): cardiogenic shock.
+extraemq-0003#5	KEY	D
+extraemq-0003#5	EX	Hypotension, anuria and hypoxia 12 hours after a total gastrectomy suggest reactionary haemorrhage causing hypovolaemic shock.
+extraemq-0003#6	KEY	G
+extraemq-0003#6	EX	Pain, jaundice, fever with rigors and a hyperdynamic circulation is ascending cholangitis causing septic shock.
+extraemq-0003#7	KEY	B
+extraemq-0003#7	EX	Jehovah's Witnesses refuse allogeneic blood; options include autologous techniques such as cell salvage (some accept it if kept in continuity), so check individual wishes.
+extraemq-0004#1	STEM	A 68-year-old man complains of increasing dysphagia of 3 months' duration and has lost 25 kg in weight. Endoscopic biopsy confirms oesophageal carcinoma and CT shows no metastases. Which investigation best assesses the local (T and N) stage?
+extraemq-0004#1	EX	Endoscopic ultrasound is the most accurate test for depth of oesophageal wall invasion (T) and regional nodes (N) once CT has excluded metastases.
+extraemq-0004#2	EX	Back pain in confirmed prostate cancer suggests bone metastases; a radionuclide (isotope) bone scan surveys the whole skeleton.
+extraemq-0004#3	EX	A painful, deformed ankle after injury is a suspected fracture-dislocation: plain X-ray (after urgent reduction if the foot is threatened).
+extraemq-0004#4	EX	A haemodynamically stable patient after blunt thoraco-abdominal trauma is best assessed by contrast-enhanced CT for solid-organ and vascular injury.
+extraemq-0004#5	EX	Intraoperative ultrasound of the liver detects small occult metastases and defines their relation to vessels during resection of colorectal liver metastases.
+extraemq-0004#6	EX	PET-CT is the standard staging investigation for lymphoma, showing metabolically active nodal and extranodal disease.
+extraemq-0004#7	EX	RUQ pain, fever and a positive Murphy's sign suggest acute cholecystitis; ultrasound is the first-line investigation.
+extraemq-0004#8	EX	A hard, fixed, growing deep soft-tissue mass suggests sarcoma; MRI is the best test for local staging before core biopsy.
+extraemq-0006#1	EX	A femoral fracture with tachycardia, hypotension and flat neck veins after trauma means blood loss: hypovolaemic shock.
+extraemq-0006#2	EX	Sudden breathlessness, hypotension and erythema at the cannula site soon after IV drugs (e.g. antibiotics) suggests anaphylaxis.
+extraemq-0006#3	STEM	A 68-year-old patient who had an abdominal aortic aneurysm repair was in significant pain postoperatively and was seen by the acute pain team about 15 minutes ago. His blood pressure has now dropped to 90/50 mmHg with a pulse of 60/min; he is slightly dizzy, though urine output is adequate and CVP is +12.
+extraemq-0006#3	EX	Hypotension with bradycardia and a normal CVP just after an epidural top-up reflects sympathetic blockade (neurogenic-type shock), not hypovolaemia.
+extraemq-0006#4	EX	Collapse with a rigid abdomen, fever and tachycardia suggests perforation with peritonitis causing septic shock.
+extraemq-0007	OPTS	Hyperkalaemia|Iron overload|Transfusion-related acute lung injury|Hypothermia|Non-haemolytic febrile reaction|Haemolytic transfusion reaction|Thrombophlebitis|Air embolus|Delayed haemolytic transfusion reaction|Hypocalcaemia|Viral infection|Circulatory overload
+extraemq-0007#1	KEY	L
+extraemq-0007#1	EX	Breathlessness with bibasal crackles in an elderly patient after several units is transfusion-associated circulatory overload: stop, sit up and give a diuretic.
+extraemq-0007#2	EX	Fever, tachycardia, hypotension, headache and loin/abdominal pain within minutes of starting red cells is an acute haemolytic (usually ABO-incompatible) reaction.
+extraemq-0007#3	EX	Jaundice 5–10 days after transfusion is a delayed haemolytic reaction from an anamnestic antibody response to a minor red-cell antigen.
+extraemq-0007#4	STEM	A 24-year-old patient is noted to be flushed a few minutes after starting a red cell transfusion; temperature is 37.8°C and observations are otherwise stable.
+extraemq-0007#4	EX	Isolated mild fever and flushing with stable observations is a non-haemolytic febrile reaction (cytokines/leucocyte antibodies): slow the transfusion and give paracetamol.
+extraemq-0008	OPTS	Scalp haematoma|Concussion syndrome|Diffuse axonal injury|Basal skull fracture|Subarachnoid haemorrhage|Subdural haematoma|Post-concussive syndrome|Cerebral contusion|Extradural haemorrhage
+extraemq-0008#1	KEY	H
+extraemq-0008#1	EX	Small areas of frontal haemorrhage on CT after an assault with a slowly falling GCS (oedema around the bruise) is a cerebral contusion.
+extraemq-0008#2	EX	A crescentic (concave) hyperdense collection with fluctuating consciousness after a fall in an elderly patient is an acute subdural haematoma.
+extraemq-0008#3	STEM	A 42-year-old man is found unconscious on the street with bruising around both eyes and a clear nasal discharge.
+extraemq-0008#3	EX	Bilateral periorbital (raccoon) bruising with CSF rhinorrhoea indicates an anterior basal skull fracture.
+extraemq-0008#4	STEM	A 25-year-old was involved in a high-speed road traffic accident 48 hours ago. He has been comatose since the injury. There are no major abnormalities on CT.
+extraemq-0008#4	KEY	C
+extraemq-0008#4	EX	Coma from the moment of a high-speed (acceleration–deceleration) injury with a near-normal CT is diffuse axonal injury; MRI shows the shearing lesions.
+extraemq-0009	OPTS	Isolated rib fracture|Aortic transection|Simple pneumothorax|Flail chest|Pulmonary contusion|Cardiac tamponade|Haemothorax|Diaphragmatic rupture|Diaphragmatic contusion|Myocardial contusion|Pleural effusion|Tension pneumothorax
+extraemq-0009#1	KEY	L
+extraemq-0009#1	EX	Respiratory distress, poor right-sided expansion, tracheal deviation to the left and distended neck veins is a right tension pneumothorax.
+extraemq-0009#2	STEM	A 45-year-old patient involved in a road traffic accident presents with bruising all over the chest and exhibits shallow tachypnoea with indrawing of the chest wall.
+extraemq-0009#2	EX	Paradoxical indrawing of a chest-wall segment after blunt trauma is a flail chest (two or more ribs each broken in two places).
+extraemq-0009#3	STEM	A 45-year-old man is stabbed in the right side of the chest. Chest X-ray shows a whiteout of the right lung field.
+extraemq-0009#3	KEY	G
+extraemq-0009#3	EX	A penetrating chest wound with whiteout of the hemithorax on an erect film is a haemothorax: chest drain, thoracotomy if ≥1500 mL.
+extraemq-0009#4	STEM	A 26-year-old man is brought to A&E in extremis after a single stab wound to the left side of the chest. He is tachypnoeic, heart sounds are muffled and blood pressure is 90/55 mmHg despite IV fluid resuscitation.
+extraemq-0009#4	KEY	F
+extraemq-0009#4	EX	A left chest stab wound with muffled heart sounds and hypotension unresponsive to fluid is cardiac tamponade.
+extraemq-0015#1	EX	A red, swollen, tender groin wound 5 days after hernia repair is a surgical site infection, which typically appears 5–7 days postoperatively.
+extraemq-0015#2	EX	Massive tympanitic colonic distension without tenderness, an empty rectum and reduced bowel sounds after orthopaedic surgery is acute colonic pseudo-obstruction (Ogilvie).
+extraemq-0015#3	EX	Low-grade pyrexia, tachycardia, hypoxia and reduced breath sounds at a base within 48 hours of laparotomy is basal atelectasis.
+extraemq-0015#4	EX	Sudden pain, fever, hypotension, peritonism and wound discharge 4 days after anterior resection is anastomotic leak (dehiscence).
+extraemq-0015#5	EX	Calf discomfort, low-grade fever and asymmetrical (right > left) ankle oedema a week after pelvic cancer surgery is deep vein thrombosis.
+extraemq-0016#1	EX	An ejection systolic murmur in the aortic area suggests aortic stenosis, which must be assessed by echocardiography before anaesthesia.
+extraemq-0016#2	EX	Poorly controlled asthma should be assessed with spirometry (peak flow/FEV1) and optimised before elective surgery.
+extraemq-0016#3	EX	Obstructive jaundice impairs vitamin K absorption, so a clotting screen (INR) is essential before ERCP and sphincterotomy.
+extraemq-0016#4	EX	Transient monocular blindness and arm weakness are TIA symptoms; carotid Doppler is needed to detect significant stenosis before cardiac surgery.
+extraemq-0017#1	EX	A tense, transilluminable swelling in which the testis cannot be felt separately is a hydrocele (scan the testis, as a tumour can cause a secondary hydrocele).
+extraemq-0017#2	EX	A lump arising from the testis in a young man with weight loss is a testicular tumour until proven otherwise: ultrasound and tumour markers.
+extraemq-0017#3	EX	A scrotal swelling one cannot get above, with a cough impulse and no transillumination, is an inguinoscrotal (indirect) hernia.
+extraemq-0017#4	EX	A left-sided 'bag of worms' that empties on lying down is a varicocele (dilated pampiniform plexus).

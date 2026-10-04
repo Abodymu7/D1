@@ -1,0 +1,24 @@
+bbreast-0001	EX	A hard, tethered, tender lump with bruising after trauma is fat necrosis; it mimics carcinoma clinically, so triple assessment (imaging ± core biopsy) is still required.
+bbreast-0013	DUP	bbreast-0001
+bbreast-0020	KEY	D
+bbreast-0020	EX	A simple cyst (smooth wall, anechoic) after triple assessment needs no follow-up: aspirate if symptomatic and discharge; complex or recurrent cysts need biopsy.
+bbreast-0022	KEY	C
+bbreast-0022	EX	A core-biopsy-proven fibroadenoma under 3 cm can be left; excision is offered by patient choice or if large, growing or symptomatic. Family history alone is not an indication.
+bca-0002	STEM	Which of the following statements are false? (Carcinoma of the breast)
+bca-0003	STEM	Which of the following statements are true? (Carcinoma of the breast)
+bca-0004	KEY	AC
+bca-0004	EX	False: post-menopausal ER-positive women may still need chemotherapy, and anthracycline/taxane regimens beat cyclophosphamide alone. Neoadjuvant chemotherapy does increase breast conservation.
+bca-0011	STEM	A 35-year-old woman with a strong family history of breast cancer (including a sister with a deleterious BRCA1 mutation) is found to carry the same mutation. Which range represents the lifetime risk of breast cancer that should be quoted to her?
+bca-0011	OPTS	0–30%|10–40%|20–50%|50–80%|70–100%
+bca-0011	KEY	D
+bca-0011	EX	BRCA1 carriers have a lifetime breast cancer risk of about 60–70% (quoted as 50–80%), with a high risk of ovarian cancer too.
+bca-0012	STEM	For the same patient with a BRCA1 mutation, which of the following management strategies is an accepted option for her high-risk status?
+bca-0012	OPTS	Yearly self-breast examination|Six-monthly mammography|Bilateral breast irradiation|Prophylactic unilateral mastectomy|Chemoprevention with tamoxifen
+bca-0012	KEY	E
+bca-0012	EX	Options for BRCA carriers are annual MRI (± mammography) surveillance, chemoprevention (tamoxifen) and bilateral risk-reducing mastectomy ± salpingo-oophorectomy; unilateral mastectomy is not enough.
+bca-0024	STEM	A 47-year-old woman is diagnosed with a unifocal 2.5-cm grade 3 invasive ductal carcinoma of the right breast with a clinically and sonographically normal axilla. Following MDT discussion, which of the following is the most appropriate management plan?
+bca-0024	EX	A unifocal tumour suitable for breast conservation with a negative axilla: wide local excision with sentinel node biopsy, then radiotherapy and systemic therapy by histology.
+bca-0035	EX	Inflammatory breast cancer (dermal lymphatic invasion) is treated with trimodality therapy: neoadjuvant chemotherapy, modified radical mastectomy, then radiotherapy.
+bca-0052	EX	Standard regimens are anthracycline–cyclophosphamide followed by a taxane, with trastuzumab/pertuzumab added for HER2-positive disease (e.g. TCHP).
+bca-0055	EX	The NHS Breast Screening Programme invites women aged 50 to 70 (up to their 71st birthday) for mammography every 3 years.
+bca-0057	EX	A 4-cm node-negative well-differentiated tumour is T2N0 (stage IIA); about 70% 5-year survival in the source (higher with modern adjuvant therapy).

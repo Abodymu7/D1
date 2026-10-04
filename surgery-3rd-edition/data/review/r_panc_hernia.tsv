@@ -1,0 +1,116 @@
+panc-0001	STEM	A patient with known gallstones and mild jaundice is rushed into the emergency department with severe diffuse abdominal pain, nausea and vomiting. The abdomen is tender with some rigidity in its upper part; bowel sounds are present. Pulse 108/min, BP 105/70 mmHg, respiratory rate 32/min. What is the most likely diagnosis?
+panc-0001	EX	Severe upper abdominal pain with rigidity, tachycardia and tachypnoea in a jaundiced patient with gallstones indicates acute biliary pancreatitis from a CBD stone.
+panc-0002	STEM	In this patient with suspected acute pancreatitis, which TWO initial investigations best establish the diagnosis?
+panc-0002	EX	Serum lipase or amylase >3 times normal with typical pain makes the diagnosis; CT confirms it when in doubt and later assesses necrosis.
+panc-0003	STEM	How can acute pancreatitis be confirmed radiologically in this patient?
+panc-0003	EX	Contrast-enhanced CT shows a diffusely enlarged, oedematous pancreas with peripancreatic stranding and, after 72 h, any necrosis.
+panc-0004	STEM	What is the treatment of this patient with severe acute biliary pancreatitis?
+panc-0004	OPTD	Admission to HDU/ICU with fluid resuscitation and analgesia, then ERCP (for cholangitis or persisting obstruction) and cholecystectomy for definitive treatment
+panc-0004	EX	Severe biliary pancreatitis needs monitored resuscitation and analgesia; ERCP for cholangitis/obstruction and cholecystectomy on recovery prevent recurrence.
+panc-0005	STEM	A 33-year-old woman has severe upper abdominal pain with radiation to the back within 24 hours of removing gallstones in the common bile duct by endoscopic retrograde cholangiopancreatography (ERCP). The pain is eased when she leans forward. She reports some nausea and vomiting but denies any diarrhoea. Jaundice is noted and the epigastric region is tender on palpation. Her blood pressure is 120/80 mmHg, and temperature is 37.3°C. What is the SINGLE most likely reason for her signs and symptoms?
+panc-0008	OPTD	The islets of Langerhans contain several hormone-producing cell types (alpha, beta, delta and PP cells).
+panc-0009	EX	A and C are false: amylase is not specific (also raised in perforation, ischaemia) and urinary amylase/clearance ratio is unreliable; lipase is more sensitive and specific.
+panc-0011	KEY	BCDE
+panc-0011	EX	A is false: pancreatic injury is uncommon in blunt trauma; it usually accompanies liver, spleen or duodenal injury, and CECT and ERCP/MRCP define duct damage.
+panc-0013	EX	Amylase may be normal with late presentation, hypertriglyceridaemia or acute-on-chronic disease, and its level does not reflect severity.
+panc-0015	EX	A is false: pancreatitis follows about 3–5% of ERCPs (more after therapeutic procedures); cardiac surgery, gastrectomy and retained CBD stones are recognised causes.
+panc-0017	KEY	ADE
+panc-0017	EX	Grey Turner's (flank) and Cullen's (periumbilical) bruising occur, and hypocalcaemia may give Trousseau's sign; Courvoisier's and Murphy's signs are biliary.
+panc-0021	CH	acute
+panc-0021	OPTA	Establish large-bore intravenous access, cross-match blood and begin cautious (permissive hypotensive) resuscitation
+panc-0021	EX	A shocked patient with a pulsatile mass has a ruptured AAA: secure IV access, cross-match and resuscitate to permissive hypotension en route to theatre; CT only if stable.
+panc-0024	OPTD	Lactate dehydrogenase
+panc-0028	OPTA	5-aminosalicylic acid (mesalazine)
+panc-0031	STEM	A 50-year-old woman with known gallstones presents with severe epigastric pain radiating to the back together with nausea and vomiting. Examination reveals localised epigastric peritonitis and investigations reveal an amylase of 650 IU/L. Which of the following would indicate a poor prognosis in this condition?
+panc-0031	OPTA	Amylase of 650 IU/L
+panc-0031	OPTE	White cell count of 10 × 10⁹/L
+panc-0035	EX	Painless progressive jaundice with weight loss and a palpable gallbladder (Courvoisier's law) suggests carcinoma of the pancreatic head.
+panc-0039	EX	One point per Glasgow criterion (age >55, WCC >15, glucose >10, urea >16, PaO2 <8 kPa, Ca <2, albumin <32, LDH >600); this patient meets three.
+panc-0042	EX	Raised cyst-fluid CEA indicates a mucinous (premalignant) cystic neoplasm; a symptomatic body/tail lesion in a fit patient is treated by distal pancreatectomy.
+panc-0043	CH	hernia
+panc-0043	EX	Sudden RIF pain on exertion with a tender abdominal wall mass on ultrasound suggests rectus sheath haematoma from inferior epigastric vessel rupture.
+panc-0050	EX	Total pancreatectomy removes all endocrine and exocrine tissue, causing brittle diabetes and steatorrhoea needing insulin and enzyme replacement.
+panc-0051	STEM	A 23-year-old woman presents with epigastric abdominal pain and nausea. She is afebrile with normal vital signs. On laboratory results she has no leukocytosis with normal levels of bilirubin and alkaline phosphatase. The amylase and lipase are elevated. Ultrasound demonstrates gallstones, normal gallbladder wall thickness, no pericholecystic fluid, and a common bile duct of 3 mm. What is the most likely diagnosis?
+panc-0053	EX	Periumbilical bruising (Cullen's sign) reflects retroperitoneal haemorrhage, e.g. haemorrhagic pancreatitis; flank bruising is Grey Turner's sign.
+panc-0054	CH	gitum
+panc-0054	EX	Weight loss with a Virchow node (and a heliotrope rash of paraneoplastic dermatomyositis) suggests gastric cancer; endoscopy with biopsy confirms it.
+hernia-0001	STEM	An obese woman with a strangulated paraumbilical hernia causing small bowel obstruction undergoes emergency surgery, and a segment of gangrenous small bowel is resected. What is the best surgical option for the hernia now, and why?
+hernia-0001	OPTC	Herniotomy with suture repair (herniorrhaphy); mesh avoided because of the high infection risk in a contaminated field
+hernia-0001	EX	After resecting gangrenous bowel the field is contaminated, so a sutured repair is preferred; a permanent synthetic mesh carries a high infection risk.
+hernia-0001	NOTES	Essay case sequence lost its scenario; logical order is hernia-0002, 0003, 0004, then 0001. Stems rewritten to stand alone.
+hernia-0002	STEM	An obese middle-aged woman presents with a reducible swelling just above the umbilicus that has slowly enlarged over several months. What is the cause of this mass?
+hernia-0002	OPTB	Paraumbilical hernia due to obesity and raised intra-abdominal pressure
+hernia-0002	EX	A reducible swelling beside the umbilicus in an obese adult is a paraumbilical hernia through the linea alba, promoted by raised intra-abdominal pressure.
+hernia-0003	STEM	Which THREE clinical signs best confirm that this supraumbilical swelling is a paraumbilical hernia?
+hernia-0003	OPTB	Palpable lump above the umbilicus, reducibility and an expansile cough impulse
+hernia-0003	EX	A hernia is a lump that reduces and has an expansile cough impulse; redness and tenderness suggest strangulation rather than confirm a hernia.
+hernia-0004	STEM	The same woman later develops bilious vomiting and central colicky abdominal pain with distension; the hernia is now tense, tender and irreducible. Her X-ray is shown. What is the study, what does it show, and what is the most likely diagnosis?
+hernia-0004	EX	Dilated central small-bowel loops with air–fluid levels on an erect abdominal film, with a tender irreducible hernia, indicate obstruction from a strangulated paraumbilical hernia.
+hernia-0005	EX	Moderate hypothyroidism raises anaesthetic risk (hypothermia, hypotension, slow recovery), so elective surgery is postponed until euthyroid.
+hernia-0006	EX	A femoral hernia (femoral triangle lump in an elderly woman) has a high strangulation risk through its narrow neck, so prompt repair is advised.
+hernia-0007	EX	A lump below and lateral to the pubic tubercle may be a femoral hernia, saphena varix or node; a Spigelian hernia lies far higher, at the lateral rectus border.
+hernia-0008	EX	C and D are false: a hernia (e.g. femoral, obturator) can easily be missed, and an inebriated patient may still have serious surgical pathology.
+hernia-0009	EX	B and C are false: inguinal hernia remains the commonest hernia in women, and a femoral hernia lies below and lateral to the pubic tubercle.
+hernia-0010	EX	A and B are false: mesh is standard but not mandatory (e.g. Shouldice in selected cases), and Lichtenstein does not have the lowest recurrence of all repairs.
+hernia-0011	EX	A, B and D are false: mesh may be used selectively in contaminated fields, it acts as a scaffold for tissue ingrowth, and plain polypropylene causes intraperitoneal adhesions.
+hernia-0012	EX	A, C and E are false: laparoscopic repair is used, femoral hernia risk rises after open inguinal repair, and the femoral vein (not nerve) is at risk.
+hernia-0013	OPTA	Incisional hernias never develop more than 2 years after the original surgery.
+hernia-0013	OPTE	Laparoscopic mesh repair of incisional hernia has a lower wound infection rate than open mesh repair.
+hernia-0013	EX	A and B are false: incisional hernias can appear many years later, and Jenkins' 4:1 suture-length rule remains valid (now with small bites).
+hernia-0014	OPTS	Sliding hiatal hernia|Hernia of Bochdalek|Hernia of Morgagni|Paraoesophageal hernia|Eventration of the diaphragm
+hernia-0014	EX	Acute pain and vomiting in an elderly patient with a hiatus hernia suggest an obstructed or volvulised paraoesophageal (rolling) hernia; sliding hernias rarely obstruct.
+hernia-0015	OPTS	Laparotomy or laparoscopy and operative repair|Continued NG tube decompression and total parenteral nutrition (TPN)|Thoracotomy or thoracoscopy and operative repair|Endotracheal intubation and ventilatory support|Upper endoscopy
+hernia-0015	EX	An obstructed paraoesophageal hernia risks strangulation and needs prompt (usually laparoscopic) reduction, sac excision and crural repair after decompression.
+hernia-0016	OPTS	Incarcerated direct inguinal hernia|Lymph node with abscess|Femoral artery aneurysm|Incarcerated indirect inguinal hernia|Incarcerated femoral hernia
+hernia-0016	EX	A tender bulge below the inguinal ligament in an elderly woman with coughing (pneumonia) is an incarcerated femoral hernia.
+hernia-0017	OPTS	Non-communicating hydrocele|Inguinal adenitis|Reducible inguinal hernia|Incarcerated inguinal hernia|Undescended testes
+hernia-0017	EX	An intermittent, reducible inguinal bulge in an infant is an indirect inguinal hernia through a patent processus vaginalis.
+hernia-0018	OPTS	Antibiotics|Reassurance that the abnormality will resolve without intervention|Referral to the ED for immediate surgical consultation|Referral for elective surgical repair|Scrotal support
+hernia-0018	EX	Infant inguinal hernias do not resolve and carry a high incarceration risk, so prompt elective herniotomy is arranged.
+hernia-0019	OPTS	Urgent surgical exploration|Systemic antibiotics|Elective surgical repair|Sedation with manual reduction and arrangements for elective surgical repair|Sedation with manual reduction, admission, rehydration, and surgical repair within 24–48 hours
+hernia-0019	EX	An incarcerated infant hernia without peritonitis is reduced under sedation, then repaired within 24–48 h once oedema settles, as re-incarceration is common.
+hernia-0023	EX	Necrotic bowel in the sac means its blood supply has been cut off: a strangulated hernia. Irreducible or obstructed hernias have viable contents.
+hernia-0024	EX	A tense, tender, red, irreducible hernia with obstruction is strangulated: resuscitate and operate urgently; do not attempt reduction or delay for imaging.
+hernia-0025	CH	paed
+hernia-0034	EX	Maydl's hernia has two loops (W) in the sac; the intervening intra-abdominal loop may strangulate unseen, so it must be checked at surgery.
+hernia-0039	DUP	hernia-0006
+hernia-0045	STEM	A 67-year-old male has a swelling in the right groin that appears and disappears. It lies above and medial to the pubic tubercle and protrudes on coughing. It reappears despite pressure over the deep inguinal ring. What hernia is this most likely to be?
+hernia-0049	OPTS	Epigastric hernia|Spigelian hernia|Umbilical hernia|Femoral hernia|Paraumbilical hernia
+hernia-0049	KEY	C
+hernia-0049	EX	A swelling through the umbilical scar present since birth is a persistent congenital umbilical hernia; paraumbilical hernias are acquired, beside the umbilicus.
+abdemq-0001#4	EX	Dyspnoea, tachycardia and haemoptysis with a swollen leg 5 days after surgery indicate DVT with pulmonary embolism.
+abdemq-0002	THEME	Pancreatic endocrine tumours
+abdemq-0002	OPTS	Insulinoma|Carcinoid|Gastrinoma|Glucagonoma|Non-functioning tumour|PPoma|Somatostatinoma|VIPoma
+abdemq-0002#1	EX	Secretory watery diarrhoea unresponsive to treatment with a pancreatic mass is a VIPoma (Verner–Morrison syndrome, pancreatic cholera).
+abdemq-0002#2	EX	Recurrent faints from fasting hypoglycaemia, with obesity from frequent eating and a small pancreatic mass, suggest an insulinoma.
+abdemq-0002#3	EX	Diabetes, gallstones and steatorrhoea form the inhibitory triad of a somatostatinoma, usually in the pancreatic head.
+abdemq-0002#5	EX	Refractory duodenal ulceration with a duodenal wall mass in the gastrinoma triangle indicates a gastrinoma (Zollinger–Ellison syndrome).
+abdemq-0003	DUP	gitemq-0051
+abdemq-0004#2	STEM	A 58-year-old man complains of malaise, bilateral backache, nausea and occasional vomiting for 2 months. Clinically there is nothing significant except for bilateral hydroceles, of which the patient was not aware. Routine blood tests reveal: Hb 10 g/dL, ESR 88, CRP 292, urea 22 mmol/L, creatinine 256 µmol/L, K 6.1 mmol/L, Na 135 mmol/L, Cl 98 mmol/L and HCO₃ 18 mmol/L.
+abdemq-0005#1	EX	Collapse with an expansile, pulsatile mass above the umbilicus is a ruptured abdominal aortic aneurysm until proven otherwise.
+abdemq-0005#2	EX	Dyspepsia, weight loss, an epigastric mass and a left supraclavicular (Virchow) node indicate gastric carcinoma.
+abdemq-0005#3	EX	Iron-deficiency (microcytic) anaemia with a right iliac fossa mass in an elderly patient is caecal carcinoma.
+abdemq-0005#4	EX	Menorrhagia with a knobbly mass arising from the pelvis indicates uterine fibroids (leiomyomas).
+abdemq-0005#5	EX	A thick-walled fluid collection next to the pancreas in an alcoholic with pancreatitis is a pseudocyst.
+abdemq-0006	THEME	Splenomegaly
+abdemq-0006#1	EX	Rheumatoid arthritis with splenomegaly and neutropenia (low WCC) is Felty's syndrome.
+abdemq-0006#2	EX	Fever, sore throat, posterior cervical nodes, palatal petechiae and a rash after ampicillin indicate EBV infectious mononucleosis.
+abdemq-0006#3	KEY	A
+abdemq-0006#3	EX	Periodic fever, anaemia, jaundice and splenomegaly after travel to India suggest malaria.
+abdemq-0006#4	EX	Tender hepatosplenomegaly, ascites and jaundice with recurrent miscarriage (antiphospholipid syndrome) suggest Budd–Chiari hepatic vein thrombosis.
+abdemq-0006#5	EX	Gallstones, anaemia, splenomegaly and spherocytes with a negative direct Coombs test indicate hereditary spherocytosis.
+abdemq-0007	THEME	Pancreatic tumours
+abdemq-0007#1	EX	Fasting/exercise-induced faintness and sweating relieved by eating (Whipple's triad) suggests an insulinoma.
+abdemq-0007#2	EX	Profuse watery diarrhoea with hypokalaemia and dehydration despite negative stool cultures suggests a VIPoma.
+abdemq-0007#3	EX	Diabetes, weight loss and necrolytic migratory erythema (blistering rash) indicate a glucagonoma.
+abdemq-0007#5	STEM	A 48-year-old woman presents with a long history of foul-smelling, bulky stools that are becoming more frequent and severe. She also reports increased thirst and passing large amounts of dilute urine. On examination, she appears thin and wasted but there is no other abnormality.
+abdemq-0007#5	KEY	E
+abdemq-0007#5	EX	Steatorrhoea plus diabetes (thirst, polyuria) and weight loss form the inhibitory syndrome of a somatostatinoma.
+abdemq-0008	DUP	gitemq-0061
+abdemq-0010#1	STEM	A 12-year-old boy undergoing open excision of an appendix mass secondary to acute appendicitis through an oblique muscle-splitting incision centred on McBurney's point.
+abdemq-0010#1	EX	The gridiron is an oblique muscle-splitting incision through McBurney's point; the Lanz is a more transverse skin-crease version.
+abdemq-0010#2	STEM	A 28-year-old woman with acute lower abdominal pain from a suspected ruptured ovarian cyst is undergoing a diagnostic procedure to confirm the diagnosis.
+abdemq-0010#3	STEM	A 43-year-old woman undergoing hysterectomy for intermenstrual bleeding secondary to uterine leiomyomas (‘fibroids’).
+abdemq-0012#1	EX	Epigastric/right-sided pain for 48 h with fever, tachycardia and leucocytosis but no jaundice indicates acute cholecystitis.
+abdemq-0012#2	EX	Sudden severe pain radiating to the flank and back with faintness in an elderly man is a leaking AAA until proven otherwise; renal colic does not cause collapse.
+abdemq-0012#3	EX	Three days of LIF pain with low-grade fever suggests sigmoid diverticulitis; adjacent bladder inflammation explains dysuria and urinary blood/protein.

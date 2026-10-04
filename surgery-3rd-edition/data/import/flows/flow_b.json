@@ -1,0 +1,1429 @@
+{
+ "saliv": [
+  {
+   "type": "flowchart",
+   "title": "Salivary gland lump (parotid / submandibular)",
+   "source": "BAHNO/ENT UK 2020 · NICE NG36 · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Discrete, persistent lump in the parotid or submandibular region"
+    },
+    {
+     "k": "step",
+     "t": "Examine **facial nerve function**, skin fixation, deep-lobe (parapharyngeal) extension, neck nodes; 80% rule: parotid, benign, pleomorphic"
+    },
+    {
+     "k": "step",
+     "t": "**Ultrasound + US-guided FNAC or core biopsy**; never open/incisional biopsy (seeding, nerve injury)"
+    },
+    {
+     "k": "step",
+     "t": "MRI if deep lobe, malignant cytology or fixed; CT neck/chest for staging malignancy; discuss at head & neck MDT"
+    },
+    {
+     "k": "split",
+     "q": "Diagnosis?",
+     "br": [
+      {
+       "l": "Pleomorphic adenoma",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Superficial parotidectomy** or extracapsular dissection with nerve monitoring; submandibular → gland excision"
+        },
+        {
+         "k": "end",
+         "t": "Never enucleate: pseudopod capsule → recurrence; untreated ~5–10% become carcinoma ex-pleomorphic"
+        }
+       ]
+      },
+      {
+       "l": "Warthin tumour",
+       "n": [
+        {
+         "k": "end",
+         "t": "Older smoker, often bilateral, hot on scintigraphy → **observe** if cytology certain, or excise if symptomatic"
+        }
+       ]
+      },
+      {
+       "l": "Malignant (pain, CN VII palsy, fixity)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**(Total) parotidectomy, preserving the nerve unless involved**; neck dissection if N+ or high grade"
+        },
+        {
+         "k": "end",
+         "t": "Post-op radiotherapy if high grade, close margins, T3–4, perineural invasion · mucoepidermoid commonest, adenoid cystic spreads along nerves"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Parotidectomy risks: facial palsy (temporary 20–40%, permanent < 2%), **Frey syndrome** (gustatory sweating), sialocele, earlobe numbness"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Painful swelling with meals: stones and sialadenitis",
+   "source": "ENT UK · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Recurrent gland swelling and pain with eating (salivary colic) ± fever, pus at duct"
+    },
+    {
+     "k": "step",
+     "t": "Exclude dental abscess and reactive lymphadenitis; check hydration, glucose and drugs that dry the mouth"
+    },
+    {
+     "k": "step",
+     "t": "Bimanual palpation of floor of mouth, inspect duct orifice; **ultrasound first line** (sialography/sialendoscopy, CT if needed)"
+    },
+    {
+     "k": "split",
+     "q": "What is it?",
+     "br": [
+      {
+       "l": "Acute suppurative sialadenitis",
+       "n": [
+        {
+         "k": "step",
+         "t": "Dehydrated, elderly, post-op, poor oral hygiene; *Staph. aureus*"
+        },
+        {
+         "k": "step",
+         "t": "**Rehydrate, oral hygiene, sialogogues, massage + IV/oral flucloxacillin or co-amoxiclav**; pus for culture"
+        },
+        {
+         "k": "end",
+         "t": "Abscess on US → aspirate / incise (protect facial nerve)"
+        }
+       ]
+      },
+      {
+       "l": "Stone (80% submandibular)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Distal, palpable stone → **transoral duct incision and removal**"
+        },
+        {
+         "k": "step",
+         "t": "Proximal/hilar → sialendoscopy ± laser or extracorporeal lithotripsy"
+        },
+        {
+         "k": "end",
+         "t": "Intraglandular or recurrent with fibrosis → **submandibular gland excision** (protect marginal mandibular, lingual, hypoglossal nerves)"
+        }
+       ]
+      },
+      {
+       "l": "Viral / bilateral parotitis",
+       "n": [
+        {
+         "k": "end",
+         "t": "Mumps: supportive, isolate, check for orchitis/pancreatitis; consider HIV (cysts), sarcoid, Sjögren"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Chronic sialadenitis: sialogogues, hydration, massage; sialendoscopy dilatation of strictures; gland excision only if refractory"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Other swellings and dry mouth",
+   "source": "BSR 2017 Sjögren · ACR/EULAR 2016 criteria · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Floor-of-mouth/lip cyst, diffuse bilateral enlargement or xerostomia"
+    },
+    {
+     "k": "step",
+     "t": "Bimanual exam, drug history (anticholinergics), alcohol, diabetes, eating disorder; **ultrasound** first-line imaging"
+    },
+    {
+     "k": "split",
+     "q": "Pattern",
+     "br": [
+      {
+       "l": "Lip cyst (mucocele)",
+       "n": [
+        {
+         "k": "end",
+         "t": "Lower lip after trauma; may resolve → **excise with underlying minor glands** if persistent"
+        }
+       ]
+      },
+      {
+       "l": "Floor-of-mouth cyst / neck swelling",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Ranula** (sublingual gland); plunging if through mylohyoid → MRI/US"
+        },
+        {
+         "k": "end",
+         "t": "**Excise the sublingual gland** (± cyst) via mouth; marsupialisation alone recurs"
+        }
+       ]
+      },
+      {
+       "l": "Diffuse painless bilateral",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Sialadenosis**: alcohol, diabetes, malnutrition/bulimia, drugs → treat cause; exclude HIV, sarcoid, lymphoma"
+        }
+       ]
+      },
+      {
+       "l": "Dry eyes + dry mouth",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Sjögren**: anti-Ro/La, Schirmer test, labial gland biopsy, US; sialometry"
+        },
+        {
+         "k": "end",
+         "t": "Saliva substitutes, pilocarpine, dental care; watch for **MALT lymphoma** (persistent gland enlargement)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Minor salivary gland lump on palate: majority malignant → biopsy and wide excision"
+    }
+   ]
+  }
+ ],
+ "oeso": [
+  {
+   "type": "flowchart",
+   "title": "Dysphagia",
+   "source": "NICE NG12 · Chicago Classification 4.0 · ESNM/UEG 2020 achalasia",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Difficulty swallowing (oesophageal) or choking/coughing on swallow (oropharyngeal)"
+    },
+    {
+     "k": "step",
+     "t": "**Dysphagia at any age = urgent direct-access OGD (2-week wait)** to exclude cancer; biopsy any lesion"
+    },
+    {
+     "k": "step",
+     "t": "OGD normal → biopsies for eosinophils; then barium swallow and **high-resolution manometry**; videofluoroscopy if oropharyngeal"
+    },
+    {
+     "k": "split",
+     "q": "Diagnosis?",
+     "br": [
+      {
+       "l": "Achalasia",
+       "n": [
+        {
+         "k": "step",
+         "t": "Absent peristalsis + incomplete LOS relaxation (HRM types I–III); bird’s beak on barium"
+        },
+        {
+         "k": "step",
+         "t": "**Pneumatic dilatation, laparoscopic Heller myotomy + Dor fundoplication or POEM** (POEM best for type III)"
+        },
+        {
+         "k": "end",
+         "t": "Botox if unfit · lifelong ↑ SCC risk"
+        }
+       ]
+      },
+      {
+       "l": "Eosinophilic oesophagitis",
+       "n": [
+        {
+         "k": "step",
+         "t": "≥ 15 eosinophils/hpf; young atopic man, food bolus, rings/furrows"
+        },
+        {
+         "k": "end",
+         "t": "**PPI, orodispersible budesonide** or elimination diet; dilate strictures; dupilumab if refractory"
+        }
+       ]
+      },
+      {
+       "l": "Pharyngeal pouch",
+       "n": [
+        {
+         "k": "end",
+         "t": "Elderly, regurgitation, halitosis, gurgling → **endoscopic stapling** or open cricopharyngeal myotomy ± excision"
+        }
+       ]
+      },
+      {
+       "l": "Peptic stricture",
+       "n": [
+        {
+         "k": "end",
+         "t": "Endoscopic balloon dilatation + long-term PPI"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Food bolus obstruction: urgent OGD (within 24 h, < 6 h if total obstruction/drooling); biopsy afterwards to exclude EoE"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "GORD, hiatus hernia and Barrett’s oesophagus",
+   "source": "NICE CG184 · BSG 2014 Barrett’s · ESGE 2023 Barrett’s",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Heartburn and regurgitation"
+    },
+    {
+     "k": "step",
+     "t": "Lifestyle: weight loss, stop smoking, raise bed head, avoid late meals; **full-dose PPI for 4–8 weeks**"
+    },
+    {
+     "k": "step",
+     "t": "Alarm features (dysphagia, weight loss, ≥ 55 with symptoms) or refractory → **OGD**"
+    },
+    {
+     "k": "split",
+     "q": "Refractory / considering surgery",
+     "br": [
+      {
+       "l": "Work-up",
+       "n": [
+        {
+         "k": "step",
+         "t": "**24-h pH-impedance off PPI + HRM** (exclude achalasia/ineffective motility)"
+        },
+        {
+         "k": "end",
+         "t": "Laparoscopic **Nissen (or partial) fundoplication** if proven reflux, PPI-responsive or volume regurgitation"
+        }
+       ]
+      },
+      {
+       "l": "Para-oesophageal hernia",
+       "n": [
+        {
+         "k": "end",
+         "t": "Symptomatic → elective repair (risk of gastric volvulus) · acute volvulus: NG decompression, urgent surgery"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Barrett’s (salmon mucosa ≥ 1 cm + intestinal metaplasia)",
+     "br": [
+      {
+       "l": "No dysplasia",
+       "n": [
+        {
+         "k": "step",
+         "t": "Surveillance with Seattle biopsies: **< 3 cm 5-yearly, 3–10 cm 3-yearly**; ≥ 10 cm → expert centre"
+        }
+       ]
+      },
+      {
+       "l": "Low-grade dysplasia",
+       "n": [
+        {
+         "k": "step",
+         "t": "Confirm by 2nd GI pathologist → **endoscopic ablation (RFA)** or 6-monthly surveillance"
+        }
+       ]
+      },
+      {
+       "l": "HGD / intramucosal cancer",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Endoscopic resection (EMR/ESD) of visible lesion, then RFA** of residual Barrett’s"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Barrett’s: long-term PPI; surveillance only if fit for treatment"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Oesophageal perforation",
+   "source": "WSES 2019 oesophageal perforation · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Chest pain after vomiting (Boerhaave) or after endoscopy/dilatation; surgical emphysema, fever, shock"
+    },
+    {
+     "k": "step",
+     "t": "Mackler triad: vomiting, chest pain, subcutaneous emphysema; **CT chest/abdomen with oral water-soluble contrast**"
+    },
+    {
+     "k": "step",
+     "t": "**Nil by mouth, IV fluids, broad-spectrum antibiotics + antifungal, IV PPI**, chest drain for effusion, early nutrition (NJ / jejunostomy)"
+    },
+    {
+     "k": "split",
+     "q": "Pattern?",
+     "br": [
+      {
+       "l": "Contained, stable, minimal contamination",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Non-operative** (often iatrogenic): close monitoring, repeat contrast study"
+        }
+       ]
+      },
+      {
+       "l": "Small defect, early, no extensive sepsis",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Endoscopic**: covered stent, clips or endoluminal vacuum therapy + drainage of collections"
+        }
+       ]
+      },
+      {
+       "l": "Uncontained / septic",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Surgery**: debridement, primary repair (buttressed) + wide drainage"
+        },
+        {
+         "k": "end",
+         "t": "Extensive necrosis or underlying cancer → oesophagectomy or diversion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Mortality doubles if delay > 24 h · caustic ingestion: no induced vomiting, OGD/CT grading within 24 h"
+    }
+   ]
+  }
+ ],
+ "stom": [
+  {
+   "type": "flowchart",
+   "title": "Dyspepsia, H. pylori and peptic ulcer",
+   "source": "NICE CG184 · NICE NG12 · Maastricht VI 2022",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Upper abdominal pain/discomfort, heartburn, early satiety"
+    },
+    {
+     "k": "step",
+     "t": "Review NSAIDs, aspirin, SSRIs, steroids; check FBC"
+    },
+    {
+     "k": "split",
+     "q": "Red flags?",
+     "br": [
+      {
+       "l": "≥ 55 with weight loss, or dysphagia",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Urgent OGD (2-week wait)**; also upper mass, iron-deficiency anaemia, GI bleeding"
+        }
+       ]
+      },
+      {
+       "l": "No red flags",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Test-and-treat H. pylori** (stool antigen or 13C-urea breath test; 2 weeks off PPI) **or** full-dose PPI for 1 month"
+        },
+        {
+         "k": "step",
+         "t": "Eradication: PPI + amoxicillin + clarithromycin/metronidazole (NICE 7 days; Maastricht VI 14 days, bismuth quadruple if resistance high)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Peptic ulcer: stop NSAIDs, PPI 8 weeks; confirm eradication with breath test if ulcer"
+    },
+    {
+     "k": "end",
+     "t": "**Gastric ulcer: biopsy and repeat OGD at 6–8 weeks** to confirm healing (exclude cancer) · refractory ulcers → think Zollinger–Ellison (gastrin)"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Perforated peptic ulcer",
+   "source": "WSES 2020 perforated & bleeding peptic ulcer",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Sudden severe epigastric pain → generalised peritonitis, board-like rigidity"
+    },
+    {
+     "k": "step",
+     "t": "Erect CXR free gas (absent in ~25%) → **CT abdomen** if doubt; lactate, amylase (exclude pancreatitis)"
+    },
+    {
+     "k": "step",
+     "t": "**Resuscitate: IV fluids, NBM, NG tube, IV PPI, broad-spectrum antibiotics** (± antifungal), analgesia, catheter"
+    },
+    {
+     "k": "split",
+     "q": "Fit and peritonitic?",
+     "br": [
+      {
+       "l": "Yes (most)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Laparoscopic or open omental patch repair** (Graham) + thorough peritoneal lavage"
+        },
+        {
+         "k": "end",
+         "t": "Biopsy gastric ulcers · large/malignant ulcer → resection"
+        }
+       ]
+      },
+      {
+       "l": "Contained leak, stable, no peritonitis",
+       "n": [
+        {
+         "k": "end",
+         "t": "Selected **non-operative (Taylor) regimen**: NG, PPI, antibiotics; operate if no improvement in 12–24 h"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Post-op: **eradicate H. pylori**, stop NSAIDs, long-term PPI if NSAID unavoidable · Boey score predicts mortality"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Gastric outlet obstruction",
+   "source": "Bailey & Love 28e · ASGE 2021 GOO",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Projectile non-bilious vomiting of old food, visible peristalsis, succussion splash, weight loss"
+    },
+    {
+     "k": "step",
+     "t": "Bloods: **hypochloraemic, hypokalaemic metabolic alkalosis** with paradoxical aciduria"
+    },
+    {
+     "k": "step",
+     "t": "**NG decompression + IV 0.9% saline with KCl** (correct before surgery); IV PPI"
+    },
+    {
+     "k": "step",
+     "t": "**OGD + biopsy** (after stomach emptied) and CT to stage"
+    },
+    {
+     "k": "split",
+     "q": "Cause?",
+     "br": [
+      {
+       "l": "Benign (peptic stricture)",
+       "n": [
+        {
+         "k": "step",
+         "t": "PPI + H. pylori eradication + **endoscopic balloon dilatation**"
+        },
+        {
+         "k": "end",
+         "t": "Failure → antrectomy or gastrojejunostomy"
+        }
+       ]
+      },
+      {
+       "l": "Malignant (gastric/pancreatic cancer)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Resectable → staging & curative resection"
+        },
+        {
+         "k": "end",
+         "t": "Palliative: **duodenal stent** (short survival) or gastrojejunostomy / EUS-GE (fitter, longer survival)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "After gastric surgery watch for dumping (small frequent dry meals), B12/iron deficiency, bile reflux"
+    }
+   ]
+  }
+ ],
+ "intest": [
+  {
+   "type": "flowchart",
+   "title": "Intestinal obstruction",
+   "source": "WSES 2017 ASBO (Bologna) · ESCP/WSES 2021 LBO · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Colicky pain, vomiting, distension, absolute constipation"
+    },
+    {
+     "k": "step",
+     "t": "**Drip and suck**: IV fluids, NBM, NG tube, catheter; correct K⁺; check hernial orifices, PR, previous surgery"
+    },
+    {
+     "k": "step",
+     "t": "**CT abdomen/pelvis with IV contrast**: level, cause, closed loop, ischaemia"
+    },
+    {
+     "k": "split",
+     "q": "Cause on CT",
+     "br": [
+      {
+       "l": "Strangulation / ischaemia / peritonitis",
+       "n": [
+        {
+         "k": "end",
+         "t": "Fever, tachycardia, constant pain, ↑ lactate, closed loop, irreducible hernia → **emergency surgery**"
+        }
+       ]
+      },
+      {
+       "l": "Adhesional SBO, no ischaemia",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Water-soluble contrast (Gastrografin) challenge**: AXR at 8–24 h"
+        },
+        {
+         "k": "end",
+         "t": "Contrast in colon → resolves · no resolution by **72 h → surgery** (laparoscopic adhesiolysis if feasible)"
+        }
+       ]
+      },
+      {
+       "l": "Large bowel: cancer",
+       "n": [
+        {
+         "k": "end",
+         "t": "Right → resection + anastomosis · left → resection, Hartmann’s or **stent as bridge**; caecum > 12 cm = perforation risk"
+        }
+       ]
+      },
+      {
+       "l": "Sigmoid volvulus (coffee bean)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Flexible sigmoidoscopic decompression** + flatus tube"
+        },
+        {
+         "k": "end",
+         "t": "Elective sigmoid colectomy (high recurrence) · gangrene → Hartmann’s · caecal volvulus → right hemicolectomy"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Pseudo-obstruction (Ogilvie): no mechanical cause → correct electrolytes, stop opioids; **neostigmine** or colonoscopic decompression"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Acute diverticulitis",
+   "source": "NICE NG147 · WSES 2020 diverticulitis · ESCP 2020",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Left iliac fossa pain, fever, raised CRP"
+    },
+    {
+     "k": "step",
+     "t": "**CT with IV contrast** to confirm and grade (modified Hinchey)"
+    },
+    {
+     "k": "split",
+     "q": "Severity",
+     "br": [
+      {
+       "l": "Uncomplicated",
+       "n": [
+        {
+         "k": "end",
+         "t": "Immunocompetent, well → analgesia, oral fluids, **antibiotics not routinely needed**; outpatient"
+        }
+       ]
+      },
+      {
+       "l": "Abscess (Hinchey I–II)",
+       "n": [
+        {
+         "k": "end",
+         "t": "IV antibiotics; **abscess ≥ 4–5 cm → CT-guided percutaneous drainage**"
+        }
+       ]
+      },
+      {
+       "l": "Purulent peritonitis (III)",
+       "n": [
+        {
+         "k": "end",
+         "t": "Laparoscopic resection with **primary anastomosis ± defunctioning ileostomy**; Hartmann’s if unstable · lavage in selected"
+        }
+       ]
+      },
+      {
+       "l": "Faecal peritonitis (IV)",
+       "n": [
+        {
+         "k": "end",
+         "t": "Resuscitate → **Hartmann’s procedure** (damage control if septic shock)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "**Colonoscopy / CT colonography ~6 weeks** after a complicated episode to exclude cancer"
+    },
+    {
+     "k": "end",
+     "t": "Elective resection case by case (not by number of attacks): fistula (colovesical → pneumaturia), stricture, persistent symptoms, immunosuppressed"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Acute severe ulcerative colitis (and surgery in IBD)",
+   "source": "BSG 2019 IBD · ECCO 2022 UC",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Bloody diarrhoea ≥ 6/day + one of: HR > 90, T > 37.8 °C, Hb < 105 g/L, ESR > 30 (Truelove & Witts)"
+    },
+    {
+     "k": "step",
+     "t": "Admit (joint medical–surgical care): stool culture + **C. difficile**, CRP, albumin, AXR (colon > 5.5 cm = toxic megacolon), flexible sigmoidoscopy"
+    },
+    {
+     "k": "step",
+     "t": "**IV hydrocortisone 100 mg qds** (or methylprednisolone 60 mg/day), IV fluids, K⁺, **LMWH**; avoid opioids, antidiarrhoeals, NSAIDs"
+    },
+    {
+     "k": "split",
+     "q": "Day 3: stool > 8/day, or 3–8 + CRP > 45?",
+     "br": [
+      {
+       "l": "Responding",
+       "n": [
+        {
+         "k": "end",
+         "t": "Switch to oral prednisolone taper + maintenance (thiopurine/biologic)"
+        }
+       ]
+      },
+      {
+       "l": "Not responding",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Rescue: infliximab or ciclosporin**"
+        },
+        {
+         "k": "end",
+         "t": "No response by day 5–7 → surgery"
+        }
+       ]
+      },
+      {
+       "l": "Megacolon / perforation / massive bleed",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Emergency subtotal colectomy + end ileostomy**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Later: **ileal pouch–anal anastomosis** or proctectomy · Crohn’s: bowel-sparing — ileocaecal resection, strictureplasty; drain abscess before anti-TNF"
+    }
+   ]
+  }
+ ],
+ "anus": [
+  {
+   "type": "flowchart",
+   "title": "Anal fissure",
+   "source": "ACPGBI 2017 · ASCRS 2023 anal fissure",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Severe pain on defecation lasting hours + bright red blood on paper"
+    },
+    {
+     "k": "step",
+     "t": "Gentle parting of buttocks: **posterior midline tear** (± sentinel tag); avoid PR/proctoscopy if too painful"
+    },
+    {
+     "k": "step",
+     "t": "Atypical (lateral, multiple, painless, large) → **EUA + biopsy**: Crohn’s, HIV, TB, syphilis, SCC"
+    },
+    {
+     "k": "step",
+     "t": "**Fibre, fluids, laxatives, warm baths, topical lidocaine** — most acute fissures heal"
+    },
+    {
+     "k": "step",
+     "t": "Chronic (> 6 weeks) → **topical diltiazem 2% or GTN 0.4%** for 6–8 weeks (GTN headache)"
+    },
+    {
+     "k": "split",
+     "q": "Not healed?",
+     "br": [
+      {
+       "l": "Men / normal sphincter",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Lateral internal sphincterotomy** (> 90% heal; small risk of incontinence)"
+        }
+       ]
+      },
+      {
+       "l": "Women, post-partum, low pressures",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Botulinum toxin** ± fissurectomy · advancement flap; avoid sphincterotomy"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Children: constipation management is the key"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Haemorrhoids and prolapse",
+   "source": "ESCP 2020 haemorrhoids · ACPGBI 2019 · NICE NG12",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Painless bright red bleeding on the pan ± prolapsing lump, pruritus"
+    },
+    {
+     "k": "step",
+     "t": "PR + proctoscopy; **exclude colorectal cancer**: FIT / colonoscopy if ≥ 50, change in bowel habit, iron deficiency"
+    },
+    {
+     "k": "step",
+     "t": "All: **fibre, fluids, avoid straining**; topical agents for symptoms"
+    },
+    {
+     "k": "split",
+     "q": "Grade (Goligher)",
+     "br": [
+      {
+       "l": "I–II (II prolapse, reduce spontaneously)",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Rubber band ligation** (outpatient) ± repeat; sclerotherapy alternative"
+        }
+       ]
+      },
+      {
+       "l": "III (manual reduction) / failed banding",
+       "n": [
+        {
+         "k": "end",
+         "t": "Haemorrhoidal artery ligation (HAL-RAR), **excisional haemorrhoidectomy** or stapled haemorrhoidopexy"
+        }
+       ]
+      },
+      {
+       "l": "IV / external component",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Excisional (Milligan–Morgan) haemorrhoidectomy** — most effective, most painful"
+        }
+       ]
+      },
+      {
+       "l": "Full-thickness rectal prolapse",
+       "n": [
+        {
+         "k": "end",
+         "t": "Concentric folds → **laparoscopic ventral mesh rectopexy** (fit) · perineal Delorme’s / Altemeier (frail)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Thrombosed external pile: < 72 h → excision under LA, later → analgesia, ice, laxatives · strangulated piles → analgesia ± urgent excision"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Perianal and pilonidal sepsis",
+   "source": "ACPGBI 2016 anal fistula · ASCRS 2022 · ESCP 2024 pilonidal",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Painful, hot, tender swelling near anus or natal cleft"
+    },
+    {
+     "k": "split",
+     "q": "Site?",
+     "br": [
+      {
+       "l": "Perianal / ischiorectal abscess",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Prompt incision and drainage** (don’t wait for fluctuance); no packing needed for small cavities"
+        },
+        {
+         "k": "step",
+         "t": "Antibiotics only if cellulitis, diabetes, immunosuppression, sepsis"
+        },
+        {
+         "k": "end",
+         "t": "Don’t probe for a fistula unless obvious; check glucose"
+        }
+       ]
+      },
+      {
+       "l": "Natal cleft (pilonidal)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Acute abscess → **off-midline incision & drainage**"
+        },
+        {
+         "k": "end",
+         "t": "Chronic sinus → pit-picking / cleft lift (Bascom), Karydakis or Limberg flap; avoid midline wounds · hair removal"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Persistent discharge after abscess → **fistula-in-ano**; Goodsall’s rule; **MRI pelvis** if complex or recurrent"
+    },
+    {
+     "k": "split",
+     "q": "Fistula type (Parks)",
+     "br": [
+      {
+       "l": "Simple low fistula",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Fistulotomy** (laying open), > 90% cure"
+        }
+       ]
+      },
+      {
+       "l": "High / complex / anterior in women",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Loose draining seton** → sphincter-preserving: LIFT, advancement flap, fistula plug"
+        }
+       ]
+      },
+      {
+       "l": "Crohn’s",
+       "n": [
+        {
+         "k": "end",
+         "t": "Seton + **anti-TNF** (infliximab); stoma for severe disease"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Protect continence: never divide a large amount of external sphincter"
+    }
+   ]
+  }
+ ],
+ "gibleed": [
+  {
+   "type": "flowchart",
+   "title": "Acute upper GI bleeding (non-variceal)",
+   "source": "NICE CG141 · ESGE 2021 NVUGIH · BSG 2022 care bundle",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Haematemesis, coffee-ground vomit or melaena"
+    },
+    {
+     "k": "step",
+     "t": "**ABC: 2 large-bore cannulae, crystalloid, bloods incl. crossmatch, clotting, urea**; stop/plan anticoagulants and antiplatelets"
+    },
+    {
+     "k": "step",
+     "t": "**Restrictive transfusion: Hb < 70 g/L (< 80 if cardiovascular disease)**, target 70–90; platelets if < 50 and bleeding"
+    },
+    {
+     "k": "step",
+     "t": "**Glasgow–Blatchford score**: ≤ 1 → outpatient management; Rockall after endoscopy"
+    },
+    {
+     "k": "step",
+     "t": "**OGD within 24 h** (immediately after resuscitation if unstable); IV PPI may be started pre-endoscopy"
+    },
+    {
+     "k": "split",
+     "q": "Forrest finding",
+     "br": [
+      {
+       "l": "Ia/Ib active bleed, IIa visible vessel",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Dual endoscopic therapy**: adrenaline + clips or thermal coagulation (haemostatic powder as rescue)"
+        },
+        {
+         "k": "end",
+         "t": "High-dose PPI for 72 h after therapy"
+        }
+       ]
+      },
+      {
+       "l": "IIb adherent clot",
+       "n": [
+        {
+         "k": "end",
+         "t": "Consider clot removal and treat underlying lesion; PPI"
+        }
+       ]
+      },
+      {
+       "l": "IIc / III flat spot, clean base",
+       "n": [
+        {
+         "k": "end",
+         "t": "No endoscopic therapy, oral PPI, early feeding & discharge"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Rebleed → **repeat OGD → interventional radiology (embolisation) → surgery** (under-run ulcer) · test & eradicate H. pylori"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Variceal bleeding",
+   "source": "Baveno VII 2022 · BSG 2015 variceal haemorrhage",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Haematemesis in a patient with cirrhosis / portal hypertension"
+    },
+    {
+     "k": "step",
+     "t": "Resuscitate; **restrictive transfusion (Hb 70–80 g/L)**, avoid over-filling"
+    },
+    {
+     "k": "step",
+     "t": "**IV terlipressin + IV antibiotics (ceftriaxone)** before endoscopy"
+    },
+    {
+     "k": "step",
+     "t": "**OGD within 12 h**"
+    },
+    {
+     "k": "split",
+     "q": "Varices",
+     "br": [
+      {
+       "l": "Oesophageal",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Endoscopic band ligation**"
+        }
+       ]
+      },
+      {
+       "l": "Gastric (fundal)",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Cyanoacrylate injection**; TIPS or BRTO if fails"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Uncontrolled → **balloon tamponade (Sengstaken) or oesophageal stent** as bridge to **rescue TIPS**"
+    },
+    {
+     "k": "step",
+     "t": "Pre-emptive TIPS within 72 h if **Child C 10–13** (or B > 7 with active bleeding)"
+    },
+    {
+     "k": "end",
+     "t": "Secondary prevention: **non-selective beta-blocker (carvedilol/propranolol) + band ligation**; lactulose to prevent encephalopathy"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Acute lower GI bleeding",
+   "source": "BSG 2019 LGIB · ACG 2023 LGIB",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Fresh red blood or maroon stool per rectum"
+    },
+    {
+     "k": "step",
+     "t": "Resuscitate; PR exam; **shock index = HR ÷ SBP**; restrictive transfusion (Hb < 70 g/L, < 80 if CVD)"
+    },
+    {
+     "k": "step",
+     "t": "FBC, U&E (high urea suggests upper source), clotting, crossmatch; **review anticoagulants/antiplatelets**"
+    },
+    {
+     "k": "split",
+     "q": "Stable or unstable?",
+     "br": [
+      {
+       "l": "Unstable (shock index > 1)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**CT angiography** (exclude upper source: OGD if CTA negative — UGIB in ~15%)"
+        },
+        {
+         "k": "step",
+         "t": "Blush → **catheter angiography + embolisation within 60 min**"
+        },
+        {
+         "k": "end",
+         "t": "**Laparotomy** only when bleeding persists despite all localisation attempts"
+        }
+       ]
+      },
+      {
+       "l": "Stable, Oakland score ≤ 8",
+       "n": [
+        {
+         "k": "end",
+         "t": "Discharge for **outpatient colonoscopy**"
+        }
+       ]
+      },
+      {
+       "l": "Stable, Oakland > 8",
+       "n": [
+        {
+         "k": "end",
+         "t": "Admit → **colonoscopy on next available list**; endoscopic therapy (clips) for diverticular/angiodysplasia bleeds"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Causes: diverticular (commonest), angiodysplasia, haemorrhoids, ischaemic colitis, IBD, cancer, post-polypectomy · follow up to exclude neoplasia"
+    }
+   ]
+  }
+ ],
+ "gitum": [
+  {
+   "type": "flowchart",
+   "title": "Oesophageal and gastric cancer",
+   "source": "NICE NG83 · ESMO 2022 gastric / 2023 oesophageal · ESOPEC 2024",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Dysphagia, dyspepsia ≥ 55 with weight loss, iron-deficiency anaemia, upper abdominal mass"
+    },
+    {
+     "k": "step",
+     "t": "**Urgent OGD + multiple biopsies** (HER2, MMR/MSI, PD-L1 if advanced)"
+    },
+    {
+     "k": "step",
+     "t": "Stage: **CT chest/abdomen/pelvis → PET-CT** if curable; EUS for T/N; **staging laparoscopy** if gastric/junctional; nutrition, fitness, MDT"
+    },
+    {
+     "k": "split",
+     "q": "Site & stage",
+     "br": [
+      {
+       "l": "Early (T1a)",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Endoscopic resection (EMR/ESD)**"
+        }
+       ]
+      },
+      {
+       "l": "Oesophageal adenocarcinoma / GOJ",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Perioperative FLOT chemotherapy** (or CROSS chemoradiotherapy) + oesophagectomy (Ivor Lewis)"
+        },
+        {
+         "k": "end",
+         "t": "Adjuvant nivolumab if residual disease after neoadjuvant CRT"
+        }
+       ]
+      },
+      {
+       "l": "Oesophageal SCC",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Neoadjuvant CROSS + oesophagectomy**, or definitive chemoradiotherapy (esp. cervical / unfit)"
+        }
+       ]
+      },
+      {
+       "l": "Gastric (≥ T2 or N+)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Perioperative FLOT + total or subtotal gastrectomy with D2 lymphadenectomy**"
+        },
+        {
+         "k": "end",
+         "t": "Margins ≥ 5 cm (intestinal), more for diffuse; B12 for life after total gastrectomy"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Advanced: chemo + **nivolumab/pembrolizumab** (PD-L1) or **trastuzumab** (HER2+) · dysphagia → stent or RT · obstruction → stent/GJ"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Colorectal and anal cancer",
+   "source": "NICE NG151 · ESMO 2023 colon / 2017 rectal · ESMO 2021 anal",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Change in bowel habit, rectal bleeding, iron-deficiency anaemia, mass; **FIT ≥ 10 µg Hb/g → urgent referral**"
+    },
+    {
+     "k": "step",
+     "t": "**Colonoscopy + biopsy** (CT colonography if unfit); CT chest/abdomen/pelvis; CEA; **MMR/MSI testing for all**"
+    },
+    {
+     "k": "step",
+     "t": "**Colorectal MDT**; prehabilitation and ERAS · obstruction or perforation → emergency pathway"
+    },
+    {
+     "k": "split",
+     "q": "Site",
+     "br": [
+      {
+       "l": "Colon",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Resection with complete mesocolic excision** (right/left hemicolectomy, sigmoid colectomy), laparoscopic/robotic, ERAS"
+        },
+        {
+         "k": "end",
+         "t": "Stage III: adjuvant **CAPOX 3 months** (low risk) or 6 months · high-risk stage II: consider"
+        }
+       ]
+      },
+      {
+       "l": "Rectum",
+       "n": [
+        {
+         "k": "step",
+         "t": "**MRI pelvis**: T, N, CRM, EMVI"
+        },
+        {
+         "k": "step",
+         "t": "Early → **TME** (anterior resection / APR) or local excision for T1 · threatened CRM/advanced → **total neoadjuvant therapy**"
+        },
+        {
+         "k": "end",
+         "t": "Clinical complete response → **watch and wait** · dMMR → immunotherapy (dostarlimab)"
+        }
+       ]
+      },
+      {
+       "l": "Anal canal SCC",
+       "n": [
+        {
+         "k": "step",
+         "t": "HPV/HIV-associated; MRI pelvis, CT/PET-CT"
+        },
+        {
+         "k": "end",
+         "t": "**Chemoradiotherapy (mitomycin + 5-FU/capecitabine)**; assess at 26 weeks; residual/recurrent → **salvage APR**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Obstructing left colon cancer → stent as bridge or Hartmann’s · isolated liver/lung mets → resection after MDT · follow-up CEA + CT for 3–5 years"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Polyps, screening and hereditary syndromes",
+   "source": "BSG/ACPGBI/PHE 2020 post-polypectomy · BSG/ACPGBI 2020 hereditary CRC",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Polyp found at colonoscopy or positive screening test"
+    },
+    {
+     "k": "step",
+     "t": "**NHS bowel screening: FIT every 2 years from 50–74** (threshold 120 µg Hb/g → colonoscopy)"
+    },
+    {
+     "k": "step",
+     "t": "Remove polyps completely (cold snare < 10 mm; **EMR/ESD for large non-pedunculated lesions ≥ 20 mm**, tattoo site)"
+    },
+    {
+     "k": "split",
+     "q": "Histology",
+     "br": [
+      {
+       "l": "Malignant polyp",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Surgery** if poorly differentiated, LVI, tumour budding, margin < 1 mm, deep submucosal invasion (Haggitt 4 / Kikuchi sm3)"
+        }
+       ]
+      },
+      {
+       "l": "High-risk findings",
+       "n": [
+        {
+         "k": "end",
+         "t": "≥ 2 premalignant polyps with ≥ 1 advanced, or ≥ 5 premalignant, or LNPCP ≥ 20 mm → **one surveillance colonoscopy at 3 years**"
+        }
+       ]
+      },
+      {
+       "l": "Low-risk",
+       "n": [
+        {
+         "k": "end",
+         "t": "No surveillance → back to national screening"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Hereditary syndrome?",
+     "br": [
+      {
+       "l": "Lynch (MMR genes)",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Colonoscopy every 2 years** from 25 (MLH1/MSH2) or 35 (MSH6/PMS2) + daily **aspirin**; hysterectomy + BSO once family complete"
+        }
+       ]
+      },
+      {
+       "l": "FAP (APC, > 100 adenomas)",
+       "n": [
+        {
+         "k": "end",
+         "t": "Annual colonoscopy from 12–14 → **prophylactic colectomy** (IRA or pouch) late teens; duodenal surveillance"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Piecemeal EMR of LNPCP → **site check at 6 months** then 18 months later"
+    }
+   ]
+  }
+ ]
+}

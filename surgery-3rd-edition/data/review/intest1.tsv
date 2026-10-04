@@ -1,0 +1,27 @@
+intest-0002	OPTA	Radiological (air or contrast) enema reduction
+intest-0002	EX	Uncomplicated intussusception in a stable child is reduced by image-guided pneumatic or hydrostatic enema (~80% success); surgery is for peritonitis, perforation or failed reduction.
+intest-0003	EX	Alvarado: migratory pain 1, anorexia 1, nausea/vomiting 1, fever 1; no RIF tenderness, rebound, leucocytosis or left shift = 4 (low probability; pyuria suggests UTI).
+intest-0006	STEM	A 37-year-old diabetic woman has had severe loose motions for 24 hours with vague left-sided abdominal pain and tenesmus; the last motion contained blood. There is mild lower abdominal tenderness; pulse 103/min, BP 121/82 mmHg, temperature 37.3 °C; WBC 12 000/mm³, HbA1c 7.8%. Ultrasound shows small asymptomatic gallstones. What is the most likely diagnosis and the first investigation?
+intest-0023	EX	Generalised peritonitis from perforated diverticulitis needs sigmoid resection: primary anastomosis (± defunctioning ileostomy) if stable, Hartmann procedure if unstable or faecal contamination.
+intest-0042	EX	Swinging fever, hiccups, right shoulder-tip pain and RUQ tenderness days after repair of a perforated ulcer is a right subhepatic/subphrenic abscess: CT, then percutaneous drainage.
+intest-0044	EX	Sudden peritonitis with free gas in the 2nd–3rd week of typhoid fever is perforation of a Peyer patch ulcer in the terminal ileum; resuscitate and operate.
+intest-0045	EX	Left iliac fossa pain with dark-red rectal bleeding in a constipated, overweight older woman suggests diverticular disease; colorectal cancer must still be excluded by colonoscopy.
+intest-0046	EX	In children, right lower lobe (basal) pneumonia commonly mimics appendicitis through referred pain from the T10–T12 nerves; examine the chest and get a CXR.
+intest-0047	EX	Acute severe UC with fever, tachycardia and colonic dilatation needs admission, IV hydrocortisone and daily review; no response in 3–5 days means rescue therapy or colectomy.
+intest-0048	EX	Iron-deficiency anaemia, occult blood and a right iliac fossa mass in a 60-year-old is caecal carcinoma until proven otherwise: colonoscopy and CT.
+intest-0049	EX	Urinary retention is the commonest early complication of haemorrhoidectomy (pain, spinal anaesthesia, excess fluid); bleeding is the other early concern.
+intest-0050	KEY	D
+intest-0050	EX	Appendiceal adenocarcinoma with lymphatic invasion needs a right hemicolectomy for nodal clearance; adjuvant chemotherapy depends on nodal stage. Neoadjuvant chemotherapy is not standard.
+intest-0054	KEY	BDE
+intest-0054	EX	Eggs passed in stool hatch in the gut; larvae migrate via portal blood and liver to the lungs, are coughed up and swallowed, then mature in the intestine.
+intest-0074	KEY	ABE
+intest-0074	EX	UC begins in the rectum and spreads proximally, is mucosal (not transmural) and lacks granulomas (a Crohn feature); toxic megacolon typically dilates the transverse colon.
+intest-0084	KEY	BCDE
+intest-0084	EX	An ileoanal pouch needs a normal sphincter and is for UC/FAP, not Crohn disease; pouch failure ~15%, obstruction 10–15% and pouchitis ~30%.
+intest-0095	KEY	ABCE
+intest-0095	EX	Meckel diverticulum may bleed (ectopic gastric mucosa) and causes periumbilical pain; it is best shown by a technetium-99m pertechnetate scan, not barium.
+intest-0096	EX	False: colonic diverticula are pulsion (false) diverticula of mucosa and submucosa only, herniating where vessels pierce the muscle.
+intest-0116	KEY	BCDE
+intest-0116	EX	Paralytic ileus is painless (no colic); metabolic causes are common, CT is needed if it fails to settle, pseudo-obstruction affects the colon and caecal perforation is the main risk.
+intest-0117	KEY	CE
+intest-0117	EX	False: perforation is a real risk in neonatal obstruction, and associated anomalies (e.g. trisomy 21, cardiac) are common. Atresia/stenosis is the commonest cause.

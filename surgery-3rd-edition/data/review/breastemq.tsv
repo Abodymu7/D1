@@ -1,0 +1,48 @@
+breastemq-0002#1	EX	Fever, pain and swelling in a breast-feeding mother is lactational infection progressing to abscess (S. aureus): ultrasound-guided aspiration plus flucloxacillin.
+breastemq-0002#2	EX	Fine linear branching microcalcification suggests DCIS; vacuum-assisted (stereotactic) biopsy samples calcifications more reliably than standard core biopsy.
+breastemq-0002#3	EX	A sudden painful discrete lump in a perimenopausal woman is a cyst; ultrasound confirms it and aspiration relieves it.
+breastemq-0002#4	EX	Bilateral cyclical pain and lumpiness worse before periods is ANDI (fibroadenosis/cyclical mastalgia): reassurance, a supportive bra and simple analgesia.
+breastemq-0002#5	EX	Several young relatives with breast cancer means genetic counselling and BRCA1/2 testing before planning surveillance or risk-reducing surgery.
+breastemq-0002#6	EX	A large, rapidly growing mass with stretched shiny skin in a woman over 40 is a phyllodes tumour; treat by wide excision with clear margins.
+breastemq-0002#7	EX	A hard enlarging lump with a spiculated mammographic mass is cancer until proven otherwise: core needle biopsy gives histology and receptor status.
+breastemq-0002#8	EX	A painless lump appearing after stopping breast-feeding is a galactocele (milk-retention cyst); aspiration of milky fluid is diagnostic and curative.
+breastemq-0002#9	EX	Breast enlargement in a pubertal boy is physiological gynaecomastia, which usually settles within 2 years; exclude drugs (e.g. cannabis) and hormonal causes.
+breastemq-0002#10	EX	Invasive lobular carcinoma is often multifocal and bilateral and underestimated on mammography, so MRI is used to define its extent before surgery.
+breastemq-0002#11	EX	Bilateral greenish-black multiduct discharge in a postmenopausal woman is duct ectasia; reassure if imaging is normal.
+breastemq-0002#12	EX	A painless, discrete, very mobile lump in a young woman is a fibroadenoma (‘breast mouse’); confirm with ultrasound and core biopsy.
+breastemq-0002#13	EX	A painless unilateral subareolar lump in a middle-aged man is male breast cancer until proven otherwise; gynaecomastia is usually bilateral, soft and tender.
+breastemq-0003#1	EX	A hard, irregular lump with axillary nodes in an elderly woman is breast carcinoma; confirm by triple assessment.
+breastemq-0003#2	EX	Nipple retraction with green-yellow discharge and dilated ducts on ultrasound is duct ectasia.
+breastemq-0003#3	EX	A smooth, highly mobile lump in a 21-year-old with benign cytology (C2) is a fibroadenoma.
+breastemq-0003#4	EX	A non-itchy eczema-like rash of the nipple and areola with an underlying mass is Paget disease of the nipple, usually with underlying carcinoma.
+breastemq-0003#5	EX	A tender, inflamed breast with fever 2 weeks postpartum and no mass is lactational mastitis; continue breast-feeding and give flucloxacillin.
+breastemq-0004#1	EX	A 92-year-old with ER-positive disease is treated with primary endocrine therapy (tamoxifen or an aromatase inhibitor) rather than surgery.
+breastemq-0004#2	EX	DCIS throughout all quadrants cannot be excised with conservation: mastectomy, with immediate reconstruction in a young woman.
+breastemq-0004#3	EX	A 2-cm ER-positive cancer with a clinically negative axilla: wide local excision and sentinel node biopsy, then radiotherapy and endocrine therapy.
+breastemq-0004#4	KEY	I
+breastemq-0004#4	EX	Cytology-proven axillary nodes need axillary node clearance, and an ER-negative tumour in a young woman needs chemotherapy.
+breastemq-0005#5	KEY	A
+breastemq-0005#5	EX	A firm lump with skin dimpling (tethering) in a 72-year-old is breast cancer; peau d’orange is skin oedema from lymphatic blockage, not a diagnosis.
+breastemq-0007#1	STEM	A 34-year-old woman has lumpiness and tenderness in both breasts that is worse in the days before menstruation. An ultrasound scan shows multiple small cysts bilaterally, and a tissue sample shows fibrosis and epithelial hyperplasia.
+breastemq-0007#2	STEM	A 28-year-old woman has a 1 cm soft, painless lump in her right breast that appeared suddenly last week; there is no other abnormality on examination.
+breastemq-0007#3	STEM	A 42-year-old woman has a hard 2 cm lump in the upper outer quadrant of the left breast with axillary lymphadenopathy. She has had bilateral cosmetic breast augmentation, and the mammogram is too hazy to delineate any lesion.
+breastemq-0007#4	STEM	A 52-year-old woman has a 4 cm lump in her left breast. Fine-needle aspiration cytology reports dysplastic cells.
+breastemq-0007#5	STEM	A 45-year-old woman has a long-standing lump in her right breast. Ultrasound shows a cyst, which is aspirated under ultrasound guidance; the aspirate is blood-stained.
+breastemq-0011	DEL	duplicate of breastemq-0007 within the same book
+breastemq-0008#4	EX	Amenorrhoea with bilateral milky discharge and no neurological features: exclude pregnancy first (β-hCG) — a lactating breast — before checking prolactin.
+breastemq-0010	OPTS	α-fetoprotein|β-hCG|CA 125|CA 15-3|CA 19-9|Calcitonin|Carcinoembryonic antigen|Paraproteins|Prostate-specific antigen|S-100
+breastemq-0010#1	EX	CA 15-3 is the breast cancer marker, used to monitor treatment and recurrence rather than for diagnosis.
+breastemq-0014#1	EX	Trastuzumab (anti-HER2) is given for HER2-positive breast cancer, especially node-positive disease, with chemotherapy.
+breastemq-0014#2	EX	Tamoxifen is a SERM: antagonist in the breast but agonist in the endometrium and clotting system (endometrial cancer, VTE).
+breastemq-0014#3	EX	Anastrozole, an aromatase inhibitor, blocks peripheral oestrogen synthesis and is used in postmenopausal ER-positive disease.
+breastemq-0014#4	EX	Trastuzumab causes (usually reversible) left ventricular dysfunction and can cause pulmonary toxicity, so LVEF is monitored.
+breastemq-0014#5	EX	Cyclophosphamide’s metabolite acrolein causes haemorrhagic cystitis and bladder cancer (mesna is protective).
+breastemq-0015#1	EX	A highly mobile lump in a young woman with benign cytology is a fibroadenoma.
+breastemq-0015#2	KEY	I
+breastemq-0015#2	EX	An ill-defined, hot, red, tender area in a breast-feeding woman is lactational mastitis; a fluctuant mass would suggest abscess.
+breastemq-0015#3	KEY	D
+breastemq-0015#3	EX	A hard, craggy lump after trauma with benign cytology is fat necrosis; it mimics carcinoma, so triple assessment is still needed.
+breastemq-0015#4	KEY	C
+breastemq-0015#4	EX	Yellow-brown discharge from multiple ducts with a normal mammogram is duct ectasia.
+breastemq-0015#5	KEY	B
+breastemq-0015#5	EX	A well-demarcated, fluctuant, transilluminable lump is a cyst; ultrasound and aspiration confirm it.

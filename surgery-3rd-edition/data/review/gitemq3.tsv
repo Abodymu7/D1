@@ -1,0 +1,108 @@
+gitemq-0066#1	EX	Pleuritic LUQ pain with productive cough is a left lower-lobe pneumonia mimicking abdominal pain; a chest X-ray confirms it.
+gitemq-0066#2	EX	A calcified RUQ cyst in a sheep farmer suggests a hydatid cyst; CT defines the cyst, its daughter cysts and biliary communication.
+gitemq-0066#3	EX	AF with severe pain out of proportion and bloody stool suggests acute mesenteric ischaemia; angiography (CT or catheter) shows the occlusion.
+gitemq-0066#4	EX	Recurrent pancreatitis-type pain with near-normal amylase suggests chronic pancreatitis; faecal elastase confirms exocrine insufficiency.
+gitemq-0066#5	EX	Epigastric pain radiating to the neck with sweating and a soft abdomen may be cardiac; troponin (and ECG) excludes MI.
+gitemq-0067#5	EX	Large pink confluent warty perianal lesions are condylomata acuminata (HPV); condylomata lata are flat, moist lesions of secondary syphilis.
+gitemq-0072#3	EX	AF, malar flush and a mid-diastolic murmur indicate mitral stenosis; the enlarged left atrium compresses the oesophagus externally.
+gitemq-0074	DEL	duplicate of gitemq-0063 (same Get Ahead theme)
+gitemq-0075#3	EX	A probable CBD stone before cholecystectomy should be cleared first; ERCP confirms and extracts it (MRCP/EUS if the stone is uncertain).
+gitemq-0076	OPTS	Ampulla of Vater|Pancreatic duct|Common bile duct|Common hepatic duct|Cystic duct|Gallbladder
+gitemq-0076#1	EX	Postprandial RUQ pain lasting 30–60 min is biliary colic from gallstones impacting in the gallbladder neck (Hartmann pouch).
+gitemq-0076#4	EX	In Mirizzi syndrome a stone in the cystic duct or Hartmann pouch compresses the common hepatic duct from outside.
+gitemq-0076#5	EX	In gallstone pancreatitis ERCP clears stones from the common bile duct.
+gitemq-0078#3	EX	Chronic RIF pain, diarrhoea and weight loss in a young man suggest ileocaecal Crohn disease; colonoscopy with ileal intubation and biopsy confirms it.
+gitemq-0078#4	EX	Iron-deficiency anaemia with a RIF mass in a frail, high-risk patient: CT colonography is a safe, less invasive way to assess the colon.
+gitemq-0078#5	EX	Melaena with tachycardia is an upper GI bleed; OGD identifies and treats the source (with gastric biopsy as needed).
+gitemq-0079	OPTS	Body of stomach|Distal oesophagus / gastro-oesophageal junction|Fundus of stomach|Anterior wall of first part of duodenum|Gastric antrum (pre-pyloric)|Posterior wall of first part of duodenum|Second part of the duodenum
+gitemq-0079#1	EX	NSAID use, back pain and a major bleed suggest a posterior duodenal ulcer eroding the gastroduodenal artery.
+gitemq-0079#2	EX	Progressive dysphagia worse for liquids with nocturnal cough is achalasia: failure of relaxation of the distal oesophagus.
+gitemq-0079#3	EX	H. pylori lives beneath the mucus of the pre-pyloric antrum, so biopsies for the urease test are taken there.
+gitemq-0079#4	EX	Positive tTG suggests coeliac disease; confirmation needs multiple biopsies from the second part of the duodenum (villous atrophy).
+gitemq-0079#5	EX	Haematemesis after forceful vomiting is a Mallory–Weiss tear at the gastro-oesophageal junction.
+gitemq-0080#4	EX	A T2 N0 carcinoma of the gastric body is curable by radical resection; a body tumour needs total gastrectomy with D2 lymphadenectomy.
+gitemq-0080#5	EX	Pancreatic head cancer encasing the SMA/SMV is unresectable; palliate obstruction with a gastrojejunal (± biliary) bypass or stents.
+gitemq-0081#1	EX	The small bowel (including Meckel diverticulum) is the commonest site of neuroendocrine (carcinoid) tumours, often found incidentally.
+gitemq-0081#5	EX	Postprandial retrosternal burning worse lying down, with odynophagia, is gastro-oesophageal reflux disease (consider OGD for dysphagia).
+gitemq-0082#2	EX	Free subdiaphragmatic gas on an erect chest X-ray with generalised tenderness indicates a perforated viscus.
+gitemq-0082#3	EX	Loin-to-groin colicky pain with minimal abdominal signs is renal colic.
+gitemq-0082#4	EX	Severe upper abdominal pain with amylase > 3× normal is diagnostic of acute pancreatitis.
+gitemq-0082#5	EX	Tearing chest pain radiating to the back with a widened mediastinum is aortic dissection.
+gitemq-0083#1	EX	Severe epigastric pain radiating to the back with vomiting after a holiday of heavy drinking is acute pancreatitis.
+gitemq-0083#2	EX	Vomiting, absolute constipation, distension and high-pitched (tinkling) bowel sounds indicate small bowel obstruction.
+gitemq-0083#3	EX	NSAID use followed by a rigid, silent abdomen is a perforated peptic ulcer.
+gitemq-0083#4	EX	Fever, rigors and loin pain radiating to the groin in a young woman is acute pyelonephritis.
+gitemq-0083#5	EX	RIF pain progressing rapidly to a tense, generalised peritonitic abdomen in a child is a perforated appendix.
+gitemq-0084#1	EX	Altered bowel habit with blood mixed in the stool in a 60-year-old is colorectal (colonic) carcinoma until proven otherwise.
+gitemq-0084#2	EX	Long-standing dyspepsia with melaena and light-headedness is a bleeding duodenal ulcer.
+gitemq-0084#3	EX	Painless fresh blood on the paper after childbirth is typical of haemorrhoids.
+gitemq-0084#4	EX	Haematemesis after a bout of vomiting during celebrations is a Mallory–Weiss tear.
+gitemq-0084#5	EX	Cystic fibrosis can cause biliary cirrhosis and portal hypertension; profuse fresh haematemesis is from oesophageal varices.
+gitemq-0085#1	EX	In a Richter hernia only part of the bowel wall is trapped, so it can strangulate and perforate without complete obstruction.
+gitemq-0085#2	EX	A newborn with bowel in the left chest has a congenital (Bochdalek) diaphragmatic hernia.
+gitemq-0085#3	EX	A Spigelian hernia passes through the linea semilunaris at the lateral rectus border and is often only confirmed by ultrasound.
+gitemq-0085#4	EX	A pantaloon hernia has direct and indirect sacs straddling the inferior epigastric vessels.
+gitemq-0085#5	EX	A groin lump protruding straight forward and not controlled by deep-ring pressure is a direct inguinal hernia.
+gitemq-0086#1	EX	Zollinger–Ellison syndrome: a gastrinoma drives acid hypersecretion and severe, multiple or atypical ulcers.
+gitemq-0086#2	EX	Adenocarcinoma of the lower third of the oesophagus arises from Barrett metaplasia after long-standing reflux.
+gitemq-0086#3	EX	Achalasia gives a smooth "bird's beak / rat tail" narrowing at the lower oesophageal sphincter on barium swallow.
+gitemq-0086#4	EX	Epigastric pain at night relieved by food is typical of duodenal ulcer.
+gitemq-0086#5	EX	Plummer–Vinson syndrome: iron-deficiency anaemia with dysphagia from a post-cricoid web.
+gitemq-0087#1	EX	Vomiting with redcurrant-jelly stool in a child is intussusception.
+gitemq-0087#2	EX	A bluish, tender perianal lump after straining is a perianal haematoma.
+gitemq-0087#3	EX	Angiodysplasia affects the right colon; colonoscopy shows dilated tortuous vessels and cherry-red spots.
+gitemq-0087#4	EX	Crohn disease can affect any part of the gut, with deep fissuring ulcers giving a cobblestone mucosa.
+gitemq-0087#5	EX	Left-sided pain with dark red bleeding and "thumbprinting" (thickened folds) in an older patient is ischaemic colitis.
+gitemq-0088#1	EX	Recurrent RUQ pain radiating to the scapula without fever is biliary colic.
+gitemq-0088#2	EX	Cholangiocarcinoma presents with painless jaundice and is a recognised complication of primary sclerosing cholangitis.
+gitemq-0088#3	EX	RUQ tenderness and guarding with fever and Boas sign (hyperaesthesia below the right scapula) is acute cholecystitis.
+gitemq-0088#4	EX	Pain, fever and jaundice (Charcot triad) from E. coli infection of an obstructed duct is ascending cholangitis.
+gitemq-0088#5	EX	Cirrhosis with ascites and anorexia suggests hepatoma (hepatocellular carcinoma).
+gitemq-0089#1	EX	A pelvic appendix can cause dysuria and diarrhoea; fever, anorexia and RIF tenderness point to acute appendicitis.
+gitemq-0089#2	EX	Bloody mucoid diarrhoea with weight loss and back pain (sacroiliitis/ankylosing spondylitis) suggests ulcerative colitis.
+gitemq-0089#3	EX	Sudden pain radiating to the groin and testis with haematuria is a ureteric stone (renal colic), not torsion.
+gitemq-0089#4	EX	Rectal bleeding at 35 with a father dead of colorectal cancer at 46 suggests familial adenomatous polyposis.
+gitemq-0089#5	EX	LIF pain with a large bright-red bleed and altered bowel habit in an older woman is acute diverticulitis/diverticular bleeding.
+gitemq-0090#1	EX	A long-standing hernia that no longer reduces but has no obstruction is incarcerated; it needs urgent repair.
+gitemq-0090#2	EX	A reducible bulge at a laparoscopic port site is an incisional (port-site) hernia.
+gitemq-0090#3	EX	An elderly thin woman with obstruction and no visible lump suggests an obturator hernia (gas shadow in the obturator foramen).
+gitemq-0090#4	EX	A reducible lump above the inguinal ligament with a cough impulse and a family history is an inguinal hernia.
+gitemq-0090#5	EX	An everted umbilicus that worsens after pregnancy is an umbilical (paraumbilical) hernia.
+gitemq-0091#1	EX	Sudden collapse with peritonitis on a background of LIF pain is perforated sigmoid diverticular disease.
+gitemq-0091#2	EX	Fever, upper abdominal tenderness and a positive Murphy sign is acute cholecystitis.
+gitemq-0091#3	EX	A pelvic appendix may cause urinary symptoms; RIF and suprapubic guarding with fever indicate acute appendicitis.
+gitemq-0091#4	EX	Progressive constipation, colicky pain, no flatus and a tympanitic distended abdomen is large bowel obstruction.
+gitemq-0091#5	EX	Epigastric pain to the back after a binge with hypoxia (early ARDS) and a normal erect CXR is acute pancreatitis.
+gitemq-0092#1	EX	Faeculent vomiting, weight loss and a RIF mass indicate obstructing caecal carcinoma.
+gitemq-0092#2	EX	Small bowel obstruction with pneumobilia (air in the biliary tree) is gallstone ileus.
+gitemq-0092#3	EX	Colonic dilatation after spinal surgery in an immobile patient is acute colonic pseudo-obstruction (Ogilvie syndrome).
+gitemq-0092#4	EX	Obstruction with a firm tender lump below and lateral to the pubic tubercle is a strangulated femoral hernia.
+gitemq-0092#5	EX	A grossly distended non-tender abdomen with a large colonic loop in an elderly constipated patient is sigmoid volvulus.
+gitemq-0093#1	EX	NSAID use with haematemesis and melaena: a posterior duodenal ulcer eroding the gastroduodenal artery.
+gitemq-0093#2	EX	Recurrent heavy lower GI bleeding in an elderly man with a normal barium enema suggests angiodysplasia.
+gitemq-0093#3	EX	Anaemia, weight loss, a RIF mass and hepatomegaly (metastases) indicate caecal carcinoma.
+gitemq-0093#4	EX	Melaena in an alcoholic with splenomegaly, drowsiness and hypotension is bleeding oesophageal varices.
+gitemq-0093#5	EX	Microcytic anaemia, change in habit and LIF peritonism with fever suggest a perforated/obstructing sigmoid carcinoma.
+gitemq-0094#1	EX	Hunger pain that wakes him at night, relieved by food, with weight gain is duodenal ulcer disease.
+gitemq-0094#2	EX	Progressive dysphagia in a young person with recurrent chest infections (aspiration) is achalasia.
+gitemq-0094#3	EX	Recurrent ulcer pain then vomiting, dehydration and a succussion splash is gastric outlet (pyloric) stenosis.
+gitemq-0094#4	EX	Long-standing reflux followed by rapidly progressive dysphagia and weight loss is oesophageal adenocarcinoma.
+gitemq-0094#5	EX	Haematemesis after repeated vomiting during heavy drinking is a Mallory–Weiss tear.
+gitemq-0095#1	EX	Flatulent dyspepsia, fatty-food intolerance and RUQ pain suggest gallstones: abdominal ultrasound first.
+gitemq-0095#2	EX	Endoscopic ultrasound gives the best local T and N staging of oesophageal cancer.
+gitemq-0095#3	EX	Pancreatic cancer is staged by contrast CT (pancreatic protocol) for vascular involvement and metastases.
+gitemq-0095#4	EX	Cervical dysphagia, a soft neck swelling and aspiration suggest a pharyngeal pouch: barium swallow (not blind endoscopy).
+gitemq-0095#5	EX	Staging laparoscopy detects peritoneal seedlings missed by CT before gastric cancer resection.
+gitemq-0096#1	EX	Fatigue (anaemia), subacute obstruction and a RIF mass in an older woman is caecal carcinoma.
+gitemq-0096#2	EX	Change in habit with distension and an irregular LIF mass is sigmoid carcinoma.
+gitemq-0096#3	EX	A young woman with weight loss, fever and a tender RIF mass suggests an inflammatory Crohn mass.
+gitemq-0096#4	EX	A smooth non-tender RUQ mass after biliary colic is a mucocoele (stone impacted in Hartmann pouch).
+gitemq-0096#5	EX	A suprapubic mass with menorrhagia-related anaemia in a 45-year-old woman is uterine fibroids.
+gitemq-0097#1	EX	An irreducible tender lump below and lateral to the pubic tubercle with obstruction is a strangulated femoral hernia.
+gitemq-0097#2	EX	A lump with cough impulse that reduces above and medial to the pubic tubercle is an inguinal hernia.
+gitemq-0097#3	EX	A hard irregular groin node after a calf melanoma is malignant (metastatic) lymphadenopathy.
+gitemq-0097#4	EX	A pulsatile groin lump after femoral puncture is a false (pseudo-) aneurysm.
+gitemq-0098#1	EX	Mucous diarrhoea with hypokalaemia is classic for a secretory rectal villous adenoma.
+gitemq-0098#2	EX	A painful indurated perianal ulcer in a woman with CIN (HPV) is anal carcinoma.
+gitemq-0098#3	EX	Constipation with fresh blood on clothes in a child is most often an anal fissure.
+gitemq-0098#4	EX	Profuse painless dark red bleeding in a fit elderly man suggests angiodysplasia (or diverticular bleeding).

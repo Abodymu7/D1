@@ -1,0 +1,36 @@
+intest-0043	EX	Mucocutaneous pigmentation of the lips with hamartomatous GI polyps is Peutz–Jeghers syndrome, which is not listed; polyps cause bleeding and intussusception.
+intest-0073	EX	The small bowel digests and absorbs, the colon mainly absorbs water and ~1 L of ileal content enters the colon daily. B12 and bile salts are absorbed in the terminal ileum.
+intest-0101	EX	Thrombosis occurs at the SMA origin; pain out of proportion to signs is the hallmark. Ischaemic colitis favours the splenic flexure and may stricture; angiodysplasia is right-sided.
+intest-0130	KEY	D
+intest-0130	EX	Ileocolonoscopy with terminal ileal biopsy confirms Crohn disease histologically; MR enterography (or small-bowel contrast studies) then defines extent and strictures.
+intest-0138	EX	After IV rehydration, intussusception is reduced by an image-guided enema (air/pneumatic now preferred to barium); surgery if it fails or there is peritonitis.
+intest-0146	EX	Admit, rehydrate and stop the causative antibiotic; oral vancomycin (or fidaxomicin) is now first-line for C. difficile, metronidazole only where these are unavailable.
+intest-0162	KEY	C
+intest-0162	EX	In Africa, Asia and South America sigmoid volvulus is the commonest cause of large-bowel obstruction; in the West it is colorectal cancer. Hernias mainly obstruct the small bowel.
+intest-0170	STEM	Management of left iliac fossa pain: you are asked by your senior colleague to devise the treatment plan for the elderly man with acute diverticulitis described above. What is the most appropriate treatment plan?
+intest-0174	OPTD	Emergency diagnostic laparoscopy (± appendicectomy)
+intest-0174	EX	Fever with marked RIF tenderness and rebound means peritonitis; with inconclusive ultrasound, diagnostic laparoscopy is safer than waiting or a CT in a child.
+intest-0175	OPTB	Radiological (air or contrast) enema reduction after an abdominal film
+intest-0175	EX	First-line treatment of uncomplicated intussusception is image-guided air (pneumatic) or contrast enema reduction; surgery if it fails or there is peritonitis.
+intest-0178	EX	CT with contrast is the investigation of choice for a suspected diverticular abscess and guides percutaneous drainage.
+intest-0179	EX	Diarrhoea with fever after a recent admission and antibiotics suggests C. difficile colitis; of these options, oral metronidazole (oral vancomycin is now first-line).
+intest-0184	OPTA	Air or contrast enema reduction
+intest-0184	EX	A stable infant with intussusception (colic, ‘red-currant jelly’ stool) is treated first by image-guided air/contrast enema reduction.
+intest-0196	EX	Six weeks of bloody mucoid diarrhoea with urgency in a young man is ulcerative colitis until proven otherwise: stool cultures, then colonoscopy with biopsies.
+intest-0197	EX	Acute LIF pain, fever and raised WCC/CRP in a 65-year-old is acute sigmoid diverticulitis; confirm with CT if severe or uncertain.
+intest-0198	EX	Swinging fever with a pericolic abscess on CT in a stable patient without peritonitis: CT-guided percutaneous drainage plus antibiotics.
+intest-0199	EX	Abdominal pain, fever and tachycardia on day 5 after colectomy is an anastomotic leak until proven otherwise: start IV antibiotics with resuscitation, then CT or re-laparotomy.
+intest-0202	EX	The jejunum is thicker walled, redder, with prominent plicae and less lymphoid tissue, and secretes most digestive fluid; the ileum is thinner, paler, with Peyer patches.
+intest-0203	EX	Before appendicectomy in a girl of reproductive age, a pregnancy test is mandatory; other imaging rarely changes a clear clinical decision.
+intest-0204	EX	Intermittent inconsolable distress, vomiting and ‘red-currant jelly’ stools in an infant is ileocolic intussusception; ultrasound shows a target sign.
+intest-0205	KEY	E
+intest-0205	EX	Appendiceal adenocarcinoma with lymphatic invasion needs a right hemicolectomy for nodal clearance; appendicectomy alone suffices only for low-grade mucinous neoplasms (LAMN).
+intest-0205	DUP	intest-0050
+intest-0220	STEM	A 37-year-old man with a 10-year history of ulcerative colitis has a sessile polyp with high-grade dysplasia 10 cm from the anal verge. Which operation is most appropriate?
+intest-0220	EX	High-grade dysplasia in UC marks a field change: total proctocolectomy, with an ileoanal J-pouch to preserve continence.
+intest-0221	STEM	A 33-year-old man with Crohn disease has severe abdominal pain and fever: HR 130/min, BP 105/62 mmHg, temperature 38.9 °C, WCC 32 000/mm³; plain films show a markedly dilated colon. Which operation is most appropriate?
+intest-0221	EX	Toxic megacolon failing medical therapy is treated by subtotal colectomy with end ileostomy, leaving the rectum for later reconstruction.
+intest-0222	EX	Adhesions are the commonest cause of small-bowel obstruction in the West, followed by hernias and malignancy.
+intest-0223	EX	Symptomatic Meckel diverticulum (bleeding, obstruction from intussusception or volvulus, diverticulitis or perforation) needs resection.
+intest-0229	KEY	B
+intest-0229	EX	Severe unilateral lower abdominal pain in a young woman with normal inflammatory markers and negative β-hCG suggests an ovarian cyst (rupture or torsion); pelvic ultrasound.

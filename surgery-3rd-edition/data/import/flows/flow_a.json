@@ -1,0 +1,1206 @@
+{
+ "neck": [
+  {
+   "type": "flowchart",
+   "title": "Neck lump: from site to diagnosis",
+   "source": "NICE NG12 & NG36 · UK Head & Neck MDT 2016 · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Patient with a lump in the neck"
+    },
+    {
+     "k": "step",
+     "t": "History: age, duration, smoking, alcohol, B symptoms · site, movement, transillumination, pulsatility + **full ENT exam with nasendoscopy**"
+    },
+    {
+     "k": "split",
+     "q": "Site and character",
+     "br": [
+      {
+       "l": "Midline",
+       "n": [
+        {
+         "k": "step",
+         "t": "Moves up on **tongue protrusion** → **thyroglossal cyst**: USS (confirm normal thyroid) → **Sistrunk’s operation** (cyst + tract + central hyoid)"
+        },
+        {
+         "k": "step",
+         "t": "Moves on swallowing only → thyroid (nodule pathway) · submental, not moving → dermoid cyst → excision"
+        }
+       ]
+      },
+      {
+       "l": "Lateral cystic, child/young adult",
+       "n": [
+        {
+         "k": "step",
+         "t": "Anterior to upper third of SCM → **branchial cyst**: USS ± FNA (cholesterol crystals) → complete excision once infection settles"
+        },
+        {
+         "k": "step",
+         "t": "Soft, transilluminant, posterior triangle in infant → **lymphatic malformation**: MRI → **sclerotherapy** (OK-432, bleomycin) or excision"
+        }
+       ]
+      },
+      {
+       "l": "Pulsatile at carotid bifurcation",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Carotid body paraganglioma**: moves side to side, not vertically · **never FNA or biopsy**"
+        },
+        {
+         "k": "step",
+         "t": "CT/MR angiography (splayed ICA/ECA – lyre sign), plasma metanephrines, SDHx gene testing"
+        },
+        {
+         "k": "end",
+         "t": "Excision by vascular/H&N team (Shamblin grade predicts risk) or surveillance/radiotherapy if elderly or unfit"
+        }
+       ]
+      },
+      {
+       "l": "Firm lateral lymph node",
+       "n": [
+        {
+         "k": "step",
+         "t": "Recent URTI, tender → reactive: treat and **review at 3–6 weeks**; persisting node → sample (below)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Persistent unexplained neck lump (esp. age ≥ 45, smoker) or cystic lateral mass > 40 y → **2-week-wait head & neck referral**"
+    },
+    {
+     "k": "step",
+     "t": "**USS-guided FNA/core biopsy** first · CT/MRI neck + chest · never open excision of a possible SCC node"
+    },
+    {
+     "k": "split",
+     "q": "Tissue result",
+     "br": [
+      {
+       "l": "Metastatic SCC",
+       "n": [
+        {
+         "k": "step",
+         "t": "p16/HPV, **PET-CT**, panendoscopy ± tonsillectomy/tongue-base mucosectomy for unknown primary → H&N MDT"
+        }
+       ]
+      },
+      {
+       "l": "Lymphoma",
+       "n": [
+        {
+         "k": "step",
+         "t": "Core or **excision biopsy** for architecture → haematology (staging PET-CT)"
+        }
+       ]
+      },
+      {
+       "l": "Tuberculous adenitis",
+       "n": [
+        {
+         "k": "step",
+         "t": "AFB smear, culture, GeneXpert → **6-month anti-TB therapy**; aspirate cold abscess, avoid incision (sinus)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Adult cystic lateral neck mass = metastatic (HPV+ oropharyngeal) SCC until proven otherwise"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Thyroid nodule and goitre",
+   "source": "BTA 2014 thyroid cancer · NICE NG145 (2019) & NG230 (2022)",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Thyroid nodule or goitre (palpable or incidental)"
+    },
+    {
+     "k": "step",
+     "t": "**TSH first** · low TSH → isotope scan: hot nodule = toxic adenoma (rarely malignant) → treat hyperthyroidism, no FNA"
+    },
+    {
+     "k": "step",
+     "t": "Red flags: rapid growth, stridor, hoarseness, fixed hard mass, nodes, childhood neck irradiation, MEN2 family history → urgent referral"
+    },
+    {
+     "k": "step",
+     "t": "**Ultrasound U-score**: U1 normal · U2 benign · U3 indeterminate · U4 suspicious · U5 malignant → **USS-guided FNA if U3–U5**"
+    },
+    {
+     "k": "split",
+     "q": "FNA cytology (Thy)",
+     "br": [
+      {
+       "l": "Thy1 non-diagnostic",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Repeat USS-guided FNA** (± core); Thy1c cyst with benign USS → observe"
+        }
+       ]
+      },
+      {
+       "l": "Thy2 benign",
+       "n": [
+        {
+         "k": "step",
+         "t": "Reassure/discharge if U2 · repeat FNA if U3–U5 or clinical concern"
+        }
+       ]
+      },
+      {
+       "l": "Thy3a / Thy3f / Thy4",
+       "n": [
+        {
+         "k": "step",
+         "t": "Thy3a → repeat FNA/core, MDT · Thy3f & Thy4 → **diagnostic hemithyroidectomy**"
+        }
+       ]
+      },
+      {
+       "l": "Thy5 malignant",
+       "n": [
+        {
+         "k": "step",
+         "t": "Stage (USS nodes ± CT) → MDT → definitive surgery by tumour type (below)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Cancer type",
+     "br": [
+      {
+       "l": "Papillary / follicular",
+       "n": [
+        {
+         "k": "step",
+         "t": "≤ 4 cm, N0, low risk → **hemithyroidectomy** · > 4 cm, extrathyroidal, nodes or metastases → **total thyroidectomy** ± neck dissection"
+        },
+        {
+         "k": "end",
+         "t": "Risk-adapted **radioiodine** + TSH suppression for high risk; follow-up with thyroglobulin"
+        }
+       ]
+      },
+      {
+       "l": "Medullary (C cells)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Calcitonin, CEA, **RET testing** · **exclude phaeochromocytoma first**"
+        },
+        {
+         "k": "end",
+         "t": "**Total thyroidectomy + central neck dissection**; no role for radioiodine"
+        }
+       ]
+      },
+      {
+       "l": "Anaplastic / lymphoma",
+       "n": [
+        {
+         "k": "step",
+         "t": "Anaplastic: secure airway, BRAF testing, MDT (usually palliative) · lymphoma (Hashimoto’s): core biopsy → **R-CHOP ± RT**, not surgery"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Benign nodular goitre: **no thyroxine suppression** · surgery only for compression, retrosternal extension, growth or cosmesis"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Thyrotoxicosis and safe thyroidectomy",
+   "source": "NICE NG145 (2019) · ETA 2018 Graves · DAS/BAETS 2022 haematoma",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Low TSH with raised FT4/FT3: tremor, palpitations, weight loss, heat intolerance"
+    },
+    {
+     "k": "step",
+     "t": "**Propranolol** for symptoms (diltiazem if asthmatic) · TSH-receptor antibodies (TRAb) · isotope scan if TRAb negative or nodular"
+    },
+    {
+     "k": "split",
+     "q": "Cause",
+     "br": [
+      {
+       "l": "Graves (TRAb +, diffuse uptake)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Carbimazole** 12–18 months (titration or block-and-replace); PTU in 1st trimester"
+        },
+        {
+         "k": "step",
+         "t": "Warn: sore throat/fever → urgent FBC (**agranulocytosis**) · relapse ~50% → definitive treatment"
+        }
+       ]
+      },
+      {
+       "l": "Toxic nodule / toxic MNG",
+       "n": [
+        {
+         "k": "step",
+         "t": "Antithyroid drug to euthyroid → **radioiodine** or surgery (hemithyroidectomy / total) – rarely remits"
+        }
+       ]
+      },
+      {
+       "l": "Thyroiditis (low uptake)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Painful, post-partum or amiodarone: beta-blocker ± NSAID/steroid; **no antithyroid drugs**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Definitive: **radioiodine** (not in pregnancy, avoid conception 6 months, steroid cover/avoid if active orbitopathy) or **total thyroidectomy**"
+    },
+    {
+     "k": "step",
+     "t": "Surgery if compressive goitre, active eye disease, suspicious nodule, pregnancy plans or choice · pre-op euthyroid + **potassium iodide 10 days**"
+    },
+    {
+     "k": "step",
+     "t": "Pre-op laryngoscopy (cords), calcium · post-op levothyroxine, **adjusted Ca/PTH next morning**"
+    },
+    {
+     "k": "split",
+     "q": "Post-thyroidectomy emergency",
+     "br": [
+      {
+       "l": "Neck haematoma, stridor",
+       "n": [
+        {
+         "k": "step",
+         "t": "**SCOOP at bedside**: Skin exposure, Cut sutures, Open skin, Open muscles, Pack → then theatre; call anaesthetist"
+        }
+       ]
+      },
+      {
+       "l": "Hypocalcaemia (tingling, Chvostek)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Mild: oral calcium + **alfacalcidol** · tetany/QT long: **10 mL 10% calcium gluconate IV** over 10 min, then infusion"
+        }
+       ]
+      },
+      {
+       "l": "Hoarse voice / stridor",
+       "n": [
+        {
+         "k": "step",
+         "t": "Unilateral RLN palsy → laryngoscopy, voice therapy · bilateral → **reintubation / tracheostomy**"
+        }
+       ]
+      },
+      {
+       "l": "Fever, tachycardia, delirium",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Thyroid storm**: ICU, propranolol, PTU then iodide 1 h later, hydrocortisone, cooling, fluids"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Make the patient euthyroid before any surgery or radioiodine – prevents thyroid storm"
+    }
+   ]
+  }
+ ],
+ "endo": [
+  {
+   "type": "flowchart",
+   "title": "Hypercalcaemia and hyperparathyroidism",
+   "source": "NICE NG132 (2019) · 5th International Workshop PHPT 2022 · KDIGO 2017 CKD-MBD",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Raised albumin-adjusted calcium (often incidental): stones, bones, groans, psychic moans"
+    },
+    {
+     "k": "step",
+     "t": "Ca > 3.0 mmol/L or symptomatic → **IV 0.9% saline 3–4 L/24 h**, then IV bisphosphonate (zoledronate); stop thiazides"
+    },
+    {
+     "k": "step",
+     "t": "Repeat adjusted Ca + **PTH**, phosphate, 25-OH vitamin D, eGFR"
+    },
+    {
+     "k": "split",
+     "q": "Calcium/PTH pattern",
+     "br": [
+      {
+       "l": "High Ca, PTH suppressed",
+       "n": [
+        {
+         "k": "end",
+         "t": "Non-parathyroid: **malignancy** (PTHrP, myeloma screen), vitamin D excess, sarcoid, drugs → treat cause"
+        }
+       ]
+      },
+      {
+       "l": "High Ca, PTH high/inappropriately normal",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Primary HPT** (solitary adenoma ~85%) · exclude **FHH**: urine Ca:Cr clearance ratio < 0.01 → no surgery"
+        }
+       ]
+      },
+      {
+       "l": "Low/normal Ca, high PTH, CKD",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Secondary HPT**: phosphate restriction + binders, vitamin D, alfacalcidol, **cinacalcet** → parathyroidectomy if refractory"
+        }
+       ]
+      },
+      {
+       "l": "High Ca after long CKD / transplant",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Tertiary HPT** (autonomous): cinacalcet → **subtotal (3½-gland) or total parathyroidectomy + forearm autograft**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Primary HPT: replete vitamin D · renal USS (stones), DEXA incl. distal radius, 24-h urine calcium"
+    },
+    {
+     "k": "step",
+     "t": "Surgery if symptoms, renal stones, osteoporosis/fragility fracture, eGFR < 60 or **adjusted Ca ≥ 2.85 mmol/L** (consider in all)"
+    },
+    {
+     "k": "split",
+     "q": "Surgery indicated?",
+     "br": [
+      {
+       "l": "Yes",
+       "n": [
+        {
+         "k": "step",
+         "t": "Localise: **neck USS + sestamibi SPECT-CT** (or 4D-CT / choline PET)"
+        },
+        {
+         "k": "step",
+         "t": "Concordant → **focused parathyroidectomy** + intra-op PTH (> 50% fall) · non-localised, multigland, MEN → bilateral neck exploration"
+        }
+       ]
+      },
+      {
+       "l": "No / unfit / declines",
+       "n": [
+        {
+         "k": "step",
+         "t": "Monitor Ca & eGFR, DEXA · **cinacalcet** for hypercalcaemia, bisphosphonate for bone; offer surgery again if criteria met"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Post-op: watch for **hungry bone syndrome** (calcium + alfacalcidol) · cure = normocalcaemia at 6 months"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Multiple endocrine neoplasia (MEN)",
+   "source": "ATA 2015 medullary thyroid cancer · Thakker 2012 MEN1 · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Two or more endocrine tumours, multigland/young HPT, medullary thyroid cancer or family history"
+    },
+    {
+     "k": "step",
+     "t": "Screen: adjusted Ca + PTH, calcitonin, **plasma metanephrines**, prolactin, fasting gut hormones"
+    },
+    {
+     "k": "step",
+     "t": "**Genetic testing**: MEN1 (menin) or **RET proto-oncogene** → cascade-test first-degree relatives"
+    },
+    {
+     "k": "split",
+     "q": "Syndrome",
+     "br": [
+      {
+       "l": "MEN1: 3 Ps",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Parathyroid hyperplasia** (~95%) → subtotal (3½-gland) or total parathyroidectomy + autotransplant + **transcervical thymectomy**"
+        },
+        {
+         "k": "step",
+         "t": "**Pancreatic NETs** (gastrinoma, insulinoma, non-functioning) → resect if functioning or > 2 cm"
+        },
+        {
+         "k": "step",
+         "t": "**Pituitary** adenoma: prolactinoma → cabergoline; others → trans-sphenoidal surgery"
+        },
+        {
+         "k": "end",
+         "t": "Lifelong annual biochemistry + periodic imaging from childhood"
+        }
+       ]
+      },
+      {
+       "l": "MEN2A: MTC + phaeo + HPT",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Exclude phaeochromocytoma first** (plasma metanephrines) → α-blockade → adrenalectomy before other surgery"
+        },
+        {
+         "k": "step",
+         "t": "**Prophylactic total thyroidectomy** by RET risk: high risk (codon 634) **by age 5**; moderate risk when calcitonin rises"
+        },
+        {
+         "k": "end",
+         "t": "Established MTC → total thyroidectomy + central neck dissection; follow calcitonin & CEA"
+        }
+       ]
+      },
+      {
+       "l": "MEN2B: M918T",
+       "n": [
+        {
+         "k": "step",
+         "t": "MTC + phaeo + **marfanoid habitus, mucosal neuromas**, no HPT"
+        },
+        {
+         "k": "end",
+         "t": "**Total thyroidectomy in the first year of life** (most aggressive MTC)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Always treat a phaeochromocytoma before thyroid or parathyroid surgery; MTC does not take up radioiodine"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Functioning pancreatic neuroendocrine tumour",
+   "source": "ENETS 2023 functioning pNET · ESMO 2020 GEP-NEN",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Suspected hormone-secreting pancreatic NET"
+    },
+    {
+     "k": "split",
+     "q": "Clinical syndrome",
+     "br": [
+      {
+       "l": "Insulinoma: Whipple’s triad",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Supervised 72-h fast**: glucose < 3.0 mmol/L with raised insulin, C-peptide, proinsulin; negative sulfonylurea screen"
+        },
+        {
+         "k": "step",
+         "t": "Usually single, benign, < 2 cm → **EUS** + CT/MRI (GLP-1R PET if occult) → **enucleation** or distal pancreatectomy"
+        }
+       ]
+      },
+      {
+       "l": "Gastrinoma: Zollinger–Ellison",
+       "n": [
+        {
+         "k": "step",
+         "t": "Refractory/multiple/jejunal ulcers + diarrhoea → **fasting gastrin > 10× ULN with gastric pH < 2** (± secretin test)"
+        },
+        {
+         "k": "step",
+         "t": "**High-dose PPI** · gastrinoma triangle (duodenum) · 20–25% MEN1 → resect if sporadic and localised"
+        }
+       ]
+      },
+      {
+       "l": "Glucagonoma / VIPoma",
+       "n": [
+        {
+         "k": "step",
+         "t": "Glucagonoma: necrolytic migratory erythema, diabetes, DVT · VIPoma: watery diarrhoea, ↓K⁺ → **somatostatin analogue** + resection"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Stage: CT/MRI + EUS · **⁶⁸Ga-DOTATATE PET-CT** · grade by Ki-67 (G1 < 3%, G2 3–20%, G3 > 20%)"
+    },
+    {
+     "k": "step",
+     "t": "Screen for MEN1: calcium, PTH, prolactin"
+    },
+    {
+     "k": "end",
+     "t": "Metastatic: somatostatin analogue, **PRRT (¹⁷⁷Lu-DOTATATE)**, everolimus/sunitinib, liver-directed therapy · resect where feasible"
+    }
+   ]
+  }
+ ],
+ "bbreast": [
+  {
+   "type": "flowchart",
+   "title": "Breast lump: triple assessment",
+   "source": "NICE NG12 · ABS 2019 best-practice diagnostic guidelines · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Woman with a breast lump"
+    },
+    {
+     "k": "step",
+     "t": "**2-week-wait** if ≥ 30 y with unexplained lump (or skin change, ≥ 50 with nipple change) · < 30 y → non-urgent breast clinic"
+    },
+    {
+     "k": "step",
+     "t": "**Triple assessment** in one-stop clinic: clinical exam + imaging + **core biopsy**"
+    },
+    {
+     "k": "step",
+     "t": "Imaging: **USS if < 40 y**; mammography + USS if ≥ 40 y · score P/U/M 1–5; any score ≥ 3 → core biopsy"
+    },
+    {
+     "k": "split",
+     "q": "Diagnosis",
+     "br": [
+      {
+       "l": "Fibroadenoma (young, mobile)",
+       "n": [
+        {
+         "k": "step",
+         "t": "U2 and < 25 y → no biopsy needed · otherwise core-confirm → reassure · > 3 cm, growing or symptomatic → **vacuum-assisted or surgical excision**"
+        }
+       ]
+      },
+      {
+       "l": "Cyst (fluctuant, perimenopausal)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Aspirate** if symptomatic · discard clear fluid · **bloody aspirate or residual mass → core biopsy**"
+        }
+       ]
+      },
+      {
+       "l": "Rapidly growing large lump",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Phyllodes tumour** on core → **wide local excision with clear margins** (≥ 1 cm if borderline/malignant), no axillary surgery"
+        }
+       ]
+      },
+      {
+       "l": "Trauma, firm irregular mass",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Fat necrosis** (oil cyst, coarse calcification) – mimics cancer → core biopsy to confirm"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Concordant benign triple assessment → reassure and discharge · any discordance → repeat biopsy or excision"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Nipple discharge",
+   "source": "NICE NG12 · ABS 2019 · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Nipple discharge"
+    },
+    {
+     "k": "step",
+     "t": "Character: one or many ducts, uni/bilateral, spontaneous vs expressed, colour, blood (dipstick), associated lump"
+    },
+    {
+     "k": "split",
+     "q": "Type of discharge",
+     "br": [
+      {
+       "l": "Bilateral milky (galactorrhoea)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Pregnancy test, **prolactin**, TFT, drug history (antipsychotics, metoclopramide) → pituitary MRI if prolactin high"
+        }
+       ]
+      },
+      {
+       "l": "Multiduct, green/brown, cheesy",
+       "n": [
+        {
+         "k": "step",
+         "t": "Physiological / **duct ectasia** (smokers, perimenopause) → imaging if ≥ 40 y → reassure"
+        }
+       ]
+      },
+      {
+       "l": "Single duct, bloody or serous",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Mammography + USS** (≥ 40 y) or USS (< 40) ± core biopsy of any lesion"
+        },
+        {
+         "k": "step",
+         "t": "Commonest cause **intraductal papilloma** → **microdochectomy** (diagnostic + therapeutic)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "≥ 50 y with discharge, retraction or other nipple change → **2-week-wait**"
+    },
+    {
+     "k": "end",
+     "t": "Older woman, multiduct troublesome discharge or ectasia → **total duct excision (Hadfield’s)** · eczematous nipple → exclude Paget’s"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Breast pain and breast infection",
+   "source": "NICE CKS 2023 mastitis & mastalgia · ABS 2019 · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Painful or inflamed breast"
+    },
+    {
+     "k": "step",
+     "t": "Ask: cycle relation, lactation, smoking, drugs (HRT, OCP), trauma · examine for lump, abscess, skin change"
+    },
+    {
+     "k": "split",
+     "q": "Which picture?",
+     "br": [
+      {
+       "l": "Cyclical / non-cyclical mastalgia",
+       "n": [
+        {
+         "k": "step",
+         "t": "Examine; imaging only if focal lump or signs · pain alone is **not** a cancer red flag"
+        },
+        {
+         "k": "step",
+         "t": "**Reassurance**, well-fitting bra, **topical NSAID**; pain diary · evening primrose oil not recommended"
+        },
+        {
+         "k": "end",
+         "t": "Severe refractory: specialist tamoxifen 10 mg (off-label) · danazol rarely (side-effects)"
+        }
+       ]
+      },
+      {
+       "l": "Lactational mastitis",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Continue breastfeeding/expressing**, analgesia · **flucloxacillin** 10–14 days (clarithromycin if penicillin allergy)"
+        },
+        {
+         "k": "end",
+         "t": "Fluctuant/not settling → USS → **needle aspiration** (repeat) or mini-incision drainage"
+        }
+       ]
+      },
+      {
+       "l": "Non-lactational (periductal)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Young smoker, periareolar → **co-amoxiclav** (or clarithromycin + metronidazole), **stop smoking**"
+        },
+        {
+         "k": "end",
+         "t": "Abscess → USS-guided aspiration · recurrent or **mammary duct fistula** → total duct excision + fistula excision"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Inflammation not settling after one or two antibiotic courses → imaging + **core/punch biopsy**"
+    },
+    {
+     "k": "end",
+     "t": "Persistent erythema, oedema, peau d’orange despite antibiotics = **inflammatory breast cancer** until proven otherwise"
+    }
+   ]
+  }
+ ],
+ "bca": [
+  {
+   "type": "flowchart",
+   "title": "Suspected breast cancer: diagnosis and staging",
+   "source": "NICE NG101 (2018, updated) · NICE NG12 · ESMO 2024 early breast cancer",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Breast lump, skin/nipple change, axillary node or screen-detected abnormality"
+    },
+    {
+     "k": "step",
+     "t": "**Triple assessment**: exam + mammography/USS + **core biopsy** → ER, PR, **HER2**, grade, Ki-67"
+    },
+    {
+     "k": "step",
+     "t": "**Axillary USS** ± core/FNA of abnormal node · MRI if lobular, dense breasts, size discordance, Paget’s or occult primary"
+    },
+    {
+     "k": "step",
+     "t": "Staging CT chest/abdomen/pelvis ± bone scan **only** if T3–4, N2–3, inflammatory, symptoms or high-risk neoadjuvant"
+    },
+    {
+     "k": "split",
+     "q": "MDT plan",
+     "br": [
+      {
+       "l": "Operable early (T1–2, N0–1)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Primary surgery**, or neoadjuvant systemic therapy if HER2+ or triple-negative ≥ T2/N+, or to permit breast conservation"
+        }
+       ]
+      },
+      {
+       "l": "Locally advanced / inflammatory",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Neoadjuvant chemotherapy** (+ HER2 therapy) → mastectomy + ALND + chest-wall RT; no immediate reconstruction if inflammatory"
+        }
+       ]
+      },
+      {
+       "l": "Metastatic (bone, lung, liver, brain)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Biopsy a metastasis (receptors) → **systemic therapy by subtype**; surgery only for palliation"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "**Germline BRCA testing** if triple-negative < 60 y, diagnosis < 40 y, male breast cancer, or ≥ 10% carrier probability"
+    },
+    {
+     "k": "end",
+     "t": "Paget’s nipple, male breast lump and inflammatory change are cancer until biopsy proves otherwise"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Breast and axillary surgery",
+   "source": "NICE NG101 · ABS 2023 · Z0011 / AMAROS / FAST-Forward trials",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Operable invasive breast cancer"
+    },
+    {
+     "k": "split",
+     "q": "Breast operation",
+     "br": [
+      {
+       "l": "Breast-conserving surgery",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Wide local excision** (± oncoplastic) with clear margins: no tumour on ink (invasive), ≥ 2 mm (DCIS)"
+        },
+        {
+         "k": "end",
+         "t": "Always + **whole-breast RT 26 Gy in 5 fractions** (may omit if ≥ 65 y, T1N0, ER+, low grade on endocrine)"
+        }
+       ]
+      },
+      {
+       "l": "Mastectomy",
+       "n": [
+        {
+         "k": "step",
+         "t": "Large tumour:breast ratio, multicentric, RT contraindicated, inflammatory, BRCA or choice"
+        },
+        {
+         "k": "end",
+         "t": "Offer **immediate reconstruction** (implant or flap) · post-mastectomy RT if N+ or T3–4"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Axilla",
+     "br": [
+      {
+       "l": "Clinically and USS node-negative",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Sentinel lymph node biopsy** (isotope + blue dye, or magnetic tracer)"
+        }
+       ]
+      },
+      {
+       "l": "SLNB: 1–2 macrometastases",
+       "n": [
+        {
+         "k": "step",
+         "t": "BCS + RT + systemic therapy → **no further axillary surgery** (Z0011) · mastectomy → axillary RT or ALND"
+        }
+       ]
+      },
+      {
+       "l": "Biopsy-proven node-positive",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Axillary node clearance** (levels I–II) or axillary RT; after neoadjuvant response → targeted axillary surgery"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "DCIS: BCS + RT (or mastectomy if extensive) · SLNB only if mastectomy or suspected invasion"
+    },
+    {
+     "k": "end",
+     "t": "Watch for seroma, lymphoedema, intercostobrachial numbness, **long thoracic (winged scapula)** and thoracodorsal nerve injury"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Adjuvant systemic therapy by receptor status",
+   "source": "NICE NG101 · ESMO 2024 early breast cancer · NICE TA810/TA851/TA886",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Breast cancer after surgery, or before it (neoadjuvant)"
+    },
+    {
+     "k": "step",
+     "t": "Estimate benefit with **PREDICT** ± gene expression test (Oncotype DX) for ER+/HER2−, node 0–3"
+    },
+    {
+     "k": "split",
+     "q": "Receptor status",
+     "br": [
+      {
+       "l": "ER+ / HER2− (~70%)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Endocrine therapy 5–10 years**: premenopausal → tamoxifen (± ovarian suppression + AI if high risk); postmenopausal → **aromatase inhibitor**"
+        },
+        {
+         "k": "step",
+         "t": "Chemotherapy if high genomic/PREDICT risk · **abemaciclib 2 y** if node+ high risk · olaparib if gBRCA"
+        }
+       ]
+      },
+      {
+       "l": "HER2+ (~15%)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Chemotherapy + **trastuzumab 1 year** (+ pertuzumab if node+) · **baseline + 3-monthly echo** (cardiotoxicity)"
+        },
+        {
+         "k": "step",
+         "t": "Residual disease after neoadjuvant → **T-DM1** (trastuzumab emtansine)"
+        }
+       ]
+      },
+      {
+       "l": "Triple-negative (~15%)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Neoadjuvant anthracycline–taxane + carboplatin + **pembrolizumab** (if ≥ T2 or N+)"
+        },
+        {
+         "k": "step",
+         "t": "Residual disease → **capecitabine** (or olaparib if gBRCA)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Postmenopausal node-positive → **adjuvant bisphosphonate** (zoledronic acid) · AI → DEXA; tamoxifen → VTE & endometrial risk"
+    },
+    {
+     "k": "end",
+     "t": "Metastatic ER+: AI/fulvestrant + **CDK4/6 inhibitor** · HER2+: trastuzumab + pertuzumab + docetaxel · bone mets: denosumab/bisphosphonate"
+    }
+   ]
+  }
+ ],
+ "paed": [
+  {
+   "type": "flowchart",
+   "title": "Vomiting infant: pyloric stenosis vs malrotation",
+   "source": "NICE NG29 IV fluids in children · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Infant with persistent vomiting"
+    },
+    {
+     "k": "split",
+     "q": "Is the vomit bile-stained (green)?",
+     "br": [
+      {
+       "l": "Yes – bilious",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Malrotation with midgut volvulus until proven otherwise**: NG tube, IV fluids, urgent surgical review"
+        },
+        {
+         "k": "step",
+         "t": "**Urgent upper GI contrast**: DJ flexure right of midline, corkscrew duodenum (USS whirlpool sign)"
+        },
+        {
+         "k": "end",
+         "t": "**Emergency Ladd’s procedure**: derotate anticlockwise, divide Ladd’s bands, widen mesentery, appendicectomy"
+        }
+       ]
+      },
+      {
+       "l": "No – projectile, 2–8 weeks old",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Pyloric stenosis**: first-born male, hungry after vomiting · **test feed** for olive in RUQ/epigastrium"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "**USS**: pyloric muscle ≥ 3 mm thick, channel ≥ 15 mm long"
+    },
+    {
+     "k": "step",
+     "t": "Gas: **hypochloraemic, hypokalaemic metabolic alkalosis** (paradoxical aciduria)"
+    },
+    {
+     "k": "step",
+     "t": "**Resuscitate first – it is not a surgical emergency**: 0.9% saline + 5% glucose, add KCl once passing urine; NG tube"
+    },
+    {
+     "k": "step",
+     "t": "Operate only when **Cl⁻ ≥ 100 mmol/L, HCO₃⁻ < 28 mmol/L**, K⁺ normal"
+    },
+    {
+     "k": "end",
+     "t": "**Ramstedt pyloromyotomy** (open or laparoscopic) → feeds within hours · complications: mucosal perforation, wound infection"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Intussusception",
+   "source": "APSA 2021 intussusception review · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Child 3 months – 3 years: paroxysmal colic, drawing up legs, pallor, vomiting"
+    },
+    {
+     "k": "step",
+     "t": "Late signs: **redcurrant-jelly stool**, sausage-shaped mass, empty RIF · often after viral illness (Peyer’s patches)"
+    },
+    {
+     "k": "step",
+     "t": "**USS: target/doughnut sign** (diagnostic) · AXR only if perforation suspected"
+    },
+    {
+     "k": "step",
+     "t": "Resuscitate: IV access, fluid bolus, NG if vomiting, antibiotics; surgeon informed before reduction"
+    },
+    {
+     "k": "split",
+     "q": "Peritonitis, perforation or uncorrected shock?",
+     "br": [
+      {
+       "l": "No",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Air (pneumatic) enema reduction** under fluoroscopy (~80–90% success)"
+        },
+        {
+         "k": "step",
+         "t": "Partial reduction, child stable → **repeat enema** after 30 min–few hours"
+        }
+       ]
+      },
+      {
+       "l": "Yes, or enema fails",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Laparoscopy/laparotomy**: manual reduction by squeezing (not pulling) · resect if non-viable or lead point"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Lead point (Meckel’s, polyp, duplication, lymphoma, HSP) more likely if < 3 months or > 3 years or recurrent"
+    },
+    {
+     "k": "end",
+     "t": "Recurrence ~10% after enema reduction – warn parents to return early"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Neonatal anomalies: OA/TOF, Hirschsprung, anorectal malformation",
+   "source": "ERNICA 2019 OA & 2020 Hirschsprung consensus · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Newborn with feeding problem, distension or abnormal perineum"
+    },
+    {
+     "k": "step",
+     "t": "Keep warm, IV maintenance fluid with 10% glucose, **NG decompression** if vomiting · examine perineum in every baby"
+    },
+    {
+     "k": "split",
+     "q": "Presentation",
+     "br": [
+      {
+       "l": "Frothing, choking, cough on feeds",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Oesophageal atresia**: NG tube coils at T2–T4 on CXR; gastric gas = distal TOF (type C, ~85%)"
+        },
+        {
+         "k": "step",
+         "t": "**Replogle tube on continuous suction**, nil by mouth, head up · echo (aortic arch side) + VACTERL screen"
+        },
+        {
+         "k": "end",
+         "t": "**Ligation of TOF + primary oesophageal anastomosis** · watch for leak, stricture, GORD, tracheomalacia"
+        }
+       ]
+      },
+      {
+       "l": "No meconium by 48 h, distension",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Hirschsprung**: contrast enema (transition zone) → **suction rectal biopsy**: absent ganglion cells, ↑ acetylcholinesterase, absent calretinin"
+        },
+        {
+         "k": "step",
+         "t": "**Rectal washouts** · enterocolitis (fever, explosive stool) → nil by mouth, IV antibiotics, washouts"
+        },
+        {
+         "k": "end",
+         "t": "**Pull-through** (transanal Soave/Duhamel/Swenson) · stoma if washouts fail"
+        }
+       ]
+      },
+      {
+       "l": "Abnormal or absent anus",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Anorectal malformation**: wait 24 h for meconium at perineum/urine · VACTERL: echo, renal & spinal USS, sacral X-ray"
+        },
+        {
+         "k": "end",
+         "t": "Perineal fistula → **anoplasty/PSARP** · no visible fistula (high) → **colostomy** then PSARP at 1–3 months"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Screen every neonatal anomaly for VACTERL associations; Down syndrome ↔ Hirschsprung & duodenal atresia"
+    }
+   ]
+  }
+ ]
+}

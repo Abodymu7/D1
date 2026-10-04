@@ -1,0 +1,56 @@
+Parameter
+Key Points
+Benign Breast Diseases
+Clinical Definition
+Non‑malignant breast conditions; includes fibroadenomas, cysts, fibrocystic changes (mastalgia, nodularity, duct ectasia), nipple discharge (physiologic vs. pathologic), fat necrosis, inflammatory conditions (mastitis); represents 80–90% of breast‑related presentations
+Benign Breast Diseases
+Causes / Pathogenesis
+Altered breast tissue involution and development; hormonal imbalance and cyclic estrogen/progesterone effects; local factors: trauma, infection (mastitis), ductal stasis; chronic inflammation leading to fibrosis and epithelial hyperplasia
+Benign Breast Diseases
+Risk Factors
+Age‑specific occurrences (fibroadenoma in early reproductive years; cystic changes in perimenopause); ovarian hormone fluctuations (menstrual cycle, pregnancy, lactation); exogenous hormone exposure (oral contraceptives); smoking association (especially in duct ectasia)
+Benign Breast Diseases
+Clinical Features (Symptoms & Signs)
+Palpable mass: firm, mobile (fibroadenoma) or cystic, fluctuant (cysts); nipple discharge: bilateral, milky (physiologic during lactation) vs. unilateral, bloody/serous/greenish (suggestive of pathologic processes like duct ectasia); mastalgia: cyclical (pre‑menses) or non‑cyclical (burning quality); occasional skin changes (dimpling, retraction) and signs of inflammation (mastitis)
+Benign Breast Diseases
+Investigations and Findings
+Mammography: detects microcalcifications, stellate masses, tissue asymmetry, guides sampling; ultrasound: differentiates solid vs. cystic lesions, ideal for dense breasts, assists in interventional procedures; MRI: used in high‑risk individuals or implant evaluation; ductography/ductoscopy: visualizes duct architecture (papilloma vs. malignant features); tissue sampling: fine needle aspiration cytology and core biopsy for confirmation
+Benign Breast Diseases
+Management (Evaluation & Treatment Options)
+Image‑guided interventions: ultrasound aspiration for cysts; cryoablation for small fibroadenomas; pharmacological options: NSAIDs or topical agents for mastalgia, evening primrose oil, danazol, low‑dose tamoxifen for cyclic pain (noting possible relapse upon cessation); targeted duct interventions: localized duct excision (microdochectomy) when discharge is confined; inflammatory conditions (mastitis/abscess): intravenous antibiotics (penicillin/cephalosporins) followed by interventional drainage if an abscess develops
+Benign Breast Diseases
+Differential Diagnosis (DDX) & Exclusion Criteria
+Fibroadenoma vs. Carcinoma: mobile, well‑circumscribed mass with benign imaging features, confirmed via tissue sampling; mastalgia: cyclical pain lacking discrete mass and normal imaging excludes malignancy; nipple discharge: bilateral, milky secretion (lactation context) vs. unilateral, focal duct abnormality with bloody or serous fluid; fat necrosis: history of trauma with characteristic calcifications (oil cyst appearance) on imaging; duct ectasia: smoking history, duct dilation, and greenish/brown discharge favor a benign process
+Benign Breast Diseases
+Complications
+Recurrence of cysts after aspiration; abscess formation or antibiotic failure progressing to chronic infection; antibioma formation (indurated mass post pus‑resorption); fistula formation or scarring in persistent duct ectasia
+Breast Cancer
+Clinical Definition
+Malignant neoplasm arising from epithelial tissue; includes carcinoma in situ (DCIS, LCIS) and invasive types (commonly invasive ductal carcinoma, also lobular and inflammatory variants); most common cancer in women; rare in males
+Breast Cancer
+Causes / Pathogenesis
+Multifactorial origin with genetic (BRCA1/BRCA2 mutations) and environmental influences; progression from precursor lesions (e.g., DCIS) with LCIS as an indicator of increased risk; estrogen‑driven tumor development and progression
+Breast Cancer
+Risk Factors
+Predominantly female; male cases <0.5%; increasing age, majority seen in perimenopausal/postmenopausal patients; genetic predisposition (family history, BRCA mutations); hormonal factors (early menarche, late menopause, nulliparity, prolonged hormone therapy); obesity (enhanced estrogen conversion in adipose tissue), high‑fat diet, alcohol intake; prior breast lesions (atypical hyperplasia); radiation exposure
+Breast Cancer
+Clinical Features (Symptoms & Signs)
+Palpable, hard, irregular mass (often in the upper outer quadrant); skin changes: dimpling, retraction, ‘peau d’orange’, ulceration or indurated plaques (cancer en cuirasse); nipple alterations: retraction and/or discharge (may be bloody or clear); Paget’s disease: unilateral, eczematous nipple changes with confirmed Paget cells on biopsy; regional lymphadenopathy (axillary nodes); inflammatory variant: diffuse erythema, edema, and brawny induration, may present as stage IIIB; occasional presentation by symptoms of distant metastases
+Breast Cancer
+Investigations and Findings
+Mammography: identifies microcalcifications (common in DCIS), stellate masses, and asymmetry; ultrasound: characterizes lesions and directs sampling procedures; MRI: maps tumor extent in multifocal disease and evaluates high‑risk patients; tissue sampling: FNAC, core (tru‑cut) biopsy, or excisional biopsy for definitive diagnosis; staging: TNM classification with adjunct imaging (CT, PET, bone scans) for metastases evaluation
+Breast Cancer
+Management (Evaluation & Treatment Options)
+Surgical procedures: breast‑conserving surgery (wide local excision/quadrantectomy with adjuvant radiotherapy), mastectomy options (simple/total, modified radical with axillary dissection, with sentinel lymph node biopsy guidance); systemic therapies: chemotherapy (anthracyclines, taxanes, cyclophosphamide, methotrexate, 5‑fluorouracil) in neoadjuvant/adjuvant settings, hormonal agents (tamoxifen for receptor‑positive cancers; aromatase inhibitors in postmenopausal patients), targeted therapy (trastuzumab for HER2‑overexpression with pre‑treatment cardiologic evaluation), endocrine ablation (surgical or medical oophorectomy in selected premenopausal cases); radiotherapy: post‑surgical application to reduce local recurrence; palliative interventions: procedures to relieve metastatic complications (e.g., stenting, pleurodesis, bisphosphonates for bone lesions)
+Breast Cancer
+Differential Diagnosis (DDX) & Exclusion Criteria
+Inflammatory breast cancer vs. mastitis: lack of response to antibiotics, persistent induration and edema with biopsy revealing lymphatic invasion; Paget’s disease vs. benign nipple dermatoses: unilateral nipple changes resistant to topical treatment, confirmed by identification of Paget cells with immunohistochemistry; carcinoma vs. benign masses (e.g., fibroadenoma, fibrocystic change): irregular lesion margins, clusters of microcalcifications on imaging, definitive pathological features; male breast cancer vs. gynecomastia: focal, hard, fixed mass with nipple retraction and skin involvement versus diffuse, bilateral soft tissue proliferation on imaging
+Breast Cancer
+Complications
+Local recurrence after breast‑conserving approaches; regional lymph node involvement with risk for distant metastases (bone, lung, liver, brain); surgery‑related issues: seroma, hematoma, infection, nerve injury (e.g., long thoracic, thoracodorsal), lymphedema; systemic treatment complications: myelosuppression, cardiotoxicity (trastuzumab), thromboembolic risks, osteoporosis, endometrial effects; psychosocial and functional challenges following extensive surgical procedures
+Additional Differential Diagnosis
+Benign Breast Conditions
+Fibroadenoma vs. Carcinoma: mobile, smooth, well‑demarcated lesions on ultrasound, tissue sampling confirms benign cytologic/histologic features; mastalgia: cyclical pain without detectable mass and normal imaging profile excludes cancer; nipple discharge: bilateral, milky secretions (lactation‑associated) versus unilateral, bloody/serous discharge with localized duct abnormality indicative of pathology; fat necrosis: history of trauma with classic fat‑density changes and coarse calcifications distinguishing it from neoplasia; duct ectasia: smoking history and duct enlargement with greenish/brown discharge support benign ductal changes
+Additional Differential Diagnosis
+Breast Cancer
+Inflammatory breast cancer vs. mastitis: persistent induration and skin edema despite antibiotic treatment, with biopsy demonstrating dermal lymphatic invasion; Paget’s disease vs. eczema: unilateral, persistent nipple involvement and confirmed Paget cells versus bilateral or responsive benign dermatoses; carcinoma vs. benign masses: imaging showing irregular borders and clustered microcalcifications with confirmatory tissue diagnosis; male breast cancer vs. gynecomastia: focal, firm, fixed mass with nipple changes and skin involvement versus diffuse, bilateral soft tissue proliferation on imaging

@@ -1,0 +1,1561 @@
+{
+ "acute": [
+  {
+   "type": "flowchart",
+   "title": "Suspected acute appendicitis",
+   "source": "WSES 2020 Jerusalem guidelines · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Periumbilical pain migrating to the RIF, anorexia, nausea, low-grade fever"
+    },
+    {
+     "k": "step",
+     "t": "FBC, CRP, urinalysis, **pregnancy test in every woman of reproductive age**; analgesia, IV fluids"
+    },
+    {
+     "k": "step",
+     "t": "Stratify with a score: **Alvarado, AIR or Adult Appendicitis Score** → low, intermediate or high probability"
+    },
+    {
+     "k": "split",
+     "q": "Probability?",
+     "br": [
+      {
+       "l": "Low",
+       "n": [
+        {
+         "k": "step",
+         "t": "Discharge with safety-net or short observation; re-assess in 12–24 h if pain persists"
+        }
+       ]
+      },
+      {
+       "l": "Intermediate",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Imaging**: ultrasound first (children, young women, pregnancy → MRI if US inconclusive); **low-dose CT** in adults"
+        }
+       ]
+      },
+      {
+       "l": "High",
+       "n": [
+        {
+         "k": "step",
+         "t": "Proceed to surgery; imaging optional < 40 y, advisable in older adults (exclude tumour, diverticulitis)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Confirmed appendicitis: what type?",
+     "br": [
+      {
+       "l": "Uncomplicated",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Laparoscopic appendicectomy** (within 24 h); single pre-op antibiotic dose, none after"
+        },
+        {
+         "k": "step",
+         "t": "Antibiotics-first is an option if no appendicolith, but ~40% need appendicectomy within 5 years"
+        }
+       ]
+      },
+      {
+       "l": "Gangrenous / perforated",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Urgent laparoscopic appendicectomy**, suction of pus (lavage adds nothing)"
+        },
+        {
+         "k": "step",
+         "t": "Post-op antibiotics **3–5 days** only"
+        }
+       ]
+      },
+      {
+       "l": "Mass (phlegmon) or abscess",
+       "n": [
+        {
+         "k": "step",
+         "t": "IV antibiotics; abscess > 3 cm → **percutaneous drainage**"
+        },
+        {
+         "k": "step",
+         "t": "Interval appendicectomy not routine; **colonoscopy + CT if ≥ 40 y** (neoplasm risk)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Normal-looking appendix with no other cause found: remove it; always check for Meckel’s diverticulum and adnexal pathology"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Acute abdomen with peritonitis, collection or shock",
+   "source": "WSES 2017 intra-abdominal infection · NELA · ESVS 2024 AAA",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Severe abdominal pain ± peritonism, tachycardia, hypotension"
+    },
+    {
+     "k": "step",
+     "t": "ABCDE; **Sepsis Six within 1 h** (O₂, cultures, IV antibiotics, fluids, lactate, urine output)"
+    },
+    {
+     "k": "step",
+     "t": "FBC, U&E, LFT, **lipase/amylase**, lactate, VBG, group & save, βhCG; ECG (inferior MI), erect CXR"
+    },
+    {
+     "k": "split",
+     "q": "Which picture?",
+     "br": [
+      {
+       "l": "Back pain, pulsatile mass, shock",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Ruptured AAA**: permissive hypotension (SBP 70–90 mmHg, conscious), major haemorrhage protocol"
+        },
+        {
+         "k": "step",
+         "t": "CT angiography only if stable → **EVAR if anatomy suitable**, otherwise open repair"
+        },
+        {
+         "k": "end",
+         "t": "Elective repair: ≥ 5.5 cm (≥ 5.0 cm women, ESVS), growth > 1 cm/yr or symptomatic · screen men at 65"
+        }
+       ]
+      },
+      {
+       "l": "Generalised peritonitis / free gas",
+       "n": [
+        {
+         "k": "step",
+         "t": "**CT abdomen-pelvis** if stable; broad-spectrum IV antibiotics (e.g. piperacillin–tazobactam)"
+        },
+        {
+         "k": "step",
+         "t": "**Source control**: laparoscopy/laparotomy, e.g. perforated ulcer → omental patch + PPI + H. pylori eradication"
+        }
+       ]
+      },
+      {
+       "l": "Localised collection",
+       "n": [
+        {
+         "k": "step",
+         "t": "IV antibiotics + **image-guided percutaneous drainage**; surgery if it fails or is inaccessible"
+        }
+       ]
+      },
+      {
+       "l": "Pain out of proportion, AF",
+       "n": [
+        {
+         "k": "step",
+         "t": "Suspect **mesenteric ischaemia** (lactate may be normal early) → **CT angiography**"
+        },
+        {
+         "k": "step",
+         "t": "Revascularise (endovascular/open), resect dead bowel, planned second look"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Emergency laparotomy with predicted mortality ≥ 5%: **consultant surgeon + anaesthetist present**, critical care after (NELA)"
+    },
+    {
+     "k": "end",
+     "t": "Antibiotics **~4 days after adequate source control** · physiologically exhausted → **damage-control surgery**, ICU, relook 24–48 h"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Blunt and penetrating abdominal trauma",
+   "source": "ATLS 10th ed · WSES 2020 liver & spleen trauma · NICE NG39",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Abdominal trauma: seatbelt sign, abdominal pain, shock, penetrating wound"
+    },
+    {
+     "k": "step",
+     "t": "**<C>ABCDE**: control external bleeding, 2 large-bore IV/IO, bloods + crossmatch, **tranexamic acid 1 g within 3 h**"
+    },
+    {
+     "k": "step",
+     "t": "Major haemorrhage protocol: **balanced transfusion** (RBC:FFP 1:1, platelets), permissive hypotension until bleeding controlled (not in TBI)"
+    },
+    {
+     "k": "step",
+     "t": "**eFAST** in the resuscitation room; pelvic binder if pelvic injury possible"
+    },
+    {
+     "k": "split",
+     "q": "Haemodynamics?",
+     "br": [
+      {
+       "l": "Unstable, FAST positive",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Damage-control laparotomy**: pack, control bleeding and contamination, temporary closure"
+        }
+       ]
+      },
+      {
+       "l": "Unstable, FAST negative",
+       "n": [
+        {
+         "k": "step",
+         "t": "Look elsewhere: chest, **pelvis** (binder, angioembolisation, pre-peritoneal packing), long bones, scalp"
+        }
+       ]
+      },
+      {
+       "l": "Stable or responding",
+       "n": [
+        {
+         "k": "step",
+         "t": "**CT chest-abdomen-pelvis with IV contrast**"
+        },
+        {
+         "k": "step",
+         "t": "Solid-organ injury → **non-operative management** ± angioembolisation for contrast blush; serial exam & Hb"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Penetrating: shock, peritonitis, evisceration or gunshot to abdomen → **laparotomy**; stable stab wound → CT ± serial examination"
+    }
+   ]
+  }
+ ],
+ "liver": [
+  {
+   "type": "flowchart",
+   "title": "Jaundice: pre-hepatic, hepatic or post-hepatic?",
+   "source": "BSG 2018 abnormal liver blood tests · Bailey & Love 28e",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Yellow sclera/skin (clinically visible when bilirubin > ~40 µmol/L)"
+    },
+    {
+     "k": "step",
+     "t": "History: pain, fever, weight loss, pruritus, pale stools/dark urine, alcohol, drugs, travel; examine for **Courvoisier’s sign**"
+    },
+    {
+     "k": "step",
+     "t": "**Split bilirubin + LFT pattern** (ALT, ALP, GGT), FBC, film, INR, albumin; **ultrasound first-line**"
+    },
+    {
+     "k": "split",
+     "q": "Pattern?",
+     "br": [
+      {
+       "l": "Unconjugated, normal LFTs",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Pre-hepatic**: haemolysis (reticulocytes, LDH↑, haptoglobin↓, film, DAT) or Gilbert’s syndrome"
+        },
+        {
+         "k": "end",
+         "t": "Treat the cause; Gilbert’s is benign → reassure"
+        }
+       ]
+      },
+      {
+       "l": "ALT ≫ ALP, ducts not dilated",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Hepatocellular**: viral serology (A, B, C, E), autoantibodies, immunoglobulins, ferritin, paracetamol level"
+        },
+        {
+         "k": "end",
+         "t": "Stop hepatotoxins; rising INR or encephalopathy → **liver unit** (King’s College criteria)"
+        }
+       ]
+      },
+      {
+       "l": "ALP/GGT ≫ ALT, dilated ducts",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Obstructive**: MRCP (stones, strictures) or pancreatic-protocol CT (mass) ± EUS"
+        },
+        {
+         "k": "end",
+         "t": "ERCP for stones/stent; resection if malignant and resectable (see gb and panc charts)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Before intervention: **vitamin K** if INR prolonged, IV fluids (renal protection); cholangitis → antibiotics + urgent drainage"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Focal liver lesion: abscess, cyst or benign tumour",
+   "source": "EASL 2016 benign liver tumours · WHO-IWGE echinococcosis",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Liver lesion on ultrasound: symptomatic or incidental"
+    },
+    {
+     "k": "step",
+     "t": "Characterise with **contrast-enhanced CT/MRI** (or CEUS); LFTs, CRP, blood cultures, travel and cancer history"
+    },
+    {
+     "k": "split",
+     "q": "What is it?",
+     "br": [
+      {
+       "l": "Fever, RUQ pain, rim-enhancing",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Pyogenic abscess**: blood cultures, IV antibiotics (e.g. ceftriaxone + metronidazole) for 4–6 weeks"
+        },
+        {
+         "k": "step",
+         "t": "**Percutaneous aspiration/drainage** if > 3–5 cm; find the source (biliary, colonic)"
+        },
+        {
+         "k": "step",
+         "t": "Amoebic (travel, serology +): **metronidazole** then a luminal agent; drain only if no response"
+        }
+       ]
+      },
+      {
+       "l": "Cyst with daughter cysts",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Hydatid**: serology, WHO cyst stage; **albendazole** cover"
+        },
+        {
+         "k": "step",
+         "t": "PAIR for CE1/CE3a, otherwise surgery (pericystectomy); avoid spillage → anaphylaxis"
+        }
+       ]
+      },
+      {
+       "l": "Benign solid lesion",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Haemangioma or FNH** (central scar): typical imaging → no follow-up"
+        },
+        {
+         "k": "step",
+         "t": "**Adenoma**: stop OCP, lose weight; **resect if ≥ 5 cm** at 6 months, any in men, or bleeding"
+        }
+       ]
+      },
+      {
+       "l": "Cirrhosis or cancer history",
+       "n": [
+        {
+         "k": "end",
+         "t": "Treat as **HCC or metastasis** until proven otherwise → next chart"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Simple cysts: no follow-up; treat only if symptomatic (laparoscopic deroofing) · never biopsy a suspected hydatid cyst"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Hepatocellular carcinoma and liver metastases",
+   "source": "EASL 2018 HCC · BCLC 2022 · ESMO 2023 mCRC",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Cirrhosis or chronic HBV under surveillance (**US ± AFP every 6 months**) or new solid lesion"
+    },
+    {
+     "k": "step",
+     "t": "Nodule ≥ 1 cm → **multiphase CT or MRI**: arterial enhancement + washout = HCC in cirrhosis, **no biopsy needed**"
+    },
+    {
+     "k": "step",
+     "t": "Stage with **BCLC**: tumour burden, liver function (Child–Pugh, ALBI), performance status; HCC MDT"
+    },
+    {
+     "k": "split",
+     "q": "BCLC stage?",
+     "br": [
+      {
+       "l": "0 / A: early",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Resection** (Child A, no portal hypertension), **ablation** ≤ 3 cm, or **transplant** within Milan criteria"
+        },
+        {
+         "k": "end",
+         "t": "Milan: single ≤ 5 cm or ≤ 3 nodules each ≤ 3 cm, no vascular invasion"
+        }
+       ]
+      },
+      {
+       "l": "B: intermediate",
+       "n": [
+        {
+         "k": "step",
+         "t": "**TACE**; transplant if downstaged within criteria"
+        }
+       ]
+      },
+      {
+       "l": "C: advanced",
+       "n": [
+        {
+         "k": "step",
+         "t": "Systemic: **atezolizumab + bevacizumab** or durvalumab + tremelimumab; lenvatinib/sorafenib 2nd choice"
+        }
+       ]
+      },
+      {
+       "l": "D: end-stage",
+       "n": [
+        {
+         "k": "end",
+         "t": "Best supportive care"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "**Colorectal liver metastases**: resect if R0 possible with future liver remnant ≥ 25–30% ± peri-operative chemo; ablation"
+    }
+   ]
+  }
+ ],
+ "gb": [
+  {
+   "type": "flowchart",
+   "title": "Gallstones: biliary colic and acute cholecystitis",
+   "source": "Tokyo Guidelines 2018 · NICE CG188",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Gallstones on ultrasound ± RUQ/epigastric pain after meals"
+    },
+    {
+     "k": "step",
+     "t": "FBC, CRP, LFT, amylase/lipase; **ultrasound**: wall > 4 mm, pericholecystic fluid, sonographic Murphy’s, CBD diameter"
+    },
+    {
+     "k": "split",
+     "q": "Clinical picture?",
+     "br": [
+      {
+       "l": "Asymptomatic stones",
+       "n": [
+        {
+         "k": "end",
+         "t": "**No treatment**: reassure, explain symptoms to report"
+        }
+       ]
+      },
+      {
+       "l": "Biliary colic",
+       "n": [
+        {
+         "k": "step",
+         "t": "Analgesia (NSAID); **elective laparoscopic cholecystectomy**"
+        }
+       ]
+      },
+      {
+       "l": "Acute cholecystitis",
+       "n": [
+        {
+         "k": "step",
+         "t": "IV fluids, analgesia, antibiotics; grade with **TG18** (I mild, II moderate, III organ dysfunction)"
+        },
+        {
+         "k": "step",
+         "t": "Grade I–II and fit → **early laparoscopic cholecystectomy** (≤ 72 h ideal; NICE ≤ 1 week)"
+        },
+        {
+         "k": "step",
+         "t": "Grade III or unfit → organ support + **percutaneous cholecystostomy**; delayed cholecystectomy if fit"
+        }
+       ]
+      },
+      {
+       "l": "Jaundice / LFTs ↑ / pancreatitis",
+       "n": [
+        {
+         "k": "end",
+         "t": "Look for **CBD stones** or cholangitis → next chart"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "At surgery achieve the **critical view of safety**; if not possible → subtotal cholecystectomy or cholecystostomy"
+    },
+    {
+     "k": "end",
+     "t": "Bile leak or duct injury: drain, ERCP ± stent; major injury → **refer HPB unit** (hepaticojejunostomy)"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Common bile duct stones and acute cholangitis",
+   "source": "ESGE 2019 CBD stones · BSG 2017 · Tokyo Guidelines 2018",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Gallstones with jaundice, abnormal LFTs, dilated CBD or fever"
+    },
+    {
+     "k": "step",
+     "t": "Charcot’s triad (fever, RUQ pain, jaundice); **Reynolds’ pentad** adds confusion + shock"
+    },
+    {
+     "k": "split",
+     "q": "Probability of CBD stone (ESGE)?",
+     "br": [
+      {
+       "l": "Acute cholangitis",
+       "n": [
+        {
+         "k": "step",
+         "t": "Blood cultures, **IV antibiotics**, fluids; grade with TG18"
+        },
+        {
+         "k": "step",
+         "t": "**ERCP biliary drainage**: severe urgently once resuscitated, moderate ≤ 24 h, mild if no response"
+        },
+        {
+         "k": "step",
+         "t": "Too unwell to clear stones → stent (or PTC); definitive clearance later"
+        }
+       ]
+      },
+      {
+       "l": "High: CBD stone seen on US",
+       "n": [
+        {
+         "k": "step",
+         "t": "**ERCP**: sphincterotomy + stone extraction"
+        }
+       ]
+      },
+      {
+       "l": "Intermediate: LFTs ↑ or CBD > 6 mm",
+       "n": [
+        {
+         "k": "step",
+         "t": "**MRCP or EUS** → ERCP if stone confirmed; or LC + intra-operative cholangiography/CBD exploration"
+        }
+       ]
+      },
+      {
+       "l": "Low",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Laparoscopic cholecystectomy** ± intra-operative cholangiography"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Large or difficult stones: cholangioscopy-guided lithotripsy or temporary plastic stent"
+    },
+    {
+     "k": "end",
+     "t": "Then **cholecystectomy in the same admission** (or within 2 weeks) to prevent recurrence"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Gallbladder polyps and gallbladder cancer",
+   "source": "ESGAR/EAES/EFISDS/ESGE 2022 · ESMO 2023 biliary cancer",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Gallbladder polyp on ultrasound"
+    },
+    {
+     "k": "step",
+     "t": "Exclude sludge/stone (mobile, shadowing); risk factors: **age > 60, PSC, Asian ethnicity, sessile polyp/wall > 4 mm**"
+    },
+    {
+     "k": "split",
+     "q": "Polyp size?",
+     "br": [
+      {
+       "l": "≥ 10 mm",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Cholecystectomy** if fit"
+        }
+       ]
+      },
+      {
+       "l": "6–9 mm",
+       "n": [
+        {
+         "k": "step",
+         "t": "Risk factor → **cholecystectomy**; none → US at 6 months, 1 y, 2 y"
+        }
+       ]
+      },
+      {
+       "l": "≤ 5 mm",
+       "n": [
+        {
+         "k": "step",
+         "t": "Risk factor → US at 6 months, 1 y, 2 y; none → **no follow-up**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "On surveillance: growth ≥ 2 mm → MDT; reaches 10 mm → cholecystectomy"
+    },
+    {
+     "k": "split",
+     "q": "Gallbladder cancer?",
+     "br": [
+      {
+       "l": "Incidental T1a",
+       "n": [
+        {
+         "k": "end",
+         "t": "Simple cholecystectomy is enough"
+        }
+       ]
+      },
+      {
+       "l": "T1b or deeper",
+       "n": [
+        {
+         "k": "step",
+         "t": "Staging CT → **re-resection**: segments IVb/V + portal lymphadenectomy"
+        },
+        {
+         "k": "step",
+         "t": "Adjuvant **capecitabine**"
+        }
+       ]
+      },
+      {
+       "l": "Unresectable",
+       "n": [
+        {
+         "k": "step",
+         "t": "Biliary stent; **gemcitabine–cisplatin + durvalumab**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Suspected cancer before surgery (mass, invasion): **no laparoscopic cholecystectomy** → HPB MDT for radical resection"
+    }
+   ]
+  }
+ ],
+ "panc": [
+  {
+   "type": "flowchart",
+   "title": "Acute pancreatitis",
+   "source": "IAP/APA 2013 · Revised Atlanta 2012 · WSES 2019 · ACG 2024",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Epigastric pain radiating to the back, vomiting"
+    },
+    {
+     "k": "step",
+     "t": "Diagnose with **2 of 3**: typical pain, lipase/amylase ≥ 3× ULN, imaging; CT only if diagnosis unclear or no improvement at 72–96 h"
+    },
+    {
+     "k": "step",
+     "t": "Cause: **US for gallstones**, alcohol, triglycerides, calcium, drugs, post-ERCP; monitor organ failure (modified Marshall), CRP"
+    },
+    {
+     "k": "step",
+     "t": "**Goal-directed moderate fluids** (Hartmann’s/Ringer’s lactate, avoid overload), analgesia, early oral feeding, **no prophylactic antibiotics**"
+    },
+    {
+     "k": "split",
+     "q": "Severity (Revised Atlanta)?",
+     "br": [
+      {
+       "l": "Mild: no organ failure",
+       "n": [
+        {
+         "k": "step",
+         "t": "Ward care; gallstone cause → **cholecystectomy in the same admission**"
+        }
+       ]
+      },
+      {
+       "l": "Moderate: OF < 48 h or collection",
+       "n": [
+        {
+         "k": "step",
+         "t": "HDU; enteral (NG/NJ) feeding if oral fails; collections managed conservatively"
+        }
+       ]
+      },
+      {
+       "l": "Severe: organ failure > 48 h",
+       "n": [
+        {
+         "k": "step",
+         "t": "**ICU**, organ support, enteral nutrition; **ERCP ≤ 24 h only if cholangitis**"
+        },
+        {
+         "k": "step",
+         "t": "Cholecystectomy delayed until collections resolve or > 6 weeks"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Infected necrosis (gas, deterioration) → antibiotics → **step-up**: endoscopic/percutaneous drainage, then necrosectomy, ideally ≥ 4 weeks"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Painless obstructive jaundice: pancreatic head cancer",
+   "source": "NICE NG85 · ESMO 2023 pancreatic cancer",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Painless jaundice, weight loss, new-onset diabetes, palpable gallbladder"
+    },
+    {
+     "k": "step",
+     "t": "**Pancreatic-protocol CT** (chest-abdomen-pelvis); CA19-9 (supportive, not diagnostic; raised by obstruction)"
+    },
+    {
+     "k": "step",
+     "t": "**FDG PET-CT** if localised disease; **EUS-guided biopsy** if diagnosis unclear or before neoadjuvant therapy; MDT"
+    },
+    {
+     "k": "split",
+     "q": "Resectability (SMA, coeliac axis, SMV/PV)?",
+     "br": [
+      {
+       "l": "Resectable",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Pancreaticoduodenectomy (Whipple)**; no routine pre-op stent (drain if cholangitis or surgery delayed)"
+        },
+        {
+         "k": "step",
+         "t": "Adjuvant **mFOLFIRINOX** (gemcitabine–capecitabine if less fit) for 6 months"
+        }
+       ]
+      },
+      {
+       "l": "Borderline / locally advanced",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Neoadjuvant FOLFIRINOX** ± chemoradiotherapy → restage → resect if response"
+        }
+       ]
+      },
+      {
+       "l": "Metastatic",
+       "n": [
+        {
+         "k": "step",
+         "t": "Palliative chemotherapy (FOLFIRINOX or gemcitabine–nab-paclitaxel) by fitness"
+        },
+        {
+         "k": "step",
+         "t": "**Endoscopic metal biliary stent**; duodenal stent or gastrojejunostomy for gastric outlet obstruction"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Everyone: **pancreatic enzyme replacement**, diabetes care, coeliac plexus block for pain, early palliative care"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Pancreatic cystic lesion",
+   "source": "European PCN guidelines 2018 · Kyoto IAP 2024",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Pancreatic cyst on imaging"
+    },
+    {
+     "k": "step",
+     "t": "History of pancreatitis? **MRI/MRCP**: duct communication, septa, mural nodule, MPD size; EUS ± fluid CEA/cytology if unclear"
+    },
+    {
+     "k": "split",
+     "q": "Cyst type?",
+     "br": [
+      {
+       "l": "After pancreatitis",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Pseudocyst / walled-off necrosis**: observe; drain only if symptomatic, infected or obstructing"
+        },
+        {
+         "k": "step",
+         "t": "**EUS-guided cystgastrostomy** first line, ≥ 4 weeks after onset"
+        }
+       ]
+      },
+      {
+       "l": "Serous (microcystic, honeycomb)",
+       "n": [
+        {
+         "k": "end",
+         "t": "Benign: no follow-up unless symptomatic"
+        }
+       ]
+      },
+      {
+       "l": "Mucinous cystic neoplasm",
+       "n": [
+        {
+         "k": "step",
+         "t": "Women, body/tail: **resect if ≥ 4 cm**, symptomatic or mural nodule; < 4 cm → surveillance"
+        }
+       ]
+      },
+      {
+       "l": "IPMN",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Absolute**: jaundice, enhancing nodule ≥ 5 mm, solid mass, positive cytology, **MPD ≥ 10 mm** → resect"
+        },
+        {
+         "k": "step",
+         "t": "**Relative**: ≥ 40 mm, growth ≥ 5 mm/yr, MPD 5–9 mm, CA19-9↑, new diabetes → surgery if fit"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Not resected: **MRI ± EUS surveillance** at 6 months then yearly while fit for surgery"
+    }
+   ]
+  }
+ ],
+ "spleen": [
+  {
+   "type": "flowchart",
+   "title": "Splenic trauma",
+   "source": "WSES 2017 spleen trauma · ATLS 10th ed · AAST 2018",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Blunt LUQ trauma, left lower rib fractures, Kehr’s sign (left shoulder-tip pain)"
+    },
+    {
+     "k": "step",
+     "t": "**<C>ABCDE**, eFAST, tranexamic acid, major haemorrhage protocol"
+    },
+    {
+     "k": "split",
+     "q": "Haemodynamics?",
+     "br": [
+      {
+       "l": "Unstable / non-responder",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Emergency laparotomy → splenectomy** (splenorrhaphy rarely)"
+        }
+       ]
+      },
+      {
+       "l": "Stable or responding",
+       "n": [
+        {
+         "k": "step",
+         "t": "**CT with IV contrast** (arterial + portal phases): AAST grade, blush, pseudoaneurysm"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Stable patient: CT findings?",
+     "br": [
+      {
+       "l": "Grade I–III, no blush",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Non-operative management**: HDU, serial examination and Hb, theatre available"
+        }
+       ]
+      },
+      {
+       "l": "Blush, pseudoaneurysm, grade IV–V",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Angioembolisation** + non-operative management (centre with interventional radiology)"
+        }
+       ]
+      },
+      {
+       "l": "Fails NOM (instability, Hb falling)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Splenectomy**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Children: NOM almost always · after NOM avoid contact sport ~6–12 weeks (delayed rupture) · after splenectomy → vaccines + penicillin"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Splenectomy and post-splenectomy prophylaxis",
+   "source": "BSH 2011 asplenia · UKHSA Green Book · ICR 2019 ITP",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Splenectomy considered: trauma, refractory ITP, hereditary spherocytosis, hypersplenism, splenic tumour/cyst"
+    },
+    {
+     "k": "split",
+     "q": "Indication?",
+     "br": [
+      {
+       "l": "ITP",
+       "n": [
+        {
+         "k": "step",
+         "t": "First line **corticosteroids ± IVIG** (bleeding); second line **TPO-receptor agonists**, rituximab, fostamatinib"
+        },
+        {
+         "k": "step",
+         "t": "Splenectomy only if refractory, ideally **≥ 12 months** after diagnosis"
+        }
+       ]
+      },
+      {
+       "l": "Hereditary spherocytosis",
+       "n": [
+        {
+         "k": "step",
+         "t": "Splenectomy if severe (transfusion-dependent, poor growth), delay to ≥ 6 y; cholecystectomy if gallstones"
+        }
+       ]
+      },
+      {
+       "l": "Hypersplenism / portal HT",
+       "n": [
+        {
+         "k": "step",
+         "t": "Treat portal hypertension (beta-blocker, TIPS); splenectomy rarely (bleeding)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "**Laparoscopic splenectomy** preferred; search for accessory spleens (splenunculi) in ITP and spherocytosis"
+    },
+    {
+     "k": "step",
+     "t": "**Vaccinate ≥ 2 weeks before** elective (or ≥ 2 weeks after emergency) surgery: pneumococcal, MenACWY, MenB, Hib, yearly influenza"
+    },
+    {
+     "k": "step",
+     "t": "**Prophylactic penicillin V** (macrolide if allergic): ≥ 1–2 years, lifelong if high risk; standby antibiotics at home"
+    },
+    {
+     "k": "step",
+     "t": "Post-op: thrombocytosis, portal/splenic vein thrombosis, pancreatic tail injury (fistula), left basal atelectasis"
+    },
+    {
+     "k": "end",
+     "t": "Prevent **OPSI** (pneumococcus, meningococcus, Hib): alert card, seek help early with fever, malaria prophylaxis, animal bites"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "LUQ pain with fever: splenic infarct or abscess",
+   "source": "Bailey & Love 28e · ESC 2023 endocarditis",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "LUQ pain ± fever, splenomegaly"
+    },
+    {
+     "k": "step",
+     "t": "FBC, CRP, **blood cultures**, ECG (AF), echocardiogram (endocarditis); **CT with IV contrast**"
+    },
+    {
+     "k": "split",
+     "q": "CT appearance?",
+     "br": [
+      {
+       "l": "Wedge-shaped, non-enhancing",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Infarct**: analgesia; anticoagulate if embolic (AF); find source: echo, thrombophilia, haematological disease"
+        },
+        {
+         "k": "end",
+         "t": "Splenectomy only for complications (abscess, rupture, haemorrhage)"
+        }
+       ]
+      },
+      {
+       "l": "Rim-enhancing collection",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Abscess**: IV antibiotics after cultures (streptococci, staphylococci, Gram negatives, anaerobes)"
+        },
+        {
+         "k": "step",
+         "t": "**Percutaneous drainage** if unilocular; splenectomy if multilocular, fails or ruptures"
+        }
+       ]
+      },
+      {
+       "l": "Diffuse splenomegaly",
+       "n": [
+        {
+         "k": "step",
+         "t": "Portal hypertension (cirrhosis, splenic vein thrombosis), haematological disease, infection (malaria, EBV)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Isolated splenic vein thrombosis (pancreatitis, cancer) → gastric varices: **splenectomy** cures left-sided portal hypertension"
+    }
+   ]
+  }
+ ],
+ "adrenal": [
+  {
+   "type": "flowchart",
+   "title": "Adrenal incidentaloma",
+   "source": "ESE/ENSAT 2023 adrenal incidentaloma",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Adrenal mass ≥ 1 cm found on imaging done for another reason"
+    },
+    {
+     "k": "step",
+     "t": "Look for features of Cushing’s, phaeochromocytoma, aldosteronism, cancer; **unenhanced CT attenuation (HU)**"
+    },
+    {
+     "k": "split",
+     "q": "Imaging phenotype?",
+     "br": [
+      {
+       "l": "≤ 10 HU, homogeneous",
+       "n": [
+        {
+         "k": "end",
+         "t": "Lipid-rich **benign adenoma**: no further imaging"
+        }
+       ]
+      },
+      {
+       "l": "> 10 HU, < 4 cm, homogeneous",
+       "n": [
+        {
+         "k": "step",
+         "t": "Further imaging (chemical-shift MRI, CT washout, FDG-PET) **or** repeat CT in 6–12 months; stable → stop"
+        }
+       ]
+      },
+      {
+       "l": "≥ 4 cm, heterogeneous or growing",
+       "n": [
+        {
+         "k": "step",
+         "t": "Suspect **adrenocortical carcinoma**: adrenal MDT, staging; **open adrenalectomy** if resectable"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "Hormones in all: **1 mg overnight dexamethasone test**; metanephrines if > 10 HU; aldosterone:renin if hypertension or low K⁺"
+    },
+    {
+     "k": "split",
+     "q": "Hormonal result?",
+     "br": [
+      {
+       "l": "Cortisol > 50 nmol/L after dex",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Mild autonomous cortisol secretion**: screen HTN, diabetes, osteoporosis; adrenalectomy individualised"
+        }
+       ]
+      },
+      {
+       "l": "Overt Cushing’s",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Laparoscopic adrenalectomy** with peri-operative and post-op steroid cover"
+        }
+       ]
+      },
+      {
+       "l": "Metanephrines raised",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Phaeochromocytoma** → next chart"
+        }
+       ]
+      },
+      {
+       "l": "Aldosterone:renin ratio raised",
+       "n": [
+        {
+         "k": "end",
+         "t": "**Primary aldosteronism** → third chart"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Benign, non-functioning adenoma: **no further follow-up** (ESE 2023)"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Phaeochromocytoma and paraganglioma",
+   "source": "Endocrine Society 2014 PPGL · ESE 2023 · ESH 2023",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Episodic headache, sweating, palpitations; labile or resistant hypertension; incidentaloma > 10 HU"
+    },
+    {
+     "k": "step",
+     "t": "**Plasma free metanephrines** (supine) or 24-h urine fractionated metanephrines; stop interfering drugs"
+    },
+    {
+     "k": "step",
+     "t": "Positive → **CT/MRI abdomen-pelvis**; functional imaging (**⁶⁸Ga-DOTATATE PET** or ¹²³I-MIBG) if extra-adrenal, large or metastatic"
+    },
+    {
+     "k": "step",
+     "t": "**Genetic testing for all** (SDHx, VHL, RET, NF1); exclude MEN2 (calcitonin, calcium)"
+    },
+    {
+     "k": "step",
+     "t": "**Alpha-blockade first** (phenoxybenzamine or doxazosin) 7–14 days + high-salt diet and fluids; **beta-blocker only after alpha**"
+    },
+    {
+     "k": "step",
+     "t": "**Laparoscopic adrenalectomy** (open if large/invasive); anaesthetist ready for BP surges on handling"
+    },
+    {
+     "k": "end",
+     "t": "Post-op: watch for **hypotension and hypoglycaemia**; metanephrines at 2–6 weeks, then **lifelong annual** follow-up"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Primary aldosteronism (Conn’s)",
+   "source": "Endocrine Society 2016 · ESH 2023 hypertension",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Hypertension with hypokalaemia, resistant HTN, adrenal incidentaloma, AF, sleep apnoea or early-onset HTN"
+    },
+    {
+     "k": "step",
+     "t": "Screen: **aldosterone:renin ratio** (correct K⁺ first; stop MRA; note ACEi/ARB/beta-blocker effects)"
+    },
+    {
+     "k": "step",
+     "t": "Confirm (saline infusion, captopril or fludrocortisone test); skip if low K⁺, renin suppressed and aldosterone > 550 pmol/L"
+    },
+    {
+     "k": "step",
+     "t": "**Adrenal CT** (exclude carcinoma)"
+    },
+    {
+     "k": "split",
+     "q": "Surgery wanted and feasible?",
+     "br": [
+      {
+       "l": "Yes",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Adrenal vein sampling** to lateralise (may skip if < 35 y, low K⁺ and clear unilateral adenoma)"
+        }
+       ]
+      },
+      {
+       "l": "No",
+       "n": [
+        {
+         "k": "step",
+         "t": "**MRA**: spironolactone (eplerenone if gynaecomastia)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Lateralisation?",
+     "br": [
+      {
+       "l": "Unilateral (Conn’s adenoma)",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Laparoscopic adrenalectomy**: K⁺ normalises; BP cured in ~1/3–1/2, improved in most"
+        }
+       ]
+      },
+      {
+       "l": "Bilateral hyperplasia",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Lifelong MRA** (spironolactone or eplerenone)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "After adrenalectomy: stop K⁺ supplements and MRA; check K⁺ and creatinine (hyperkalaemia risk) within 1–2 weeks"
+    }
+   ]
+  }
+ ],
+ "hernia": [
+  {
+   "type": "flowchart",
+   "title": "Inguinal and femoral hernia",
+   "source": "HerniaSurge 2018 international groin hernia guidelines (2023 update)",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Groin lump with a cough impulse ± discomfort"
+    },
+    {
+     "k": "step",
+     "t": "Clinical diagnosis; **ultrasound** if uncertain, MRI for occult hernia; femoral lies below and lateral to the pubic tubercle"
+    },
+    {
+     "k": "split",
+     "q": "Type and symptoms?",
+     "br": [
+      {
+       "l": "Asymptomatic inguinal, man",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Watchful waiting** acceptable; ~70% become symptomatic within 5 years → repair then"
+        }
+       ]
+      },
+      {
+       "l": "Symptomatic inguinal",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Mesh repair**: open Lichtenstein or laparo-endoscopic **TEP/TAPP**"
+        }
+       ]
+      },
+      {
+       "l": "Femoral, or any in a woman",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Repair promptly** (strangulation risk); laparo-endoscopic preferred to find occult femoral hernia"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "split",
+     "q": "Which approach?",
+     "br": [
+      {
+       "l": "Bilateral, or recurrent after open",
+       "n": [
+        {
+         "k": "step",
+         "t": "**TEP/TAPP** (posterior)"
+        }
+       ]
+      },
+      {
+       "l": "Recurrent after laparoscopic",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Lichtenstein** (anterior)"
+        }
+       ]
+      },
+      {
+       "l": "Unfit for GA / preference",
+       "n": [
+        {
+         "k": "step",
+         "t": "Lichtenstein under **local anaesthetic**"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Day-case surgery; early return to activity · complications: chronic pain (~10%), haematoma, recurrence, ischaemic orchitis"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Irreducible, obstructed or strangulated hernia",
+   "source": "WSES 2017 incarcerated/strangulated hernia · HerniaSurge 2018",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Painful irreducible hernia ± vomiting, distension, absolute constipation"
+    },
+    {
+     "k": "step",
+     "t": "Tense tender lump, **no cough impulse**, skin changes, peritonism; FBC, U&E, CRP, **lactate**, VBG; CT if unclear"
+    },
+    {
+     "k": "split",
+     "q": "Clinical picture?",
+     "br": [
+      {
+       "l": "Irreducible, no obstruction/ischaemia",
+       "n": [
+        {
+         "k": "step",
+         "t": "Analgesia ± sedation, gentle **manual reduction** (never if strangulation suspected)"
+        },
+        {
+         "k": "step",
+         "t": "Observe for peritonitis; **early elective repair**"
+        }
+       ]
+      },
+      {
+       "l": "Obstructed",
+       "n": [
+        {
+         "k": "step",
+         "t": "IV fluids, **NG decompression**, catheter"
+        },
+        {
+         "k": "step",
+         "t": "**Urgent surgery**"
+        }
+       ]
+      },
+      {
+       "l": "Strangulated (pain, lactate↑, skin)",
+       "n": [
+        {
+         "k": "step",
+         "t": "Resuscitate, IV antibiotics → **emergency surgery** without delay for imaging"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "step",
+     "t": "At operation: assess viability (colour, peristalsis, mesenteric pulsation, warm packs); **resect non-viable bowel**"
+    },
+    {
+     "k": "split",
+     "q": "Wound contamination?",
+     "br": [
+      {
+       "l": "Clean / clean-contaminated",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Synthetic mesh repair** is safe"
+        }
+       ]
+      },
+      {
+       "l": "Contaminated / dirty",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Tissue (suture) repair** or biological/biosynthetic mesh; staged repair"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Femoral hernias carry the highest strangulation risk; **Richter’s hernia** can strangulate without obstruction"
+    }
+   ]
+  },
+  {
+   "type": "flowchart",
+   "title": "Umbilical, epigastric and incisional hernia",
+   "source": "EHS/AHS 2020 umbilical · EHS 2023 incisional · EHS/AHS 2022 closure",
+   "nodes": [
+    {
+     "k": "start",
+     "t": "Midline or periumbilical bulge"
+    },
+    {
+     "k": "step",
+     "t": "Clinical examination; **CT** for incisional hernia (defect width, loss of domain, multiple defects); US for small primary hernias"
+    },
+    {
+     "k": "step",
+     "t": "**Optimise** before elective repair: stop smoking ≥ 4 weeks, weight loss (BMI < 35), diabetes control"
+    },
+    {
+     "k": "split",
+     "q": "Type?",
+     "br": [
+      {
+       "l": "Umbilical / epigastric",
+       "n": [
+        {
+         "k": "step",
+         "t": "Defect ≥ 1 cm → **mesh repair** (open preperitoneal flat mesh); < 1 cm → suture repair"
+        }
+       ]
+      },
+      {
+       "l": "Incisional",
+       "n": [
+        {
+         "k": "step",
+         "t": "**Mesh repair**: open retromuscular (sublay) or laparoscopic/robotic; avoid onlay where possible"
+        },
+        {
+         "k": "step",
+         "t": "Large defect/loss of domain: component separation; pre-op botulinum toxin ± progressive pneumoperitoneum"
+        }
+       ]
+      },
+      {
+       "l": "Rectus diastasis",
+       "n": [
+        {
+         "k": "end",
+         "t": "Not a hernia: physiotherapy; surgery only for selected symptomatic patients"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "k": "end",
+     "t": "Prevention: **small bites (5 mm × 5 mm), slowly absorbable suture, SL:WL ≥ 4:1**; prophylactic mesh if high risk (AAA, BMI ≥ 27)"
+    }
+   ]
+  }
+ ]
+}

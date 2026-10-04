@@ -1,0 +1,188 @@
+Condition/Category
+Clinical Definition
+Causes & Risk Factors
+Clinical Features
+Investigations & Findings
+Treatment Strategies
+Differential Diagnosis & Exclusion
+Complications
+1
+Goitre
+Enlargement of thyroid tissue resulting in an anterior neck mass
+Iodine deficiency and endemic goitre; Autoimmune thyroid disorders (e.g. Grave’s disease, nontoxic goitre); Genetic predisposition in endemic areas
+Diffuse or nodular swelling in the anterior neck; May present with compressive symptoms and visible pulsation
+Thyroid function tests (TFTs show abnormal hormone levels); Ultrasound assesses size, composition, calcifications and vascularity; FNAC when neoplastic features are suspected
+Medical management with hormone modulation; Surgical resection when indicated
+Exclude thyroid neoplasm using targeted imaging and cytology; Rule out thyroiditis by correlating laboratory markers
+Risk of postoperative hypothyroidism; Nerve injury (recurrent laryngeal nerve) during surgery
+2
+Thyroglossal Cyst/Sinus
+Congenital cyst arising from a persistent thyroglossal duct
+Failure of the duct to obliterate during thyroid embryologic descent; Typically seen in children (peak incidence ~5 years)
+Midline cystic mass near or below the hyoid bone; Moves upward during swallowing and tongue protrusion; May develop a sinus tract postinfection
+Ultrasound reveals a well”defined cystic lesion adjacent to the hyoid; CT/MRI and sinogram when fistulous connection is suspected; Thyroid function evaluation to exclude ectopic thyroid tissue
+Sistrunk’s procedure (complete excision including a central portion of the hyoid bone)
+Exclude ectopic thyroid tissue with functional imaging and hormone studies; Distinguish from midline dermoid cyst by location and mobility characteristics
+Recurrence if excision is incomplete; Infection if not managed promptly
+3
+Submental/Pretracheal Lymphadenopathy
+Enlargement of midline lymph nodes in the submental or pretracheal region
+Infectious/inflammatory conditions; Possible neoplastic involvement in older adults
+May be tender if reactive or firm and non”tender if neoplastic; Often associated with systemic signs in infection (fever, malaise)
+Ultrasound to assess node morphology; FNAC for cytologic evaluation differentiating reactive from malignant nodes
+Initial antibiotic therapy for suspected infection; Excisional biopsy or further imaging if nodes persist
+Exclude malignancy with FNAC and, if needed, core biopsy; Use imaging to differentiate from cystic lesions (e.g. thyroglossal cyst)
+Progression to abscess formation if infection is untreated
+4
+Dermoid Cyst
+Benign congenital cyst composed of ectodermal elements
+Embryologic sequestration of skin and adnexal structures during development
+Painless, soft, and mobile midline mass present since birth; Typically noninflammatory unless secondary infection occurs
+Ultrasound shows a cystic lesion with internal echoes; CT scan for precise anatomical delineation if required
+Complete surgical excision for cosmetic or symptomatic relief
+Differentiate from thyroglossal cyst by lack of movement with swallowing; Exclude lipoma by its firm consistency on imaging
+Low risk besides possible infection or recurrence if removal is incomplete
+5
+Subhyoid Bursitis
+Inflammation of the subhyoid bursa located beneath the hyoid bone
+Overuse or repetitive microtrauma from neck or submandibular movement
+Localized pain and swelling in the subhyoid region; Tenderness on palpation without discrete mass formation
+Ultrasound may reveal a well”defined fluid collection with inflammatory signals
+Conservative management with NSAIDs and rest; Surgical drainage reserved for refractory or large collections
+Exclude abscess formation using imaging characteristics (lack of systemic infection signs); Rule out cystic lesions by the presence of inflammatory fluid rather than a true cyst wall
+Recurrence if underlying overuse is not addressed; Infection if the fluid collection becomes superinfected
+6
+Ranula
+Mucous extravasation cyst arising from a disrupted sublingual gland duct
+Trauma or idiopathic disruption of the salivary duct
+Bluish, transilluminating, cystic swelling on the floor of the mouth; Typically located lateral to the midline
+Ultrasound identifies a cystic lesion in the sublingual region; MRI for complex or recurrent cases
+Excision or marsupialization combined with identification/treatment of the affected gland
+Exclude thyroglossal cyst by noting lack of upward movement with tongue protrusion; Use imaging to distinguish from cystic hygroma based on location and extent
+Recurrence if the source gland is not adequately addressed; Infection post”procedure
+7
+Sebaceous Cyst
+Benign epidermal inclusion cyst arising from sebaceous glands
+Blockage of sebaceous duct; Minor trauma may contribute; More common in adult populations
+Small, dome”shaped, mobile nodule that may become inflamed if secondarily infected
+Ultrasound shows a well”circumscribed, cystic lesion with possible internal debris
+Simple surgical excision when indicated, particularly for recurrent inflammation
+Exclude inflamed abscess by noting absence of systemic signs; Differentiate from lipoma by firmness and imaging characteristics
+Recurrence with incomplete excision; Occasional infection requiring antibiotic treatment
+8
+Lipoma
+Benign tumor of adipose tissue presenting as a soft neck mass
+Idiopathic; Occasional familial tendency
+Soft, mobile, and painless mass with slow growth
+Ultrasound reveals a hyperechoic, homogeneous lesion; MRI for further tissue characterization if indicated
+Surgical excision for symptomatic relief or cosmetic reasons
+Differentiate from cystic lesions by homogeneous, fat”like appearance on imaging; Rule out other soft tissue tumors with imaging and, if needed, biopsy
+Minimal if completely removed; Low risk of recurrence
+9
+Cervical Lymphadenopathy
+Enlargement of cervical lymph nodes (reactive or neoplastic)
+Acute infections (viral, bacterial) and chronic infections (TB, toxoplasmosis); Lymphomas (Hodgkin’s and non”Hodgkin’s) and metastatic carcinoma from head/neck primaries; Autoimmune conditions (e.g. Kikuchi disease)
+Unilateral or multiple nodal enlargements with possible tenderness; Firm and fixed nodes in malignant processes; May be accompanied by systemic signs
+Blood tests (ESR, specific serological markers); Ultrasound to assess nodal architecture (loss of hilum in malignancy); FNAC for cytologic evaluation; CXR and targeted fiberoptic imaging
+Empirical antibiotic therapy for suspected infectious etiologies; Excisional biopsy if persistence or malignancy is suspected
+Exclude lymphoma with repeat FNAC/core biopsy and imaging; Distinguish from metastatic nodes by assessing primary head/neck lesions
+Abscess formation if untreated; Systemic spread in case of lymphoma or metastatic disease
+10
+Branchial Cleft Anomalies (Cyst/Fistula)
+Congenital malformation from failure of branchial cleft obliteration
+Most frequently involves the second branchial cleft; Less commonly 1st, 3rd, or 4th branchial cleft
+Presents as a lateral cyst, sinus, or fistula usually along the anterior border of the sternocleidomastoid muscle; May leak fluid or become secondarily infected
+Ultrasound and CT/MRI to delineate the tract and surrounding vascular relationships; Sinogram/fistulogram to outline fistulous connection
+Complete surgical excision via a curvilinear or anterior SCM incision while preserving neurovascular structures
+Exclude lymphadenopathy by demonstrating a defined sinus tract on sinography; Rule out paraganglioma with contrast”enhanced imaging
+Recurrence if tract is incompletely removed; Risk of injury to carotid artery, internal jugular vein, or cranial nerves
+11
+Cystic Hygroma
+Congenital lymphatic malformation presenting as a cystic mass, most commonly in the posterior triangle
+Developmental anomaly of lymphatic channels, typically presenting in early childhood (<2 years)
+Soft, compressible, and fluctuant mass that often transilluminates; May be seen in areas beyond the posterior triangle (face, axilla, mediastinum)
+Ultrasound shows multicystic, fluid”filled spaces; CT with contrast or MRI to assess extent and relation to vital structures
+Surgical resection if complete removal is feasible; Sclerotherapy (OK”432, bleomycin, doxycycline) for lesions involving critical structures
+Differentiate from abscess or cystic metastasis using fluid characteristics and clinical context; Confirm lymphatic nature with multimodal imaging
+Recurrence if complete resection is not achievable; Potential injury to adjacent neurovascular structures
+12
+Chemoductoma (Carotid Body Tumor)
+Rare, typically benign neoplasm of the carotid body often termed ‘potato tumour’
+Often occurs in older patients; Degenerative changes may play a role
+Firm lateral neck mass located at the carotid bifurcation; Mobile side”to”side yet fixed vertically; Usually non”tender
+Ultrasound and CT scan with contrast show a solid, enhancing mass near the carotid bifurcation; Elastography helps differentiate from lymph nodes
+Surgical excision with careful dissection and possible arterial shunting
+Exclude metastatic lymphadenopathy by noting characteristic vascular enhancement; Differentiate from other paragangliomas with precise anatomical localization
+Risk of injury to adjacent carotid artery, jugular vein, or cranial nerves (hypoglossal, marginal mandibular)
+13
+Cervical Rib
+An anatomical variant defined by an extra rib arising from a cervical vertebra
+Congenital anomaly; May be sporadic or familial
+Usually asymptomatic and discovered incidentally; When palpable, presents as a hard mass in the posterior triangle; May be associated with thoracic outlet syndrome symptoms
+Plain radiograph (cervical X”ray) confirms bony structure; CT scan for detailed anatomical evaluation if symptoms are present
+Conservative management for asymptomatic cases; Surgical resection for symptomatic thoracic outlet syndrome
+Distinguish from soft tissue masses with radiographic evidence of bone; Rule out neoplastic processes with imaging correlation
+Neurovascular compression resulting in pain, paresthesia, or vascular compromise if left untreated
+14
+Diseases of Function (Hyperthyroidism & Hypothyroidism)
+Disorders primarily affecting thyroid hormone production without significant gland enlargement
+Hyperthyroidism: immune-mediated (Grave’s disease), toxic adenomas, post-treatment iatrogenic causes; Hypothyroidism: thyroiditis, post-ablative changes, iodine deficiency
+Hyperthyroidism: tremor, palpitations, sweating, weight loss; Hypothyroidism: lethargy, weight gain, cold intolerance
+TFTs (TSH, T3, T4) show hormone imbalances; Ultrasound to evaluate gland size and detect nodules
+Hyperthyroidism: beta blockers and antithyroid agents; Hypothyroidism: lifelong thyroxine replacement with dose titration based on TSH levels
+Exclude destructive thyroiditis by serial hormone testing and inflammatory markers; Use imaging to rule out nodular causes when gland function is normal
+Cardiac arrhythmias in hyperthyroidism; Myxedema and metabolic slowdown in hypothyroidism
+15
+Disorders of Size (Simple Goitre, nSTN, nMNG)
+Thyroid enlargement with or without functional abnormality, presenting as solitary or multinodular goitre
+Nutritional iodine deficiency; Genetic predisposition and locally autonomous nodular disease
+Visible neck swelling; May produce compressive symptoms (dysphagia, dyspnea, stridor); Cosmetic concerns
+Ultrasound differentiates solid versus cystic components, calcification, and elastography characteristics; FNAC for cytological evaluation; Isotope scanning for functional mapping
+Thyroid suppression therapy (thyroxine) for benign cases; Hemithyroidectomy or total thyroidectomy for suspicious features
+Distinguish from thyroid carcinoma via FNAC and targeted imaging; Exclude thyroiditis by ultrasound texture and antibody markers
+Compressive symptoms and risk of recurrent laryngeal nerve injury during surgery
+16
+Grave’s Disease
+Diffuse toxic goitre with autoimmune hyperfunction often accompanied by ophthalmopathy
+Autoimmune etiology; Frequently in young to middle-aged patients
+Features of hyperthyroidism with diffuse, vascular gland enlargement; May have ocular involvement (exophthalmos)
+TFTs confirm hyperthyroidism; Ultrasound shows a hypervascular gland; Isotope scan if needed
+Medical stabilization with beta blockers and antithyroid medications; Radioiodine therapy or near-total/total thyroidectomy based on patient factors
+Exclude toxic multinodular goitre via imaging; Confirm diffuse gland involvement
+Risk of thyroid storm if inadequately controlled; Post-therapeutic hypothyroidism and recurrent ophthalmopathy
+17
+Recurrent Goitre
+Regrowth of thyroid tissue after previous surgery or treatment
+Previous thyroid surgery with persistent or regrown tissue due to surgical scarring; Increased operative risks from distorted anatomy
+Re-emergence of neck swelling possibly with compressive symptoms; Higher risk profile for nerve injury
+Repeat ultrasound and imaging to assess anatomical distortion and lymph node involvement
+Consider thyroid suppression or radioiodine therapy; Reoperation reserved for severe symptomatic cases
+Exclude residual disease with imaging and selective FNAC sampling
+Increased risk of recurrent laryngeal nerve injury and hypocalcemia due to scar tissue
+18
+Primary HPT
+Excess parathyroid hormone secretion from one or more parathyroid glands causing hypercalcemia
+Most commonly a solitary adenoma; Parathyroid hyperplasia or carcinoma less frequent; Genetic predispositions may play a role
+Symptoms related to hypercalcemia (‘stones, bones, groans, and psychiatric overtones’); May be asymptomatic in mild cases
+Elevated serum PTH and calcium, low phosphate, increased alkaline phosphatase; Localization studies with ultrasound, CT, MRI or Sestamibi scan
+Surgical excision (adenoma removal); Subtotal parathyroidectomy with autotransplantation in hyperplasia; Total parathyroidectomy in carcinoma with possible thyroid and lymph node dissection
+Differentiated from secondary HPT by biochemical profile; Localization studies help distinguish solitary adenoma from multiglandular disease
+Postoperative hypocalcemia (hungry bone syndrome); Recurrent or persistent hyperparathyroidism if resection is incomplete
+19
+Secondary HPT
+Parathyroid hyperplasia as a compensatory response to chronic hypocalcemia, often seen in chronic renal failure
+Chronic renal failure; Prolonged vitamin D deficiency; Certain drug exposures
+Mildly elevated calcium with high PTH; Bone pain, soft tissue calcifications, renal osteodystrophy
+High PTH, low/normal calcium, high phosphate; Impaired renal function on laboratory tests
+Correction of the underlying cause; Surgical intervention (subtotal or total parathyroidectomy with autotransplantation) for symptomatic cases
+Exclude primary HPT by correlating with renal function and biochemical markers
+Progressive bone disease and vascular calcifications if untreated
+20
+Tertiary HPT
+Autonomous parathyroid hyperfunction following long-term secondary stimulation
+Longstanding renal failure after correction of the primary cause
+Persistent hypercalcemia despite treatment for secondary causes; Worsening bone disease
+Biochemical profile similar to primary HPT with history of chronic renal failure; Localization studies for surgical planning
+Surgical intervention (subtotal or total parathyroidectomy with autotransplantation), often delayed until post-transplant stability
+Differentiate from secondary HPT by persistence of hypercalcemia after primary correction
+Severe hypercalcemia with bone demineralization and renal calcifications

@@ -1,0 +1,252 @@
+congur-0003	EX	Marked unilateral pelvicalyceal dilatation with a normal bladder and a normal VCUG (no reflux, no valves) indicates pelvi-ureteric junction obstruction.
+congur-0004	EX	C is false: the isthmus is not divided routinely (only if needed during pyeloplasty); E is false: adult polycystic kidney disease usually presents in adult life.
+congur-0009	CH	urogen
+congur-0010	EX	A false: in women the urethral (mid-urethral) sphincter matters most; C false: Fowler syndrome is treated by sacral neuromodulation; D false: a caruncle is benign.
+congur-0010	CH	urogen
+congur-0011	CH	urogen
+congur-0014	KEY	ABCDE
+congur-0014	EX	All are recognised hazards (Bailey & Love): infertility, associated hernia, torsion, epididymo-orchitis (mimics appendicitis on the right) and malignant change.
+congur-0015	KEY	B
+congur-0015	EX	Only B is false: about 90% of varicoceles are left-sided. Repair can improve semen parameters in oligozoospermic men (EAU), and embolisation is a first-line option.
+congur-0015	CH	scrotum
+congur-0016	CH	scrotum
+congur-0017	CH	scrotum
+congur-0018	CH	scrotum
+congur-0019	STEM	All of the following form a covering layer over the kidney, except:
+congur-0019	EX	The kidney is covered by its fibrous capsule, perirenal fat, Gerota fascia and pararenal fat; the liver is only an anterior relation of the right kidney.
+congur-0019	CH	urogen
+congur-0020	STEM	The posteromedial aspect of the kidney is related to which one of the following structures?
+congur-0020	CH	urogen
+congur-0021	STEM	In its course from the kidney to the bladder, the ureter runs on top of which muscle?
+congur-0021	CH	urogen
+congur-0022	STEM	At which intervertebral level do the renal arteries arise from the aorta?
+congur-0022	CH	urogen
+congur-0023	STEM	In a non-exercising individual, approximately what proportion of the cardiac output is supplied to the kidneys?
+congur-0023	OPTE	40%
+congur-0023	EX	At rest the kidneys receive about 20% of the cardiac output (1–1.2 L/min), despite being less than 1% of body weight.
+congur-0023	CH	urogen
+congur-0024	STEM	A 34-year-old father of five children requests a vasectomy. Which of the following layers lies closest to the vas deferens?
+congur-0024	KEY	B
+congur-0024	EX	The vas runs in the spermatic cord, whose innermost covering is the internal spermatic fascia; the tunica vaginalis surrounds the testis, not the vas.
+congur-0024	CH	urogen
+congur-0025	STEM	With regard to the male urethra, which one of the following segments is the narrowest?
+congur-0025	CH	urogen
+congur-0028	STEM	A young girl with fever, left loin swelling and microscopic haematuria is ultimately diagnosed with Wilms tumour. Which statement about Wilms tumour is true?
+congur-0028	EX	By elimination: Wilms tumour is linked to aniridia and WT1 on chromosome 11, peaks at 3–4 years and spreads to the lungs; stage IV survival is roughly 65–80%.
+congur-0028	CH	renal
+congur-0030	EX	A white, scarred preputial tip suggests balanitis xerotica obliterans (pathological phimosis), for which circumcision is definitive; simple ballooning alone is physiological.
+scrotum-0001	OPTS	Admit for bed rest|Analgesics and a scrotal support|Antibiotic therapy|Schedule a testicular isotope scan|Urgent surgical exploration
+scrotum-0001	EX	Sudden scrotal pain with a high-riding tender testis in a teenager is torsion until proven otherwise; explore urgently without waiting for imaging.
+scrotum-0002	OPTS	Transscrotal needle biopsy|Transscrotal aspiration of the hydrocele for cytology|Radical orchidectomy through an inguinal incision|Transscrotal exploration and orchidectomy|Laparotomy with pelvic and retroperitoneal node dissection
+scrotum-0002	EX	A suspected testicular tumour is diagnosed by radical inguinal orchidectomy with high cord clamping; scrotal biopsy or aspiration risks tumour seeding.
+scrotum-0003	OPTS	External beam radiotherapy|Multidrug combination chemotherapy|Combination radiotherapy and multidrug chemotherapy|Clinical surveillance|Laparotomy with pelvic and retroperitoneal node dissection
+scrotum-0003	KEY	B
+scrotum-0003	EX	Seminoma with inguinal and retroperitoneal nodal spread needs cisplatin-based combination chemotherapy (BEP/EP); adding radiotherapy adds toxicity without benefit.
+scrotum-0004	STEM	A 12-year-old boy is admitted to the emergency department with sudden onset of severe right testicular and lower abdominal pain during athletic training. He has had one episode of vomiting and constantly feels nauseous. On examination, the patient is sweating and in unbearable pain. There is marked tenderness and swelling of the right testicle which is observed to be lying horizontally. What is the most appropriate next step in this patient’s management?
+scrotum-0008	EX	Raised AFP with normal β-hCG indicates a yolk sac (endodermal sinus) tumour element; pure seminoma never raises AFP.
+scrotum-0009	EX	Raised AFP excludes pure seminoma; metastatic non-seminomatous germ cell tumour is treated by inguinal orchidectomy plus cisplatin-based chemotherapy (BEP).
+scrotum-0010	OPTA	Testicular ultrasound scan; serum AFP, β-HCG and LDH; CT chest, abdomen and pelvis
+scrotum-0010	EX	Work-up is scrotal ultrasound, tumour markers (AFP, β-hCG, LDH) and staging CT of chest, abdomen and pelvis; brain CT and bone scan only if clinically indicated.
+scrotum-0011	EX	Radical inguinal orchidectomy gives the histological diagnosis and treats the primary; scrotal incision or biopsy risks tumour seeding and altered lymphatic spread.
+scrotum-0013	EX	Sudden severe scrotal pain with vomiting, no relief on elevation (negative Prehn sign) and a normal dipstick in a teenager indicates testicular torsion.
+scrotum-0014	EX	Scrotal pain and erythema with pyuria in a sexually active young man indicate epididymitis, usually due to chlamydia or gonorrhoea.
+scrotum-0016	EX	A right-sided varicocele, or one that does not empty when supine, in an older man may signal a renal or retroperitoneal mass, so CT the abdomen.
+scrotum-0017	EX	A painless transilluminating swelling enveloping the testis, which cannot be felt separately, is a hydrocele.
+scrotum-0018	EX	An extremely tender, non-transilluminating swelling of the testis and epididymis is epididymo-orchitis; torsion must still be excluded in young men.
+scrotum-0019	EX	A non-tender transilluminating swelling felt separately from the testis is an epididymal cyst.
+scrotum-0020	DUP	scrotum-0013
+bladder-0001	EX	A bladder tumour on imaging needs transurethral resection first: it gives histology, grade and depth of invasion and treats non-muscle-invasive disease.
+bladder-0002	KEY	E
+bladder-0002	EX	E is false: painful haematuria suggests infection, stones or inflammation, whereas cancer bleeds painlessly. Transient microscopic haematuria (e.g. after exercise) can be benign.
+bladder-0005	EX	A is false: diverticula are often found incidentally; B is false: only symptomatic or complicated diverticula (stones, infection, tumour) are excised.
+bladder-0006	STEM	In a patient with suspected bladder cancer, which of the following investigations are routinely carried out?
+bladder-0006	KEY	ABCE
+bladder-0006	EX	Only D is false: a bone scan is not routine and is reserved for bone pain, raised alkaline phosphatase or advanced disease.
+bladder-0007	KEY	ABDE
+bladder-0007	EX	Only C is false: radical cystectomy (after neoadjuvant cisplatin chemotherapy) is first-line for muscle-invasive disease; radical radiotherapy is an alternative.
+bladder-0008	OPTS	CT urography|Voiding cystourethrogram|MRI of the pelvis|Abdominal ultrasound|Urine for cytology
+bladder-0008	EX	Visible haematuria in an older smoker is investigated by CT urography to image the upper tracts and bladder, together with cystoscopy.
+bladder-0009	STEM	In the patient above, CT urography is normal. What is the best next step?
+bladder-0009	OPTS	Abdominal CT scan|Cystourethroscopy and urinary cytology|Transrectal ultrasound|Exploratory laparoscopy|Re-evaluation in 2–4 weeks with repeat urinalysis and culture
+bladder-0009	EX	Imaging misses many bladder tumours, especially flat carcinoma in situ, so cystoscopy (with cytology) is mandatory in every patient with visible haematuria.
+bladder-0010	OPTB	Smoking is the most important risk factor in the United Kingdom
+bladder-0011	EX	Invasion into the detrusor muscle is T2; no involved nodes is N0 and no distant spread on CT is M0.
+bladder-0013	DEL	placeholder "X" with no stem, options or answer (image only)
+bladder-0014	STEM	A 45-year-old man develops a left scrotal mass with the appearance of distended tortuous veins. Scrotal and groin ultrasound confirms a varicocoele and a shrunken left testis. Which is the single most appropriate next step?
+bladder-0014	EX	A new varicocele in an older man may signal a renal tumour obstructing the testicular vein, so the kidney is imaged first (renal ultrasound).
+bladder-0014	CH	scrotum
+bladder-0015	KEY	C
+bladder-0015	EX	Clot retention from haematuria needs rigid cystoscopy under anaesthesia to evacuate clot, find the source and resect or biopsy; cytology is unreliable in bloody urine.
+bladder-0017	OPTS	Intravesical chemotherapy|Radical cystectomy|Radiation therapy|Transurethral resection and intravesical chemotherapy|Systemic chemotherapy
+bladder-0017	EX	Non-muscle-invasive urothelial cancer is treated by transurethral resection plus intravesical chemotherapy (BCG for high-risk disease).
+bladder-0018	EX	Childhood haematuria in West Africa implies Schistosoma haematobium infection, whose chronic irritation predisposes to squamous cell carcinoma of the bladder.
+bladder-0019	EX	Cystoscopy and biopsy is the key test for suspected bladder cancer; with impaired renal function, iodinated contrast (IVU/CT) is best avoided initially.
+bladder-0020	STEM	A 60-year-old man has painless haematuria. Transurethral resection shows urothelial carcinoma invading the superficial detrusor muscle (T2a), and staging CT shows no nodal or distant metastases. He is fit for surgery. What is the next step in management?
+bladder-0020	EX	Muscle-invasive (T2) bladder cancer in a fit patient is treated by radical cystectomy, ideally after neoadjuvant cisplatin chemotherapy; radical radiotherapy is the alternative.
+uroemq-0001	OPTS	Carcinoma of kidney|Carcinoma of ureter|Congenital hydronephrosis|Horseshoe kidney|Pyonephrosis|Staghorn calculus|Transitional cell carcinoma (TCC) of renal pelvis|Trauma to kidney|Ureteric calculus|Wilms tumour
+uroemq-0001#1	EX	Sudden severe loin pain radiating to the groin and testis, with vomiting and restlessness, is ureteric colic from a ureteric calculus.
+uroemq-0001#2	EX	Haematuria with worm-like clots, loin pain, a renal mass and a new left varicocele (renal vein invasion) indicate renal cell carcinoma.
+uroemq-0001#3	EX	Chronic loin pain with Proteus infection (urease-splitting, alkaline urine) suggests a struvite staghorn calculus.
+uroemq-0001#4	EX	Disproportionate haematuria and loin swelling after minor trauma suggest bleeding from an abnormal kidney, classically congenital hydronephrosis (PUJ obstruction).
+uroemq-0001#5	EX	High fever, rigors and an exquisitely tender loin indicate an infected obstructed kidney (pyonephrosis) needing urgent drainage.
+uroemq-0001#6	EX	Haematuria with an irregular filling defect in the lower ureter is urothelial (transitional cell) carcinoma of the ureter until proven otherwise.
+uroemq-0001#7	EX	Calyces pointing medially towards the spine on IVU are characteristic of a horseshoe kidney, which predisposes to infection and stones.
+uroemq-0001#8	EX	An asymptomatic flank mass noticed by a parent in a 3-year-old is classic for Wilms tumour (nephroblastoma).
+uroemq-0001#9	EX	Frank haematuria after a fall on to the loin indicates blunt renal trauma; children's kidneys are relatively unprotected.
+uroemq-0001#10	EX	A persistent irregular filling defect in the renal pelvis with haematuria in an older patient indicates transitional cell carcinoma of the renal pelvis.
+uroemq-0002	THEME	Bladder diagnoses
+uroemq-0002#1	EX	Sandy patches and tubercles on cystoscopy with terminal haematuria in someone from Egypt are typical of urinary schistosomiasis (S. haematobium).
+uroemq-0002#2	EX	Painless total haematuria in an elderly heavy smoker is bladder carcinoma until proven otherwise.
+uroemq-0002#3	EX	Passing a large volume again shortly after voiding (double micturition) is typical of a bladder diverticulum emptying back into the bladder.
+uroemq-0002#4	EX	A stream that stops suddenly and restarts with a change of posture, with painful haematuria, is classic for a mobile bladder calculus.
+uroemq-0002#5	EX	Sterile pyuria with frequency, evening fever and weight loss in a patient from an endemic area suggests genitourinary tuberculosis.
+uroemq-0003#1	EX	Fever, rigors, perineal pain, dysuria and an exquisitely tender, swollen prostate on rectal examination indicate acute bacterial prostatitis.
+uroemq-0003#2	EX	LUTS with a hard, nodular prostate fixed to the rectal mucosa and new back pain (bone metastases) indicate prostate carcinoma.
+uroemq-0003#3	EX	Painful inability to void with a tender, dull suprapubic mass, precipitated by cold remedies and constipation, is acute urinary retention.
+uroemq-0003#4	EX	Progressive LUTS with a smooth, enlarged prostate and a preserved median groove indicate BPH causing bladder outlet obstruction.
+uroemq-0003#5	EX	A painless distended bladder with continuous dribbling and malaise (possible uraemia) is chronic retention with overflow incontinence.
+uroemq-0004#1	EX	Penile curvature on erection after urethritis reflects chordee from periurethral fibrosis (stricture); congenital chordee accompanies hypospadias.
+uroemq-0004#2	EX	A hard ulcerated subpreputial lesion with bloody, foul discharge and inguinal nodes in an elderly man is squamous carcinoma of the penis.
+uroemq-0004#3	EX	Plaques in the tunica albuginea causing curvature on erection, with Dupuytren contracture of the palms, indicate Peyronie disease.
+uroemq-0004#4	EX	A prolonged painful erection unrelated to sexual stimulation in leukaemia is ischaemic (low-flow) priapism, a urological emergency.
+uroemq-0004#5	EX	Itching, redness and purulent subpreputial discharge in a diabetic indicate balanoposthitis (often candidal or bacterial).
+uroemq-0004#6	EX	A pelvic fracture with a distended bladder and inability to void indicates rupture of the membranous (posterior) urethra.
+uroemq-0004#7	EX	A fall-astride (straddle) injury with perineal haematoma and blood at the meatus indicates rupture of the bulbar urethra.
+uroemq-0004#8	EX	Progressive thickening and non-retractility of the foreskin with a spraying stream in a middle-aged man indicates BXO (lichen sclerosus).
+uroemq-0005#1	EX	A tender blue pea-sized nodule at the upper pole ('blue dot' sign) with a non-tender testis is torsion of the hydatid of Morgagni.
+uroemq-0005#2	EX	A tense, fluctuant, transilluminating swelling in which the testis cannot be felt separately is a vaginal hydrocele.
+uroemq-0005#3	EX	Fever, urinary symptoms and a red, oedematous hemiscrotum with tender, indurated testis and epididymis indicate acute epididymo-orchitis.
+uroemq-0005#4	EX	Sudden agonising pain with a drawn-up testis and red scrotum in a young man is testicular torsion; explore urgently.
+uroemq-0005#5	EX	A hard testicular mass with para-aortic and supraclavicular nodes and haemoptysis (lung metastases) indicates metastatic testicular tumour.
+uroemq-0005#6	STEM	A 50-year-old man complains of a lump in his right scrotum of 1 year’s duration. This is gradually growing larger in size and gives him some discomfort. Examination of his scrotum reveals a cystic lump, about 7 cm in diameter, above and behind the right testis, which is minimally tender. Transillumination is positive and shows septa within the lump. There is a smaller similar lump on the other side of which he is unaware.
+uroemq-0005#6	EX	A transilluminating, septated cyst above and behind the testis, often bilateral, is an epididymal cyst.
+uroemq-0005#7	EX	A painless red, oedematous scrotum spreading to the penis and perineum in a young boy is idiopathic scrotal oedema; it settles spontaneously.
+uroemq-0005#8	EX	A lax cyst above the testis felt as 'a third testis', with hazy transillumination (milky fluid containing sperm), is a spermatocele.
+uroemq-0005#9	EX	A transilluminating swelling above and separate from the testis that moves down on traction of the testis is an encysted hydrocele of the cord.
+uroemq-0005#10	EX	A bag of veins above the testis that empties on lying down is a varicocele, usually left-sided.
+uroemq-0006#1	EX	Persistent haematuria after a treated UTI in an older patient needs investigation for urothelial (transitional cell) carcinoma, the commonest cause at this age.
+uroemq-0006#2	EX	A left varicocele that does not empty on lying flat, with weight loss and dyspnoea (lung metastases), suggests renal cell carcinoma invading the renal vein.
+uroemq-0006#3	EX	Young-onset hypertension, renal impairment and advice for sibling screening point to autosomal dominant polycystic kidney disease.
+uroemq-0006#4	EX	Dark urine after a marathon in an otherwise well young man is myoglobinuria from exertional rhabdomyolysis.
+uroemq-0006#5	EX	Bladder pseudotubercles in an Egyptian man indicate chronic schistosomiasis, which predisposes to squamous cell carcinoma of the bladder.
+uroemq-0007#1	EX	A long-standing transilluminating swelling in which the testis cannot be felt separately is a hydrocele.
+uroemq-0007#2	EX	Acute painful swelling with a tender testis and epididymis after unprotected sex is acute epididymo-orchitis (chlamydia/gonorrhoea).
+uroemq-0007#3	EX	A hard painless testicular lump at 20 years with previous maldescent is most likely a non-seminomatous germ cell tumour (peak 20–30 years).
+uroemq-0007#4	EX	Sudden severe testicular pain waking a boy from sleep, with vomiting, is testicular torsion until proven otherwise.
+uroemq-0007#5	EX	A scrotal swelling that enlarges on standing and feels like a bag of worms is a varicocele.
+uroemq-0008#1	EX	A white, scarred, ballooning foreskin with voiding difficulty is phimosis (here due to BXO).
+uroemq-0008#2	STEM	A 58-year-old woman awaiting hysterectomy for a large fibroid uterus has bilateral hydronephrosis and chronic renal failure.
+uroemq-0008#2	EX	A large pelvic mass such as a fibroid uterus can compress the bladder neck and ureters, causing outflow obstruction and obstructive renal failure.
+uroemq-0008#3	EX	Recurrent urinary infection and its instrumentation predispose a young man to urethral stricture, causing slow, difficult voiding.
+uroemq-0008#4	EX	Retention a week after TURP is typically clot retention from secondary haemorrhage; treat with a three-way catheter and irrigation.
+uroemq-0008#5	EX	Hesitancy, nocturia and terminal dribbling in an elderly man are most commonly due to benign prostatic hyperplasia.
+uroemq-0009#1	EX	BPH with a failed trial without catheter despite an alpha-blocker, and a negative biopsy, is an indication for TURP.
+uroemq-0009#2	EX	A mildly raised PSA in an asymptomatic man is first repeated (excluding UTI, recent ejaculation or exercise) before MRI or biopsy.
+uroemq-0009#3	EX	A first-degree relative (especially a twin) with prostate cancer raises the risk; offer counselling and early PSA screening.
+uroemq-0009#4	STEM	A 73-year-old man with prostate cancer attends your clinic complaining of new-onset back pain.
+uroemq-0009#4	EX	New back pain in prostate cancer suggests bone metastases or cord compression: give dexamethasone and image urgently (bone scan/MRI spine).
+uroemq-0009#5	STEM	A 52-year-old man is diagnosed with prostate cancer and staging confirms the absence of secondary spread of disease.
+uroemq-0009#5	EX	Localised prostate cancer in a fit 52-year-old is suitable for curative radical prostatectomy.
+uroemq-0010#1	EX	Leakage on coughing and sneezing after childbirth is stress incontinence; first-line treatment is supervised pelvic floor muscle training for at least 3 months.
+uroemq-0010#2	EX	A slowing stream with post-void dribbling after an STI in a young man suggests urethral stricture, best shown by urethrography.
+uroemq-0010#3	STEM	A 75-year-old woman presents with recent onset of severe urinary urgency and bladder pain. Urinary dipstick shows no nitrites, protein 1+ and blood 2+.
+uroemq-0010#3	EX	New severe urgency and bladder pain with haematuria and no infection in an elderly woman need cystoscopy to exclude carcinoma in situ or bladder cancer.
+uroemq-0010#4	EX	Outflow symptoms with a raised creatinine need ultrasound of kidneys and bladder to look for hydronephrosis and a high residual (chronic retention).
+uroemq-0010#5	EX	Recurrent mixed incontinence after previous continence surgery needs video urodynamics before any further intervention.
+uroemq-0011#1	STEM	A 50-year-old man has heavy haematuria and a falling haemoglobin 2 days after percutaneous nephrolithotomy. Bleeding continues despite clamping the nephrostomy tube.
+uroemq-0011#1	KEY	G
+uroemq-0011#1	EX	Persistent bleeding after PCNL despite tamponade suggests an arteriovenous fistula or pseudoaneurysm; selective angioembolisation is the next step.
+uroemq-0011#2	STEM	A 28-year-old woman who is 24 weeks pregnant presents with right loin-to-groin pain and microscopic haematuria.
+uroemq-0011#2	KEY	I
+uroemq-0011#2	EX	In pregnancy, ultrasound is the first-line imaging for suspected stones or obstruction because it avoids ionising radiation.
+uroemq-0011#3	STEM	A 60-year-old woman with a known obstructing left ureteric stone has a temperature of 39.5 °C, rigors and hypotension. Ultrasound shows a dilated left collecting system containing debris. She is too unwell for a general anaesthetic.
+uroemq-0011#3	KEY	H
+uroemq-0011#3	EX	An infected obstructed kidney (pyonephrosis) needs urgent decompression plus antibiotics; a percutaneous nephrostomy under local anaesthetic suits an unstable patient.
+uroemq-0011#4	STEM	A 30-year-old man with right ureteric colic is pain-free after diclofenac. CT KUB shows a 4 mm stone in the distal ureter; he is apyrexial with normal renal function.
+uroemq-0011#4	KEY	A
+uroemq-0011#4	EX	Ureteric stones of 5 mm or less usually pass spontaneously; a pain-free, apyrexial patient with normal renal function can go home with analgesia and follow-up.
+uroemq-0011#5	STEM	A 55-year-old woman has recurrent loin pain and urinary infections. CT shows a 3 cm staghorn calculus in the left kidney, which has good function on renography.
+uroemq-0011#5	KEY	F
+uroemq-0011#5	EX	Large (over 2 cm) or staghorn renal stones in a functioning kidney are best treated by percutaneous nephrolithotomy.
+uroemq-0011	NOTES	Item stems were missing in the source (only the answer key and explanations survived); stems #1-#5 were reconstructed to fit the source keys G, I, H, A, F. Please check.
+uroemq-0012#1	EX	An incidental benign fatty mass in the spermatic cord found at hernia repair is a lipoma of the cord.
+uroemq-0012#2	EX	An expansile (not merely transmitted) pulsatile groin mass in an elderly smoker is a femoral artery aneurysm.
+uroemq-0012#3	EX	A groin lump after a failed attempt to bring down an undescended testis is the maldescended testis lying in the inguinal canal.
+uroemq-0012#4	EX	A scrotal mass in an elderly man that reduces on lying flat (you cannot get above it) is an indirect inguinal hernia.
+uroemq-0012#5	EX	Firm, matted groin masses with leg pain are inguinal lymphadenopathy (e.g. metastases or lymphoma) needing a search of the drainage area.
+uroemq-0013	OPTS	Transurethral resection of the prostate|Retrograde ureterogram|Nephrostomy|Micturating cystourethrogram|Ultrasound of urinary tract|Intravenous urogram (IVU)|Furosemide|High-intensity focused ultrasound (HIFU) prostate ablation|Radical prostatectomy|Nephroureterectomy, cystectomy and ileal conduit formation|Active surveillance
+uroemq-0013#1	STEM	A 45-year-old man has muscle-invasive transitional cell carcinoma of the bladder extending to multiple sites along the right ureter and involving the renal pelvis.
+uroemq-0013#1	EX	Multifocal muscle-invasive urothelial cancer of bladder, ureter and renal pelvis needs cystectomy with nephroureterectomy and urinary diversion (ileal conduit).
+uroemq-0013#2	STEM	An 83-year-old man with a PSA of 10 ng/mL and positive TRUS biopsy results denies lower urinary tract symptoms. He does not want any surgical intervention.
+uroemq-0013#2	KEY	K
+uroemq-0013#2	EX	An asymptomatic elderly man with low-volume prostate cancer who declines intervention is best managed conservatively by surveillance.
+uroemq-0013#3	STEM	A 45-year-old man has a raised PSA of 29 ng/mL and positive TRUS biopsy results. His brother died of prostate cancer aged 60 years.
+uroemq-0013#3	KEY	I
+uroemq-0013#3	EX	A young, fit man with prostate cancer and a strong family history should be offered curative radical prostatectomy (assuming localised disease).
+uroemq-0013#4	STEM	A 30-year-old man with a history of renal stones has been on a business trip and taken diclofenac and codeine throughout his meetings. He returns to attend A&E with further pain.
+uroemq-0013#4	KEY	E
+uroemq-0013#4	EX	Heavy NSAID use may impair renal function, so ultrasound (no contrast) is the safest initial test for obstruction.
+uroemq-0013#5	STEM	A 15-year-old girl complains of severe loin pain when voiding.
+uroemq-0013#5	KEY	D
+uroemq-0013#5	EX	Loin pain on voiding suggests vesicoureteric reflux, which is demonstrated by a micturating cystourethrogram.
+uroemq-0014#1	EX	An incidental benign renal lesion on ultrasound is most often a simple cyst (thin-walled, anechoic, Bosniak I).
+uroemq-0014#2	EX	Haematuria, loin pain and a mass with fever, weight loss and lethargy (paraneoplastic features) suggest renal cell carcinoma.
+uroemq-0014#3	EX	An expanding loin mass with bruising and haematuria after a motorbike accident is a perirenal haematoma from renal injury.
+uroemq-0014#4	EX	Swinging fever, leucocytosis and a tender loin mass in an immunocompromised patient indicate a renal (perinephric) abscess.
+uroemq-0015#1	STEM	An 18-year-old man presents with a swelling in his left scrotum. On examination, there is a smooth, fluctuant swelling above and behind the testis that transilluminates; the testis can be felt separately. The patient wants treatment for this swelling.
+uroemq-0015#1	EX	A transilluminating swelling above and separate from the testis is an epididymal cyst; a symptomatic cyst is excised (aspiration recurs).
+uroemq-0015#3	EX	A hard testicular lump at 42 is likely a seminoma; stage I disease is treated by inguinal orchidectomy with adjuvant radiotherapy (or carboplatin/surveillance).
+uroemq-0015#4	STEM	A 37-year-old man presents with a 2-day history of pain and swelling in his right testicle and pain on passing water. On examination, his right scrotum is swollen, erythematous, and tender. Urine dipstick shows white cells.
+uroemq-0016	THEME	Management of prostate disease
+uroemq-0016#4	EX	Bothersome LUTS with a smooth enlarged prostate (PSA raised by gland size) respond to finasteride, a 5α-reductase inhibitor that shrinks large glands.
+uroemq-0017	THEME	Investigation of urological disease
+uroemq-0017	OPTS	Retrograde urethrogram|Bladder scan and urethral catheterisation|CT scan|Cystoscopy and retrograde ureteric stent|Intravenous urogram|Percutaneous nephrostomy|Three-way catheter and irrigation|Transrectal ultrasound and biopsy|Ultrasound scan of abdomen|Urgent surgical exploration
+uroemq-0017#1	STEM	A 22-year-old man presents to the emergency department after being hit by a reversing car. He has an episode of macroscopic haematuria, but abdominal and per rectum examinations show no other abnormality. His blood pressure is 114/74 mmHg and his pulse 86/min.
+uroemq-0017#2	STEM	A 74-year-old man presents with acute-onset suprapubic pain and an inability to pass urine. On examination, he is visibly uncomfortable and the bladder is percussable 6 cm above the pubis.
+uroemq-0017#3	STEM	A 37-year-old man was cycling home when his bike skidded on ice and he crashed into a post box. On admission to the emergency department, he has complained of an inability to pass urine and on examination there is blood at the external urethral meatus.
+uroemq-0017#3	EX	Blood at the meatus with inability to void after trauma suggests urethral injury; a retrograde urethrogram is done before any urethral catheter is passed.
+uroemq-0017#4	STEM	A 61-year-old man presents with sudden-onset left loin pain that radiates to his groin. He has been unable to pass urine over the last 24 hours. He has a history of a right nephrectomy for a renal cell carcinoma. A spiral CT scan confirms the presence of a 6 mm stone at the left vesicoureteric junction and a left hydronephrosis.
+uroemq-0017#4	EX	An obstructing stone in a solitary kidney with anuria needs urgent decompression, here by cystoscopy and retrograde ureteric stenting.
+uroemq-0017#5	STEM	A 58-year-old man is referred to the clinic by his general practitioner with a prostate-specific antigen level of 14.0 ng/mL. He has no other symptoms. Abdominal examination shows no abnormality, but an enlarged, hard, irregular prostate gland is palpable per rectum.
+uroemq-0018	THEME	Management of urological disease
+uroemq-0018	OPTE	Open pyelolithotomy
+uroemq-0018#2	EX	Visible haematuria with clot retention is treated with a three-way catheter and continuous bladder irrigation.
+uroemq-0019	THEME	Management of urinary retention
+uroemq-0019	OPTS	Check urea and electrolytes|Cystoscopy|Intravenous antibiotics|Lithotripsy|Percutaneous nephrostomy|Reassurance alone|Suprapubic catheterisation|Transurethral resection of prostate|Trial without catheter|Urethral catheterisation
+uroemq-0019#1	EX	Acute retention is relieved first by urethral catheterisation, recording the drained (residual) volume.
+uroemq-0019#2	EX	After haematuria with clots and failed catheterisation, cystoscopy is safer than a suprapubic catheter, which could puncture or seed a bladder tumour.
+uroemq-0019#3	EX	When urethral catheterisation fails in uncomplicated retention, a suprapubic catheter is inserted.
+uroemq-0020	THEME	Urological conditions
+uroemq-0020#5	EX	An abdominal mass with haematuria and failure to thrive in an infant suggests nephroblastoma (Wilms tumour).
+uroemq-0021	DUP	uroemq-0017
+uroemq-0023#1	EX	Bilateral scrotal pain with purulent urethral discharge, eased by scrotal support (Prehn sign), indicates sexually transmitted epididymo-orchitis.
+uroemq-0023#2	EX	Sudden testicular pain with a high-lying testis in a teenager (maldescent predisposes) is testicular torsion.
+uroemq-0023#3	EX	A localised dark spot by the testis on transillumination ('blue dot' sign) is torsion of the hydatid of Morgagni.
+uroemq-0023#4	EX	Pain and swelling after a direct blow to the scrotum is a scrotal haematoma; ultrasound is used to exclude testicular rupture.
+uroemq-0023#5	EX	A swollen tender testis after parotid ('neck') swelling indicates mumps orchitis.
+uroemq-0024#1	KEY	C
+uroemq-0024#1	EX	Blood at the meatus and a high-riding prostate after major trauma indicate pelvic fracture with posterior urethral disruption; do not catheterise per urethra.
+uroemq-0024#2	EX	Painless haematuria with eosinophilia after travel in East Africa suggests Schistosoma haematobium infection.
+uroemq-0024#3	EX	Haematuria, weight loss and loin tenderness with new back pain (bone metastasis) suggest renal cell carcinoma.
+uroemq-0024#4	EX	Fever, loin pain, renal angle tenderness and leucocytosis in a diabetic with recurrent UTIs indicate acute pyelonephritis.
+uroemq-0024#5	KEY	H
+uroemq-0024#5	EX	Sudden severe colicky loin-to-groin pain settling with NSAIDs and fluids is renal colic from a ureteric stone.
+uroemq-0025	THEME	Lower urinary tract symptoms
+uroemq-0025#1	EX	Long-standing voiding LUTS with a low Qmax (under 10 mL/s) and a residual in an older man indicate bladder outlet obstruction from BPH.
+uroemq-0025#2	EX	Leakage on coughing, sneezing and exercise after vaginal deliveries is stress urinary incontinence.
+uroemq-0025#3	EX	Progressive poor stream and post-void dribbling after a childhood fall-astride injury indicate a bulbar urethral stricture.
+uroemq-0025#4	EX	Urge incontinence in a young woman with previous transient monocular blindness (optic neuritis) suggests multiple sclerosis causing detrusor overactivity.
+uroemq-0025#5	EX	Acute retention with saddle anaesthesia and back pain is cauda equina syndrome from a prolapsed disc, needing urgent MRI and decompression.
+uroemq-0026	THEME	Urological investigations
+uroemq-0026	OPTE	Non-contrast CT of kidneys, ureters and bladder (CT KUB)
+uroemq-0026#1	EX	Dysuria and frequency with fever suggest UTI; the first test is a urine dipstick (then MSU culture).
+uroemq-0026#2	KEY	E
+uroemq-0026#2	EX	Suspected renal colic is best confirmed by low-dose non-contrast CT KUB (NICE), which detects almost all stones; plain KUB misses many.
+uroemq-0026#3	EX	Voiding LUTS with renal impairment needs renal ultrasound to look for hydronephrosis and a high residual from chronic retention.
+uroemq-0026#4	EX	An irregular prostate on rectal examination with weight loss suggests prostate cancer; check serum PSA (then MRI and biopsy).
+uroemq-0026#5	EX	Of these, urodynamics best characterises stress versus urge incontinence; NICE reserves it for mixed, unclear or pre-surgical cases.
+uroemq-0027	THEME	Urgent urological referrals
+uroemq-0027#1	EX	A firm, painless testicular lump in a 19-year-old is most likely a teratoma (NSGCT, peak 20–30 years) and needs urgent referral.
+uroemq-0027#2	EX	Colicky loin-to-groin pain with haematuria on dipstick and loin tenderness is ureteric colic.
+uroemq-0027#3	EX	Long-standing LUTS now with a tender palpable bladder is retention from BPH; a PSA of 5 at 88 years fits a large benign gland.
+uroemq-0027#4	EX	Gradual testicular pain and swelling with dysuria and a positive dipstick (leucocytes, nitrites) indicate epididymitis.

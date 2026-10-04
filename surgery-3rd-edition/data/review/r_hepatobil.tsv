@@ -1,0 +1,109 @@
+liver-0002	OPTD	Hypertonic (20%) saline as a scolicidal agent
+liver-0002	EX	Levamisole has no role in hydatid disease; albendazole/mebendazole (± praziquantel) are given perioperatively and hypertonic saline is used intraoperatively as a scolicide.
+liver-0004	STEM	A patient with a hydatid liver cyst is scheduled for surgery. Is there a benefit of giving medication before surgery? Why?
+liver-0004	OPTC	Yes, albendazole (± praziquantel) inactivates the cyst and lowers intracystic pressure, reducing the risk of recurrence
+liver-0004	EX	Preoperative albendazole (± praziquantel) kills protoscolices and softens the cyst, reducing the risk of secondary hydatidosis and recurrence if spillage occurs.
+liver-0005	STEM	A jaundiced patient has a hydatid liver cyst with daughter cysts on CT and is planned for surgery. What further imaging would you order before surgery?
+liver-0005	OPTB	MRI with MRCP
+liver-0005	KEY	B
+liver-0005	EX	Jaundice suggests cyst–biliary communication; MRCP shows the biliary tree and any communication before surgery. Ultrasound is first-line but adds little after CT.
+liver-0006	STEM	After surgery for a hydatid liver cyst, what is your plan for minimising the risk of recurrence or reinfection?
+liver-0006	OPTC	Continue albendazole (± praziquantel) postoperatively and educate the patient about hand hygiene, clean food and water and avoiding contact with dogs
+liver-0006	EX	Postoperative albendazole (usually 1–3 months) kills any spilled protoscolices, and hygiene education (dogs, unwashed vegetables) prevents reinfection.
+liver-0007	STEM	A patient with right upper quadrant pain has the imaging shown. What is the imaging modality and what does it show?
+liver-0007	OPTB	CT scan showing a cystic liver lesion with floating detached membranes (water-lily sign)
+liver-0007	EX	Contrast CT shows a liver cyst with detached, floating endocyst membranes (water-lily sign), diagnostic of a hydatid cyst.
+liver-0008	STEM	What is the usual surgical option for an uncomplicated hydatid liver cyst?
+liver-0008	EX	Conservative surgery (cyst evacuation with partial cystectomy or pericystectomy under scolicidal cover) is standard; formal hepatectomy is reserved for selected cases.
+liver-0009	DUP	liver-0004
+liver-0010	DUP	liver-0005
+liver-0011	DUP	liver-0006
+liver-0012	STEM	A patient with upper abdominal pain did not respond to H. pylori eradication therapy, and an ultrasound reveals a 4.5 × 3 cm cyst in the liver. What is the most likely diagnosis?
+liver-0012	EX	A cystic liver lesion may be a simple cyst, an abscess or a hydatid (Echinococcus granulosus) cyst; haemangioma, FNH, HCC and metastases are usually solid.
+liver-0013	STEM	A patient with a hydatid liver cyst refuses surgery. What medical treatment would you offer, and for how long?
+liver-0014	STEM	How would you monitor the response of a hydatid liver cyst to medical treatment?
+liver-0015	STEM	Before starting medical treatment for a suspected hydatid liver cyst, what single test would you do, and why?
+liver-0015	OPTE	Chest x-ray
+liver-0015	EX	Ultrasound stages the cyst (WHO-IWGE classification: active, transitional or inactive), which decides between drugs, PAIR, surgery or watch-and-wait.
+liver-0016	STEM	A patient with a hydatid liver cyst has a CT scan showing multiple cysts in the lung, kidney and spleen. What is the best serological test to confirm the diagnosis?
+liver-0017	STEM	Two weeks later, a patient with a hydatid liver cyst develops jaundice, right upper quadrant pain, a tender mass and a swinging fever. What is the diagnosis?
+liver-0017	EX	Swinging fever with a tender mass indicates secondary bacterial infection of the cyst (liver abscess); jaundice suggests rupture into the biliary tree.
+liver-0018	EX	False: most infected people are asymptomatic (B), and amoebic liver abscess, although the commonest extraintestinal manifestation, occurs in a minority, not >50% (C).
+liver-0019	EX	False: excystation occurs in the terminal ileum, with trophozoites colonising the colon (A), and the right lobe is involved in about 80% of cases, not 10% (E).
+liver-0020	EX	C is false: amoebic abscess fluid is classically reddish-brown 'anchovy sauce', not blackcurrant jelly; trophozoites are found in the wall rather than the pus.
+liver-0022	EX	Metronidazole or tinidazole is first-line, with aspiration for impending rupture and surgery for complications. Laparotomy is not routine (A); diloxanide alone treats only luminal cysts (C).
+liver-0023	EX	False: man is an accidental intermediate host, not definitive (A); E. granulosus forms well-defined cysts, whereas E. multilocularis infiltrates like a tumour (E).
+liver-0026	KEY	BCE
+liver-0026	EX	False: Loeffler syndrome (A) and passing live worms (D) are features of ascariasis. Hydatid cysts cause dull RUQ pain, anaphylaxis on rupture and jaundice from biliary rupture.
+liver-0032	KEY	ABE
+liver-0032	EX	False: a ruptured cyst can cause pleural effusion or empyema (C), and the water-lily sign shows collapsed floating membranes of a ruptured cyst, not inactive disease (D).
+liver-0034	NOTES	Image path is 'pic/EMBEDDED' (looks like a broken image reference); the stem does not refer to an image.
+liver-0036	STEM	A 27-year-old man presents with fevers and right upper abdominal pain following a 1-week history of bloody diarrhoea. He has recently returned from holiday in the Maldives, but has previously been fit and well. On examination, he has a tender palpable liver. Which of the following is the most likely cause of his symptoms?
+liver-0036	EX	Bloody diarrhoea after travel followed by fever and a tender liver suggests amoebic liver abscess from Entamoeba histolytica colitis.
+liver-0037	EX	Confusion (encephalopathy), jaundice, ascites and caput medusae indicate decompensated cirrhosis, most commonly due to alcohol in the UK.
+liver-0039	EX	Amoebic liver abscess responds to metronidazole in >90% of cases; aspiration is reserved for non-response, large left-lobe abscesses or impending rupture.
+gb-0001	STEM	Four weeks after a laparoscopic cholecystectomy, a patient's abdominal drain is still draining 900 mL of bile daily. What is the best minimally invasive treatment?
+gb-0001	OPTA	ERCP with sphincterotomy and stent placement
+gb-0001	EX	ERCP with sphincterotomy and stenting removes the sphincter pressure gradient so bile drains into the duodenum, allowing a cystic stump leak to seal.
+gb-0002	STEM	A diabetic woman has small gallstones found incidentally on ultrasound. She has never had biliary pain. Is surgery needed for her gallbladder?
+gb-0002	OPTE	Yes, because all gallstones should be removed once detected
+gb-0002	KEY	A
+gb-0002	EX	Asymptomatic gallstones do not need cholecystectomy (NICE), and diabetes is no longer considered an indication; surgery is offered once symptoms develop.
+gb-0003	STEM	A 51-year-old male smoker presents with upper abdominal discomfort and heaviness over the past few weeks, along with a substernal burning sensation. An ultrasound shows three small stones <9 mm with normal wall thickness. He has had a partial response to antacids and paracetamol. The surgeon in the outpatient clinic recommends laparoscopic cholecystectomy. How would you counsel this patient?
+gb-0004	STEM	A patient with gallstones refuses cholecystectomy. He requests a medical therapy that would reduce any future increase in the size and number of stones. Suggest a suitable option.
+gb-0004	EX	Ursodeoxycholic acid lowers biliary cholesterol saturation and can dissolve small radiolucent cholesterol stones in a functioning gallbladder; recurrence is common.
+gb-0005	STEM	A patient with gallstones who declined cholecystectomy develops itching two years later. The imaging shown is performed. What is the study and what are the findings?
+gb-0006	STEM	Ultrasound suggests stones in a dilated common bile duct. How can you confirm these findings non-invasively?
+gb-0007	STEM	MRCP confirms common bile duct stones in a jaundiced patient whose gallbladder is still in situ. What is the best treatment now?
+gb-0007	OPTD	ERCP with sphincterotomy and stone extraction
+gb-0007	EX	Symptomatic CBD stones are cleared by ERCP with sphincterotomy and extraction, followed by laparoscopic cholecystectomy to prevent recurrence.
+gb-0008	STEM	Seven days after abdominal surgery, a patient develops high-grade fever, sweating and right upper quadrant pain. A CT scan is shown. What are the radiological findings?
+gb-0009	STEM	What is the treatment of a postoperative subphrenic abscess?
+gb-0009	OPTC	Antibiotics plus drainage (image-guided percutaneous, or surgical if this fails)
+gb-0009	EX	A subphrenic abscess needs antibiotics plus drainage, ideally image-guided percutaneous; open drainage is reserved for failure or multiloculated collections.
+gb-0012	EX	Prophylaxis before endoscopic procedures is considered for prosthetic valves, previous endocarditis, severe neutropenia and cirrhosis with variceal therapy, not previous cholecystectomy.
+gb-0014	EX	False: the CBD is traditionally described in four parts (A), and the cystic artery usually arises from the right hepatic artery, not the common hepatic artery (D).
+gb-0015	EX	False: Lund's node lies in the fork between the cystic and common hepatic ducts (B), and its efferents drain to hepatic and coeliac nodes, not superior mesenteric (C).
+gb-0016	EX	All are true: bile is ~97% water, ~95% of bile salts return via the enterohepatic circulation, and the gallbladder stores and concentrates bile and secretes mucus.
+gb-0018	EX	C is false: peroperative cholangiography is used selectively, not routinely, in cholecystectomy; the other statements are true.
+gb-0026	STEM	A 65-year-old woman presents with 6 months of epigastric discomfort, poor appetite and weight loss. Abdominal ultrasound reveals cholelithiasis, and an upper GI contrast series is shown. What is the most likely diagnosis?
+gb-0026	OPTS	Cholecystoenteric fistula|Duodenal ulcer|Gastric ulcer|Gastric diverticulum|Duodenal diverticulum
+gb-0026	EX	The barium study shows a gastric ulcer; with weight loss it needs endoscopic biopsy to exclude malignancy. The gallstones are incidental.
+gb-0026	CH	stom
+gb-0027	OPTS	Radioisotope scanning|Radioisotope scanning with preimaging phenobarbital administration|Abdominal ultrasound|CT scan of the abdomen|MRI scan of the abdomen
+gb-0027	EX	Phenobarbital priming enhances hepatic excretion, so absent bowel excretion on HIDA scanning is highly sensitive for biliary atresia.
+gb-0028	KEY	B
+gb-0028	EX	Sudden cardiorespiratory collapse during laparoscopy (raised IAP, capnothorax, CO2 embolism) is first managed by releasing the pneumoperitoneum, then reassessing.
+gb-0029	STEM	A 48-year-old woman is admitted with severe epigastric pain and vomiting. The pain is continuous and worse on movement. On examination she is lying still, taking shallow breaths and sweating. There is marked tenderness in the epigastrium and right upper quadrant, Murphy's sign is positive and she is slightly pyrexial. You suspect acute cholecystitis. What is the next best step in managing this patient?
+gb-0029	EX	Suspected acute cholecystitis is managed first with nil by mouth, IV fluids, analgesia and antibiotics; ultrasound then confirms it before early cholecystectomy.
+gb-0030	STEM	A 50-year-old woman presents with an acute episode of epigastric pain, vomiting and fever. The registrar, who has already clerked and examined the patient, tells you that Murphy's sign is positive. Without having seen the patient, what is the most likely diagnosis?
+gb-0031	STEM	You are asked to see a 48-year-old woman admitted with sudden onset of right upper quadrant pain. Your registrar, having seen her, tells you that the patient has Charcot's triad. What is the most likely diagnosis?
+gb-0032	STEM	A 44-year-old woman presents with acute onset of right upper quadrant pain and fever. On examination, she is lying still and has a tachycardia. The abdomen is tender in the right upper quadrant with guarding in that area. Murphy's sign is positive. What is the most useful investigation for this patient?
+gb-0047	EX	Absent urinary urobilinogen means conjugated bilirubin is not reaching the gut, i.e. biliary obstruction such as a CBD stone; haemolysis and Gilbert give unconjugated jaundice.
+gb-0051	STEM	A 23-year-old woman undergoes a laparoscopic cholecystectomy for recurrent biliary colic. On examination of the gallbladder there are stones present (see figure). Which is the single most likely underlying diagnosis to explain her condition?
+gb-0052	STEM	A 47-year-old man has had malaise and anorexia for 2 weeks and has developed jaundice over 3 days. Serum testing confirms hepatitis A infection. Blood tests are taken to assess the cause of his jaundice (normal ranges are shown). Which is the single most likely combination of blood results in this patient?
+gb-0055	CH	liver
+gb-0062	STEM	A 62-year-old man presents with right upper quadrant abdominal pain and jaundice. He is afebrile with normal vital signs. Blood tests show elevated bilirubin and alkaline phosphatase. Ultrasound demonstrates gallstones, normal gallbladder wall thickness, no pericholecystic fluid and a common bile duct of 1.0 cm. What is the most likely diagnosis?
+gb-0063	STEM	A 36-year-old woman presents with right upper quadrant abdominal pain and jaundice. She is febrile and tachycardic. Blood tests show leukocytosis and elevated bilirubin and alkaline phosphatase. Ultrasound demonstrates gallstones, normal gallbladder wall thickness, no pericholecystic fluid and a common bile duct of 1.0 cm. What is the most likely diagnosis?
+gb-0063	EX	Fever and tachycardia with jaundice, RUQ pain and a dilated CBD (Charcot's triad) indicate acute cholangitis needing antibiotics and biliary drainage.
+gb-0064	STEM	A 55-year-old man presents with intermittent right upper quadrant abdominal pain; each episode lasts 1 to 2 hours. He is afebrile with normal vital signs. White cell count, bilirubin, alkaline phosphatase, amylase and lipase are normal. Ultrasound demonstrates gallstones, normal gallbladder wall thickness, no pericholecystic fluid and a common bile duct of 3 mm. What is the most likely diagnosis?
+gb-0065	EX	Beyond T1a, gallbladder cancer needs radical cholecystectomy: en bloc resection of liver segments IVb/V with portal lymphadenectomy; simple cholecystectomy suffices only for T1a.
+gb-0070	EX	Boas sign (hyperaesthesia below the right scapula) is associated with acute cholecystitis; Cullen and Grey Turner signs suggest haemorrhagic pancreatitis.
+spleen-0001	STEM	Anatomy of the spleen. Which of the following statements are true?
+spleen-0001	OPTE	Haemopoiesis occurs in the foetal spleen.
+spleen-0001	EX	B is false: the splenic artery arises from the coeliac trunk, not the left gastric artery. The other statements are true.
+spleen-0001	NOTES	The original stem had a separate pancreatic pseudocyst question merged into it (42-year-old, palpable epigastric mass 6 weeks after acute pancreatitis; options stomach cancer / pancreatic cystadenoma / liver edge / pancreatic malignancy / pseudocyst; answer E pseudocyst). That question was removed from this stem and exists nowhere else; re-add it to panc if wanted.
+spleen-0002	STEM	Anatomy of the spleen. All of the following statements are true except:
+spleen-0002	OPTE	The visceral surface has impressions for the stomach, left kidney and splenic flexure of the colon.
+spleen-0002	EX	A is false: the spleen lies deep to the left 9th–11th ribs, its long axis along the 10th rib.
+spleen-0006	OPTS	Splenectomy|Platelet transfusion when the count drops below 50 000/µL|Systemic steroids|Chemotherapy|Expectant management with intervention only if significant bleeding occurs
+spleen-0006	EX	ITP with significant bleeding is treated first with corticosteroids (± IVIg); splenectomy is reserved for refractory or relapsing disease.
+spleen-0007	STEM	A patient with ITP initially responds to steroids, but over 6–12 months the responses become less marked and shorter, with increasing side effects. What is the next step in management?
+spleen-0007	OPTS	Partial splenectomy|Splenectomy|Increase in steroid dose and frequency|Bone marrow transplant|Plasmapheresis
+spleen-0007	EX	Steroid-dependent ITP with waning responses and rising side effects is an indication for splenectomy, which gives durable remission in about two-thirds.
+spleen-0008	EX	Bite cells occur in oxidative haemolysis (e.g. G6PD deficiency) as the spleen removes Heinz bodies; Howell–Jolly bodies, target cells and Pappenheimer bodies indicate hyposplenism.
+adrenal-0002	EX	Hypokalaemia causes polyuria and thirst; with high-normal sodium in a young adult this suggests primary hyperaldosteronism (Conn syndrome), usually with hypertension.
+adrenal-0004	STEM	A patient with mild skin pigmentation is admitted emergently because of sudden abdominal pain, fever and a rigid abdomen. Her blood pressure is 88/58 mm Hg. Blood tests show WBC 25 000/µL, glucose 55 mg/dL, sodium 119 mEq/L and potassium 6.2 mEq/L. Exploratory laparotomy shows no intra-abdominal pathology. Which of the following is the definitive treatment for her primary condition?
+adrenal-0006	STEM	A 45-year-old woman presents with hypertension, development of facial hair and a 7-cm suprarenal mass. Which of the following is the most likely diagnosis?
+adrenal-0007	STEM	A 36-year-old woman presents with palpitations, anxiety and hypertension. Workup reveals a phaeochromocytoma. Which of the following is the best approach to optimising the patient preoperatively?
+adrenal-0007	OPTE	Escalating antihypertensive drug therapy with β-blockade followed by α-blockade starting at least 1 week prior to surgery

@@ -1,0 +1,105 @@
+gitemq-0003#3	KEY	H
+gitemq-0003#3	EX	A small, tense, bluish, tender lump at the anal verge after straining is a perianal haematoma (thrombosed external vein); strangulated piles are larger, prolapsed and oedematous.
+gitemq-0005#2	KEY	A
+gitemq-0005#2	EX	Jejunal diverticula allow stasis and small-bowel bacterial overgrowth, which deconjugates bile salts and causes steatorrhoea and B12 deficiency.
+gitemq-0005#5	EX	A child with poor growth, pallor (iron deficiency), mouth ulcers and a distended abdomen suggests coeliac disease: anti-tTG IgA, then duodenal biopsy.
+gitemq-0010	OPTE	Acute gastritis
+gitemq-0012	THEME	Antimicrobial therapy in surgery
+gitemq-0012	OPTG	Vancomycin
+gitemq-0012#3	KEY	F
+gitemq-0012#3	EX	After perforated gangrenous appendicitis, metronidazole is added to levofloxacin to cover anaerobes.
+gitemq-0014	OPTS	Acute appendicitis|Acute cholangitis|Acute cholecystitis|Acute enterocolitis|Acute gastritis|Acute hepatitis|Acute intestinal obstruction|Acute lobar pneumonia|Acute myocardial infarction|Acute pancreatitis|Diabetic ketoacidosis|Herpes zoster|Perforated viscus|Mesenteric ischaemia
+gitemq-0014#8	KEY	M
+gitemq-0014#8	EX	Generalised tenderness, board-like rigidity and absent bowel sounds is generalised peritonitis from a perforated viscus: erect CXR/CT and laparotomy.
+gitemq-0014#9	KEY	N
+gitemq-0014#9	EX	Severe pain with few signs, bloody stool and AF in an elderly man is acute mesenteric ischaemia (embolic): lactate, CT angiography, urgent revascularisation.
+gitemq-0015	OPTS	24-hour pH monitoring|Barium swallow|CT abdomen and pelvis with IV contrast|Colonoscopy|Flexible sigmoidoscopy|Surveillance colonoscopy with biopsies|CT angiography|ERCP|EUS|OGD|PET scan|PTC
+gitemq-0015#1	EX	PET-CT is the most sensitive test for locating recurrence when CEA rises after resection of colorectal cancer.
+gitemq-0015#2	EX	With an equivocal Alvarado score and normal ultrasound, contrast CT is >95% accurate for appendicitis in adults.
+gitemq-0015#3	EX	Reflux-type chest pain only partly helped by PPI with a near-normal OGD needs 24-h pH monitoring to confirm reflux.
+gitemq-0015#4	KEY	G
+gitemq-0015#4	EX	Heavy rectal bleeding with shock: resuscitate and request CT angiography to localise the bleeding point and guide embolisation.
+gitemq-0015#5	EX	EUS (with cyst fluid CEA and cytology) distinguishes cystic pancreatic neoplasms from pseudocysts.
+gitemq-0015#6	EX	ERCP shows and treats CBD stones (sphincterotomy and stone extraction) in obstructive jaundice; MRCP is used if therapy is not needed.
+gitemq-0015#7	EX	A barium swallow shows anatomy after fundoplication (slipped wrap, recurrent hernia, short oesophagus).
+gitemq-0015#8	KEY	D
+gitemq-0015#8	EX	Rectal bleeding at 57 needs colonoscopy even when piles are seen, to exclude proximal colorectal cancer.
+gitemq-0015#9	EX	When ERCP stenting fails for an inoperable hilar (Klatskin) tumour, percutaneous transhepatic cholangiography with drainage/stenting relieves the jaundice.
+gitemq-0015#10	KEY	F
+gitemq-0015#10	EX	Long-standing UC needs surveillance colonoscopy with biopsies (chromoendoscopy) to detect dysplasia, usually from 8–10 years after onset.
+gitemq-0016#1	EX	Three months of frequent bloody diarrhoea with fever and weight loss and negative stool studies in a young adult is ulcerative colitis.
+gitemq-0016#3	EX	Clotted rectal bleeding in a constipated man with a previous attack of left-sided diverticulitis is diverticular bleeding.
+gitemq-0016#4	EX	Fresh blood and mucus with weight loss in a 70-year-old is colorectal cancer until proven otherwise: colonoscopy.
+gitemq-0017#1	EX	Epistaxis and bleeding after dental extraction (mucosal bleeding) suggest von Willebrand disease.
+gitemq-0017#2	EX	Painful swallowing with retrosternal pain in a young woman suggests oesophagitis.
+gitemq-0017#3	EX	A large submucosal artery bleeding through normal-looking gastric mucosa is a Dieulafoy lesion.
+gitemq-0017#4	EX	Spontaneous bruising and prolonged bleeding after small cuts in a man suggests haemophilia.
+gitemq-0017#5	EX	Recurrent epistaxis with telangiectasia of the lips, face and fingers is hereditary haemorrhagic telangiectasia (Osler–Weber–Rendu).
+gitemq-0017#6	EX	Epigastric pain relieved by eating that radiates to the back, then haematemesis, is a bleeding (posterior) duodenal ulcer.
+gitemq-0017#7	EX	Haematemesis after repeated forceful vomiting during a binge is a Mallory–Weiss tear at the cardia.
+gitemq-0017#8	EX	Menorrhagia with bruising and petechiae suggests thrombocytopenia.
+gitemq-0017#9	EX	Small punctate mucosal lesions with anaemia are multiple gastric erosions (erosive gastritis).
+gitemq-0017#10	EX	Haematemesis with palmar erythema, spider naevi, splenomegaly and ascites is variceal bleeding from portal hypertension.
+gitemq-0017#11	EX	Weight loss, anorexia and upper abdominal pain with small haematemeses in an old man suggest gastric carcinoma.
+gitemq-0018#1	EX	A soft groin swelling that disappears on lying, with varicose veins, is a saphena varix (fluid thrill, cough impulse).
+gitemq-0018#2	EX	A tender lump below the groin crease with small-bowel obstruction in a woman is a strangulated femoral hernia.
+gitemq-0018#3	EX	A reducible groin lump above and medial to the pubic tubercle with a cough impulse is an inguinal hernia, usually indirect in women.
+gitemq-0018#4	EX	Firm nodes below the inguinal ligament with an enlarging pigmented shin lesion are inguinal nodal metastases from melanoma.
+gitemq-0018#5	EX	Fever, sweats, thoracolumbar tenderness and a fluctuant groin swelling is a tuberculous psoas abscess from spinal TB.
+gitemq-0019	THEME	Tests for Helicobacter pylori
+gitemq-0019#1	EX	The stool antigen test is simple, non-invasive and highly sensitive and specific for active H. pylori infection.
+gitemq-0019#2	EX	The urea breath test (4 weeks off antibiotics, 2 weeks off PPI) is the reference non-invasive test of eradication.
+gitemq-0020#1	EX	Perioral pigmentation with small-bowel and colonic polyps is Peutz–Jeghers syndrome (hamartomatous polyps).
+gitemq-0020#2	EX	Hundreds of colorectal adenomas in a young man is familial adenomatous polyposis (APC mutation).
+gitemq-0020#4	KEY	B
+gitemq-0020#4	EX	The commonest polyp in children is the juvenile (hamartomatous) polyp, which presents with painless rectal bleeding.
+gitemq-0021	OPTS	Hepatic (hepatocellular)|Hepatic (intrahepatic cholestasis)|Post-hepatic|Pre-hepatic
+gitemq-0021#1	EX	An isolated raised (unconjugated) bilirubin with otherwise normal tests is pre-hepatic, e.g. Gilbert syndrome or haemolysis.
+gitemq-0021#2	EX	Rifampicin and isoniazid cause drug-induced hepatitis, a hepatocellular jaundice.
+gitemq-0021#3	EX	Pale stools and dark urine with RUQ pain is obstructive (post-hepatic) jaundice, e.g. a CBD stone.
+gitemq-0021#4	KEY	B
+gitemq-0021#4	EX	Jaundice in UC suggests primary sclerosing cholangitis, a cholestatic disease of intra- and extrahepatic ducts.
+gitemq-0022	OPTH	Direct-acting antivirals
+gitemq-0022	OPTF	Cefoxitin
+gitemq-0022#1	EX	Hepatitis C is now cured in >95% by oral direct-acting antivirals (e.g. sofosbuvir-based regimens); interferon is obsolete.
+gitemq-0022#2	EX	Perforated appendicitis needs a third-generation cephalosporin such as ceftriaxone (with metronidazole for anaerobes).
+gitemq-0022#3	EX	Pouchitis is treated with ciprofloxacin/levofloxacin plus metronidazole, with probiotics for prevention.
+gitemq-0022#4	EX	After failed clarithromycin-based eradication, second-line therapy is PPI plus amoxicillin and levofloxacin.
+gitemq-0022#5	EX	Antibiotics are not given routinely in acute pancreatitis; they are reserved for proven infected necrosis or other infections.
+gitemq-0022#6	EX	Cefoxitin (a cephamycin, grouped with second-generation cephalosporins) has useful anaerobic activity.
+gitemq-0024#1	EX	A preauricular lump recurring after parotid surgery with epithelial and stromal cells is recurrent pleomorphic adenoma (from capsule breach or enucleation).
+gitemq-0024#2	EX	Dry mouth and eyes with bilateral parotid enlargement and arthritis is Sjögren syndrome.
+gitemq-0024#4	EX	Bilateral parotid swellings with oncocytic epithelium and lymphocytes in an older (smoking) man is Warthin tumour.
+gitemq-0025#6	EX	A long-standing empty scrotum with an iliac fossa mass suggests a tumour in an undescended (intra-abdominal) testis.
+gitemq-0026#1	KEY	G
+gitemq-0026#1	EX	Dilated, grape-like veins in the lower oesophagus are oesophageal varices from portal hypertension.
+gitemq-0026#2	KEY	H
+gitemq-0026#2	EX	A smooth tapering stricture with oesophagitis and ulceration is a peptic stricture from long-standing reflux.
+gitemq-0026#3	KEY	F
+gitemq-0026#3	EX	A mucosal tear at the cardia with fresh blood after retching is a Mallory–Weiss tear, usually self-limiting.
+gitemq-0026#4	KEY	J
+gitemq-0026#4	EX	A wide-open pylorus with bile in the stomach and antral erythema is bile reflux gastritis.
+gitemq-0026#5	KEY	E
+gitemq-0026#5	EX	A contracted, non-distensible stomach with normal-looking mucosa is linitis plastica (diffuse submucosal gastric cancer); deep biopsies are needed.
+gitemq-0026#6	KEY	C
+gitemq-0026#6	EX	A submucosal lump with normal overlying mucosa and normal biopsies suggests a GIST; EUS-guided biopsy confirms it.
+gitemq-0026#7	KEY	B
+gitemq-0026#7	EX	An ulcerated, polypoid, obstructing mass at the lower oesophagus is oesophageal carcinoma.
+gitemq-0026#8	KEY	A
+gitemq-0026#8	EX	A tongue of salmon-pink mucosa extending up from the GOJ in reflux disease is Barrett oesophagus; biopsies show intestinal metaplasia.
+gitemq-0026#9	KEY	D
+gitemq-0026#9	EX	A GOJ at 34 cm with the diaphragmatic pinch at 39 cm means the stomach has slid above the diaphragm: a sliding hiatus hernia.
+gitemq-0026#10	KEY	I
+gitemq-0026#10	EX	A large polypoid mass in the lower rectum is rectal cancer until biopsy proves otherwise; in an unfit patient, local excision or radiotherapy may be used.
+gitemq-0027#1	EX	Topical pharyngeal anaesthesia suppresses the gag reflex; eating too soon after OGD causes aspiration.
+gitemq-0027#3	EX	Chest pain and voice change hours after oesophageal dilatation is oesophageal perforation: contrast CT/swallow urgently.
+gitemq-0027#5	EX	Bradycardia, hypoxia and drowsiness after endoscopy in an elderly patient is over-sedation: oxygen, airway support and reversal (flumazenil/naloxone).
+gitemq-0030#1	EX	A primary unilateral inguinal hernia is repaired by open Lichtenstein mesh repair (laparoscopic repair is an alternative).
+gitemq-0030#2	EX	A hernia recurring after open repair is best repaired laparoscopically (TEP/TAPP) through unscarred tissue planes.
+gitemq-0030#3	KEY	A
+gitemq-0030#3	EX	Most infantile umbilical hernias close spontaneously by 3–4 years, so wait and watch; repair if persisting or complicated.
+gitemq-0030#4	KEY	C
+gitemq-0030#4	EX	A hernia recurring after laparoscopic repair is repaired by an open anterior (Lichtenstein) approach through virgin tissue.
+gitemq-0030#5	EX	Divarication of the recti is not a true hernia and does not strangulate, so it is managed non-surgically.
+gitemq-0030#6	EX	A complex incisional hernia with extensive adhesions is best repaired open, with mesh (or suture for small defects).
+gitemq-0030#7	EX	A small paraumbilical hernia is repaired by open suture (Mayo) or a small mesh/plug.

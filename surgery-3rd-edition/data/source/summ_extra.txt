@@ -1,0 +1,335 @@
+Category
+Tension Pneumothorax
+Open Pneumothorax
+Massive Hemothorax
+Cardiac Tamponade
+Flail Chest
+Air Embolism
+Clinical Definition
+Air accumulates under pressure in the pleural space; Leads to lung collapse and mediastinal shift
+Air entry via a chest wall defect; Open communication between pleural space and atmosphere
+Accumulation of large blood volume in the pleural cavity; Creates compression on lung tissue
+Fluid buildup in the pericardial sac; Restricts ventricular filling and cardiac output
+Unstable chest wall segment from multiple rib fractures; Paradoxical movement of the fractured segment
+Air enters the circulation and obstructs blood flow; Causes sudden cardiovascular compromise
+Causes
+Blunt or penetrating trauma; Alveolar rupture and possible iatrogenic injury
+Penetrating trauma producing a direct wound; Laceration of the chest wall
+Blunt or penetrating trauma injuring intercostal/pulmonary vessels
+Penetrating or blunt trauma; Myocardial contusion or rupture
+High-energy blunt trauma; Direct force leading to multiple rib fractures
+Trauma with vascular breach; Iatrogenic events during procedures or severe lung injury
+Risk Factors
+High-velocity impacts; Barotrauma and underlying lung disease
+Direct chest wounds with external damage; Penetrating injuries from sharp objects
+Significant impact energy; Preexisting coagulopathy
+High-energy chest trauma; Advanced age increasing vulnerability to myocardial injury
+Falls, traffic collisions, crush injuries; Activities exposing the thorax to high-force impacts
+Invasive procedures or conditions with high intravascular pressures; Venous injuries during trauma or intervention
+Clinical Features (Symptoms & Signs)
+Severe respiratory distress; Absent or markedly diminished breath sounds on affected side; Hyper-resonance on percussion; Signs of mediastinal shift (tracheal deviation)
+Visibly apparent chest wall defect; “Sucking” wound phenomenon with abnormal contour; Hyper-resonance on affected side without mediastinal shift
+Shock indicators: tachycardia, hypotension; Dull percussion note over the affected area; Decreased or absent breath sounds consistent with blood accumulation
+Beck’s triad: hypotension, muffled heart sounds, and jugular venous distension; Pulsus paradoxus (exaggerated drop in systolic pressure on inspiration)
+Paradoxical movement of a rib segment on inspiration; Marked respiratory distress with visible multiple rib fractures on imaging
+Sudden onset of cardiovascular collapse; Rapid tachycardia and hypotension; Abrupt respiratory distress often presenting within seconds
+Management (Investigations & Treatments)
+Immediate needle decompression followed by chest tube insertion; Provision of supplemental oxygen
+Seal the chest wound using an occlusive dressing; Consider chest tube placement if respiratory compromise persists; Administer oxygen support
+Insert chest tube for blood drainage; Initiate rapid fluid resuscitation and, if needed, blood transfusion; Employ imaging studies (chest X-ray, CT scan) for assessment
+Urgent pericardiocentesis (ideally echo-guided) to remove pericardial fluid; Stabilize hemodynamics with appropriate medications/inotropes; Utilize echocardiography for confirmation
+Provide ventilatory support with oxygen supplementation; Optimize analgesia to improve ventilation; Consider mechanical stabilization if indicated
+Immediate repositioning (left lateral decubitus/Trendelenburg position); Deliver high-flow oxygen and, if available, hyperbaric oxygen therapy
+Differential Diagnosis & Exclusion Strategies
+Rapid clinical improvement after decompression; Absence of a chest wall defect (differentiates from open pneumothorax)
+Direct visualization of the wound defect; Lack of mediastinal shift excludes a tension process
+Dull percussion note and large-volume blood drainage from chest tube; Hyper-resonance is absent, excluding air-type injuries
+Echocardiography shows pericardial effusion with chamber collapse; Hemodynamic improvement following pericardiocentesis confirms diagnosis
+Imaging confirms multiple rib fractures; Lack of isolated needle decompression response excludes pneumothorax
+ECG may reveal an S1Q3T3 pattern; Rapid patient improvement after repositioning helps exclude alternate shock states; CT pulmonary angiography (if feasible) may verify the diagnosis
+Complications
+Cardiovascular collapse; Respiratory failure and shock
+Possible progression to tension pneumothorax; Worsening respiratory distress
+Persistent bleeding and hypovolemia; Increased risk of infection
+Cardiac arrest and ongoing hemodynamic instability; Recurrent pericardial effusion
+Pulmonary contusions; Development of respiratory failure and secondary pneumonia
+Cardiac arrest; Cerebral ischemia and potential multi-organ dysfunction
+Category
+Metabolic Response to Trauma
+Sepsis-Related SIRS
+Adrenal Crisis
+Thyrotoxic Crisis
+Cachexia / Chronic Catabolic States
+Clinical Definition
+• Biphasic stress response triggered by trauma\n• Early “ebb” phase (energy conservation) followed by a “flow” phase (hypermetabolism)\n• Involves neuroendocrine, immunologic, and metabolic changes
+• Systemic inflammatory response initiated by infection\n• Marked cytokine release and neutrophil activation\n• Presents as an acute inflammatory syndrome
+• Acute insufficiency in cortisol production during stress\n• Inadequate adrenal hormone release despite high stress demands\n• Represents a crisis in adrenal function
+• Excess thyroid hormone induces an acute hypermetabolic state\n• Overactivation of the sympathetic nervous system\n• Severe decompensation in patients with pre”existing thyroid disease
+• Gradual, chronic depletion of body reserves\n• Persistent catabolic state in the setting of long”term illness\n• Progressive loss of lean body mass and energy stores
+Causes
+• Direct physical injury (blunt/penetrating trauma, burns, fractures, surgery)\n• Shock, hemorrhage, or subsequent sepsis amplify the response\n• Iatrogenic factors (e.g., anesthesia, fluid overload)
+• Bacterial or viral infection triggering endotoxin release\n• Ongoing sepsis that sustains the inflammatory cascade\n• Secondary organ dysfunction from uncontrolled infection
+• Primary adrenal insufficiency or impaired stress response (autoimmune, hemorrhagic, or medication withdrawal)\n• Inadequate cortisol response despite stressors
+• Underlying thyroid disorder (Graves’ disease, toxic nodular goiter)\n• Precipitated by stress, infection, or surgery\n• Overproduction of thyroid hormones worsening metabolic demands
+• Chronic inflammatory conditions such as malignancy or persistent infection\n• Metabolic imbalance due to prolonged nutritional deficits\n• Long-standing catabolic stress leading to muscle and protein loss
+Risk Factors
+• High injury severity and prolonged trauma\n• Concomitant sepsis/infection and malnutrition\n• Extremes of age; hypothermia, dehydration, immobility worsen the state
+• Immunocompromised status or advanced age\n• Presence of a confirmed infectious source\n• Persistently elevated inflammatory biomarkers
+• Pre-existing adrenal insufficiency or history of steroid use/withdrawal\n• Autoimmune conditions impacting adrenal function
+• Known thyroid disease, female preponderance\n• Family history and exposure to stressors (infection, trauma)
+• Underlying chronic diseases (e.g., cancer, organ failure)\n• Poor nutritional status and prolonged catabolic conditions\n• Extended illness duration leading to gradual depletion
+Clinical Features
+• Ebb Phase (0–48 hours):\n – Hypotension, hypothermia, lactic acidosis\n – Reduced oxygen consumption\n• Flow Phase (days–weeks):\n – Hypermetabolism, increased basal oxygen consumption\n – Elevated stress hormones, muscle wasting, weight loss\n – Insulin resistance and heightened risk for infections
+• Fever and tachycardia;\n – Hypotension and altered mental status\n – Elevated inflammatory markers (e.g., CRP, procalcitonin)\n – Organ dysfunction may develop if uncorrected
+• Refractory hypotension despite fluid support\n – Electrolyte imbalances (hyponatremia, hyperkalemia)\n – Fatigue, weakness, dizziness\n – May present with shock state if untreated
+• Marked tachycardia, high fever, and hyperthermia\n – Agitation, tremors, and potential cardiac arrhythmias\n – Gastrointestinal distress (nausea, vomiting)
+• Insidious, gradual weight loss and muscle wasting\n – Chronic fatigue and low energy\n – Lacks an acute surge of hormones seen in trauma\n – Associated with persistent inflammatory markers
+Management Lines
+Investigations:\n – Laboratory panels: Glucose, lactate, cortisol, catecholamines, nitrogen balance\n – Indirect calorimetry for energy expenditure\nTreatments:\n – Balanced IV fluid resuscitation (avoid fluid overload)\n – Epidural analgesia to blunt neuroendocrine surge\n – Early high-protein, predominantly enteral nutritional support\n – IV insulin for hyperglycemia control\n – Active normothermia management
+Investigations:\n – Monitor inflammatory biomarkers (CRP, procalcitonin)\n – Cultures and imaging studies to locate infectious foci\nTreatments:\n – Broad-spectrum antibiotics and prompt source control\n – Fluid management and supportive organ care
+Investigations:\n – Serum cortisol measurement and ACTH stimulation test\n – Comprehensive electrolyte panel\nTreatments:\n – Immediate hydrocortisone or other glucocorticoid replacement\n – Fluid and electrolyte correction
+Investigations:\n – Thyroid function tests (T3, T4, TSH) and ECG for tachyarrhythmias\nTreatments:\n – Beta-blockers to manage adrenergic symptoms\n – Antithyroid medications to limit hormone production\n – Supportive care to stabilize vital functions
+Investigations:\n – Nutritional assessments and metabolic panels\n – Evaluation of chronic inflammatory markers\nTreatments:\n – Tailored nutritional supplementation and high-calorie support\n – Physical therapy and exercise programs\n – Targeted management of the underlying chronic disease
+Differential Diagnosis & Exclusion Methods
+• Primary condition with biphasic hormone/neuroendocrine patterns\n – Focus on the transition from an “ebb” to “flow” phase\n – No additional exclusion required
+Exclusion Strategy:\n – Serial microbiological assays and imaging studies to reveal an infectious nidus\n – Trending of inflammatory biomarkers (eg, procalcitonin) to confirm sepsis
+Exclusion Strategy:\n – Identification of low cortisol levels relative to the stress response\n – A positive ACTH stimulation test confirming adrenal insufficiency\n – Electrolyte pattern (hyponatremia with hyperkalemia) supports the diagnosis
+Exclusion Strategy:\n – Thyroid function tests showing elevated T3/T4 with a suppressed TSH\n – Correlation with known history of thyroid disease and typical hyperadrenergic signs
+Exclusion Strategy:\n – Chronic course with subtle hormonal alterations rather than acute surges\n – Detailed nutritional and metabolic assessment correlating with prolonged illness
+Complications
+• Severe protein and energy depletion\n – Marked muscle wasting (skeletal and respiratory)\n – Organ dysfunction (renal, cardiac) secondary to metabolic derangements\n – Increased risk for secondary infections
+• May progress to septic shock and multi-organ failure\n – Persistent systemic inflammation causing long-term morbidity
+• Life-threatening hypotension\n – Significant electrolyte imbalances potentially leading to arrhythmias
+• Cardiovascular collapse\n – Acute metabolic derangements causing arrhythmias and heart failure
+• Persistent debility\n – Prolonged recovery with enhanced risk of opportunistic infections\n – Deterioration of quality of life due to continuous catabolic stress
+Parameter
+Umbilical Hernia
+Paraumbilical Hernia
+Epigastric Hernia
+Incisional Hernia
+Exomphalos (Omphalocele)
+Clinical Definition
+• Defect at the umbilical ring; • Protrusion of intra”abdominal contents; congenital or acquired
+• Defect in the linea alba adjacent to the umbilicus; • Lateral protrusion near umbilicus
+• Small midline defect between xiphoid process and umbilicus; • Often contains pre”peritoneal fat
+• Fascial defect at a previous surgical incision; • May be single or multiple
+• Congenital midline defect with herniation of abdominal contents, covered by a protective sac
+Causes & Risk Factors
+• Persistence of the umbilical ring; • Collagen or connective tissue predisposition
+• Obesity; • Repeated pregnancies; • Elevated abdominal pressure
+• Focal weakness of the linea alba; • Increased intra”abdominal pressure; • Minor repetitive strain
+• Wound dehiscence; • Technical issues in repair; • Postoperative infection
+• Embryological developmental failure; • Genetic predisposition; • Large body stalk remnants
+Clinical Features (Symptoms & Signs)
+• Visible bulge at the umbilicus; • Reducible; enlarges with pressure; • Usually asymptomatic in infancy
+• Mass near the umbilicus; • Often tender during exertion; • Potential for incarceration
+• Discrete midline swelling; • Occasional localized pain; • Mostly asymptomatic
+• Bulge along previous scar; • Gradual enlargement; may be indolent; • Risk of enlargement over time
+• Prominent central protrusion at the base; • Covered by membranous sac; • May be sensitive with stress
+Investigations & Treatments
+• Ultrasound imaging; • CT scan for complex cases; • Conservative approach in infants; • Surgical repair if persistent past 2 yrs
+• Ultrasound and CT scan; • CT scan for defect size; • Elective repair when symptomatic; • Tension”free repair with mesh
+• Ultrasound for confirmation; • CT scan in equivocal cases; • Elective repair for pain or enlargement; • Primary suture repair with/without mesh
+• CT scan (preferred for defect delineation); • MRI if needed; • Mesh-reinforced repair (open/laparoscopic); • Preoperative planning in large defects
+• Prenatal ultrasound; • Postnatal imaging to assess associated anomalies; • Management based on size; • Urgent/staged surgical approach for severe defects
+Differential Diagnoses & Exclusion
+• Lipoma; • Umbilical cyst; • Granuloma; • Imaging confirms hernial sac
+• Lipoma; • Localized seroma; • Abdominal wall mass; • Imaging shows frank fascial defect
+• Septoepigastric lipoma; • Rectus sheath hematoma; • Dynamic imaging shows reducibility
+• Seroma; • Abscess; • Neoplastic mass; • Dynamic imaging distinguishes a fluid”filled collection from a true defect
+• Gastroschisis (absence of sac); • Imaging differentiates by sac presence; • Presence of protective covering confirms diagnosis
+Complications
+• Rare incarceration; • Minimal strangulation risk; • Cosmetic concerns in later life
+• Incarceration; • Risk of strangulation and bowel obstruction potential
+• Occasional incarceration; • Rare strangulation; • Intermittent localized discomfort
+• Recurrence due to tension or incomplete repair; • Wound dehiscence; bowel adhesions; • Increased risk in obese patients
+• Sac rupture with exposure of contents; • Infection; respiratory compromise in neonates; • Long”term neonatal morbidity
+Category
+Obesity
+Bariatric Surgery
+Differential Diagnoses (Endocrine / Eating Disorders)
+Clinical Definition
+- Defined as BMI ≥30 kg/m² (Overweight: 25–29.9; Mild: 30–34.9; Morbid: ≥35; Superobesity: ≥50); - Associated with reduced life expectancy in higher BMI groups
+- Surgical intervention for morbid obesity; - Indicated when BMI is ≥40 or ≥35 with obesity”related comorbidities
+- Conditions causing weight gain secondary to hormonal or behavioral dysfunction; - Includes endocrine disorders (e.g., hypothyroidism, Cushing’s, insulinoma) and eating disorders
+Causes
+- Multifactorial etiology: high”calorie, high”fat, low”fiber diets; sedentary lifestyle; genetic predisposition; neuroendocrine imbalances (leptin/ghrelin, NPY/POMC)
+- Indication arises when conservative measures fail; - Obesity refractory to dietary, lifestyle, and medical management
+- Endocrine: hormonal dysregulation from glandular dysfunction; - Eating disorders: abnormal eating patterns and binge behaviors
+Risk Factors
+- Advanced age and lower socioeconomic status; - Genetic predisposition; - Sedentary behavior and neurohormonal imbalance
+- Patient factors such as morbid obesity and multiple comorbidities (diabetes, hypertension); - Underlying cardiac and pulmonary risk
+- Endocrine: female gender predisposition, family history, and metabolic derangements; - Eating disorders: psychosocial stress, emotional distress, and behavioral triggers
+Clinical Features (Symptoms & Signs)
+- Excessive and progressive weight gain, often central; - Visible deposits of adipose tissue, acanthosis nigricans, striae, intertrigo; - Associated comorbidities (hypertension, type 2 diabetes, dyslipidemia); - Respiratory issues (sleep apnea), joint/musculoskeletal pain; - Psychological impact (depression, social isolation)
+- Chronic, refractory obesity accompanied by metabolic abnormalities; - Gastrointestinal challenges (GERD, hiatal hernia); - Multiple obesity”related comorbidities requiring intervention
+- Endocrine disorders: weight gain with cold intolerance, menstrual irregularities, skin changes; - Eating disorders: erratic weight fluctuations, binge episodes, emotional distress
+Management Lines (Investigations & Treatments)
+Investigations & Findings: - Metabolic panels: fasting blood glucose, HbA1c, lipid profile, liver function tests; - Endocrine assays: thyroid function (TSH, free T4), cortisol levels; - Imaging studies (abdominal ultrasound for fatty liver). Treatments: - Nutritional modifications (low”calorie, low”carb/low”fat diets); - Structured physical activity; - Medical therapies (Orlistat; appetite suppressants; GLP-1 and GIP agonists)
+Investigations & Findings: - Comprehensive metabolic and endocrine panels (with thyroid, cortisol assays); - Imaging studies to evaluate abdominal anatomy. Treatments: - Restrictive procedures (adjustable gastric band, sleeve gastrectomy, intragastric balloon); - Malabsorptive procedures (biliopancreatic bypass); - Combined techniques (Roux-en-Y, mini-gastric bypass, duodenal switch); - Innovative approaches (ileal interposition); - Preoperative screening to rule out non-obesity etiologies
+Investigations & Findings: - Hormonal assays: TSH, free T4, cortisol, fasting insulin; - Dexamethasone suppression test for Cushing’s syndrome; - Targeted imaging when indicated (e.g., pancreatic evaluation). Treatments: - Endocrine management: hormone replacement or surgical intervention if appropriate; - For eating disorders: psychological and psychiatric interventions (cognitive behavioral therapy, nutritional counseling)
+Differential Diagnosis & Exclusion Methods
+- Exclude secondary weight gain by using specific hormone assays; - Apply behavioral criteria with targeted laboratory tests to rule out rare causes (e.g., insulinoma)
+- Prior to surgery, rule out untreated endocrine disorders using specific lab tests; - Systematically exclude psychiatric conditions using validated screening tools
+- Differentiate from primary obesity by confirming abnormal hormone profiles; - Utilize targeted endocrine tests and imaging studies; - In eating disorders, distinguish atypical behaviors from metabolic obesity patterns
+Complications
+- Cardiovascular: hypertension, ischemic heart disease, stroke; - Metabolic: type 2 diabetes, dyslipidemia; - Respiratory: sleep apnea; - Musculoskeletal: osteoarthritis, back pain; - Other: nonalcoholic fatty liver disease, increased malignancy risk
+- Intraoperative: bleeding, iatrogenic injury, possible conversion to open surgery; - Early postoperative: wound complications (hematoma, seroma, infection); - Late postoperative: anastomotic leakage, marginal peptic ulceration, dumping syndrome, internal hernias, nutritional deficiencies, band erosion/migration, cholelithiasis, liver dysfunction
+- Endocrine disorders: progressive metabolic derangements, elevated cardiovascular risk; - Eating disorders: electrolyte imbalances, cardiac dysrhythmias, significant psychological morbidity
+Category
+Hypovolemic Shock
+Cardiogenic Shock
+Obstructive Shock
+Distributive Shock
+Clinical Definition
+• Reduced circulating blood volume leading to insufficient oxygen delivery
+• Inadequate tissue perfusion resulting from impaired myocardial pump function
+• Mechanical blockage impeding normal cardiac filling or output
+• Inadequate perfusion secondary to widespread vasodilation and maldistribution
+Causes
+• Severe dehydration; • Massive hemorrhage (trauma, GI loss, surgical bleed)
+• Acute myocardial infarction; • Arrhythmias, structural heart disease
+• Pericardial tamponade; • Tension pneumothorax; • Massive pulmonary embolism
+• Sepsis (bacteremia, endotoxemia); • Neurogenic injury (spinal trauma); • Anaphylaxis; • Adrenal crisis
+Risk Factors
+• Trauma, burns; • Excessive fluid losses
+• Preexisting cardiac disease; • Prior myocardial infarction
+• Chest trauma, postoperative status; • Hypercoagulability
+• Elderly, immunocompromised; • Known allergens, prior severe allergic reactions
+Clinical Features (Symptoms & Signs)
+• Hypotension, tachycardia, tachypnea; • Cool, clammy, mottled skin; • Altered mental status
+• Marked hypotension; • Pulmonary congestion (rales); • Jugular venous distention, abnormal heart sounds
+• Hypotension with signs of impaired venous return; • Diminished heart sounds; • Distended neck veins
+• Hypotension with bounding pulses; • Warm, flushed, vasodilated skin; • Possible diffuse rash or urticaria (if anaphylaxis)
+Investigations & Findings
+• Labs: Elevated lactate, metabolic acidosis; • Hemoconcentration on CBC; • Focused ultrasound (free fluid in abdomen)
+• Elevated cardiac enzymes; • ECG: ST changes, arrhythmias; • Echocardiography showing reduced LVEF
+• Ultrasound: Pericardial effusion; • CXR: Enlarged cardiac silhouette (tamponade); • CT scan: Confirming embolism if PE suspected
+• Elevated markers of inflammation; • Positive cultures; high lactate; • CT scan: May help localize infection source
+Therapeutic Management* (Investigations & Treatments)
+• IV fluid resuscitation (crystalloids; blood products if indicated); • Vasopressors if fluids insufficient (target MAP >60–65 mmHg)
+• Restore perfusion: Reperfusion (PCI, fibrinolysis); • Inotropic support (dobutamine/dopamine); • Vasopressors as needed
+• Emergent interventions: For tamponade: Pericardiocentesis; For tension pneumothorax: Needle decompression with subsequent chest tube placement
+• Early goal-directed management: IV antibiotics if sepsis present; • Intramuscular epinephrine for anaphylaxis; • Tailored fluid management and adjunct therapies
+Differential Diagnosis & Exclusion Strategies
+• Consider distributive shock if inflammatory markers are normal; fluid responsiveness suggests hypovolemia; • Rapid improvement with fluid infusion supports this type
+• Exclude sepsis if infection indicators absent; • Normal myocardial performance on imaging; • Absence of pulmonary edema on chest imaging
+• Exclude cardiogenic shock via normal echo findings; • Negative imaging (ultrasound/CT) for effusions; • Lack of chamber compression
+• Exclude cardiogenic shock if cardiac biomarkers and echocardiography are normal; • No identifiable allergen or infection source
+Complications
+• Multiorgan failure, persistent acidosis; • Tissue ischemia leading to high mortality
+• Cardiac arrhythmias, progressive pump failure; • End-organ damage
+• Ongoing hypoxemia, right ventricular strain; • Further hemodynamic compromise
+• Deterioration into refractory shock; • Systemic inflammatory response, DIC, metabolic acidosis
+Parameters
+Febrile Non”Haemolytic Reaction
+Bacterial Contamination
+Allergic Reaction
+Immediate Hemolytic Reaction
+Delayed Hemolytic Reaction
+Transfusion-Associated Acute Lung Injury (TRALI)
+Volume Overload (Cardiogenic Pulmonary Edema)
+Clinical Definition
+• Mild reaction mediated by cytokines from donor leukocytes
+• Adverse response due to bacterial presence; • Occurs with contaminated blood products
+• Immunologic reaction to donor plasma proteins; • Can be localized or systemic
+• Rapid immune-mediated destruction of RBCs; • Typically due to ABO incompatibility
+• Immune hemolysis emerging days later; • Occurs 2–10 days after transfusion
+• Acute, noncardiogenic pulmonary edema from antibody”driven injury; • Presents as acute respiratory decompensation
+• Excess circulatory volume stressing cardiac function; • Results in pulmonary edema and cardiac overload
+Causes
+• Cytokine accumulation in stored blood; • Leucocyte interaction
+• Bacterial growth during storage or defective handling; • Inadequate donor screening
+• Reaction to plasma proteins causing hypersensitivity; • Immune hypersensitivity response
+• ABO or major antigen mismatch; • Mismatching during cross”testing
+• Minor antigen differences triggering delayed antibodies; • Prior sensitization required
+• Donor antibodies activating recipient neutrophils; • Underlying inflammatory cascade
+• Rapid/high”volume infusion in susceptible patients; • Pre”existing cardiac/renal dysfunction
+Risk Factors
+• Multiple/repeated transfusions; • High white cell load in products
+• Prolonged warming periods; • Extended storage conditions
+• History of previous transfusions and atopy; • Prior allergic episodes
+• Errors in blood typing or crossmatching; • Laboratory mishaps; protocol breaches
+• History of minor antigen incompatibility; • Clinically subtle antibody formation
+• Multiparous donors; patients with underlying lung issues; • Increased vulnerability in patients with pre”existing lung disease
+• Elderly, cardiac disease, renal insufficiency; • High infusion rate in patients with low cardiac reserves
+Clinical Features
+• Mild fever and chills; • Stable hemodynamics
+• High-grade fever with rigors; • Signs of systemic inflammatory response
+• Urticaria, itching, localized rash; • Rare systemic involvement if mild
+• Severe back or flank pain; • Hypotension, dark/red urine, early signs of shock
+• Subtle fever with progressive jaundice; • Gradual drop in hemoglobin, possible hemoglobinuria
+• Sudden respiratory distress, severe hypoxemia; • Bilateral pulmonary infiltrates on imaging; absence of cardiac overload
+• Elevated blood pressure, dyspnea, pulmonary crackles; • Elevated BNP; chest imaging with pulmonary edema
+Management Lines (Investigations & Treatments)
+• Investigations: Compatibility tests; rule out contamination; • Treatments: Slow infusion, antipyretics
+• Investigations: Blood cultures; inflammatory markers; • Treatments: Immediately stop transfusion; IV antibiotics, supportive care
+• Treatments: Antihistamines, corticosteroids (if severe); • Investigations: Allergen-specific assays (if indicated)
+• Investigations: Direct antiglobulin test; confirm mismatch; • Treatments: Stop transfusion, support hemodynamics, renal protection
+• Investigations: Indirect Coombs test; trend bilirubin, LDH; • Treatments: Supportive measures; hydration and monitoring
+• Investigations: Chest X-ray, oxygenation indices, BNP levels; • Treatments: Oxygen supplementation, ventilatory support; suspend transfusion
+• Investigations: Echocardiography, BNP assessment, chest imaging; • Treatments: Diuretics, adjust infusion rate, cardiac support
+Differential Diagnosis & Exclusion
+• Exclude hemolytic reactions (normal direct antiglobulin); • No severe pain or hypotension
+• Exclude if blood cultures are negative and low inflammatory markers; • Rapid decline with supportive care minimizes likelihood
+• Exclude systemic causes if no circulatory instability; • Rapid resolution upon stopping transfusion
+• Exclusion: Lack of shock differentiates from systemic responses; • Exclusion: Positive Coombs test confirms incompatibility
+• Exclusion: Delayed onset (2–10 days) distinguishes from acute reactions; • Detailed serologic testing key for exclusion
+• Exclusion: Normal BNP and evidence of lung injury (without LV dysfunction); • Careful timing of symptom onset is diagnostic
+• Exclusion: Echocardiographic evidence of left ventricular dysfunction and high BNP confirms overload; • Differentiated from TRALI by clear signs of cardiac dysfunction
+Complications
+• Generally self-limited; rare progression to shock
+• Risk of sepsis, shock, multi-organ failure; • High morbidity if not recognized promptly
+• Possible progression to anaphylaxis in severe cases; • May progress to systemic reaction if neglected
+• Potential renal failure, disseminated intravascular coagulation (DIC), death; • High mortality if not managed emergently
+• Ongoing hemolysis leading to anemia
+• Can trigger respiratory failure, prolonged intensive care, mortality
+• Exacerbation of congestive heart failure, extended hospitalization
+Category
+Malnutrition/Starvation
+Cachexia
+Anorexia Nervosa
+Sarcopenia
+Hyperthyroidism
+Clinical Definition
+• Imbalance between nutrient intake and body requirements; • Severe undernutrition with loss of muscle and fat
+• Wasting syndrome of chronic illness; • Disproportionate protein loss relative to fat
+• Psychiatric eating disorder with self”induced weight loss; • Distorted body image and restrictive eating behaviors
+• Age”related progressive decline in muscle mass and strength; • Preservation of fat mass despite muscle loss
+• Excess thyroid hormone production leading to a hypermetabolic state; • Weight loss despite increased appetite; hypermetabolic signs
+Causes
+• Inadequate nutritional intake; • Malabsorption syndromes
+• Chronic inflammation (e.g., malignancy, infections); • Tumor”related cytokine release
+• Psychological factors; sociocultural pressures; genetic predisposition
+• Normal aging; sedentary lifestyle; hormonal decline
+• Autoimmune factors (Graves’ disease); • Toxic multinodular goiter; thyroiditis
+Risk Factors
+• Advanced age; chronic illnesses; recent surgery; prolonged hospitalization; • Socioeconomic deprivation; depression
+• Advanced malignancy; persistent inflammatory states; • Underlying chronic diseases
+• Young females; low self-esteem; high societal pressure; • Perfectionism
+• Elderly; reduced physical activity; chronic comorbidities
+• Female gender; family history; autoimmune predisposition
+Clinical Features
+• >5–10% weight loss; low BMI; • Loss of muscle bulk and subcutaneous fat; low albumin and prealbumin
+• Marked muscle wasting with relatively preserved fat; • Elevated inflammatory markers (e.g., CRP)
+• Severe weight loss; often associated with amenorrhea (in females); • Evidence of malnutrition alongside behavioral issues
+• Reduced muscle strength; decreased mobility; fall risk; • Confirmed via DEXA scan and performance tests
+• Weight loss with tachycardia, tremor, and heat intolerance; • Increased appetite despite weight loss; anxiety, tremors
+Management (Investigational Findings and Treatments)
+• Laboratory tests: albumin, prealbumin, electrolyte panels; • Anthropometric measurements and indirect calorimetry; • Nutritional support via enteral (sip feeds, tube feeding) or parenteral routes; • Energy (≈25 kcal/kg/day, modified by stress) and protein (≈1 g/kg/day) adjustments
+• Inflammatory markers: CRP, ESR; imaging studies for tumor; • Supportive nutritional supplementation adjusted for inflammation; • Address underlying condition (malignancy/infection)
+• Nutritional labs to assess deficiencies; • Psychiatric evaluation; structured refeeding protocols; psychotherapy
+• DEXA scan; muscle strength assessment; biochemical nutritional markers; • Resistance training programs; nutritional supplementation (protein, vitamin D)
+• Thyroid function tests (elevated T3/T4, suppressed TSH); • Thyroid imaging; antithyroid medications; beta”blockers; radioactive iodine therapy or surgery
+Differential Diagnosis & How to Exclude Similar Conditions
+• Exclude cachexia: assess for inflammation & tumor markers; use gastrointestinal investigations; • Confirm with absence of psychiatric disturbances and normal thyroid tests
+• Exclude simple malnutrition: persistently elevated cytokines; confirm tumor burden via imaging
+• Exclude organic causes (malabsorption, malignancy) via imaging and labs; • Rely on psychiatric evaluation
+• Exclude malnutrition: use DEXA and preserved biochemical nutritional markers; • Assess physical performance
+• Confirm via thyroid profile; normal nutritional labs help rule out non”thyroid weight loss; • Look for tachycardia, tremors
+Complications
+• Increased susceptibility to infections; impaired wound healing; • Catheter/tube–related issues; metabolic and hepatic disturbances
+• High mortality risk; severe functional decline; immunosuppression; • Poor response to nutritional therapy
+• Electrolyte imbalances; cardiovascular instability; osteoporosis; • Psychiatric complications, including risk of suicide
+• Falls and fractures; reduced independence; decreased quality of life
+• Cardiac arrhythmias; atrial fibrillation; risk of thyroid storm; • other endocrine disturbances

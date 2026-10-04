@@ -1,0 +1,157 @@
+uti-0001	EX	Single-dose azithromycin treats Chlamydia (7 days of doxycycline is now first line) and the added single dose of ofloxacin covers co-infecting gonorrhoea.
+uti-0002	STEM	Regarding preliminary investigations of the urinary tract, the following statements are true except:
+uti-0003	STEM	Regarding urinary tract infection, the following statements are true except:
+uti-0003	EX	C is false: urease-producing Proteus and staphylococci make and thrive in alkaline urine. E is false: UTI often presents acutely, e.g. as pyelonephritis or septicaemia.
+uti-0004	STEM	Regarding upper urinary tract infection, which of the following statements are true?
+uti-0004	KEY	ABCDE
+uti-0004	EX	All are true: sterile pyuria suggests renal TB, pyonephrosis usually follows stone obstruction and a retrocaecal appendix abscess can track to the perinephric space.
+uti-0005	STEM	Regarding urinary fistulae, which of the following statements is not true?
+uti-0005	EX	Catheter drainage heals only a minority of small, early post-hysterectomy vesicovaginal fistulae; most need formal vaginal or abdominal repair.
+uti-0006	STEM	Regarding UTI and cystitis, which of the following statements are true?
+uti-0006	KEY	ABCE
+uti-0006	EX	D is false: tuberculous cystitis is almost always secondary to renal TB, spreading down the ureter (descending infection), not by haematogenous or lymphatic routes.
+uti-0007	STEM	Regarding inflammation of the urethra, which of the following statements are true?
+uti-0007	EX	A is false: meatal ulcer is typically seen in circumcised infants (ammoniacal dermatitis from wet napkins), not as an STD in middle-aged men.
+uti-0008	STEM	Regarding epididymo-orchitis, which of the following statements are true?
+uti-0013	OPTE	Vesicoureteric reflux
+uti-0015	EX	Ketonuria in a febrile type 1 diabetic suggests developing ketoacidosis, so check blood glucose (and ketones) first; imaging follows.
+uti-0017	EX	Gram-negative bacteraemia from a urinary source is urosepsis and needs prompt IV antibiotics (with fluids), not oral therapy.
+uti-0018	EX	Frequency, dysuria and haematuria with suprapubic tenderness but no fever or loin pain indicate lower urinary tract infection (acute cystitis).
+uti-0019	CH	stone
+stone-0001	EX	For a renal pelvic stone under 2 cm, ESWL (or flexible ureteroscopy) is first line; PCNL is for stones over 2 cm, and tamsulosin helps only distal ureteric stones.
+stone-0002	EX	An infected obstructed kidney is a urological emergency: antibiotics plus urgent decompression (ureteric stent or nephrostomy); definitive stone treatment is delayed.
+stone-0003	STEM	Regarding pain of urological origin, which of the following statements are true?
+stone-0003	EX	E is false: large, slow-growing space-occupying lesions (e.g. hydronephrosis, renal tumours) are often painless or cause only vague discomfort.
+stone-0004	STEM	Regarding imaging in urological conditions, which of the following statements are true?
+stone-0005	STEM	Regarding urological imaging, the following statements are true except:
+stone-0005	EX	B is false: tumour extension into the IVC is assessed by CT or MRI; venography is now obsolete.
+stone-0006	STEM	Regarding renal calculi, which of the following statements are true?
+stone-0006	KEY	ABCE
+stone-0006	EX	D is false: pure uric acid stones are radiolucent on plain X-ray (visible on CT); staghorn calculi are usually struvite from urease-producing infection.
+stone-0007	STEM	Regarding renal and ureteric calculi, which of the following statements are false?
+stone-0008	KEY	ABCDE
+stone-0008	EX	All are used: non-contrast CT KUB is now the investigation of choice; KUB, US and IVU still have roles, and retrograde pyelography is used in selected cases.
+stone-0009	STEM	Regarding management of urinary calculi, the following statements are true except:
+stone-0009	EX	A is false: stones under 5 mm usually pass but many 5–10 mm stones do not. D is false: with bilateral stones the better-functioning kidney is usually treated first.
+stone-0010	KEY	AB
+stone-0010	EX	C is false: stones lodge at several narrowings (PUJ, pelvic brim, VUJ). D is false: most pass, the rest mainly by laser ureteroscopy/ESWL. E is false: pain may settle despite obstruction.
+stone-0011	STEM	Regarding bladder stones, which of the following statements are true?
+stone-0011	EX	D is false: most bladder stones are fragmented endoscopically, but large or hard stones may need percutaneous or open cystolithotomy.
+stone-0014	OPTE	Cystine
+stone-0014	EX	Calcium oxalate (alone or mixed with calcium phosphate) forms most urinary stones (about 75–80%), and these are radio-opaque.
+stone-0015	STEM	A 30-year-old PhD student has acute colicky left loin pain suggestive of a urinary calculus. Which initial investigation should he have?
+stone-0015	EX	Of these options, a plain KUB film is the initial test (about 90% of stones are radio-opaque); non-contrast CT KUB is now the definitive investigation.
+stone-0017	OPTE	Cystine
+stone-0017	EX	Gout (hyperuricosuria and persistently acidic urine) predisposes to uric acid stones, which are radiolucent on plain film but seen on CT.
+stone-0018	STEM	A 49-year-old postmenopausal woman is admitted following severe attacks of abdominal pain, nausea and vomiting. The pain is colicky in nature, starting from the left flank and radiating to the left groin. You are unable to obtain a history as she is writhing in pain. On examination, she is sweating profusely. What is the most likely diagnosis?
+stone-0019	STEM	A 49-year-old woman has severe colicky left flank pain radiating to the left groin, with nausea and vomiting; renal colic is suspected. Which investigation will be of most diagnostic value?
+stone-0019	EX	Non-contrast (low-dose) CT KUB is the gold standard for diagnosing urinary stones, showing size and site and excluding other causes such as an aortic aneurysm.
+stone-0022	OPTC	Cystine
+stone-0026	EX	Loin-to-groin colic with haematuria suggests a ureteric stone; non-contrast CT KUB is the first-line imaging test (sensitivity about 97%).
+stone-0027	EX	Uric acid stones (gout, tumour lysis after chemotherapy) are prevented by urinary alkalinisation with potassium citrate, plus hydration and allopurinol.
+renal-0001	EX	Living donors need adequate renal reserve; a GFR of 40 mL/min/1.73 m² excludes donation, whereas BMI 28, single-drug-controlled hypertension and group O are acceptable.
+renal-0002	EX	A solid enhancing parenchymal renal mass in an adult is renal cell carcinoma until proven otherwise; TCC arises from the collecting system and AML contains fat.
+renal-0003	OPTC	Haematogenous spread is mainly to the lungs.
+renal-0004	STEM	Which of the following statements about hypernephroma (renal cell carcinoma) are true?
+renal-0004	OPTD	US and contrast-enhanced CT are the imaging methods of choice.
+renal-0004	KEY	ABCD
+renal-0004	EX	E is false: renal cell carcinoma is resistant to chemotherapy and radiotherapy, so these are not given after nephrectomy; a left varicocele may signal renal vein involvement.
+renal-0005	OPTA	It is an incidental finding in fewer than 10% of patients
+renal-0005	OPTC	Approximately 20% of cases are familial
+renal-0007	EX	Renal cancer in a blind man suggests von Hippel–Lindau disease (retinal angiomas), so genetic counselling and family screening are indicated.
+renal-0008	EX	Loin tenderness with low-grade fever and leucocytosis suggests pyelonephritis or a perinephric collection; renal ultrasound is the first-line test for obstruction or abscess.
+renal-0008	CH	uti
+renal-0011	EX	Von Hippel–Lindau disease is caused by mutation of the VHL tumour suppressor gene on chromosome 3p and predisposes to clear cell renal cell carcinoma.
+renal-0012	EX	A loin mass with haematuria suggests a renal tumour; contrast-enhanced CT of the abdomen characterises the mass and stages it.
+urogen-0001	EX	Beta-blockers, thiazides, SSRIs such as fluoxetine and 5α-reductase inhibitors such as finasteride can all cause erectile dysfunction; metformin does not.
+urogen-0002	EX	Low-volume ejaculate with normal sperm in a man on an α-blocker suggests retrograde ejaculation, confirmed by finding sperm in post-ejaculatory urine.
+urogen-0003	EX	Diabetic autonomic neuropathy causes a hypotonic bladder with chronic retention and dribbling overflow incontinence, as shown by the large post-void residue.
+urogen-0004	EX	A non-expanding perirenal haematoma in a stable patient is a low-grade (AAST grade II) renal injury, managed non-operatively with bed rest and monitoring.
+urogen-0005	EX	Blood at the meatus with pelvic fracture and scrotal haematoma suggests urethral injury: retrograde urethrogram before any catheter; suprapubic catheter if disrupted.
+urogen-0006	EX	Uncomplicated extraperitoneal bladder rupture heals with urethral catheter drainage for about 10–14 days; intraperitoneal rupture needs surgical repair.
+uroemerg-0001	EX	Blood at the meatus after a pelvic fracture suggests posterior urethral injury; perform retrograde urethrography before any urethral catheter is passed.
+uroemerg-0002	EX	Sudden severe testicular pain waking an adolescent is torsion until proven otherwise; urgent urological referral for scrotal exploration (within 6 hours) saves the testis.
+uroemerg-0003	STEM	Regarding renal failure, which of the following statements is false?
+uroemerg-0003	OPTB	Oliguria is defined as urinary output of less than 400 mL in 24 hours.
+uroemerg-0004	STEM	Regarding renal injury, which of the following statements are true?
+uroemerg-0004	KEY	ABDE
+uroemerg-0004	EX	C is false: most closed renal injuries settle with conservative management; exploration is reserved for haemodynamic instability or an expanding haematoma.
+uroemerg-0005	STEM	Regarding ureteric injury, which of the following statements are false?
+uroemerg-0006	STEM	Regarding rupture of the bladder, which of the following statements are true?
+uroemerg-0006	OPTC	CT cystography is the investigation of choice.
+uroemerg-0006	KEY	ABCD
+uroemerg-0006	EX	E is false: extraperitoneal rupture usually heals with catheter drainage; laparotomy and repair are needed for intraperitoneal rupture.
+uroemerg-0007	STEM	In acute retention of urine, the following statements are true except:
+uroemerg-0007	EX	E is false: advance the catheter fully to its hub after urine appears before inflating the balloon, so it is not inflated in the prostatic urethra.
+uroemerg-0008	STEM	In chronic retention of urine, which of the following statements are true?
+uroemerg-0008	KEY	BCDE
+uroemerg-0008	EX	A is false: chronic retention is typically painless, often presenting with overflow incontinence or renal impairment.
+uroemerg-0009	STEM	Regarding incontinence of urine, which of the following statements is false?
+uroemerg-0009	OPTA	Urodynamic studies have an important role in the investigation of urinary incontinence.
+uroemerg-0009	OPTD	Vesicovaginal fistula might be a cause in the female.
+uroemerg-0009	EX	C is false: genuine stress incontinence is leakage with raised intra-abdominal pressure without detrusor contraction, owing to sphincter weakness.
+uroemerg-0010	STEM	In bulbar urethral rupture, which of the following statements are true?
+uroemerg-0010	EX	E is false: urethral catheterisation is avoided as it may convert a partial into a complete tear; a full bladder is drained by suprapubic catheter.
+uroemerg-0012	STEM	Regarding testicular torsion, which of the following statements are true?
+uroemerg-0013	CH	metab
+uroemerg-0014	CH	metab
+uroemerg-0017	CH	metab
+uroemerg-0024	EX	Urinary retention is a recognised complication of bilateral hernia repair, precipitated by pain, anaesthetic drugs and prostatic enlargement.
+uroemerg-0025	EX	High-flow (arterial) priapism usually follows blunt perineal or penile trauma; it is painless and non-ischaemic. Low-flow priapism spares the glans and spongiosum.
+uroemerg-0026	KEY	A
+uroemerg-0026	EX	Ischaemic priapism over 4 h needs corporal aspiration first, then intracavernosal phenylephrine; in sickle cell disease transfusion is only an adjunct.
+uroemerg-0028	EX	After failed catheterisation give analgesia, check renal function and call urology; repeated attempts risk false passage and SPC is avoided with haematuria.
+uroemerg-0032	CH	scrotum
+uroemerg-0033	DUP	urogen-0006
+uroemerg-0036	EX	Testicular pain with a tender scrotum and pyuria in a young sexually active man suggests epididymo-orchitis (Chlamydia, gonorrhoea or coliforms).
+uroemerg-0037	EX	TURP syndrome: absorption of hypotonic glycine irrigation causes dilutional hyponatraemia, leading to confusion, seizures and coma.
+uroemerg-0038	EX	A painless, non-tender dull suprapubic mass with raised urea and creatinine is chronic retention: catheterise, then watch for post-obstructive diuresis.
+prostate-0001	EX	Recurrent retention despite α-blocker therapy is an absolute indication for surgery; TURP suits a 30–80 mL prostate.
+prostate-0002	EX	Osteosclerotic (osteoblastic) bone metastases in an elderly man are characteristic of prostate cancer; renal and thyroid metastases are typically lytic.
+prostate-0003	STEM	Regarding the anatomy of the prostate, the following statements are true except:
+prostate-0004	STEM	Regarding the hormonal control of the prostate, which of the following statements are true?
+prostate-0004	OPTS	LH from the anterior pituitary controls testosterone secretion.|Leydig cells of the testes secrete 90% of testosterone.|5α-reductase type II is found in high concentration in the prostate.|5α-reductase converts testosterone into 5α-dihydrotestosterone (DHT).|Prostate-specific antigen (PSA) is both specific and sensitive in the diagnosis of prostate cancer.
+prostate-0004	KEY	ABCD
+prostate-0004	EX	E is false: PSA is prostate-specific but not cancer-specific (raised in BPH, prostatitis and retention) and can be normal in some cancers.
+prostate-0005	KEY	ABCD
+prostate-0005	EX	E is false: PSA lacks specificity and sensitivity, causing overdiagnosis and missed cancers, so it is not a reliable screening test.
+prostate-0006	STEM	Regarding carcinoma of the prostate, the following statements are true except:
+prostate-0008	KEY	ABCD
+prostate-0008	EX	E is false: IVU has no routine role; assessment uses biopsy (TRUS or MRI-guided), MRI, bone scan for higher-risk disease, and PSA and blood tests.
+prostate-0009	STEM	Regarding the treatment of prostate cancer, the following statements are true except:
+prostate-0010	STEM	Regarding benign prostatic hyperplasia (BPH), which of the following statements are true?
+prostate-0010	KEY	ABCE
+prostate-0010	EX	D is false: LUTS in older men also arise from detrusor over- or underactivity, stricture, neurological disease and cancer, not only BPH.
+prostate-0011	KEY	ABC
+prostate-0011	EX	D is false: a large residual may, but need not, cause hydronephrosis. E is false: BOO also arises from stricture, bladder neck stenosis and cancer.
+prostate-0012	EX	D is false: upper tracts are imaged only with retention, renal impairment, haematuria or infection. E is false: cystoscopic findings correlate poorly with obstruction.
+prostate-0013	STEM	Regarding management of BPH causing bladder outflow obstruction, which of the following statements are true?
+prostate-0013	KEY	BCDE
+prostate-0013	EX	A is false: many men with acute retention void after catheter removal on an α-blocker (trial without catheter), so not all need prostatectomy.
+prostate-0015	OPTS	Radical prostatectomy|Transurethral prostatectomy|Cytotoxic chemotherapy|Hormonal manipulation|Radiotherapy
+prostate-0015	EX	Metastatic prostate cancer (blastic bone lesions) is treated with androgen deprivation (orchidectomy or LHRH analogue); radical treatment is for localised disease.
+prostate-0016	OPTB	Seminomas most commonly present between the ages of 15 and 25 years
+prostate-0016	OPTE	5-year survival for seminomas is over 95%
+prostate-0016	EX	Seminoma is cured in over 95%; testicular tumours are 1–2% of male cancers, seminoma peaks at 30–40 years, teratoma at 20–30, and seminomas do not secrete AFP.
+prostate-0016	CH	scrotum
+prostate-0017	CH	scrotum
+prostate-0018	EX	B is false: HPV infection (types 16 and 18) increases the risk of penile squamous cell carcinoma; neonatal circumcision reduces it.
+prostate-0018	CH	urogen
+prostate-0019	CH	urogen
+prostate-0020	STEM	Which of the following vessels contributes to the blood supply of the prostate gland?
+prostate-0021	STEM	An 80-year-old man with urinary frequency, slow stream and terminal dribbling is found to have a smoothly enlarged prostate. Which zone of the prostate is most likely enlarged?
+prostate-0022	EX	A palpable tumour confined to the prostate involving more than half of one lobe is T2 (T2b); without staging scans, nodes and metastases are unassessed (Nx, Mx).
+prostate-0023	STEM	A 75-year-old man is admitted with acute-onset suprapubic pain and inability to pass urine for 2 days. On examination, the patient is in discomfort, neurologically intact, and the abdomen is particularly tender in the suprapubic region. A digital rectal examination reveals a smooth, enlarged prostate. What is the most likely diagnosis?
+prostate-0024	STEM	A 75-year-old man has acute suprapubic pain and inability to pass urine for 2 days; rectal examination shows a smooth, enlarged prostate. What is the most appropriate course of action in managing him?
+prostate-0026	CH	urogen
+prostate-0027	CH	urogen
+prostate-0029	EX	Of these options only TURP treats outflow obstruction from benign enlargement (usually after failed medical therapy); bladder neck incision suits small prostates.
+prostate-0030	EX	Pleuritic pain with rib tenderness, a hard prostate and raised ALP suggest rib metastases or pathological fracture; a chest X-ray assesses ribs, lungs and pleura first.
+prostate-0031	KEY	B
+prostate-0031	EX	Recurrent suprapubic pain, haematuria and dysuria with outflow symptoms suggest bladder calculi forming from stasis behind BPH; BPH alone does not explain the pain.
+prostate-0032	CH	urogen
+prostate-0033	CH	urogen
+prostate-0034	EX	At 93, radical treatment is inappropriate; androgen deprivation controls symptomatic cancer and relieves outflow symptoms.
+prostate-0035	EX	Raised PSA with an abnormal prostate needs histological confirmation by biopsy (now usually preceded by prostate MRI); staging scans follow a positive biopsy.
+prostate-0039	EX	Frequency, urgency and dysuria with persistently sterile urine suggest interstitial cystitis (bladder pain syndrome).
+prostate-0039	CH	bladder

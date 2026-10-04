@@ -1,0 +1,69 @@
+anus-0033	EX	A large cylindrical prolapse on straining in an 84-year-old is full-thickness rectal prolapse; start with stool softeners and bowel-habit advice, then Delorme or rectopexy if needed.
+anus-0034	EX	A fluctuant natal-cleft swelling with midline pits is a pilonidal abscess: incision and drainage (off the midline); definitive excision later once the sepsis settles.
+anus-0035	EX	An acute perianal abscess over a known fistula needs examination under anaesthesia with incision and drainage (and laying open or seton of any fistula found).
+anus-0036	EX	A posterior midline fissure is treated first with topical diltiazem (or GTN) plus stool softeners; botulinum toxin or lateral sphincterotomy if it fails.
+gibleed-0002	EX	Melaena, epigastric pain, weight loss and a Virchow node suggest gastric cancer: OGD with biopsy is needed for tissue diagnosis, then CT for staging.
+gibleed-0003	EX	Coffee-ground vomiting is upper GI bleeding: OGD (within 24 h, sooner if unstable) to find and treat the source.
+gibleed-0004	EX	Haematemesis with jaundice and ascites in an alcoholic suggests portal hypertension and bleeding oesophageal varices.
+gibleed-0011	OPTS	diverticulosis of the colon|ulcerative colitis|Meckel’s diverticulum|ischemic colitis|aortoenteric fistula|peptic ulcer|carcinoma of the colon|esophageal varices|gastric ulcer
+gibleed-0011	STEM	A 60-year-old man is brought to the emergency department after fainting at home. He has passed bright red blood per rectum for 6 hours, without abdominal pain or vomiting. Pulse 110/min, BP 95/50 mmHg; there is gross blood on rectal examination. What is the most likely diagnosis?
+gibleed-0011	EX	Sudden painless massive bright-red rectal bleeding in an older patient is most often diverticular.
+gibleed-0012	OPTS	diverticulosis of the colon|ulcerative colitis|Meckel’s diverticulum|ischemic colitis|aortoenteric fistula|peptic ulcer|carcinoma of the colon|esophageal varices|gastric ulcer
+gibleed-0012	STEM	A 56-year-old woman had an episode of melaena 48 hours ago that has not recurred. She had an abdominal aortic aneurysm repair 2 years ago. Upper GI endoscopy to the duodenal bulb and colonoscopy are normal. What is the most likely diagnosis?
+gibleed-0012	EX	A ‘herald’ GI bleed after aortic graft surgery is an aortoenteric fistula (usually 3rd/4th part of duodenum) until proven otherwise: CT angiography.
+gibleed-0013	OPTS	diverticulosis of the colon|ulcerative colitis|Meckel’s diverticulum|ischemic colitis|aortoenteric fistula|peptic ulcer|carcinoma of the colon|esophageal varices|gastric ulcer
+gibleed-0013	STEM	A 65-year-old woman has severe fatigue and weakness. She has hypertension, diabetes and coronary disease, takes daily aspirin and has a 40 pack-year smoking history. She is pale, her stool is positive for occult blood and she has a microcytic anaemia. What is the most likely diagnosis?
+gibleed-0013	KEY	G
+gibleed-0013	EX	Occult bleeding with iron-deficiency anaemia in an older patient is colorectal (often right-sided) cancer until proven otherwise: colonoscopy.
+gibleed-0014	OPTS	diverticulosis of the colon|ulcerative colitis|Meckel’s diverticulum|ischemic colitis|aortoenteric fistula|peptic ulcer|carcinoma of the colon|esophageal varices|gastric ulcer
+gibleed-0014	STEM	A 65-year-old man has haematemesis and melaena. He has had abdominal pain for 3–4 weeks and has taken ibuprofen four times daily for 3 weeks, with alcohol, for the pain. Pulse 100/min, BP 100/60 mmHg after resuscitation; there is RUQ and epigastric tenderness and melaena on rectal examination. What is the most likely diagnosis?
+gibleed-0014	KEY	I
+gibleed-0014	EX	Regular NSAIDs and alcohol cause gastric mucosal ulceration; a bleeding gastric ulcer is most likely.
+gibleed-0015	OPTS	diverticulosis of the colon|ulcerative colitis|Meckel’s diverticulum|ischemic colitis|aortoenteric fistula|peptic ulcer|carcinoma of the colon|esophageal varices|gastric ulcer
+gibleed-0015	STEM	A 50-year-old man with chronic alcoholism has an episode of haematemesis. Pulse 120/min, BP 90/60 mmHg; there are spider naevi, palmar erythema and a distended, non-tender abdomen. What is the most likely diagnosis?
+gibleed-0015	KEY	H
+gibleed-0015	EX	Stigmata of chronic liver disease with haematemesis and shock point to bleeding oesophageal varices.
+gibleed-0016	OPTS	diverticulosis of the colon|ulcerative colitis|Meckel’s diverticulum|ischemic colitis|aortoenteric fistula|peptic ulcer|carcinoma of the colon|esophageal varices|gastric ulcer
+gibleed-0016	STEM	A 35-year-old man has haematemesis and black tarry stools after 2 weeks of epigastric pain partly relieved by antacids. Pulse 110/min, BP 95/60 mmHg, with epigastric tenderness and melaena. What is the most likely diagnosis?
+gibleed-0016	KEY	F
+gibleed-0016	EX	Epigastric pain relieved by antacids followed by haematemesis and melaena is a bleeding peptic (usually duodenal) ulcer.
+gibleed-0017	OPTS	diverticulosis of the colon|ulcerative colitis|Meckel’s diverticulum|ischemic colitis|aortoenteric fistula|peptic ulcer|carcinoma of the colon|esophageal varices|gastric ulcer
+gibleed-0017	STEM	A 35-year-old woman has a 1-week history of bloody diarrhoea, 1 month of abdominal pain and 10 lb weight loss. Temperature 38.3 °C, pulse 85/min, BP 110/60 mmHg; the abdomen is diffusely tender. What is the most likely diagnosis?
+gibleed-0017	EX	Bloody diarrhoea with fever and weight loss in a young adult suggests ulcerative colitis.
+gibleed-0019	OPTS	ischemic colitis|peptic ulcer|Meckel’s diverticulum|diverticulosis of the colon|colonic polyp|ulcerative colitis|carcinoma of colon
+gibleed-0019	EX	Bloody diarrhoea days after AAA repair is ischaemic colitis from IMA ligation; confirm by sigmoidoscopy.
+gibleed-0020	OPTS	ischemic colitis|peptic ulcer|Meckel’s diverticulum|diverticulosis of the colon|colonic polyp|ulcerative colitis|carcinoma of colon
+gibleed-0021	OPTS	ischemic colitis|peptic ulcer|Meckel’s diverticulum|diverticulosis of the colon|colonic polyp|ulcerative colitis|carcinoma of colon
+gibleed-0022	OPTS	ischemic colitis|peptic ulcer|Meckel’s diverticulum|diverticulosis of the colon|colonic polyp|ulcerative colitis|carcinoma of colon
+gibleed-0022	KEY	G
+gibleed-0022	EX	New constipation with narrow stools and dark-red bleeding in an elderly woman is left-sided colorectal cancer until proven otherwise.
+gibleed-0024	EX	Massive lower GI bleeding with shock and no source on examination: after resuscitation (and OGD if upper source possible), CT/mesenteric angiography localises and allows embolisation.
+gibleed-0036	EX	Years of bright-red blood on the paper without bowel change suggests haemorrhoids: proctoscopy/rigid sigmoidoscopy in clinic first; colonoscopy if red flags.
+gibleed-0037	EX	Profuse rectal bleeding with shock: resuscitation comes first — two large-bore cannulae, bloods, cross-match and fluids/blood — before investigations.
+gibleed-0039	EX	Variceal bleeding continuing after banding needs immediate senior help for rescue therapy (balloon tamponade, repeat endoscopy or TIPS); bloods and imaging do not stop the bleeding.
+gibleed-0040	EX	A duodenal ulcer is usually associated with H. pylori, shown by a positive rapid urease (CLO) test on gastric biopsy.
+gibleed-0041	EX	Microcytic anaemia in a 79-year-old suggests occult GI blood loss: OGD (with colonoscopy/CT) to find the source, starting here with OGD given the epigastric pain.
+gibleed-0042	EX	Free gas under the diaphragm with epigastric pain in a patient on NSAIDs and steroids is a perforated peptic ulcer; steroids can mask peritonism.
+gibleed-0043	EX	Melaena with a raised urea (absorbed blood protein) points to an upper GI source; a bleeding duodenal ulcer is the commonest.
+gibleed-0072	OPTS	Environmental factors have been the cause in >80% of cancers|Genetic inheritance has a role in 20% of cancers|Certain cancers can be prevented|Screening aims at detecting disease in an asymptomatic stage|Accurate diagnosis is the key to successful management
+gibleed-0072	KEY	ABCDE
+gibleed-0072	EX	All are true: most cancers have environmental causes, inheritance contributes in a minority, some are preventable and screening detects asymptomatic disease.
+gibleed-0073	STEM	Regarding principles of cancer surgery, which of the following statements are not true?
+gibleed-0075	STEM	A 55-year-old asymptomatic man has guaiac-positive stool. Colonoscopy shows a 3-cm pedunculated sigmoid polyp, removed by snare polypectomy. Histology shows an adenoma with a focus of invasive carcinoma in the head, a 4-mm resection margin and no tumour in the stalk. What is the most appropriate next step?
+gibleed-0075	OPTS	CT scan|MRI scan|Surgical resection of the sigmoid colon|Observation with colonoscopic surveillance|Regular NSAID use
+gibleed-0075	KEY	D
+gibleed-0075	EX	A malignant pedunculated polyp confined to the head (Haggitt 1–2) with a clear margin (>1–2 mm), well differentiated and no lymphovascular invasion is cured by polypectomy: surveillance.
+gibleed-0088	EX	After resection of colorectal liver metastases, 5-year survival is about 25–35% (up to ~40% in modern series).
+gibleed-0105	EX	A tumour 2 cm from the anal margin involves the sphincter complex, so abdominoperineal resection with permanent colostomy is needed (after neoadjuvant therapy as indicated).
+gibleed-0110	EX	Multiple colorectal adenomas in a young woman suggest FAP; Gardner syndrome is its variant with osteomas and soft-tissue tumours. Peutz–Jeghers and juvenile polyps are hamartomas.
+gibleed-0111	EX	A colonic carcinoma on colonoscopy is staged with CT of chest, abdomen and pelvis to look for liver and lung metastases before planning resection.
+gibleed-0112	EX	Adenocarcinoma, arising in Barrett mucosa, is now the commonest oesophageal cancer in the West and typically lies in the distal oesophagus.
+gibleed-0113	EX	Gastric adenocarcinoma is associated with blood group A, H. pylori, atrophic gastritis, smoking and nitrosamine-rich diets.
+gibleed-0127	STEM	A 60-year-old woman has recurrent squamous cell carcinoma of the anus after chemoradiation. Which operation is most appropriate?
+gibleed-0128	STEM	A 68-year-old woman with faecal incontinence has a large fixed adenocarcinoma 3 cm from the anal verge. Which operation is most appropriate?
+gibleed-0129	EX	Peritoneal metastases are missed by CT and PET; staging laparoscopy with peritoneal washings is the best test before gastrectomy.
+gibleed-0130	EX	Colon cancer resection needs about 5 cm of clear bowel on each side, with en bloc removal of the mesentery and lymph nodes (complete mesocolic excision).
+gibleed-0135	STEM	A 68-year-old man had a colorectal adenocarcinoma resected; histology shows spread through the muscle layer into the pericolic fat but no lymph-node involvement. What Dukes stage is this?
+gibleed-0135	EX	Tumour through the muscularis propria without nodal spread is Dukes B (T3N0).
+gibleed-0141	KEY	A
+gibleed-0141	EX	Cancer confined to the bowel wall (not through the muscularis propria) with no nodes or metastases is Dukes A.

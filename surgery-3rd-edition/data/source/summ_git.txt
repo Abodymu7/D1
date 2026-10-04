@@ -1,0 +1,316 @@
+Category
+Condition
+Clinical Definition
+Causes
+Risk Factors
+Clinical Features
+Investigations & Treatments
+Differential Diagnoses & Exclusion Methods
+Complications
+Minor Salivary Gland Disorders
+Extravasation Cysts (Mucoceles)
+Mucous collection within soft tissues following rupture of minor gland ducts.
+Local trauma (e.g., accidental lip biting, blunt injury).
+Frequent minor trauma; repetitive mechanical injuries on the lower lip.
+Soft, fluctuant swelling (commonly on lower lip); may be painful or asymptomatic.
+Ultrasound to demonstrate cystic nature if needed; observation for spontaneous resolution; surgical excision for persistent lesions.
+History of trauma and typical location help distinguish from other mucosal cysts.
+Recurrence with incomplete removal; potential secondary infection.
+Minor Salivary Gland Disorders
+Tumors of Minor Salivary Glands
+Neoplastic growths arising from minor gland tissue; majority are malignant.
+Idiopathic, with possible genetic predispositions.
+Advanced age; occasional prior radiation exposure.
+Benign: slow, painless, mobile mass. Malignant: firm mass, possible ulceration, local invasion.
+Excisional or incisional biopsy based on size; imaging (CT/MRI) for lesion delineation; benign: local excision with clear margins; malignant: wide surgical excision (often with reconstruction).
+Persistence and absence of acute inflammation distinguish from cystic lesions; histopathology confirms neoplastic character.
+Local tissue invasion, recurrence, regional metastasis (in malignant cases).
+Sublingual Salivary Gland Disorders
+Mucous Retention Cysts and Plunging Ranula
+Mucous retention within the duct system; a plunging ranula extends through the mylohyoid into the neck.
+Ductal disruption from trauma leading to mucus accumulation.
+Prior trauma; inherent anatomical predisposition to mucous pooling.
+Soft, fluctuant swelling in the floor of the mouth; dumbbell‑shaped if extending into the neck.
+Ultrasound or CT scan demonstrating a cystic lesion with extension through the mylohyoid; complete surgical excision of the cyst tract to prevent recurrence.
+Imaging confirms extension pattern, differentiating it from simple intraoral mucoceles or other cystic lesions.
+Incomplete removal may lead to recurrence; risk of infection in persistent cases.
+Sublingual Salivary Gland Disorders
+Tumors of the Sublingual Gland
+Neoplastic lesions within the sublingual gland, with most being malignant.
+Primarily idiopathic; exact pathogenetic mechanisms remain unclear.
+Typically older patients; potential correlation with previous risk exposures.
+Rapidly enlarging mass in the floor of the mouth with possible pain and invasion of surrounding tissues.
+CT/MRI for assessing extent; fine needle aspiration cytology (FNAC) for preliminary diagnosis; wide surgical excision with possible neck dissection.
+Distinguishable from benign cysts by irregular borders, rapid growth on imaging and cytological features.
+High risk of local invasion, metastasis, and recurrence if resection is incomplete.
+Submandibular Salivary Gland Disorders
+Acute Sialadenitis
+Sudden inflammatory condition of the submandibular gland.
+Bacterial infections often secondary to ductal obstruction; may follow a viral illness.
+Dehydration; factors predisposing to duct obstruction.
+Rapid onset of pain and gland swelling, often worsens during meals.
+Ultrasound/CT demonstrating gland enlargement and inflammation; antibiotic therapy and supportive treatment.
+Resolution with antibiotics and imaging findings help distinguish from viral or neoplastic causes.
+Abscess formation; potential progression to chronic sialadenitis if inadequately managed.
+Submandibular Salivary Gland Disorders
+Chronic Sialadenitis
+Longstanding inflammation, often due to recurrent duct obstruction from salivary stones.
+Repeated episodes of obstruction from calculi leading to chronic inflammation.
+High mucin concentration; dehydration; ductal anomalies.
+Recurrent, meal‑related painful swelling; palpable enlarged gland; sometimes a palpable stone.
+CT/MRI, sialography, and ultrasound revealing calculi and chronic inflammatory changes; marsupialisation or gland excision in persistent cases.
+Direct visualization of calculi and imaging exclude neoplastic processes.
+Formation of abscesses; gland fibrosis leading to persistent discomfort.
+Submandibular Salivary Gland Disorders
+Tumors of the Submandibular Gland
+Neoplastic lesions in the submandibular gland, with roughly half being malignant.
+Primarily idiopathic; spontaneous neoplastic transformation is implicated.
+Older age; potential history of radiation exposure.
+Painless, slow-growing mass – benign tumors are soft and well-circumscribed; malignant lesions are firmer and may invade adjacent tissue.
+CT/MRI to outline extent; FNAC for cytological assessment; surgical excision ranging from intracapsular removal (small lesions) to complete gland excision with neck dissection (for malignant tumors).
+Imaging and FNAC help exclude reactive adenopathy and inflammatory causes based on growth rate and lesion consistency.
+Risk of recurrence, nerve injury, and local/regional spread in malignant cases.
+Parotid Gland Disorders
+Inflammatory Conditions
+Acute inflammation of the parotid gland, which may be viral (e.g., mumps), bacterial, or obstructive in nature.
+Viral pathogens (mumps), bacterial infections secondary to obstructive processes, or ductal stones.
+Exposure to viral pathogens; dehydration; conditions predisposing to duct obstruction.
+Unilateral or bilateral parotid swelling; pain more common in bacterial infection; exacerbation during meals in obstructive cases.
+Ultrasonography and sialography revealing gland enlargement and duct dilatation; antibiotic therapy and supportive management for bacterial cases; supportive care for viral infections.
+Rapid improvement with conservative management and typical imaging patterns distinguish these from neoplastic masses.
+Abscess formation; persistent gland dysfunction if inflammation is unresolved.
+Parotid Gland Disorders
+Neoplastic Tumors
+Tumors of the parotid gland, ranging from benign (most commonly pleomorphic adenoma) to various malignant types.
+Mostly idiopathic; some association with prior ionizing radiation exposure.
+Advanced age; certain environmental exposures.
+Benign: slow, painless, smoothly contoured mass; malignant: may exhibit rapid growth, pain, and possible nodal involvement.
+CT/MRI to determine tumor extent and relation to adjacent structures; FNAC to assess cytological features; benign lesions: superficial parotidectomy with careful preservation of facial nerve branches; malignant lesions: radical parotidectomy with neck dissection.
+Growth rate, imaging characteristics (irregular margins/invasion), and FNAC findings allow differentiation from inflammatory or benign conditions.
+Facial nerve injury, tumor recurrence, and risk of regional metastasis in malignant disease.
+Tumor-like Lesions and Systemic Conditions
+Sialadenosis
+Diffuse, bilateral, non-inflammatory enlargement of salivary glands related to systemic/metabolic disturbances.
+Metabolic or endocrine imbalances, including diabetes, chronic alcoholism, pregnancy, and bulimia.
+Presence of an underlying systemic disorder affecting gland metabolism.
+Painless, symmetric gland enlargement without focal masses or significant tenderness.
+Ultrasonography demonstrating diffuse gland enlargement; laboratory evaluations to identify systemic disorders; management focuses on treating the underlying metabolic/endocrine condition.
+Lack of focal mass on imaging and correlation with systemic workup excludes neoplastic or localized inflammatory causes.
+Persistent cosmetic or functional issues if the primary metabolic disturbance remains uncorrected.
+Tumor-like Lesions and Systemic Conditions
+Sjögren Syndrome
+Autoimmune-mediated progressive lymphocytic destruction of salivary and lacrimal glands.
+Autoimmune response affecting glandular tissue; part of a broader spectrum of autoimmune disorders.
+More common in middle-aged women; association with other autoimmune diseases.
+Marked dryness of the mouth (xerostomia), possible gland enlargement, oral mucosal atrophy, increased susceptibility to candidiasis and dental caries.
+Sialography, scintigraphy, and sialochemistry to document gland dysfunction; labial/minor gland biopsy revealing lymphocytic infiltration; serologic markers (autoantibodies) support the diagnosis; systemic immunomodulatory therapy (corticosteroids, cytotoxic agents) and supportive measures.
+Diffuse gland involvement with characteristic serologic and biopsy findings distinguishes Sjögren syndrome from localized neoplasms.
+Increased risk of lymphoma development; chronic dental and mucosal complications related to persistent xerostomia.
+Additional Investigation Modalities
+Sialometry
+Quantifies salivary flow to assess gland function.
+Additional Investigation Modalities
+Sialography
+Visualizes the ductal anatomy and detects obstructions.
+Additional Investigation Modalities
+Scintigraphy
+Provides functional imaging using a radioactive tracer taken up and secreted by salivary glands.
+Additional Investigation Modalities
+Sialochemistry
+Evaluates the chemical composition of saliva.
+Additional Investigation Modalities
+Ultrasonography
+Noninvasive modality to discriminate gland size, calcifications, and cystic versus solid lesions.
+Additional Investigation Modalities
+Labial/Minor Salivary Gland Biopsy
+Provides histopathological confirmation, especially in autoimmune conditions such as Sjögren syndrome.
+Component
+Dysphagia
+Gastroesophageal Reflux Disease (GERD)
+Esophageal Atresia/Tracheoesophageal Fistula (EA/TEF)
+Clinical Definition
+- Difficulty or delay in swallowing food/liquids - Involvement of one or more phases (oral, pharyngeal, esophageal)
+- Chronic reflux of acidic gastric contents into the esophagus - Frequent reflux leading to mucosal injury
+- Congenital interruption of the esophagus - May include an abnormal connection (fistula) between the trachea and esophagus
+Causes
+- Neurologic/central disorders (e.g., Alzheimer’s, brain tumors) - Neuromuscular/muscular disorders - Endocrine/metabolic derangements and medication side effects - Motility disorders (e.g., achalasia, diffuse esophageal spasm) - Structural lesions (e.g., Zenker diverticulum, strictures, tumors) - Psychogenic factors
+- Lower esophageal sphincter (LES) dysfunction (transient relaxations, low pressure) - Delayed gastric emptying; hiatal hernia - Impaired esophageal clearance
+- Developmental malformation of the esophagus - Maternal exposures (methimazole, diabetes, thalidomide) - Multifactorial etiology (genetic predisposition)
+Risk Factors
+- In pediatrics: prematurity, neurological impairments (e.g., cerebral palsy) - Congenital anomalies (choanal atresia, cleft lip/palate, craniofacial syndromes) - In older patients: age-related reduction in muscle strength, poor dentition, decreased laryngeal elevation
+- Obesity/increased intra”‘abdominal pressure - Presence of hiatal hernia; pregnancy - Lifestyle triggers (alcohol, spicy/acidic foods) - Medications that lower sphincter tone
+- Maternal factors (drug exposure, diabetes) - Family history and frequent associated congenital anomalies (cardiac, vertebral, limb, renal)
+Clinical Features
+- Oral/Pharyngeal subset:  - Difficulty initiating swallow, coughing, choking  - Sensation of food sticking in throat; nasal regurgitation  - Wet voice; compensatory eating behaviors; weight loss - Esophageal type:  - Sensation of food sticking in lower throat/chest  - May be accompanied by heartburn-like symptoms
+- Typical symptoms:  - Heartburn, acid regurgitation  - Dysphagia (sensation of food sticking) - Atypical/extraesophageal:  - Chronic cough, hoarseness, non”‘cardiac chest pain, dental erosion
+- Prenatal indicators:  - Polyhydramnios; absent/small stomach bubble on ultrasound - Postnatal findings:  - Drooling, choking/coughing with feeds  - Abdominal distension; risk for chemical pneumonitis
+Management Lines (Investigations & Treatments)
+Investigations: - Radiologic studies (barium swallow, videofluoroscopy, CT/MRI) - Endoscopic evaluations (EGD, transnasal esophagoscopy) - Functional testing (esophageal manometry, 24”‘hour pH monitoring, impedance studies) - Laboratory assays (TSH, vitamin B”‘12, creatine kinase) Treatments: - Dietary modification and structured swallowing maneuvers - Rehabilitation/therapy (swallowing exercises, neuromuscular stimulation) - Pharmacologic options (botulinum toxin, calcium channel blockers, nitrates, diltiazem) - Nutritional support (enteral feeding methods) - Surgical interventions for refractory cases (e.g., Heller myotomy, peroral endoscopic myotomy)
+Investigations: - Upper gastrointestinal contrast studies - Endoscopy with biopsy (assessing mucosal changes) - Functional assessments (manometry, 24”‘hour pH monitoring, gastric emptying studies) - Additional imaging (chest imaging, impedance measurements) Treatments: - Lifestyle modifications (weight loss, head”‘of”‘bed elevation, avoidance of triggers, meal adjustments) - Pharmacotherapy (H2 receptor antagonists, proton pump inhibitors, prokinetic agents, antacids) - Surgical interventions (fundoplication, LINX device implantation, sleeve gastrectomy in selected cases)
+Investigations: - Tube insertion test with radiographic verification (catheter coiling in the upper pouch) Treatments: - Preoperative stabilization (head elevation, IV antibiotics, warmed electrolyte solutions, vigilant monitoring) - Definitive surgical repair (correction of atresia and fistula); usually elective after stabilization
+Differential Diagnoses & Exclusion Strategies
+- Consider motility disorders:  - Achalasia (supported by manometry, “bird”‘beak” on barium study)  - Zenker diverticulum (contrast studies identifying pouch)  - Neuromuscular conditions (e.g., myasthenia gravis, Parkinson’s disease; aided by electrophysiologic testing and specific antibody assays)  - Inflammatory myopathies (elevated muscle enzymes, EMG findings)
+- Consider alternative motility disorders (achalasia, spasm)  - Exclude by manometry and contrast imaging - Rule out esophageal cancer (endoscopic evaluation with biopsy) - Differentiate from gastritis or peptic ulcer disease (endoscopy with biopsy) - Exclude cardiac causes when chest pain is present (via objective cardiac evaluation)
+- Consider isolated TEF (H”‘type) where esophageal continuity is preserved - Distinguish from other neonatal causes of respiratory distress by radiographic confirmation and, if indicated, contrast studies - Correlate with the presence of other congenital anomalies
+Complications
+- Aspiration pneumonia and recurrent respiratory infections - Malnutrition and progressive weight loss - Esophageal strictures from chronic injury - Airway obstruction and potential perforation following interventions
+- Esophagitis with mucosal ulceration - Development of esophageal strictures and Barrett’s esophagus (with increased adenocarcinoma risk) - Dental enamel erosion and chronic respiratory issues - Recurrent symptoms requiring long”‘term management
+- Postoperative issues:  - Anastomotic leaks, esophageal strictures, recurrent fistula formation - Long”‘term complications including GERD, persistent feeding difficulties, and respiratory compromise
+IBD
+GI Infections
+Intestinal Obstruction
+GI Hemorrhage
+Short Bowel Syndrome
+Colitis
+Clinical Definition
+Idiopathic, chronic inflammation of the GI tract; Includes Crohn’s disease, ulcerative colitis, and intermediate forms; Immune dysregulation to luminal bacterial antigens
+Acute enteric infection; Presents as watery “rice-water” diarrhea (toxins) or dysenteric pattern (invasive)
+Partial or complete blockage of the intestinal lumen; Can be mechanical (intrinsic/extrinsic) or adynamic (impaired motility)
+Bleeding from the GI tract (above or below the ligament of Treitz); Manifests as hematemesis, melena, or hematochezia
+Marked reduction in absorptive capacity; Follows extensive small bowel resection (often <⅓ remaining)
+Inflammation of the colon; May be infectious, ischemic, or related to diverticular inflammation
+Causes & Underlying Pathogenesis
+Environmental triggers (smoking, alcohol, certain infections); Genetic predisposition (e.g., NOD2 mutations in Crohn’s; HLA associations in UC); Aberrant cytokine release (excess TNF, altered integrins)
+Toxin”producing bacteria (e.g., Vibrio cholerae, Staph aureus); Invasive pathogens (e.g., Shigella, Campylobacter, Clostridium difficile)
+Intrinsic factors: tumors, strictures, bezoars, fecal impactions; Extrinsic factors: adhesions, hernias, volvulus, intussusception
+Upper sources: peptic ulcer disease, Mallory–Weiss tears, varices; Lower sources: diverticular disease, angiodysplasia, polyps, neoplasia
+Massive surgical resections (ischemia, necrotizing enterocolitis, Crohn’s, volvulus); Loss of absorptive surface (terminal ileum, ileocecal valve loss worsens malabsorption)
+Infectious agents (bacterial, viral, parasitic), ischemia, or inflammation of diverticula
+Risk Factors
+Age peaks: 15–30 and 50–60 years; Predominance in white populations; slight female bias in Crohn’s; Geographic (Western, Northern regions)
+Exposure to contaminated water/food; Travel to endemic areas, poor sanitation; Extreme age groups and immunocompromised states
+Chronic NSAID use, liver cirrhosis
+Advancing age; underlying vascular disease
+History of extensive small bowel resection; Absence of colonic remnant or terminal ileum
+Exposure to pathogens or antibiotic use (for C. difficile); advanced age (ischemic type)
+Clinical Features
+Chronic diarrhea (may be bloody, mucous, or purulent); Abdominal pain (crampy, vague), tenesmus, malabsorption (especially in Crohn’s); Extraintestinal manifestations: dermatologic (erythema nodosum, pyoderma gangrenosum), ocular (uveitis, episcleritis), musculoskeletal, hepatobiliary, and thrombotic phenomena
+Sudden onset watery diarrhea (cholera type) or dysentery (invasive infections); May be accompanied by vomiting, abdominal cramps, and fever
+Colicky abdominal pain and progressive vomiting (transitioning from bilious to feculent); Abdominal distension; constipation/obstipation
+Upper GI: Fresh or coffee”ground emesis; melena; Lower GI: Passage of red or maroon blood per rectum; signs of hypovolemia
+Diarrhea (steatorrhea) with dehydration and weight loss; Nutrient and electrolyte deficiencies
+Colon: Watery to bloody diarrhea; localized left”sided pain (in ischemic type); Endoscopic findings: mucosal ulceration, friability, pseudopolyps (in chronic cases)
+Management (Investigations; Treatments)
+Investigations: Laboratory: Elevated WBC, ESR, CRP; anemia; hypoalbuminemia; Radiologic: Plain films (toxic megacolon), barium studies (leadpipe vs. cobblestoning), CT/MRI for transmural involvement, fistulae, strictures; Endoscopy to assess mucosal lesions and guide therapy; Treatments: Fluid and electrolyte replenishment; nutritional support; Pharmacologic: Aminosalicylates, corticosteroids, immunosuppressants, biologic agents; Surgical options when complications (e.g., perforation, refractory disease) occur
+Investigations: Stool analyses (culture, toxin assays, PCR); Imaging when complications (e.g., perforation) are suspected; Treatments: Immediate IV fluid (Ringer’s lactate) replacement; Pathogen”directed antimicrobial therapy (e.g., tetracycline/doxycycline for cholera; metronidazole or vancomycin for C. difficile)
+Investigations: Radiographs (plain films for dilated loops and air”fluid levels); CT scan (to identify transition points, closed loops, viability status); Treatments: Supportive care and possible surgery
+Investigations: Laboratory assessment (anemia, coagulation status); Endoscopy (EGD or colonoscopy) for bleeding site localization; CT angiography, scintigraphy, or mesenteric angiography as needed; Treatments: Fluid resuscitation; endoscopic interventions; angiographic embolization or surgery as appropriate
+Investigations: Nutritional evaluation (labs and imaging to document bowel length); Treatments: Initiate total parenteral nutrition (TPN) followed by gradual enteral feeds; use antisecretory and antidiarrheal agents; consider GLP‑2 analogues; surgical lengthening (Bianchi/STEP) or transplant if refractory
+Investigations: Stool studies (culture, toxins), CT (for wall thickening), and endoscopy; Treatments: Pathogen”specific antimicrobials (e.g., ciprofloxacin, metronidazole, oral vancomycin, ganciclovir for CMV); supportive care; surgery if abscess, perforation, or complications arise
+Differential Diagnosis & Exclusion
+Distinguish from infectious colitis (confirmed by positive stool cultures/toxin assays and rapid response); drug”induced colitis (linked to recent NSAID/OCP exposure with non”chronic course); ischemic colitis (typically in older patients; imaging showing “thumbprinting”); radiation”induced colitis (confined to previously irradiated areas)
+Exclude IBD (chronic, relapsing course with characteristic mucosal lesions); exclude viral enteritis (typically self”limited with absence of bacterial toxins)
+Exclude paralytic (adynamic) ileus (diffuse gas pattern with no transition point); exclude pseudo”obstruction (no demonstrable mechanical blockade); distinguish volvulus via CT findings (mesenteric twisting vs. focal adhesive bands)
+Differentiate by endoscopic localization (upper vs. lower) and laboratory markers; exclude extraintestinal bleeding sources via targeted imaging
+Exclude primary malabsorption (negative resection history and specific nutrient absorption studies; confirmed by imaging of preserved bowel length)
+Exclude from IBD”related colitis (look for chronic relapse, skip lesions, granulomas) and radiation/drug”induced colitis (consider known exposure and lesion distribution)
+Complications
+Acute: Toxic megacolon, severe hemorrhage, perforation with peritonitis; Chronic: Strictures, fistulae, abscesses, increased colorectal cancer risk; Systemic: Extraintestinal manifestations impacting multiple organs
+Severe dehydration, electrolyte imbalances, shock, potentially fatal outcomes
+Bowel ischemia, gangrene, perforation, septicemia, prolonged electrolyte disturbances
+Recurrent bleeding, hemodynamic instability, multi”organ dysfunction, high mortality risk in comorbid states
+Persistent electrolyte disturbances, catheter”related sepsis, TPN”related cholestasis, cholelithiasis, nephrolithiasis
+Sepsis and systemic complications possible with advanced colonic inflammation
+Gastric Cancer
+Pancreatic Neoplasms
+Colonic Tumours
+Renal Tumours
+Adrenal Gland Tumours
+Bladder Carcinoma
+Clinical Definition
+• Malignant adenocarcinoma originating in the stomach • “Early” disease confined to mucosa/submucosa
+• Malignant lesions from ductal epithelium plus a spectrum of neuroendocrine tumours (e.g., insulinoma, gastrinoma, VIPoma, etc.)
+• Carcinoma arising via the adenoma–carcinoma sequence from precancerous polyps • Progression from hyperproliferative epithelium → dysplasia → invasive carcinoma
+• Neoplasms ranging from benign cysts/oncocytomas to malignant RCC (and sarcomas) • Most common malignant form is renal cell carcinoma (RCC); others include sarcomas
+• Neoplasms of adrenal cortex/medulla • Functioning (hormone–secreting) or non–functioning lesions
+• Malignancy developing from urothelial (transitional) cells • Includes transitional, squamous, or adenocarcinoma variants
+Causes & Risk Factors
+• Atrophic gastritis; Helicobacter pylori infection • Diet: High intake of preserved, salted, pickled, or smoked foods • Genetic predispositions (e.g., CDH1, TP53, FAP, HNPCC) • Smoking; previous gastric surgery; blood group A; certain viral infections
+• Chronic pancreatitis; Diabetes mellitus • Diet: High-fat/low-fiber • Genetic mutations (K–ras, p53, Smad4, BRCA2) • Associated familial syndromes (FAP, Lynch, Peutz–Jeghers)
+• Diet: High animal fat, low fiber intake • Increasing age, obesity, sedentary lifestyle • Inflammatory bowel disease history; familial syndromes (FAP, Lynch) • Cigarette smoking; pelvic irradiation exposure
+• Smoking; high–fat diets; long–term dialysis • Familial syndromes such as Von Hippel–Lindau
+• Sporadic occurrence; familial syndromes
+• Drugs affecting adrenal function; associations with endocrine syndromes (Cushing’s, Conn’s, pheochromocytoma) • Occupational exposure to aromatic amines; chronic irritation (infections/calculi) • Schistosomiasis endemic regions; cyclophosphamide exposure
+Clinical Features
+• General “three As”: anaemia, anorexia, asthenia • Dyspepsia and vague epigastric discomfort • Gastrointestinal bleeding; obstructive phenomena • Paraneoplastic signs (e.g., Trousseau’s syndrome, dermatomyositis)
+• Adenocarcinoma: Upper abdominal (epigastric) pain, obstructive jaundice, weight loss; possible palpable mass • Neuroendocrine tumours: Syndrome-specific manifestations  – Insulinoma: Fasting hypoglycemia fulfilling Whipple’s triad  – Gastrinoma: Refractory ulcers with elevated gastrin  – VIPoma: Profuse watery diarrhea, hypokalemia  – Glucagonoma: Necrolytic migratory erythema, diabetes  – Somatostatinoma: Association with gallstones and steatorrhea
+• Altered bowel habits (diarrhea and/or constipation) • Rectal bleeding and abdominal discomfort • Unintentional weight loss; palpable mass (commonly left–sided)
+• Frequently asymptomatic in early phases • Classical triad (flank pain, gross hematuria, palpable mass) – though all rarely occur together • Paraneoplastic features: Hypertension, polycythemia, hypercalcemia (and Stauffer’s syndrome)
+• Functioning tumours produce syndromes:  – Pheochromocytoma: Episodic hypertension, headache, sweating  – Cushing’s syndrome: Central obesity, moon face, buffalo hump, striae  – Conn’s syndrome: Resistant hypertension with hypokalemia • Non–functioning lesions usually detected incidentally
+• Painless hematuria (macroscopic or microscopic) • May cause irritative voiding symptoms in multifocal disease
+Management Lines
+• Investigations:  – Upper endoscopy with biopsy (gold standard)  – CT/MRI, endoscopic ultrasound, and PET scan for staging • Treatments:  – Surgical resection (subtotal/total gastrectomy with D1/D2/D3 lymphadenectomy)  – Reconstruction techniques (Billroth II, Roux–en–Y)  – Perioperative or palliative chemotherapy/radiotherapy, targeted biologics
+• Investigations:  – Contrast–enhanced CT, MRI/MRCP, endoscopic ultrasound, PET  – Tumor marker assays (CA19–9) and specific hormone assays • Treatments:  – Curative surgical resection (Whipple’s procedure for head lesions; distal pancreatectomy for tail/body)  – Enucleation for small, well–demarcated neuroendocrine tumours  – Palliative interventions (biliary stenting, chemo/radiotherapy)
+• Investigations:  – Colonoscopy (full colonic evaluation with therapeutic polypectomy)  – CT/MRI for extraluminal staging; endoscopic ultrasound for rectal lesions • Treatments:  – Ranging from local excision/polypectomy to right/left hemicolectomy or low anterior resection  – Adjuvant chemotherapy and/or chemoradiation based on pathological stage
+• Investigations:  – Ultrasound; contrast–enhanced CT; MRI; intravenous urography • Treatments:  – Standard is radical nephrectomy (open or laparoscopic)  – Nephron–sparing methods (partial nephrectomy or cryosurgery) for select lesions  – Targeted agents for metastatic disease
+• Investigations:  – Hormonal assays (catecholamines, metanephrines, cortisol, ACTH, aldosterone, renin)  – CT/MRI and, when indicated, NP–59 scintigraphy • Treatments:  – Preoperative pharmacologic preparation (e.g., Î±–blockade for pheochromocytoma)  – Laparoscopic or open adrenalectomy  – Medical adrenalectomy (mitotane, metyrapone) with steroid replacement for unresectable cases
+• Investigations:  – Urine cytology; ultrasound; CT/MRI to assess wall invasion; cystoscopy with directed biopsy • Treatments:  – For non–invasive lesions: Transurethral resection with intravesical chemotherapy (mitomycin C) or immunotherapy (BCG)  – For muscle–invasive disease: Radical cystectomy with pelvic lymph node clearance and urinary diversion
+Differential Diagnoses & Exclusion Criteria
+• Benign peptic ulcer:  – Benign ulcer morphology on imaging/endoscopy; negative biopsy • Gastric lymphoma:  – Lymphoid histology on immunophenotyping distinct from adenocarcinoma • Gastrointestinal stromal tumour (GIST):  – Spindle cell appearance; immunopositivity for CD117/CD34
+• Chronic pancreatitis:  – Presence of calcific deposits; episodic pain pattern • Ampullary carcinoma:  – Lesion localized at the papilla with distinct enhancement on imaging/endoscopy • Cholangiocarcinoma:  – Biliary duct irregularities; distinct biomarker profile
+• Inflammatory bowel disease:  – Biopsy shows inflammatory infiltrates with reactive atypia but no neoplastic dysplasia • Diverticulitis:  – CT reveals diverticula with localized inflammatory changes rather than a mass • Infectious colitis:  – Positive stool studies with resolution on antimicrobials
+• Simple renal cyst:  – Well–circumscribed, fluid–filled lesion with a thin wall and no enhancement on imaging • Oncocytoma:  – Central stellate scar; benign cytologic features on biopsy • Angiomyolipoma:  – Fat density on CT; association with tuberous sclerosis • Renal lymphoma:  – Multiple homogeneous lesions confirmed by immunophenotyping
+• Adrenal metastases:  – History of extra–adrenal primary malignancy; irregular, heterogeneous enhancement; confirmatory biopsy if needed • Adrenal cyst:  – Simple cyst imaging features (non–enhancing, thin–walled) • Pheochromocytoma:  – Markedly elevated catecholamines/metanephrines; positive MIBG scintigraphy; correlation with paroxysmal symptoms
+• Cystitis/inflammatory lesions:  – Resolution with medical therapy; cytology shows benign inflammatory cells • Inflammatory pseudotumor:  – Histology reveals mixed inflammatory cell infiltrate without invasive features • Benign urothelial papilloma:  – Well–differentiated papillary architecture with minimal atypia
+Complications
+• Direct invasion into adjacent structures (pancreas, liver, peritoneum) • Lymphatic spread with nodal or distant metastases (e.g., Virchow’s or Sister Mary Joseph’s nodes, ascites) • Postoperative issues: Leakage, anastomotic failure, nutritional deficiencies
+• Early postoperative risks:  – Pancreatic fistula, hemorrhage, delayed gastric emptying • Advanced disease: Liver metastases, cachexia, biliary obstruction, chronic pain
+• Locoregional recurrence; liver and lung metastases • Surgical complications: Anastomotic leak, postoperative infection, bowel obstruction
+• Extension into the renal vein/inferior vena cava enhances morbidity • Intraoperative hemorrhage, infection, and postoperative renal insufficiency
+• Intraoperative hemodynamic instability (especially in pheochromocytoma) • Post–adrenalectomy adrenal insufficiency with risk of adrenal crisis
+• High recurrence rate; progression to muscle invasion; metastatic spread • Urinary diversion complications (metabolic disturbances, stoma issues)
+Anal Fissure
+Hemorrhoids
+Anorectal Abscess
+Fistula in Ano
+Pilonidal Sinus (PNS)
+Rectal Prolapse
+Clinical Definition
+Longitudinal tear in the distal anal canal’s anoderm (typically in the posterior midline; occasionally anterior); associated with severe defecatory pain and bright red bleeding
+Vascular cushions within the anal canal (internal: above the dentate line; external: below); classified by degree of prolapse
+Localized collection of pus in the anorectal region, most often of cryptoglandular origin; may involve perianal, ischiorectal, or supralevator spaces
+Chronic, abnormal communication between the anorectal lumen and perianal skin; often develops as a sequela of an unresolved anorectal abscess
+Subcutaneous sinus typically located in the natal cleft over the coccyx, containing loose hairs; associated with chronic inflammation and intermittent abscess formation
+Protrusion of the rectal wall through the anal canal; may be partial (mucosal) or complete (full-thickness)
+Causes
+Trauma from the passage of hard stools or recurrent diarrhea; local ischemia with secondary sphincter spasm
+Excessive straining and passage of hard stools; raised intra”abdominal pressure (e.g., during pregnancy or with chronic constipation)
+Cryptoglandular infection of the anal glands; extension of adjacent soft tissue infections
+Sequela of an inadequately treated anorectal abscess; may follow trauma or surgical injury; associated with inflammatory bowel disease
+Obstruction and rupture of hair follicles due to friction and shearing forces; local moisture and debris accumulation in the natal cleft
+Pelvic floor weakness; chronic straining (often with constipation) and neurological impairment
+Risk Factors
+Constipation and low-fiber diets; underlying inflammatory conditions (e.g., inflammatory bowel disease)
+Chronic constipation and repeated straining; pregnancy, obesity, advanced age, and a sedentary lifestyle
+Diabetes mellitus and immunocompromised status; history of inflammatory bowel disease or prior anorectal infections
+Previous anorectal abscess or fistula; inflammatory bowel disease and past perianal surgery
+Predominantly young adult males; excessive body hair, obesity, and poor hygiene practices
+Advanced age (especially women); long-standing constipation and prior pelvic surgeries or neurological deficits
+Clinical Features (Symptoms & Signs)
+Severe, sharp pain during and after defecation; bright red bleeding and local pruritus; visible linear tear with a possible sentinel tag in chronic cases
+Painless bright red bleeding (unless complicated by thrombosis); mucus discharge and localized pruritus; prolapse that may be reducible (noted in typical positions such as 3, 7, and 11 o’clock)
+Sudden onset of severe, localized perianal pain; marked swelling and tenderness near the anal verge; possible systemic (constitutional) symptoms in deeper abscesses
+Intermittent or persistent purulent (occasionally blood-stained) discharge; recurrent perianal pain and discomfort; palpable tract with one or more external openings lined by granulation tissue
+Intermittent pain at the base of the spine with occasional discharge; midline pit in the natal cleft with possible secondary lateral tracts; localized inflammation; may acutely form an abscess
+Sensation of a bulging mass at the anal opening; discomfort with mucus discharge; potential fecal incontinence; partial prolapse shows pink mucosal tissue whereas complete prolapse exhibits full-thickness, bulky tissue
+Investigations & Management Lines (Investigations, Findings & Treatments)
+Investigations: inspection under anesthesia for definitive assessment; Management: high-fiber diet, increased fluid intake, stool softeners, and sitz baths; Treatments: topical 2% lidocaine, vasodilators (e.g., glyceryl trinitrate or diltiazem), botulinum toxin injection, and lateral internal sphincterotomy (with/without fissurectomy)
+Investigations: proctoscopy or endoanal inspection for lesion localization; Management: dietary modification and fluid optimization with stool softeners; Treatments: topical agents, non”operative options (rubber band ligation, injection sclerotherapy, infrared coagulation, or cryotherapy), and operative techniques (conventional hemorrhoidectomy, stapled procedures, Doppler-guided HAL, or laser-assisted methods)
+Investigations: endoanal ultrasound or MRI to delineate abscess extent; Management: prompt surgical drainage with adjunct antibiotic therapy as needed; Treatments: drainage and local cleansing, with immediate fistulotomy deferred if a fistula is suspected
+Investigations: endoanal ultrasound, fistulography, or MRI to map the fistulous tract; Management: detailed delineation of the tract prior to intervention; Treatments: fistulotomy/fistulectomy for simple lesions, seton placement for complex/high tracts, sphincter-sparing options (advancement flap, LIFT, or VAAFT), and fecal diversion in refractory cases
+Investigations: visual assessment (ultrasound if necessary to delineate sinus tracts); Management: conservative measures including meticulous hair removal and hygiene; Treatments: incision and drainage for acute abscesses, and excision (allowing healing by secondary intention or primary closure) or advanced flap procedures (Modified Bascom’s, Karydakis, or Limberg’s flap)
+Investigations: dynamic imaging (defecography) and MRI for pelvic floor evaluation; Management: tailored to patient age and prolapse severity; Treatments: in children—digital repositioning, Thiersch procedure, or submucosal sclerosing injections; in adults—sclerosing injections, perineal procedures (e.g., Delorme’s or STARR), surgical resection (Altemeier’s procedure), or abdominal resection rectopexy
+Differential Diagnosis & How to Exclude Other Similar Cases
+Differential: IBD-related ulcerations, traumatic anal tears, or anal carcinoma (especially if non-midline); Exclusion: typical posterior midline location with chronic course supports fissure diagnosis, while atypical features warrant biopsy and advanced imaging
+Differential: anal fissure, colorectal polyps/carcinoma, or anorectal abscess; Exclusion: endoscopic and imaging evaluations differentiate vascular cushions from mucosal lesions
+Differential: perianal hematoma, pilonidal abscess, or traumatic soft tissue infection; Exclusion: imaging studies distinguish a fluid collection (abscess) from a hematoma, coupled with rapid onset and characteristic location
+Differential: recurrent anorectal abscess, hidradenitis suppurativa, or infected pilonidal sinus; Exclusion: detailed imaging (ultrasound/MRI) to trace the tract, with characteristic perianal distribution and chronic purulent discharge guiding diagnosis
+Differential: infected epidermal inclusion cyst, hidradenitis suppurativa, or perianal abscess; Exclusion: classic midline location in the natal cleft with embedded hair and lateral tracts distinguishes it
+Differential: intussusception (especially in children) or mucosal prolapse due to advanced hemorrhoids; Exclusion: dynamic imaging to assess full-thickness versus isolated mucosal involvement and anatomical evaluation to confirm tissue layers
+Complications
+Postoperative complications such as incontinence (especially flatus) and infection; recurrence if underlying factors (constipation, dietary habits) remain unaddressed
+Early complications: pain, urinary retention, or reactionary hemorrhage; Late complications: secondary hemorrhage, local infection, anal stenosis, and potential incontinence if sphincter is compromised (especially post-surgery)
+Risk of sepsis and systemic infection; local tissue necrosis, chronic fistula formation, and possible recurrence in immunocompromised patients
+Sphincter injury leading to fecal incontinence; recurrence, chronic sepsis, and stricture formation due to fibrosis
+Recurrence from incomplete excision and poor wound care; chronic infection with multiple sinus tracts, scarring, and repeated abscess episodes
+Fecal incontinence due to sphincter compromise; recurrence after repair, surgical morbidity (including bleeding and infection), and potential injury to adjacent structures

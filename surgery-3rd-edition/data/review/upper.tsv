@@ -1,0 +1,20 @@
+oeso-0003	KEY	B
+oeso-0003	EX	Iatrogenic thoracic perforation recognised early, with free leak into the pleura, is repaired primarily via a left thoracotomy with drainage; stenting or conservative care suits contained leaks or unfit patients.
+oeso-0004	EX	True: the GOJ lies about 40 cm from the incisors, the lining is stratified squamous and the hiatus is at T10. The oesophagus is ~25 cm long with three constrictions.
+oeso-0008	EX	24-h pH monitoring is the most accurate test for GORD; staging laparoscopy, manometry (motility disorders) and Raman spectroscopy all have roles. OGD, not barium, is first-line for heartburn.
+oeso-0010	STEM	A patient has a symptomatic pharyngeal pouch (Zenker diverticulum). What is the most important aspect of treatment?
+oeso-0012	OPTE	Endoscopic resection and ablation (oesophagectomy if endoscopic therapy is not possible)
+oeso-0012	EX	Barrett oesophagus with high-grade dysplasia is now treated by endoscopic eradication (EMR of visible lesions plus radiofrequency ablation); oesophagectomy is reserved for failures or invasive disease.
+oeso-0013	EX	The cervical oesophagus is supplied by the inferior thyroid artery, the thoracic part by aortic branches and the abdominal part by the left gastric artery.
+oeso-0020	EX	Low-grade dysplasia in Barrett oesophagus: high-dose PPI and repeat endoscopy at 6 months; confirmed persistent LGD is then offered radiofrequency ablation.
+oeso-0026	EX	New reflux symptoms in a 72-year-old need OGD first, to see the mucosa, take biopsies and exclude malignancy; pH studies come later if the diagnosis is unclear.
+stom-0002	KEY	C
+stom-0002	EX	Young dyspeptic patients without alarm features are managed by ‘test and treat’: confirm H. pylori (urea breath or stool antigen test) before giving eradication therapy.
+stom-0004	STEM	OGD biopsy in the same patient shows high-grade lymphoid tissue suggestive of gastric MALT lymphoma. Besides chemoradiation, what is the appropriate medical treatment?
+stom-0008	KEY	D
+stom-0008	EX	Eradication therapy should follow a positive test (urea breath or stool antigen); a 59-year-old with persistent symptoms also needs OGD if they do not settle.
+stom-0010	EX	A patient with previous ulcer starting an NSAID should be tested and treated for H. pylori and given PPI gastroprotection.
+stom-0018	KEY	AE
+stom-0018	EX	Parietal cells secrete H⁺ via the H⁺/K⁺ ATPase and somatostatin inhibits acid. Histamine acts on parietal cells, the vagus mediates the cephalic phase and secretin inhibits acid.
+stom-0023	EX	False: Ménétrier disease causes hypochlorhydria and results from increased (not reduced) TGF-α signalling. It gives giant folds, protein loss and anaemia; gastrectomy is a last resort.
+stom-0040	CH	paed

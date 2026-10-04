@@ -1,0 +1,4728 @@
+[
+ {
+  "new": {
+   "id": "bbreast-0046",
+   "chapter": "bbreast",
+   "order": 1053,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q53",
+   "status": "new",
+   "topics": [
+    "Duct ectasia"
+   ],
+   "notes": "",
+   "stem": "A 28-year-old woman, a smoker with five children (all breast-fed), has had bloody nipple discharge from the right breast for 6 months. At times the area swells with a foul-smelling discharge; antibiotics did not help. Tests show mildly dilated multiple lactiferous ducts. What is the management?",
+   "options": [
+    "Lumpectomy",
+    "Simple mastectomy",
+    "Modified radical mastectomy",
+    "Reassurance, smoking cessation and follow-up",
+    "Drainage and antibiotics"
+   ],
+   "answer": "D",
+   "explanation": "Duct ectasia/periductal mastitis is benign: reassure, stop smoking and follow up; total duct excision only for persistent discharge or recurrent sepsis.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 53
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "bbreast-0047",
+   "chapter": "bbreast",
+   "order": 1054,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q54",
+   "status": "new",
+   "topics": [
+    "Nipple discharge"
+   ],
+   "notes": "",
+   "stem": "A 28-year-old woman, a smoker with five children (all breast-fed), has had bloody nipple discharge from the right breast for 6 months. At times the area swells with a foul-smelling discharge; antibiotics did not help. Which of the following is NOT useful in investigating her condition?",
+   "options": [
+    "Bilateral breast examination",
+    "Mammography",
+    "Breast MRI",
+    "Breast ultrasound",
+    "Cytology of the discharge"
+   ],
+   "answer": "C",
+   "explanation": "Triple assessment (examination, ultrasound/mammography, cytology) suffices; MRI adds nothing in benign duct ectasia.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 54
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "bbreast-0048",
+   "chapter": "bbreast",
+   "order": 1055,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q55",
+   "status": "new",
+   "topics": [
+    "Duct ectasia"
+   ],
+   "notes": "",
+   "stem": "A 28-year-old woman, a smoker with five children (all breast-fed), has had bloody nipple discharge from the right breast for 6 months. At times the area swells with a foul-smelling discharge; antibiotics did not help. What is the diagnosis?",
+   "options": [
+    "Duct ectasia",
+    "Ductal carcinoma",
+    "Lobular carcinoma",
+    "Breast abscess",
+    "Fibroadenoma"
+   ],
+   "answer": "A",
+   "explanation": "Smoking, multiparity and multiple dilated ducts with discharge and recurrent periareolar inflammation are typical of duct ectasia/periductal mastitis.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 55
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "bca-0061",
+   "chapter": "bca",
+   "order": 1071,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q71",
+   "status": "new",
+   "topics": [
+    "Breast cancer"
+   ],
+   "notes": "",
+   "stem": "A 55-year-old woman has a 3-month painless lump in the upper outer quadrant of the left breast and nipple retraction for 2 weeks. Core biopsy of a palpable axillary node shows invasive carcinoma, hormone-receptor negative; PET shows no metastasis. What is the best next step in management?",
+   "options": [
+    "Wide local excision",
+    "Simple mastectomy",
+    "Modified radical mastectomy",
+    "Adjuvant chemotherapy",
+    "Radiotherapy"
+   ],
+   "answer": "C",
+   "explanation": "Node-positive cancer with nipple involvement needs mastectomy with axillary clearance; neoadjuvant chemotherapy is often given first for ER-negative disease.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 71
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "bca-0062",
+   "chapter": "bca",
+   "order": 1072,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q72",
+   "status": "new",
+   "topics": [
+    "Axillary clearance"
+   ],
+   "notes": "",
+   "stem": "8 months after her surgery she has difficulty raising her arm and her medial scapula is prominent. What is the cause?",
+   "options": [
+    "Frozen shoulder",
+    "Serratus anterior denervation",
+    "Tear of the long head of biceps",
+    "Supraspinatus tendon injury",
+    "Thoracodorsal nerve injury"
+   ],
+   "answer": "B",
+   "explanation": "Winging of the scapula follows injury to the long thoracic nerve (serratus anterior) during axillary dissection; thoracodorsal injury weakens latissimus dorsi.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 72
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0237",
+   "chapter": "intest",
+   "order": 1102,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q102",
+   "status": "new",
+   "topics": [
+    "Diverticulitis"
+   ],
+   "notes": "",
+   "stem": "An elderly man with previous bloody stools and lower abdominal pain has a sudden attack of left iliac fossa pain with fever. Ultrasound shows thickening of the sigmoid colon. What is the most likely diagnosis?",
+   "options": [
+    "Diverticulitis",
+    "Ischaemic colitis",
+    "Sigmoid carcinoma",
+    "Crohn disease",
+    "Appendicitis"
+   ],
+   "answer": "A",
+   "explanation": "LIF pain, fever and sigmoid wall thickening in an older patient is acute diverticulitis.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 102
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0238",
+   "chapter": "intest",
+   "order": 1103,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q103",
+   "status": "new",
+   "topics": [
+    "Diverticulitis"
+   ],
+   "notes": "",
+   "stem": "An elderly man with previous bloody stools and lower abdominal pain has a sudden attack of left iliac fossa pain with fever. Ultrasound shows thickening of the sigmoid colon. What is the best investigation now?",
+   "options": [
+    "Colonoscopy",
+    "Barium enema",
+    "Contrast-enhanced CT",
+    "Plain abdominal X-ray",
+    "MRI"
+   ],
+   "answer": "C",
+   "explanation": "Contrast CT confirms diverticulitis and shows abscess or perforation; colonoscopy and barium enema are avoided acutely (perforation risk).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 103
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0239",
+   "chapter": "intest",
+   "order": 1104,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q104",
+   "status": "new",
+   "topics": [
+    "Diverticulitis"
+   ],
+   "notes": "",
+   "stem": "An elderly man with previous bloody stools and lower abdominal pain has a sudden attack of left iliac fossa pain with fever. Ultrasound shows thickening of the sigmoid colon. What is the treatment?",
+   "options": [
+    "Colostomy",
+    "Sigmoid colectomy",
+    "Bowel rest and antibiotics",
+    "Percutaneous drainage",
+    "Laparoscopic lavage"
+   ],
+   "answer": "C",
+   "explanation": "Uncomplicated diverticulitis is treated conservatively (bowel rest, fluids, antibiotics if systemically unwell); drainage is for abscess > 4 cm.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 104
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gitemq-0099",
+   "chapter": "gitemq",
+   "order": 2015,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q15–19",
+   "status": "new",
+   "topics": [
+    "Haemorrhoids",
+    "Anal fissure"
+   ],
+   "notes": "",
+   "theme": "Treatment of perianal disorders",
+   "options": [
+    "Rubber band ligation",
+    "Stapled haemorrhoidopexy",
+    "Open (excisional) haemorrhoidectomy",
+    "Topical calcium channel blocker",
+    "Botulinum toxin injection",
+    "Fistulotomy",
+    "Incision and drainage",
+    "Lateral internal sphincterotomy",
+    "Seton placement"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A woman with an anal fissure in whom conservative management has failed.",
+     "answer": "E",
+     "explanation": "After failed topical therapy, botulinum toxin is preferred in women (obstetric sphincter risk); lateral sphincterotomy is used in men or if Botox fails.",
+     "images": [],
+     "src_num": 15
+    },
+    {
+     "n": 2,
+     "stem": "A patient with prolapsed haemorrhoids that need manual reduction or remain prolapsed.",
+     "answer": "C",
+     "explanation": "Grade III–IV haemorrhoids are treated by excisional haemorrhoidectomy; stapled haemorrhoidopexy is an alternative for grade III.",
+     "images": [],
+     "src_num": 16
+    },
+    {
+     "n": 3,
+     "stem": "A man with fever and a fluctuant perianal mass.",
+     "answer": "G",
+     "explanation": "A perianal abscess needs incision and drainage.",
+     "images": [],
+     "src_num": 17
+    },
+    {
+     "n": 4,
+     "stem": "A man with Crohn disease and a low fistula-in-ano.",
+     "answer": "I",
+     "explanation": "Perianal Crohn fistulas are managed with a loose draining seton plus medical therapy to avoid incontinence and non-healing wounds.",
+     "images": [],
+     "src_num": 18
+    },
+    {
+     "n": 5,
+     "stem": "A woman with painless haemorrhoids that prolapse on defecation and reduce spontaneously.",
+     "answer": "A",
+     "explanation": "Grade II haemorrhoids are treated by rubber band ligation.",
+     "images": [],
+     "src_num": 19
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gitemq-0100",
+   "chapter": "gitemq",
+   "order": 5011,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q11–14",
+   "status": "new",
+   "topics": [
+    "Upper GI bleeding"
+   ],
+   "notes": "",
+   "theme": "Upper gastrointestinal bleeding",
+   "options": [
+    "Peptic ulcer disease",
+    "Mallory–Weiss tear",
+    "Oesophageal varices",
+    "Gastric cancer",
+    "Dieulafoy lesion",
+    "Angiodysplasia",
+    "Erosive gastritis",
+    "Aortoenteric fistula",
+    "Gastric antral vascular ectasia (watermelon stomach)"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 52-year-old man with alcoholic cirrhosis has massive haematemesis and hypotension. He has spider naevi and ascites.",
+     "answer": "C",
+     "explanation": "Massive haematemesis with stigmata of chronic liver disease is bleeding oesophageal varices.",
+     "images": [],
+     "src_num": 11
+    },
+    {
+     "n": 2,
+     "stem": "A 35-year-old man vomits blood-streaked material after several bouts of forceful retching following heavy drinking. He is stable and the bleeding stops spontaneously.",
+     "answer": "B",
+     "explanation": "Haematemesis after forceful retching that settles spontaneously is a Mallory–Weiss tear.",
+     "images": [],
+     "src_num": 12
+    },
+    {
+     "n": 3,
+     "stem": "A 68-year-old man taking NSAIDs for osteoarthritis has melaena and anaemia. He is otherwise healthy.",
+     "answer": "A",
+     "explanation": "NSAID use with melaena and anaemia is a bleeding peptic ulcer.",
+     "images": [],
+     "src_num": 13
+    },
+    {
+     "n": 4,
+     "stem": "A 65-year-old woman has fatigue and pallor and has neglected tarry stools for a year. There is a hard, non-tender lump above the left clavicle.",
+     "answer": "D",
+     "explanation": "Chronic melaena with a left supraclavicular (Virchow) node is gastric cancer.",
+     "images": [],
+     "src_num": 14
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A"
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0240",
+   "chapter": "intest",
+   "order": 3001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q1",
+   "status": "new",
+   "topics": [
+    "Sigmoid volvulus"
+   ],
+   "notes": "",
+   "stem": "An elderly woman in a care home who takes antipsychotics and has chronic constipation presents with a distended, painless, non-tender abdomen. X-ray shows a hugely dilated sigmoid loop reaching the upper abdomen. What is the diagnosis?",
+   "options": [
+    "Sigmoid volvulus",
+    "Diverticular disease",
+    "Obstructing sigmoid tumour",
+    "Acute colonic pseudo-obstruction",
+    "Toxic megacolon"
+   ],
+   "answer": "A",
+   "explanation": "A huge sigmoid loop rising from the pelvis (coffee-bean sign) in an elderly, constipated, institutionalised patient is sigmoid volvulus.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0241",
+   "chapter": "intest",
+   "order": 3002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q2",
+   "status": "new",
+   "topics": [
+    "Sigmoid volvulus"
+   ],
+   "notes": "",
+   "stem": "An elderly woman in a care home who takes antipsychotics and has chronic constipation presents with a distended, painless, non-tender abdomen. X-ray shows a hugely dilated sigmoid loop reaching the upper abdomen. Which procedure is both diagnostic and therapeutic?",
+   "options": [
+    "Endoscopic (flexible sigmoidoscopic) decompression",
+    "Barium enema",
+    "CT abdomen",
+    "Laparotomy",
+    "Rectal tube without endoscopy"
+   ],
+   "answer": "A",
+   "explanation": "Flexible sigmoidoscopy confirms the twist, checks viability and decompresses with a flatus tube; elective sigmoid colectomy follows to prevent recurrence.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0242",
+   "chapter": "intest",
+   "order": 3003,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q3",
+   "status": "new",
+   "topics": [
+    "Colonic blood supply"
+   ],
+   "notes": "",
+   "stem": "An elderly woman in a care home who takes antipsychotics and has chronic constipation presents with a distended, painless, non-tender abdomen. X-ray shows a hugely dilated sigmoid loop reaching the upper abdomen. At surgery the descending and sigmoid colon are resected. Which artery is ligated?",
+   "options": [
+    "Ileocolic",
+    "Superior mesenteric",
+    "Inferior mesenteric",
+    "Middle colic",
+    "Coeliac trunk"
+   ],
+   "answer": "C",
+   "explanation": "The descending and sigmoid colon are supplied by the inferior mesenteric artery (left colic and sigmoid branches).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 3
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "anus-0042",
+   "chapter": "anus",
+   "order": 5009,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q9",
+   "status": "new",
+   "topics": [
+    "Perianal abscess"
+   ],
+   "notes": "",
+   "stem": "A 21-year-old man has incapacitating perianal pain for 3 days despite local ointment. There is a tender, fluctuant right perianal swelling with overlying erythema. What is the most likely diagnosis?",
+   "options": [
+    "Perianal abscess",
+    "Perianal haematoma",
+    "Pilonidal abscess",
+    "Strangulated piles",
+    "Fournier gangrene"
+   ],
+   "answer": "A",
+   "explanation": "A tender, fluctuant, erythematous swelling beside the anus is a perianal abscess.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 9
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "anus-0043",
+   "chapter": "anus",
+   "order": 5010,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q10",
+   "status": "new",
+   "topics": [
+    "Perianal abscess"
+   ],
+   "notes": "",
+   "stem": "A 21-year-old man has incapacitating perianal pain for 3 days despite local ointment. There is a tender, fluctuant right perianal swelling with overlying erythema. What is the best treatment now?",
+   "options": [
+    "Antibiotics",
+    "Incision and drainage",
+    "Excision and primary repair",
+    "Haemorrhoidectomy",
+    "Local debridement"
+   ],
+   "answer": "B",
+   "explanation": "An abscess needs prompt incision and drainage; antibiotics alone are inadequate.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 10
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "oeso-0032",
+   "chapter": "oeso",
+   "order": 4001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q1",
+   "status": "new",
+   "topics": [
+    "Oesophageal dysmotility"
+   ],
+   "notes": "",
+   "stem": "A 55-year-old man has had intermittent dysphagia for solids and liquids with central chest pain for 4 months. ECG and troponin are normal; sublingual nitrates relieve the pain. What is the diagnosis?",
+   "options": [
+    "Achalasia",
+    "Diffuse oesophageal spasm",
+    "Oesophageal carcinoma",
+    "Plummer–Vinson syndrome",
+    "Gastro-oesophageal reflux disease"
+   ],
+   "answer": "B",
+   "explanation": "Intermittent dysphagia for solids and liquids with chest pain relieved by nitrates is diffuse oesophageal spasm (corkscrew oesophagus on barium).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "oeso-0033",
+   "chapter": "oeso",
+   "order": 4002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q2",
+   "status": "new",
+   "topics": [
+    "Oesophageal dysmotility"
+   ],
+   "notes": "",
+   "stem": "A 55-year-old man has had intermittent dysphagia for solids and liquids with central chest pain for 4 months. ECG and troponin are normal; sublingual nitrates relieve the pain. Which investigation confirms the diagnosis?",
+   "options": [
+    "Oesophageal manometry",
+    "Upper GI endoscopy",
+    "CT chest",
+    "Ultrasound",
+    "Laparotomy"
+   ],
+   "answer": "A",
+   "explanation": "High-resolution manometry shows premature simultaneous contractions; endoscopy is done first to exclude obstruction.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "oeso-0034",
+   "chapter": "oeso",
+   "order": 4003,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q3",
+   "status": "new",
+   "topics": [
+    "Oesophageal dysmotility"
+   ],
+   "notes": "",
+   "stem": "A 55-year-old man has had intermittent dysphagia for solids and liquids with central chest pain for 4 months. ECG and troponin are normal; sublingual nitrates relieve the pain. What is the best management now?",
+   "options": [
+    "Calcium channel blocker",
+    "Peroral endoscopic myotomy (POEM)",
+    "Heller myotomy",
+    "Oesophagectomy",
+    "Proton-pump inhibitor alone"
+   ],
+   "answer": "A",
+   "explanation": "Oesophageal spasm is treated medically first (calcium channel blockers or nitrates); POEM is reserved for refractory cases.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 3
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paedemq-0008",
+   "chapter": "paedemq",
+   "order": 2080,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q80–83",
+   "status": "new",
+   "topics": [
+    "Neonatal intestinal obstruction"
+   ],
+   "notes": "",
+   "theme": "The vomiting neonate and infant",
+   "options": [
+    "Hirschsprung disease",
+    "Malrotation with midgut volvulus",
+    "Infantile hypertrophic pyloric stenosis",
+    "Meconium ileus",
+    "Duodenal atresia",
+    "Jejunoileal atresia",
+    "Necrotising enterocolitis",
+    "Intussusception"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 2-day-old infant with Down syndrome has projectile vomiting and a scaphoid abdomen. X-ray shows a double-bubble sign with no distal bowel gas.",
+     "answer": "E",
+     "explanation": "Double bubble without distal gas in a baby with Down syndrome is duodenal atresia (vomiting is usually bilious if post-ampullary).",
+     "images": [],
+     "src_num": 80
+    },
+    {
+     "n": 2,
+     "stem": "A 2-week-old infant born at 28 weeks, in the NICU, develops sudden abdominal distension and bloody stool. X-ray shows gas in the bowel wall.",
+     "answer": "G",
+     "explanation": "Pneumatosis intestinalis with distension and bloody stool in a preterm neonate is necrotising enterocolitis.",
+     "images": [],
+     "src_num": 81
+    },
+    {
+     "n": 3,
+     "stem": "A full-term 2-day-old has not passed meconium, vomits bile and is distended. Rectal examination produces an explosive release of gas and liquid stool.",
+     "answer": "A",
+     "explanation": "Delayed meconium with an explosive decompression on rectal examination is Hirschsprung disease; rectal suction biopsy confirms it.",
+     "images": [],
+     "src_num": 82
+    },
+    {
+     "n": 4,
+     "stem": "A 5-day-old who was feeding well suddenly has bilious vomiting, tenderness and haemodynamic instability. Contrast shows the duodenojejunal flexure right of the spine with a corkscrew duodenum.",
+     "answer": "B",
+     "explanation": "Bilious vomiting with an abnormally placed DJ flexure and corkscrew duodenum is malrotation with midgut volvulus: emergency Ladd procedure.",
+     "images": [],
+     "src_num": 83
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0051",
+   "chapter": "paed",
+   "order": 1012,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q12",
+   "status": "new",
+   "topics": [
+    "Paediatric hernia"
+   ],
+   "notes": "",
+   "stem": "An 18-month-old child, born at 34 weeks, has had a groin lump for 1 week that enlarges on coughing and disappears spontaneously. What is the most likely diagnosis?",
+   "options": [
+    "Direct inguinal hernia",
+    "Indirect inguinal hernia",
+    "Femoral hernia",
+    "Hydrocele",
+    "Inguinal lymphadenopathy"
+   ],
+   "answer": "B",
+   "explanation": "Paediatric inguinal hernias are almost always indirect, through a patent processus vaginalis; prematurity increases the risk.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 12
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0052",
+   "chapter": "paed",
+   "order": 1013,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q13",
+   "status": "new",
+   "topics": [
+    "Paediatric hernia"
+   ],
+   "notes": "",
+   "stem": "An 18-month-old child, born at 34 weeks, has had a groin lump for 1 week that enlarges on coughing and disappears spontaneously. What is the best investigation?",
+   "options": [
+    "Clinical examination",
+    "Abdominal ultrasound",
+    "Doppler ultrasound",
+    "CT abdomen",
+    "MRI"
+   ],
+   "answer": "A",
+   "explanation": "The diagnosis is clinical (history of a reducible lump with cough impulse); imaging is not needed.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 13
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0053",
+   "chapter": "paed",
+   "order": 1014,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q14",
+   "status": "new",
+   "topics": [
+    "Paediatric hernia"
+   ],
+   "notes": "",
+   "stem": "An 18-month-old child, born at 34 weeks, has had a groin lump for 1 week that enlarges on coughing and disappears spontaneously. What is the treatment?",
+   "options": [
+    "Herniotomy",
+    "Mesh repair",
+    "Wait until 4 years of age",
+    "Hernioplasty",
+    "Hydrocelectomy"
+   ],
+   "answer": "A",
+   "explanation": "Herniotomy (high ligation of the sac) is done soon after diagnosis because of the high incarceration risk; mesh is not used in children.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 14
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0054",
+   "chapter": "paed",
+   "order": 1090,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q90",
+   "status": "new",
+   "topics": [
+    "Cleft palate"
+   ],
+   "notes": "",
+   "stem": "A baby a few months old has feeding difficulty, with milk coming out of the nose during feeds, coughing and choking. There is no excessive salivation. What is the most likely diagnosis?",
+   "options": [
+    "Cleft palate",
+    "Tracheo-oesophageal fistula",
+    "Gastro-oesophageal reflux disease",
+    "Choanal atresia",
+    "Laryngomalacia"
+   ],
+   "answer": "A",
+   "explanation": "Nasal regurgitation of milk without drooling suggests a cleft (often submucous) palate; TOF presents at birth with excessive salivation.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 90
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0055",
+   "chapter": "paed",
+   "order": 1091,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q91",
+   "status": "new",
+   "topics": [
+    "Cleft palate"
+   ],
+   "notes": "",
+   "stem": "A baby a few months old has feeding difficulty, with milk coming out of the nose during feeds, coughing and choking. There is no excessive salivation. What is the optimal time of repair?",
+   "options": [
+    "At birth",
+    "1–3 months",
+    "6–18 months",
+    "3 years",
+    "7 years"
+   ],
+   "answer": "C",
+   "explanation": "Cleft palate is repaired at about 6–12 months, before speech develops; cleft lip at about 3 months.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 91
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0056",
+   "chapter": "paed",
+   "order": 1092,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q92",
+   "status": "new",
+   "topics": [
+    "Cleft palate"
+   ],
+   "notes": "",
+   "stem": "A baby a few months old has feeding difficulty, with milk coming out of the nose during feeds, coughing and choking. There is no excessive salivation. Which is NOT a complication of this condition?",
+   "options": [
+    "Feeding difficulty",
+    "Speech difficulty",
+    "Recurrent otitis media",
+    "Recurrent chest infection",
+    "Oesophageal stricture"
+   ],
+   "answer": "E",
+   "explanation": "Cleft palate causes feeding and speech problems, otitis media (Eustachian dysfunction) and aspiration; it does not cause oesophageal stricture.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 92
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0057",
+   "chapter": "paed",
+   "order": 5001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q1",
+   "status": "new",
+   "topics": [
+    "Anorectal malformation"
+   ],
+   "notes": "",
+   "stem": "An 18-hour-old girl born by spontaneous vaginal delivery has an imperforate anus with a rectovestibular fistula. She weighs 2750 g, looks healthy and has no associated defects. Initial management includes all of the following EXCEPT:",
+   "options": [
+    "IV fluids",
+    "IV antibiotics",
+    "Incubator care",
+    "Search for associated congenital anomalies (VACTERL)",
+    "Immediate surgery"
+   ],
+   "answer": "E",
+   "explanation": "First 24 h: fluids, antibiotics, NG decompression and VACTERL screening; surgery is planned once the anatomy and associated anomalies are known.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0058",
+   "chapter": "paed",
+   "order": 5002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q2",
+   "status": "new",
+   "topics": [
+    "Anorectal malformation"
+   ],
+   "notes": "",
+   "stem": "An 18-hour-old girl born by spontaneous vaginal delivery has an imperforate anus with a rectovestibular fistula. She weighs 2750 g, looks healthy and has no associated defects. What is the most appropriate operation?",
+   "options": [
+    "Diverting colostomy",
+    "Diverting ileostomy",
+    "Single-stage posterior sagittal anorectoplasty",
+    "Swenson pull-through",
+    "Heineke–Mikulicz pyloroplasty"
+   ],
+   "answer": "C",
+   "explanation": "A healthy girl with a vestibular fistula can have a primary single-stage PSARP; a colostomy is reserved for sick babies or high defects.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0059",
+   "chapter": "paed",
+   "order": 3001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q1",
+   "status": "new",
+   "topics": [
+    "Anorectal malformation"
+   ],
+   "notes": "",
+   "stem": "A 12-hour-old boy has an imperforate anus with an absent anal dimple and is passing meconium in his urine. What is the next step?",
+   "options": [
+    "Cross-table prone lateral X-ray",
+    "Plain abdominal X-ray",
+    "Wait until 24 hours",
+    "Diverting colostomy",
+    "Immediate PSARP"
+   ],
+   "answer": "D",
+   "explanation": "Meconium in the urine means a rectourinary fistula (high lesion), so a diverting colostomy is done; imaging and waiting 24 h are for unclear cases.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0060",
+   "chapter": "paed",
+   "order": 3002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q2",
+   "status": "new",
+   "topics": [
+    "Anorectal malformation"
+   ],
+   "notes": "",
+   "stem": "A 12-hour-old boy has an imperforate anus with an absent anal dimple and is passing meconium in his urine. How is the type of imperforate anus defined before definitive repair?",
+   "options": [
+    "High-pressure distal colostogram",
+    "Invertogram",
+    "Abdominal ultrasound",
+    "MRI spine",
+    "Contrast enema via the perineum"
+   ],
+   "answer": "A",
+   "explanation": "A high-pressure distal colostogram through the mucous fistula shows the rectal level and the fistula to the urinary tract.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0061",
+   "chapter": "paed",
+   "order": 4001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q1",
+   "status": "new",
+   "topics": [
+    "Infant vomiting"
+   ],
+   "notes": "",
+   "stem": "A 4-month-old boy with effortless (sometimes forceful) non-bilious vomiting, fever to 39.5 °C and 4–6 green diarrhoeal stools a day. All of the following are useful EXCEPT:",
+   "options": [
+    "Full blood count",
+    "Abdominal X-ray",
+    "Ultrasound",
+    "Barium follow-through",
+    "Stool examination"
+   ],
+   "answer": "D",
+   "explanation": "Fever with vomiting and diarrhoea suggests gastroenteritis; FBC, stool tests and ultrasound help, but barium follow-through has no role.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0062",
+   "chapter": "paed",
+   "order": 4002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q2",
+   "status": "new",
+   "topics": [
+    "Infant vomiting"
+   ],
+   "notes": "",
+   "stem": "A 4-month-old boy with effortless (sometimes forceful) non-bilious vomiting, fever to 39.5 °C and 4–6 green diarrhoeal stools a day. What is the diagnosis?",
+   "options": [
+    "Pyloric stenosis",
+    "Viral gastroenteritis",
+    "Pyloric atresia",
+    "Oesophageal atresia",
+    "Mesenteric lymphadenitis"
+   ],
+   "answer": "B",
+   "explanation": "Fever, vomiting and diarrhoea point to infective (viral) gastroenteritis; pyloric stenosis causes vomiting without fever or diarrhoea.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "paed-0063",
+   "chapter": "paed",
+   "order": 4003,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q3",
+   "status": "new",
+   "topics": [
+    "Infant vomiting"
+   ],
+   "notes": "",
+   "stem": "A 4-month-old boy with effortless (sometimes forceful) non-bilious vomiting, fever to 39.5 °C and 4–6 green diarrhoeal stools a day. What is the management?",
+   "options": [
+    "Watch and wait",
+    "Antibiotics",
+    "Supportive treatment (rehydration and symptom relief)",
+    "Pyloromyotomy",
+    "Laparotomy"
+   ],
+   "answer": "C",
+   "explanation": "Viral gastroenteritis is managed supportively with oral or IV rehydration; antibiotics and surgery have no role.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 3
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0071",
+   "chapter": "gb",
+   "order": 1015,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q15",
+   "status": "new",
+   "topics": [
+    "Cholangiocarcinoma"
+   ],
+   "notes": "",
+   "stem": "A man has jaundice, weight loss and a cholestatic pattern (raised ALP and GGT). Ultrasound shows dilated intrahepatic ducts, a collapsed gallbladder and a normal pancreas. What is the most likely diagnosis?",
+   "options": [
+    "Perihilar cholangiocarcinoma",
+    "Pancreatic carcinoma",
+    "Periampullary cholangiocarcinoma",
+    "Hepatocellular carcinoma",
+    "Acute pancreatitis"
+   ],
+   "answer": "A",
+   "explanation": "Dilated intrahepatic ducts with a collapsed gallbladder put the block above the cystic duct: hilar (Klatskin) cholangiocarcinoma.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 15
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0072",
+   "chapter": "gb",
+   "order": 1016,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q16",
+   "status": "new",
+   "topics": [
+    "Cholangiocarcinoma"
+   ],
+   "notes": "",
+   "stem": "A man has jaundice, weight loss and a cholestatic pattern (raised ALP and GGT). Ultrasound shows dilated intrahepatic ducts, a collapsed gallbladder and a normal pancreas. Which tumour marker is associated?",
+   "options": [
+    "AFP",
+    "CEA",
+    "CA 19-9",
+    "CA 125",
+    "PSA"
+   ],
+   "answer": "C",
+   "explanation": "CA 19-9 is the marker for cholangiocarcinoma and pancreatic cancer (it is also raised by cholestasis itself).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 16
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0073",
+   "chapter": "gb",
+   "order": 1017,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q17",
+   "status": "new",
+   "topics": [
+    "Obstructive jaundice"
+   ],
+   "notes": "",
+   "stem": "A man has jaundice, weight loss and a cholestatic pattern (raised ALP and GGT). Ultrasound shows dilated intrahepatic ducts, a collapsed gallbladder and a normal pancreas. What causes the itching?",
+   "options": [
+    "Bile salts",
+    "Bilirubin",
+    "Urea",
+    "Histamine",
+    "Ammonia"
+   ],
+   "answer": "A",
+   "explanation": "Pruritus in obstructive jaundice is due to retained bile salts (and other pruritogens) in the skin, not bilirubin.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 17
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0074",
+   "chapter": "gb",
+   "order": 1018,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q18",
+   "status": "new",
+   "topics": [
+    "Cholangiocarcinoma"
+   ],
+   "notes": "",
+   "stem": "A man has jaundice, weight loss and a cholestatic pattern (raised ALP and GGT). Ultrasound shows dilated intrahepatic ducts, a collapsed gallbladder and a normal pancreas. What is the best non-invasive investigation for diagnosis?",
+   "options": [
+    "ERCP",
+    "CT scan",
+    "MRCP",
+    "HIDA scan",
+    "Plain abdominal X-ray"
+   ],
+   "answer": "C",
+   "explanation": "MRCP maps the biliary tree non-invasively and defines the level and extent of a hilar stricture before any drainage.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 18
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0075",
+   "chapter": "gb",
+   "order": 1019,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q19",
+   "status": "new",
+   "topics": [
+    "Cholangiocarcinoma"
+   ],
+   "notes": "",
+   "stem": "A man has jaundice, weight loss and a cholestatic pattern (raised ALP and GGT). Ultrasound shows dilated intrahepatic ducts, a collapsed gallbladder and a normal pancreas. The patient remains jaundiced after two ERCP attempts. What is the next step?",
+   "options": [
+    "Laparoscopic bypass",
+    "Percutaneous transhepatic cholangiography and drainage",
+    "Repeat ERCP",
+    "Liver transplantation",
+    "Observation"
+   ],
+   "answer": "B",
+   "explanation": "Hilar strictures that fail endoscopic stenting are drained percutaneously (PTC/PTBD).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 19
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "liver-0043",
+   "chapter": "liver",
+   "order": 1098,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q98",
+   "status": "new",
+   "topics": [
+    "Amoebic liver abscess"
+   ],
+   "notes": "",
+   "stem": "A man has fever, malaise and tender hepatomegaly after diarrhoea following travel to Nasiriyah. Ultrasound shows a 7-cm cystic liver lesion; blood cultures are negative. What is the most likely organism?",
+   "options": [
+    "Entamoeba histolytica",
+    "Shigella",
+    "Echinococcus granulosus",
+    "Staphylococcus aureus",
+    "Escherichia coli"
+   ],
+   "answer": "A",
+   "explanation": "Fever, tender hepatomegaly and a liver abscess after dysentery with sterile blood cultures is an amoebic liver abscess.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 98
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "liver-0044",
+   "chapter": "liver",
+   "order": 1099,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q99",
+   "status": "new",
+   "topics": [
+    "Amoebic liver abscess"
+   ],
+   "notes": "",
+   "stem": "A man has fever, malaise and tender hepatomegaly after diarrhoea following travel to Nasiriyah. Ultrasound shows a 7-cm cystic liver lesion; blood cultures are negative. How did the organism reach the liver?",
+   "options": [
+    "Direct spread from an empyema",
+    "Haematogenous spread via the hepatic artery",
+    "Via the portal vein from the colon",
+    "Ascending infection via the bile duct",
+    "Lymphatic spread"
+   ],
+   "answer": "C",
+   "explanation": "Trophozoites invade the colonic mucosa and travel in the portal venous blood to the liver (usually the right lobe).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 99
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "liver-0045",
+   "chapter": "liver",
+   "order": 1100,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q100",
+   "status": "new",
+   "topics": [
+    "Amoebic liver abscess"
+   ],
+   "notes": "",
+   "stem": "A man has fever, malaise and tender hepatomegaly after diarrhoea following travel to Nasiriyah. Ultrasound shows a 7-cm cystic liver lesion; blood cultures are negative. He receives a second-generation cephalosporin and metronidazole, and the cyst is aspirated. What does the aspirate show?",
+   "options": [
+    "Anchovy-sauce (paste) fluid",
+    "Clear hydatid fluid",
+    "Foul-smelling yellow pus",
+    "Blood-stained bile",
+    "Chylous fluid"
+   ],
+   "answer": "A",
+   "explanation": "Amoebic abscess fluid is odourless, reddish-brown \"anchovy sauce\" (liquefied liver); pyogenic abscesses contain yellow pus.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 100
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "liver-0046",
+   "chapter": "liver",
+   "order": 1101,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q101",
+   "status": "new",
+   "topics": [
+    "Amoebic liver abscess"
+   ],
+   "notes": "",
+   "stem": "A man has fever, malaise and tender hepatomegaly after diarrhoea following travel to Nasiriyah. Ultrasound shows a 7-cm cystic liver lesion; blood cultures are negative. Which additional treatment is essential?",
+   "options": [
+    "Diloxanide furoate",
+    "Long-term metronidazole",
+    "Praziquantel",
+    "Albendazole",
+    "Surgical drainage"
+   ],
+   "answer": "A",
+   "explanation": "After metronidazole, a luminal amoebicide (diloxanide furoate or paromomycin) is needed to clear intestinal cysts and prevent relapse.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 101
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "abdemq-0013",
+   "chapter": "abdemq",
+   "order": 2045,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q45–50",
+   "status": "new",
+   "topics": [
+    "Pancreatic tumours"
+   ],
+   "notes": "",
+   "theme": "Pancreatic disorders",
+   "options": [
+    "Acute pancreatitis",
+    "Chronic pancreatitis",
+    "Carcinoma of the pancreas",
+    "Intraductal papillary mucinous neoplasm",
+    "Gastrinoma",
+    "Somatostatinoma",
+    "Glucagonoma",
+    "Ampullary tumour",
+    "Pancreatic pseudocyst",
+    "Pancreatic hydatid cyst",
+    "Insulinoma"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 50-year-old with vague abdominal pain has been treated for multiple gastric and duodenal ulcers.",
+     "answer": "E",
+     "explanation": "Multiple or recurrent peptic ulcers suggest Zollinger–Ellison syndrome from a gastrinoma.",
+     "images": [],
+     "src_num": 45
+    },
+    {
+     "n": 2,
+     "stem": "A patient has recurrent episodes of loss of consciousness, sweating and dizziness, and eats large amounts of food.",
+     "answer": "K",
+     "explanation": "Fasting hypoglycaemia relieved by eating (Whipple triad) with weight gain is an insulinoma.",
+     "images": [],
+     "src_num": 46
+    },
+    {
+     "n": 3,
+     "stem": "A patient has chronic malnutrition and says food always passes completely undigested.",
+     "answer": "B",
+     "explanation": "Steatorrhoea and maldigestion are exocrine failure from chronic pancreatitis.",
+     "images": [],
+     "src_num": 47
+    },
+    {
+     "n": 4,
+     "stem": "A patient with a previously treated liver hydatid cyst has upper abdominal pain; imaging shows an additional cyst in the pancreas.",
+     "answer": "J",
+     "explanation": "A pancreatic cyst in a patient with liver hydatid disease is a pancreatic hydatid cyst.",
+     "images": [],
+     "src_num": 48
+    },
+    {
+     "n": 5,
+     "stem": "A patient with gallstones for 10 years has recurrent upper abdominal pain and maldigestion.",
+     "answer": "B",
+     "explanation": "Recurrent attacks of gallstone pancreatitis can progress to chronic pancreatitis with exocrine insufficiency.",
+     "images": [],
+     "src_num": 49
+    },
+    {
+     "n": 6,
+     "stem": "A patient has upper abdominal pain and fever. CT shows a markedly dilated main pancreatic duct with a filling defect.",
+     "answer": "D",
+     "explanation": "A markedly dilated main duct with filling defects (mucin) is a main-duct IPMN; it has high malignant potential and needs resection.",
+     "images": [],
+     "src_num": 50
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "adrenal-0009",
+   "chapter": "adrenal",
+   "order": 1061,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q61",
+   "status": "new",
+   "topics": [
+    "Phaeochromocytoma"
+   ],
+   "notes": "",
+   "stem": "A young woman has recurrent palpitations, headache and sweating. Her BP is 185 mmHg systolic despite a calcium channel blocker, an ACE inhibitor and a diuretic. What is the most likely diagnosis?",
+   "options": [
+    "Phaeochromocytoma",
+    "Conn syndrome",
+    "Hyperthyroidism",
+    "Renal artery stenosis",
+    "Cushing syndrome"
+   ],
+   "answer": "A",
+   "explanation": "Paroxysms of headache, palpitations and sweating with resistant hypertension is phaeochromocytoma.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 61
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "adrenal-0010",
+   "chapter": "adrenal",
+   "order": 1062,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q62",
+   "status": "new",
+   "topics": [
+    "Phaeochromocytoma"
+   ],
+   "notes": "",
+   "stem": "A young woman has recurrent palpitations, headache and sweating. Her BP is 185 mmHg systolic despite a calcium channel blocker, an ACE inhibitor and a diuretic. Which test confirms the diagnosis?",
+   "options": [
+    "Plasma free metanephrines",
+    "Thyroid function tests",
+    "Plasma renin",
+    "Overnight dexamethasone suppression test",
+    "Serum calcium"
+   ],
+   "answer": "A",
+   "explanation": "Plasma free (or 24-h urinary fractionated) metanephrines are the biochemical test; imaging (CT/MRI) follows.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 62
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "adrenal-0011",
+   "chapter": "adrenal",
+   "order": 1063,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q63",
+   "status": "new",
+   "topics": [
+    "Phaeochromocytoma"
+   ],
+   "notes": "",
+   "stem": "A young woman has recurrent palpitations, headache and sweating. Her BP is 185 mmHg systolic despite a calcium channel blocker, an ACE inhibitor and a diuretic. Which drug should NOT be used (first) in this condition?",
+   "options": [
+    "Labetalol",
+    "Metoprolol",
+    "Prazosin",
+    "Sodium nitroprusside",
+    "Hydralazine"
+   ],
+   "answer": "B",
+   "explanation": "A beta-blocker alone before alpha-blockade leaves alpha stimulation unopposed and can cause a hypertensive crisis; alpha-block first.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 63
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "abdemq-0014",
+   "chapter": "abdemq",
+   "order": 2025,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q25–29",
+   "status": "new",
+   "topics": [
+    "Surgical imaging"
+   ],
+   "notes": "",
+   "theme": "Surgical imaging",
+   "options": [
+    "Abdominal ultrasound",
+    "Intravenous urography (IVU)",
+    "Dynamic (triphasic) CT",
+    "Endoscopic ultrasound",
+    "Barium swallow",
+    "Barium meal",
+    "Barium (contrast) enema",
+    "Barium follow-through"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A child has bile-stained vomiting. What is the best initial imaging?",
+     "answer": "F",
+     "explanation": "Bilious vomiting needs an urgent upper GI contrast study to show the DJ flexure and exclude malrotation with volvulus.",
+     "images": [],
+     "src_num": 25
+    },
+    {
+     "n": 2,
+     "stem": "A patient has a hydroureter but no stone is seen. Which study is best for diagnosis?",
+     "answer": "B",
+     "explanation": "Urography (IVU, or CT urography today) shows the level and cause of ureteric obstruction such as a stricture or filling defect.",
+     "images": [],
+     "src_num": 26
+    },
+    {
+     "n": 3,
+     "stem": "A patient has rectal bleeding, weight loss and a rectal mass on DRE. Which test best shows the depth of invasion?",
+     "answer": "D",
+     "explanation": "Endorectal ultrasound (or pelvic MRI) gives local T staging of rectal cancer.",
+     "images": [],
+     "src_num": 27
+    },
+    {
+     "n": 4,
+     "stem": "A 36-year-old woman has a 6-cm solitary liver mass found on an infertility ultrasound.",
+     "answer": "C",
+     "explanation": "A solid liver lesion is characterised by multiphase (triphasic) contrast CT or MRI.",
+     "images": [],
+     "src_num": 28
+    },
+    {
+     "n": 5,
+     "stem": "A 2-month-old has episodes of crying, an empty right iliac fossa and a sausage-shaped mass. Which test is diagnostic and therapeutic?",
+     "answer": "G",
+     "explanation": "Intussusception is confirmed on ultrasound and reduced by air or contrast enema (diagnostic and therapeutic).",
+     "images": [],
+     "src_num": 29
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "abdemq-0015",
+   "chapter": "abdemq",
+   "order": 5015,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q15–17",
+   "status": "new",
+   "topics": [
+    "Jaundice"
+   ],
+   "notes": "",
+   "theme": "Causes of jaundice",
+   "options": [
+    "Viral hepatitis",
+    "Chronic liver disease",
+    "Choledocholithiasis",
+    "Carcinoma of the pancreas",
+    "Gilbert syndrome",
+    "Drug-induced hepatitis",
+    "Hepatocellular carcinoma",
+    "Liver metastases",
+    "Primary sclerosing cholangitis",
+    "Common bile duct ligation",
+    "Mirizzi syndrome"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 22-year-old student develops mild jaundice during exam stress. LFTs and haemoglobin are normal; bilirubin is unconjugated and rises with fasting.",
+     "answer": "E",
+     "explanation": "Isolated unconjugated hyperbilirubinaemia worsened by fasting or stress is Gilbert syndrome; no treatment needed.",
+     "images": [],
+     "src_num": 15
+    },
+    {
+     "n": 2,
+     "stem": "A 60-year-old man has painless progressive jaundice, dark urine, pale stools and weight loss, with a palpable non-tender gallbladder.",
+     "answer": "D",
+     "explanation": "Painless jaundice with a palpable gallbladder (Courvoisier law) suggests carcinoma of the pancreatic head.",
+     "images": [],
+     "src_num": 16
+    },
+    {
+     "n": 3,
+     "stem": "A 30-year-old man has fatigue, nausea and yellow eyes for a week; ALT and AST exceed 1000 IU/L. Two colleagues have a similar illness.",
+     "answer": "A",
+     "explanation": "Very high transaminases with a cluster of cases is acute viral hepatitis (hepatitis A).",
+     "images": [],
+     "src_num": 17
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A"
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "abdemq-0016",
+   "chapter": "abdemq",
+   "order": 3001,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q1–5",
+   "status": "new",
+   "topics": [
+    "Adrenal incidentaloma"
+   ],
+   "notes": "",
+   "theme": "Adrenal disorders",
+   "options": [
+    "Adrenal metastasis",
+    "Adrenal adenoma (non-functioning)",
+    "Cushing syndrome",
+    "Angiomyolipoma",
+    "Conn syndrome",
+    "Phaeochromocytoma",
+    "Adrenal haemorrhage"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "Episodes of hypertension, sweating and palpitations.",
+     "answer": "F",
+     "explanation": "Paroxysmal hypertension, sweating and palpitations is phaeochromocytoma.",
+     "images": [],
+     "src_num": 1
+    },
+    {
+     "n": 2,
+     "stem": "Resistant hypertension with hypokalaemia.",
+     "answer": "E",
+     "explanation": "Resistant hypertension with hypokalaemia is primary hyperaldosteronism (Conn syndrome).",
+     "images": [],
+     "src_num": 2
+    },
+    {
+     "n": 3,
+     "stem": "Central obesity, striae and a buffalo hump.",
+     "answer": "C",
+     "explanation": "Central obesity, purple striae and a buffalo hump are Cushing syndrome.",
+     "images": [],
+     "src_num": 3
+    },
+    {
+     "n": 4,
+     "stem": "A patient with lung cancer has bilateral adrenal masses on CT; they secrete no hormones.",
+     "answer": "A",
+     "explanation": "Bilateral non-functioning adrenal masses in lung cancer are metastases (the adrenal is a common site).",
+     "images": [],
+     "src_num": 4
+    },
+    {
+     "n": 5,
+     "stem": "A woman has an incidental 2-cm non-secreting adrenal mass on CT.",
+     "answer": "B",
+     "explanation": "A small (< 4 cm), non-functioning, homogeneous adrenal incidentaloma is an adenoma; follow-up only.",
+     "images": [],
+     "src_num": 5
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "abdemq-0017",
+   "chapter": "abdemq",
+   "order": 3001,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q1–5",
+   "status": "new",
+   "topics": [
+    "Jaundice"
+   ],
+   "notes": "",
+   "theme": "Obstructive jaundice",
+   "options": [
+    "Cholangiocarcinoma",
+    "Ascending cholangitis",
+    "Drug-induced hepatitis",
+    "Choledocholithiasis",
+    "Mirizzi syndrome"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "Fever, jaundice, right upper quadrant pain and a dilated bile duct.",
+     "answer": "B",
+     "explanation": "Charcot triad (fever, jaundice, RUQ pain) with a dilated duct is ascending cholangitis.",
+     "images": [],
+     "src_num": 1
+    },
+    {
+     "n": 2,
+     "stem": "Jaundice with a dilated bile duct on ultrasound, but the stone is in the gallbladder.",
+     "answer": "E",
+     "explanation": "A stone impacted in the gallbladder neck compressing the common hepatic duct is Mirizzi syndrome.",
+     "images": [],
+     "src_num": 2
+    },
+    {
+     "n": 3,
+     "stem": "Jaundice with dilated intrahepatic ducts and a contracted gallbladder on ultrasound.",
+     "answer": "A",
+     "explanation": "Intrahepatic dilatation with a collapsed gallbladder means a hilar block: cholangiocarcinoma.",
+     "images": [],
+     "src_num": 3
+    },
+    {
+     "n": 4,
+     "stem": "A patient on chemotherapy develops jaundice, fever and right upper quadrant pain.",
+     "answer": "C",
+     "explanation": "Jaundice during chemotherapy without biliary dilatation suggests drug-induced hepatitis.",
+     "images": [],
+     "src_num": 4
+    },
+    {
+     "n": 5,
+     "stem": "A patient has jaundice and a dilated common bile duct on ultrasound.",
+     "answer": "D",
+     "explanation": "Jaundice with a dilated CBD most commonly means a CBD stone (choledocholithiasis).",
+     "images": [],
+     "src_num": 5
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "abdemq-0018",
+   "chapter": "abdemq",
+   "order": 4001,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q1–5",
+   "status": "new",
+   "topics": [
+    "Jaundice"
+   ],
+   "notes": "",
+   "theme": "Liver and biliary disease",
+   "options": [
+    "Choledocholithiasis",
+    "Non-alcoholic fatty liver disease",
+    "Viral hepatitis",
+    "Cholangiocarcinoma",
+    "Liver metastases",
+    "Alcoholic liver disease",
+    "Mirizzi syndrome",
+    "Stauffer syndrome"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 30-year-old nurse has jaundice, hepatomegaly and ALT and AST > 1000 IU/L.",
+     "answer": "C",
+     "explanation": "Transaminases > 1000 in a healthcare worker suggest acute viral hepatitis (hepatitis B from needlestick).",
+     "images": [],
+     "src_num": 1
+    },
+    {
+     "n": 2,
+     "stem": "A woman with gallstones for 4 years has acute abdominal pain for 24 h; the CBD is normal but ALP is raised.",
+     "answer": "G",
+     "explanation": "A raised ALP with a normal CBD in a patient with gallstones suggests extrinsic CHD compression by a stone in Hartmann pouch (Mirizzi).",
+     "images": [],
+     "src_num": 2
+    },
+    {
+     "n": 3,
+     "stem": "A 40-year-old diabetic man has slightly raised ALT and AST (about 93 IU/L).",
+     "answer": "B",
+     "explanation": "Mildly raised transaminases in a diabetic (metabolic syndrome) is most often non-alcoholic fatty liver disease.",
+     "images": [],
+     "src_num": 3
+    },
+    {
+     "n": 4,
+     "stem": "A patient with renal cell carcinoma has a 7-cm liver mass on ultrasound.",
+     "answer": "E",
+     "explanation": "A liver mass in a patient with a known primary cancer is most likely a metastasis; Stauffer syndrome causes abnormal LFTs without metastases.",
+     "images": [],
+     "src_num": 4
+    },
+    {
+     "n": 5,
+     "stem": "A middle-aged man has painless jaundice, weight loss and a palpable, non-tender, distended gallbladder.",
+     "answer": "D",
+     "explanation": "Painless jaundice with a palpable gallbladder means distal biliary obstruction by tumour (distal cholangiocarcinoma or pancreatic head cancer).",
+     "images": [],
+     "src_num": 5
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3"
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0076",
+   "chapter": "gb",
+   "order": 5003,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q3",
+   "status": "new",
+   "topics": [
+    "Acute cholecystitis"
+   ],
+   "notes": "",
+   "stem": "A 39-year-old woman with asymptomatic gallstones for 4 years has severe upper abdominal pain for 24 hours with nausea and vomiting, still painful despite NSAIDs and opiates. LFTs are normal. All of the following are expected EXCEPT:",
+   "options": [
+    "Normal CBD",
+    "Thickened gallbladder wall",
+    "Leucopenia",
+    "Hyperaesthesia below the right scapula (Boas sign)",
+    "Raised CRP"
+   ],
+   "answer": "C",
+   "explanation": "Acute cholecystitis gives a thick-walled gallbladder, raised CRP and leucocytosis (not leucopenia); the CBD is normal.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 3
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0077",
+   "chapter": "gb",
+   "order": 5004,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q4",
+   "status": "new",
+   "topics": [
+    "Acute cholecystitis"
+   ],
+   "notes": "",
+   "stem": "A 39-year-old woman with asymptomatic gallstones for 4 years has severe upper abdominal pain for 24 hours with nausea and vomiting, still painful despite NSAIDs and opiates. LFTs are normal. What is the best treatment option now?",
+   "options": [
+    "Open cholecystectomy",
+    "Laparoscopic cholecystectomy",
+    "Tube cholecystostomy",
+    "ERCP followed by surgery",
+    "Conservative treatment, then surgery after 6 weeks"
+   ],
+   "answer": "B",
+   "explanation": "Early laparoscopic cholecystectomy (within 72 h–1 week) is recommended for acute cholecystitis in fit patients (NICE).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 4
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0078",
+   "chapter": "gb",
+   "order": 5005,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q5",
+   "status": "new",
+   "topics": [
+    "Bile leak"
+   ],
+   "notes": "",
+   "stem": "A 39-year-old woman with asymptomatic gallstones for 4 years has severe upper abdominal pain for 24 hours with nausea and vomiting, still painful despite NSAIDs and opiates. LFTs are normal. Five days after a difficult operation the drain shows 800 mL/day of bile-stained fluid. Which is NOT a likely cause?",
+   "options": [
+    "Slipped cystic duct clip",
+    "Bile duct injury",
+    "Leak from a duct of Luschka",
+    "Duodenal injury",
+    "Intrahepatic cholestasis"
+   ],
+   "answer": "E",
+   "explanation": "Bile in the drain means a leak (cystic stump, duct of Luschka, bile-duct or duodenal injury); cholestasis does not cause bile leakage.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 5
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0079",
+   "chapter": "gb",
+   "order": 5006,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q6",
+   "status": "new",
+   "topics": [
+    "Bile leak"
+   ],
+   "notes": "",
+   "stem": "A 39-year-old woman with asymptomatic gallstones for 4 years has severe upper abdominal pain for 24 hours with nausea and vomiting, still painful despite NSAIDs and opiates. LFTs are normal. What is the best treatment now?",
+   "options": [
+    "ERCP (sphincterotomy and stent)",
+    "PTC",
+    "IV antibiotics and anticholinergics",
+    "Right hepatic lobectomy",
+    "Liver transplantation"
+   ],
+   "answer": "A",
+   "explanation": "A post-cholecystectomy bile leak with a drain in place is treated by ERCP with sphincterotomy and stent; major duct injury needs MRCP and repair.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 6
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0063",
+   "chapter": "acute",
+   "order": 3001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q1",
+   "status": "new",
+   "topics": [
+    "Appendicitis"
+   ],
+   "notes": "",
+   "stem": "A young woman has right iliac fossa pain, low-grade fever, anorexia and dysuria, and is diagnosed with appendicitis. Which test is 100% reliable for diagnosing appendicitis?",
+   "options": [
+    "CT",
+    "Ultrasound",
+    "Diagnostic laparoscopy (with histology)",
+    "Alvarado score",
+    "MRI"
+   ],
+   "answer": "C",
+   "explanation": "Imaging and scores support the diagnosis, but only direct inspection at laparoscopy with histology confirms it.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0064",
+   "chapter": "acute",
+   "order": 3002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q2",
+   "status": "new",
+   "topics": [
+    "Appendicitis"
+   ],
+   "notes": "",
+   "stem": "A young woman has right iliac fossa pain, low-grade fever, anorexia and dysuria, and is diagnosed with appendicitis. Given the presentation, where is the appendix?",
+   "options": [
+    "Retrocaecal",
+    "Retroileal",
+    "Pre-ileal",
+    "Pelvic",
+    "Subhepatic"
+   ],
+   "answer": "D",
+   "explanation": "A pelvic appendix lies against the bladder and causes dysuria and frequency (and diarrhoea if near the rectum).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0065",
+   "chapter": "acute",
+   "order": 3003,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q3",
+   "status": "new",
+   "topics": [
+    "Appendicitis"
+   ],
+   "notes": "",
+   "stem": "A young woman has right iliac fossa pain, low-grade fever, anorexia and dysuria, and is diagnosed with appendicitis. Which investigation will you request?",
+   "options": [
+    "Complete blood count",
+    "Renal function tests",
+    "CRP",
+    "ESR",
+    "Serum amylase"
+   ],
+   "answer": "A",
+   "explanation": "The white-cell count (leucocytosis with left shift) is part of the Alvarado score; urinalysis and a pregnancy test are also essential.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 3
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0066",
+   "chapter": "acute",
+   "order": 3501,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 1",
+   "status": "new",
+   "topics": [
+    "Appendicitis"
+   ],
+   "notes": "",
+   "stem": "Which two Alvarado (MANTRELS) criteria each score 2 points?",
+   "options": [
+    "Migration of pain and anorexia",
+    "Right iliac fossa tenderness and leucocytosis",
+    "Nausea/vomiting and fever",
+    "Rebound tenderness and left shift",
+    "Anorexia and fever"
+   ],
+   "answer": "B",
+   "explanation": "RIF tenderness and leucocytosis score 2 each; migration, anorexia, nausea/vomiting, rebound, fever and left shift score 1 (total 10).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T1"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0067",
+   "chapter": "acute",
+   "order": 3502,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 2",
+   "status": "new",
+   "topics": [
+    "Appendicitis"
+   ],
+   "notes": "",
+   "stem": "Which is NOT an advantage of laparoscopic over open appendicectomy?",
+   "options": [
+    "Fewer wound infections",
+    "Less postoperative pain",
+    "Shorter stay and earlier return to work",
+    "Allows inspection of the pelvis and other diagnoses",
+    "Lower rate of intra-abdominal abscess"
+   ],
+   "answer": "E",
+   "explanation": "Laparoscopy reduces pain, wound infection and stay and is diagnostic; the intra-abdominal abscess rate is not lower (it may be slightly higher).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T2"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0080",
+   "chapter": "gb",
+   "order": 3503,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 3",
+   "status": "new",
+   "topics": [
+    "Cholangitis"
+   ],
+   "notes": "",
+   "stem": "Which clinical triad defines ascending cholangitis?",
+   "options": [
+    "Fever with rigors, jaundice and right upper quadrant pain",
+    "Jaundice, palpable gallbladder and weight loss",
+    "Fever, jaundice and pruritus",
+    "Right upper quadrant pain, vomiting and positive Murphy sign",
+    "Jaundice, hypotension and confusion"
+   ],
+   "answer": "A",
+   "explanation": "Charcot triad is fever/rigors, jaundice and RUQ pain; adding hypotension and confusion gives Reynolds pentad (suppurative cholangitis).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T3"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "spleen-0011",
+   "chapter": "spleen",
+   "order": 3504,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 4",
+   "status": "new",
+   "topics": [
+    "Post-splenectomy infection"
+   ],
+   "notes": "",
+   "stem": "Which vaccines should be given around splenectomy?",
+   "options": [
+    "Pneumococcal, Haemophilus influenzae b, meningococcal (ACWY and B) and annual influenza",
+    "BCG and oral polio",
+    "Hepatitis B and tetanus only",
+    "Live typhoid and yellow fever",
+    "No vaccines if lifelong penicillin is taken"
+   ],
+   "answer": "A",
+   "explanation": "Give pneumococcal, Hib, meningococcal ACWY and B plus yearly influenza, 2 weeks before elective or 2 weeks after emergency splenectomy.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T4"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0068",
+   "chapter": "acute",
+   "order": 1037,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q37",
+   "status": "new",
+   "topics": [
+    "Aortic aneurysm"
+   ],
+   "notes": "",
+   "stem": "A 71-year-old male smoker with hypertension and type 2 diabetes has felt a pulsating abdominal mass with dull pain radiating to the back for 2 months. What is the most likely diagnosis?",
+   "options": [
+    "Diverticulitis",
+    "Renal colic",
+    "Abdominal aortic aneurysm",
+    "Chronic pancreatitis",
+    "Mesenteric ischaemia"
+   ],
+   "answer": "C",
+   "explanation": "A pulsatile, expansile abdominal mass with back pain in an elderly hypertensive smoker is an abdominal aortic aneurysm.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 37
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0069",
+   "chapter": "acute",
+   "order": 1038,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q38",
+   "status": "new",
+   "topics": [
+    "Aortic aneurysm"
+   ],
+   "notes": "",
+   "stem": "A 71-year-old male smoker with hypertension and type 2 diabetes has felt a pulsating abdominal mass with dull pain radiating to the back for 2 months. What is the gold-standard diagnostic test?",
+   "options": [
+    "Doppler ultrasound",
+    "Abdominal X-ray",
+    "CT angiography",
+    "MRI",
+    "ECG"
+   ],
+   "answer": "C",
+   "explanation": "Ultrasound screens and follows AAA, but CT angiography defines size, extent and neck anatomy for repair planning.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 38
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0070",
+   "chapter": "acute",
+   "order": 1039,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q39",
+   "status": "new",
+   "topics": [
+    "Acute limb ischaemia"
+   ],
+   "notes": "",
+   "stem": "A 71-year-old male smoker with hypertension and type 2 diabetes has felt a pulsating abdominal mass with dull pain radiating to the back for 2 months. He suddenly develops pain in the right leg with an absent dorsalis pedis pulse. What is the most likely diagnosis?",
+   "options": [
+    "Chronic limb ischaemia",
+    "Cellulitis",
+    "Acute limb ischaemia",
+    "Deep vein thrombosis",
+    "Compartment syndrome"
+   ],
+   "answer": "C",
+   "explanation": "Sudden pain with a lost pulse is acute limb ischaemia, here from embolism of aneurysm thrombus.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 39
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0071",
+   "chapter": "acute",
+   "order": 1040,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q40",
+   "status": "new",
+   "topics": [
+    "Acute limb ischaemia"
+   ],
+   "notes": "",
+   "stem": "A 71-year-old male smoker with hypertension and type 2 diabetes has felt a pulsating abdominal mass with dull pain radiating to the back for 2 months. What is the first-line management of this complication?",
+   "options": [
+    "Antiplatelet",
+    "Anticoagulation (IV heparin)",
+    "Antibiotics",
+    "Leg elevation",
+    "Fasciotomy"
+   ],
+   "answer": "B",
+   "explanation": "Give IV unfractionated heparin immediately to stop clot propagation, then embolectomy or thrombolysis according to limb viability.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 40
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "congur-0032",
+   "chapter": "congur",
+   "order": 1023,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q23",
+   "status": "new",
+   "topics": [
+    "Hypospadias"
+   ],
+   "notes": "",
+   "stem": "A mother brings her baby boy because of an abnormal downward urinary stream. The urethral opening is not in its normal position. What is the most likely diagnosis?",
+   "options": [
+    "Phimosis",
+    "Hypospadias",
+    "Epispadias",
+    "Meatal stenosis",
+    "Posterior urethral valves"
+   ],
+   "answer": "B",
+   "explanation": "A ventral ectopic meatus with a downward stream is hypospadias (often with chordee and a dorsal hooded foreskin).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 23
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "congur-0033",
+   "chapter": "congur",
+   "order": 1024,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q24",
+   "status": "new",
+   "topics": [
+    "Hypospadias"
+   ],
+   "notes": "",
+   "stem": "A mother brings her baby boy because of an abnormal downward urinary stream. The urethral opening is not in its normal position. Which associated abnormality is most common?",
+   "options": [
+    "Undescended testis",
+    "Polydactyly",
+    "Coarctation of the aorta",
+    "Inguinal hernia",
+    "Renal agenesis"
+   ],
+   "answer": "A",
+   "explanation": "Undescended testis (≈ 10%) and inguinal hernia are the commonest associations; with both hypospadias and impalpable testes, exclude a DSD.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 24
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "congur-0034",
+   "chapter": "congur",
+   "order": 1025,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q25",
+   "status": "new",
+   "topics": [
+    "Hypospadias"
+   ],
+   "notes": "",
+   "stem": "A mother brings her baby boy because of an abnormal downward urinary stream. The urethral opening is not in its normal position. What is the most common complication after surgical repair?",
+   "options": [
+    "Penile fracture",
+    "Urethrocutaneous fistula",
+    "Renal failure",
+    "Erectile dysfunction",
+    "Urinary retention"
+   ],
+   "answer": "B",
+   "explanation": "Urethrocutaneous fistula is the commonest complication of hypospadias repair; meatal stenosis and stricture also occur.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 25
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "prostate-0044",
+   "chapter": "prostate",
+   "order": 1041,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q41",
+   "status": "new",
+   "topics": [
+    "BPH"
+   ],
+   "notes": "",
+   "stem": "A 61-year-old man has frequency, hesitancy and a weak stream. DRE shows a smooth, symmetrically enlarged prostate. He has also had erectile dysfunction for 6 months. What is the first-line management?",
+   "options": [
+    "Tamsulosin",
+    "Finasteride",
+    "Doxazosin",
+    "Tadalafil",
+    "Prazosin"
+   ],
+   "answer": "D",
+   "explanation": "Tadalafil 5 mg daily treats both LUTS from BPH and erectile dysfunction; an alpha-blocker is first-line when ED is absent.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 41
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "prostate-0045",
+   "chapter": "prostate",
+   "order": 1042,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q42",
+   "status": "new",
+   "topics": [
+    "Prostate cancer"
+   ],
+   "notes": "",
+   "stem": "Eight years later his PSA is 16 ng/mL and the prostate is nodular and irregular. He has localised adenocarcinoma, Gleason 4+4, with no metastasis. What is the best treatment?",
+   "options": [
+    "TURP",
+    "Radiotherapy",
+    "Radical prostatectomy",
+    "Chemotherapy",
+    "Bilateral orchidectomy"
+   ],
+   "answer": "C",
+   "explanation": "High-risk localised prostate cancer in a fit man is treated radically: radical prostatectomy, or radiotherapy with long-term ADT.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 42
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemq-0028",
+   "chapter": "uroemq",
+   "order": 2040,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q40–44",
+   "status": "new",
+   "topics": [
+    "Urological surgery"
+   ],
+   "notes": "",
+   "theme": "Urological operations",
+   "options": [
+    "Partial nephrectomy",
+    "Simple nephrectomy",
+    "Radical nephrectomy",
+    "Nephroureterectomy",
+    "Percutaneous nephrostomy",
+    "Ureteric (JJ) stent",
+    "Ureteric reimplantation",
+    "Pyeloplasty"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 55-year-old man has an incidental 3-cm enhancing mass in the upper pole of the kidney on CT; PET is negative.",
+     "answer": "A",
+     "explanation": "A small (T1a, ≤ 4 cm) renal cell carcinoma is treated by nephron-sparing partial nephrectomy.",
+     "images": [],
+     "src_num": 40
+    },
+    {
+     "n": 2,
+     "stem": "A 48-year-old woman with chronic infections and recurrent stones has a left kidney contributing < 5% of total function on MAG3.",
+     "answer": "B",
+     "explanation": "A non-functioning, chronically infected kidney is removed by simple nephrectomy.",
+     "images": [],
+     "src_num": 41
+    },
+    {
+     "n": 3,
+     "stem": "A 70-year-old man on IV antibiotics for 5 days has fever, rigors and flank pain; HR 120, BP 80/60. CT shows hydroureteronephrosis to the mid-ureter.",
+     "answer": "E",
+     "explanation": "An infected obstructed kidney with septic shock needs urgent decompression; percutaneous nephrostomy is safest in the unstable patient.",
+     "images": [],
+     "src_num": 42
+    },
+    {
+     "n": 4,
+     "stem": "A 4-year-old girl has recurrent febrile UTIs despite long-term antibiotics; micturating cystogram shows a dilated, tortuous left ureter.",
+     "answer": "G",
+     "explanation": "High-grade vesicoureteric reflux with breakthrough febrile UTIs is treated by ureteric reimplantation.",
+     "images": [],
+     "src_num": 43
+    },
+    {
+     "n": 5,
+     "stem": "A 44-year-old man has painless haematuria; CT shows a tumour of the left renal pelvis without metastasis.",
+     "answer": "D",
+     "explanation": "Upper-tract urothelial carcinoma is treated by nephroureterectomy with a bladder cuff.",
+     "images": [],
+     "src_num": 44
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemq-0029",
+   "chapter": "uroemq",
+   "order": 5018,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q18–20",
+   "status": "new",
+   "topics": [
+    "UTI"
+   ],
+   "notes": "",
+   "theme": "Urinary tract infection",
+   "options": [
+    "Acute pyelonephritis",
+    "Acute cystitis",
+    "Asymptomatic bacteriuria",
+    "Acute prostatitis",
+    "Urethritis",
+    "Pyonephrosis",
+    "Emphysematous pyelonephritis",
+    "Vesicoureteric reflux"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 25-year-old woman has dysuria, frequency and suprapubic pain without fever or flank pain. Urine is cloudy with leucocytes and nitrites.",
+     "answer": "B",
+     "explanation": "Lower urinary symptoms without fever or loin pain are acute (uncomplicated) cystitis.",
+     "images": [],
+     "src_num": 18
+    },
+    {
+     "n": 2,
+     "stem": "A 60-year-old man has fever, chills and perineal pain; DRE is difficult because of severe anterior rectal tenderness. Urine grows E. coli.",
+     "answer": "D",
+     "explanation": "Fever, perineal pain and an exquisitely tender prostate is acute bacterial prostatitis (avoid prostatic massage).",
+     "images": [],
+     "src_num": 19
+    },
+    {
+     "n": 3,
+     "stem": "A 28-year-old diabetic woman has high fever, flank pain, vomiting and renal angle tenderness. CT shows pockets of gas and fluid in the left kidney.",
+     "answer": "G",
+     "explanation": "Gas within the renal parenchyma in a diabetic is emphysematous pyelonephritis: antibiotics, drainage, sometimes nephrectomy.",
+     "images": [],
+     "src_num": 20
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A"
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "bladder-0022",
+   "chapter": "bladder",
+   "order": 3001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q1",
+   "status": "new",
+   "topics": [
+    "Bladder cancer"
+   ],
+   "notes": "",
+   "stem": "An elderly man has haematuria; ultrasound shows a 2-cm tumour in the bladder. What is the next step?",
+   "options": [
+    "Cystoscopy (with biopsy/TURBT)",
+    "CT scan",
+    "Urine cytology only",
+    "MRI pelvis",
+    "IVU"
+   ],
+   "answer": "A",
+   "explanation": "A bladder mass needs cystoscopy and transurethral resection for histology and staging; CT urography assesses the upper tracts.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "bladder-0023",
+   "chapter": "bladder",
+   "order": 3002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 Q2",
+   "status": "new",
+   "topics": [
+    "Bladder cancer"
+   ],
+   "notes": "",
+   "stem": "An elderly man has haematuria; ultrasound shows a 2-cm tumour in the bladder. What is the treatment?",
+   "options": [
+    "TURBT",
+    "TURP",
+    "Radical cystectomy",
+    "Intravesical BCG alone",
+    "Radiotherapy"
+   ],
+   "answer": "A",
+   "explanation": "TURBT is diagnostic and therapeutic for non-muscle-invasive tumours; intravesical therapy follows according to risk.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0039",
+   "chapter": "uroemerg",
+   "order": 5007,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q7",
+   "status": "new",
+   "topics": [
+    "Ureteric injury"
+   ],
+   "notes": "",
+   "stem": "A 25-year-old woman had a difficult caesarean section for bleeding. Ten days later she has severe right flank pain; ultrasound shows severe hydroureteronephrosis down to the pelvis with no stones. Which test best establishes the cause of obstruction?",
+   "options": [
+    "CT urography",
+    "MRI",
+    "GUE",
+    "KUB",
+    "CBC"
+   ],
+   "answer": "A",
+   "explanation": "CT urography (or antegrade/retrograde study) shows the level of a ligated or injured ureter and any urinoma.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 7
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0040",
+   "chapter": "uroemerg",
+   "order": 5008,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch End-induction Block A Q8",
+   "status": "new",
+   "topics": [
+    "Ureteric injury"
+   ],
+   "notes": "",
+   "stem": "A 25-year-old woman had a difficult caesarean section for bleeding. Ten days later she has severe right flank pain; ultrasound shows severe hydroureteronephrosis down to the pelvis with no stones. Ureteric ligation is suspected. All of the following are initial options EXCEPT:",
+   "options": [
+    "IV fluids",
+    "IV antibiotics",
+    "Percutaneous nephrostomy",
+    "Ureteroscopy (attempted stenting)",
+    "Nephrectomy"
+   ],
+   "answer": "E",
+   "explanation": "Initial care is resuscitation, antibiotics and drainage (nephrostomy or retrograde stent); delayed reimplantation repairs it. Nephrectomy is not indicated.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "End-induction Block A",
+    "num": 8
+   }
+  },
+  "why": "Added from 39th batch End-induction Block A (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "congur-0035",
+   "chapter": "congur",
+   "order": 4001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q1",
+   "status": "new",
+   "topics": [
+    "PUJ obstruction"
+   ],
+   "notes": "",
+   "stem": "A 4-year-old boy has left lower abdominal pain and is underweight. Ultrasound shows hydronephrosis and urinalysis shows mild painless pyuria. Which investigation confirms the diagnosis?",
+   "options": [
+    "IVU",
+    "Contrast CT",
+    "MRI (MR urography)",
+    "KUB",
+    "Ureteroscopy"
+   ],
+   "answer": "A",
+   "explanation": "PUJ obstruction is confirmed on urography (IVU, CT or MR urography) and a diuretic renogram; ureteroscopy has no role.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "congur-0036",
+   "chapter": "congur",
+   "order": 4002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q2",
+   "status": "new",
+   "topics": [
+    "PUJ obstruction"
+   ],
+   "notes": "",
+   "stem": "A 4-year-old boy has left lower abdominal pain and is underweight. Ultrasound shows hydronephrosis and urinalysis shows mild painless pyuria. Which is the best test of split renal function and drainage?",
+   "options": [
+    "DMSA scan",
+    "MAG3 diuretic renogram",
+    "Ultrasound",
+    "eGFR"
+   ],
+   "answer": "B",
+   "explanation": "A MAG3 diuretic renogram measures differential function and confirms obstruction; DMSA shows scarring and static function.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "congur-0037",
+   "chapter": "congur",
+   "order": 4003,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q3",
+   "status": "new",
+   "topics": [
+    "PUJ obstruction"
+   ],
+   "notes": "",
+   "stem": "A 4-year-old boy has left lower abdominal pain and is underweight. Ultrasound shows hydronephrosis and urinalysis shows mild painless pyuria. What is the best long-term management?",
+   "options": [
+    "Percutaneous nephrostomy",
+    "Long-term antibiotics",
+    "Dismembered pyeloplasty",
+    "Ureteric stent",
+    "Nephrectomy"
+   ],
+   "answer": "C",
+   "explanation": "Symptomatic PUJ obstruction or falling function is treated by dismembered (Anderson–Hynes) pyeloplasty; nephrectomy only for a non-functioning kidney.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3",
+    "num": 3
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0041",
+   "chapter": "uroemerg",
+   "order": 3505,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 5",
+   "status": "new",
+   "topics": [
+    "Urethral catheterisation"
+   ],
+   "notes": "",
+   "stem": "A 68-year-old man arrives in the emergency department with abdominal pain and a distended bladder. Which is the correct technique for male urethral catheterisation?",
+   "options": [
+    "Aseptic technique, lidocaine gel, penis held upright, insert to the hub and see urine before inflating the balloon",
+    "Inflate the balloon as soon as resistance is felt",
+    "Clean technique without lubrication",
+    "Use the largest catheter to overcome resistance",
+    "Insert only half the catheter length, then inflate"
+   ],
+   "answer": "A",
+   "explanation": "Insert the catheter fully to the bifurcation and inflate only once urine drains, so the balloon cannot be inflated in the urethra.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T5"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0042",
+   "chapter": "uroemerg",
+   "order": 3506,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 6",
+   "status": "new",
+   "topics": [
+    "Urethral catheterisation"
+   ],
+   "notes": "",
+   "stem": "A 68-year-old man arrives in the emergency department with abdominal pain and a distended bladder. The catheter is passed but no urine drains. What is the most appropriate next step?",
+   "options": [
+    "Inflate the balloon and wait",
+    "Check the position: advance fully, flush with sterile saline and confirm a full bladder (scan) before inflating",
+    "Remove it and force a larger catheter",
+    "Give IV furosemide",
+    "Insert a suprapubic catheter at once"
+   ],
+   "answer": "B",
+   "explanation": "No urine means the catheter is in the urethra, blocked by gel, or the bladder is empty; check, flush and scan before inflating.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T6"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0043",
+   "chapter": "uroemerg",
+   "order": 3507,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 7",
+   "status": "new",
+   "topics": [
+    "Catheter trauma"
+   ],
+   "notes": "",
+   "stem": "A patient needs a Foley catheter and develops haematuria during insertion. What is the most likely cause of the bleeding?",
+   "options": [
+    "Urethral trauma (false passage or balloon inflated in the urethra)",
+    "Bladder carcinoma",
+    "Urinary tract infection",
+    "Ureteric stone",
+    "Renal trauma"
+   ],
+   "answer": "A",
+   "explanation": "Bleeding at catheterisation is usually urethral trauma (false passage) or a balloon inflated in the prostatic urethra.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T7"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0044",
+   "chapter": "uroemerg",
+   "order": 3508,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 8",
+   "status": "new",
+   "topics": [
+    "Catheter trauma"
+   ],
+   "notes": "",
+   "stem": "A patient needs a Foley catheter and develops haematuria during insertion. How should it be managed?",
+   "options": [
+    "Continue and inflate the balloon",
+    "Stop, deflate and remove; then one gentle attempt by a senior/urologist (coudé tip) or a suprapubic catheter",
+    "Repeated forceful attempts",
+    "Start anticoagulation",
+    "Immediate open urethroplasty"
+   ],
+   "answer": "B",
+   "explanation": "Stop, deflate and withdraw; if retention persists use a suprapubic catheter or urology-guided catheterisation, and check Hb and urine.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T8"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0045",
+   "chapter": "uroemerg",
+   "order": 3509,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 9",
+   "status": "new",
+   "topics": [
+    "Urethral catheterisation"
+   ],
+   "notes": "",
+   "stem": "A 72-year-old man with benign prostatic hyperplasia has acute urinary retention and severe suprapubic pain; bladder scan shows 900 mL. Which is the most common complication of a long-term indwelling catheter?",
+   "options": [
+    "Catheter-associated urinary tract infection",
+    "Bladder cancer",
+    "Renal stones",
+    "Urethral stricture",
+    "Bladder perforation"
+   ],
+   "answer": "A",
+   "explanation": "Bacteriuria and CAUTI are universal with long-term catheters; encrustation, blockage, stricture and stones also occur.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T9"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0046",
+   "chapter": "uroemerg",
+   "order": 3510,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 10",
+   "status": "new",
+   "topics": [
+    "Urethral catheterisation"
+   ],
+   "notes": "",
+   "stem": "A 72-year-old man with benign prostatic hyperplasia has acute urinary retention and severe suprapubic pain; bladder scan shows 900 mL. Which is an absolute contraindication to urethral catheterisation?",
+   "options": [
+    "Suspected urethral injury (blood at the meatus, pelvic fracture)",
+    "Acute urinary retention",
+    "Benign prostatic hyperplasia",
+    "Diabetes mellitus",
+    "Previous TURP"
+   ],
+   "answer": "A",
+   "explanation": "Suspected urethral injury (blood at the meatus, high-riding prostate) contraindicates urethral catheterisation; a suprapubic catheter is used.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T10"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0047",
+   "chapter": "uroemerg",
+   "order": 3511,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 11",
+   "status": "deleted",
+   "topics": [
+    "Catheter trauma"
+   ],
+   "notes": "",
+   "stem": "Haematuria develops after Foley catheter insertion. What are the likely causes?",
+   "options": [
+    "Urethral trauma or balloon inflated in the urethra",
+    "Bladder carcinoma",
+    "Urinary tract infection",
+    "Ureteric stone",
+    "Renal trauma"
+   ],
+   "answer": "A",
+   "explanation": "Bleeding at catheterisation is usually urethral trauma (false passage) or a balloon inflated in the prostatic urethra.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T11"
+   },
+   "dup_of": "uroemerg-0043"
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "uroemerg-0048",
+   "chapter": "uroemerg",
+   "order": 3512,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 12",
+   "status": "deleted",
+   "topics": [
+    "Catheter trauma"
+   ],
+   "notes": "",
+   "stem": "Haematuria develops after Foley catheter insertion. How is it managed?",
+   "options": [
+    "Continue and inflate the balloon",
+    "Stop, deflate and remove; then one gentle attempt by a senior/urologist (coudé tip) or a suprapubic catheter",
+    "Repeated forceful attempts",
+    "Start anticoagulation",
+    "Immediate open urethroplasty"
+   ],
+   "answer": "B",
+   "explanation": "Stop, deflate and withdraw; if retention persists use a suprapubic catheter or urology-guided catheterisation.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T12"
+   },
+   "dup_of": "uroemerg-0044"
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0047",
+   "chapter": "trauma",
+   "order": 1001,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q1",
+   "status": "new",
+   "topics": [
+    "Burns"
+   ],
+   "notes": "",
+   "stem": "A 75-year-old man with type 2 diabetes, hypertension and heart failure (EF 40%) was caught in a house fire when his clothes ignited. He has extensive white, leathery burns of the arms and legs with red blistered margins; pulse 110/min, BP 90/60 mmHg. What is the best initial management?",
+   "options": [
+    "Apply silver sulfadiazine cream",
+    "Immediate grafting in theatre",
+    "Escharotomy only",
+    "Airway assessment and IV fluid resuscitation",
+    "Oral fluids and analgesia"
+   ],
+   "answer": "D",
+   "explanation": "Burns follow ATLS: secure the airway (inhalation risk) and start IV resuscitation; dressings and surgery come later.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 1
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0048",
+   "chapter": "trauma",
+   "order": 1002,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q2",
+   "status": "new",
+   "topics": [
+    "Burns"
+   ],
+   "notes": "",
+   "stem": "A 75-year-old man with type 2 diabetes, hypertension and heart failure (EF 40%) was caught in a house fire when his clothes ignited. He has extensive white, leathery burns of the arms and legs with red blistered margins; pulse 110/min, BP 90/60 mmHg. What is the depth of these burns?",
+   "options": [
+    "Superficial (first degree)",
+    "Superficial partial thickness",
+    "Deep partial thickness",
+    "Full thickness (third degree)",
+    "Fourth degree"
+   ],
+   "answer": "D",
+   "explanation": "White, leathery, painless skin is full-thickness burn; the red blistered margins are partial thickness.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 2
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0049",
+   "chapter": "trauma",
+   "order": 1003,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q3",
+   "status": "new",
+   "topics": [
+    "Burns"
+   ],
+   "notes": "",
+   "stem": "A 75-year-old man with type 2 diabetes, hypertension and heart failure (EF 40%) was caught in a house fire when his clothes ignited. He has extensive white, leathery burns of the arms and legs with red blistered margins; pulse 110/min, BP 90/60 mmHg. What is the most common complication in the first 24 hours?",
+   "options": [
+    "Hypovolaemic (burn) shock",
+    "Sepsis",
+    "Contracture",
+    "Contour deformity",
+    "ARDS"
+   ],
+   "answer": "A",
+   "explanation": "Capillary leak causes hypovolaemic burn shock in the first 24–48 h; sepsis and contractures come later.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 3
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0050",
+   "chapter": "trauma",
+   "order": 1004,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q4",
+   "status": "new",
+   "topics": [
+    "Burns"
+   ],
+   "notes": "",
+   "stem": "A 75-year-old man with type 2 diabetes, hypertension and heart failure (EF 40%) was caught in a house fire when his clothes ignited. He has extensive white, leathery burns of the arms and legs with red blistered margins; pulse 110/min, BP 90/60 mmHg. Given his diabetes and heart failure, what is the key consideration in fluid resuscitation?",
+   "options": [
+    "Use the standard formula without change",
+    "Avoid fluids; use vasopressors only",
+    "Start Parkland cautiously and titrate to urine output",
+    "Replace fluids only after 24 hours",
+    "Give colloids only"
+   ],
+   "answer": "C",
+   "explanation": "Parkland is only a starting point; titrate to urine output 0.5 mL/kg/h to avoid both under-resuscitation and fluid overload in heart failure.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 4
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0051",
+   "chapter": "trauma",
+   "order": 1005,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q5",
+   "status": "new",
+   "topics": [
+    "Chest trauma"
+   ],
+   "notes": "",
+   "stem": "A 45-year-old man is brought after a car crash. The right chest moves paradoxically with bruising, reduced expansion and diminished breath sounds. He is conscious but distressed; BP 95/60 mmHg, SpO2 86%. What is the most likely diagnosis?",
+   "options": [
+    "Tension pneumothorax",
+    "Flail chest",
+    "Massive haemothorax",
+    "Pulmonary contusion",
+    "Lung collapse"
+   ],
+   "answer": "B",
+   "explanation": "Paradoxical movement of a chest segment after blunt trauma is flail chest (two or more ribs broken in two or more places).",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 5
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0052",
+   "chapter": "trauma",
+   "order": 1006,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q6",
+   "status": "new",
+   "topics": [
+    "Chest trauma"
+   ],
+   "notes": "",
+   "stem": "A 45-year-old man is brought after a car crash. The right chest moves paradoxically with bruising, reduced expansion and diminished breath sounds. He is conscious but distressed; BP 95/60 mmHg, SpO2 86%. Which mechanism mainly compromises his lungs?",
+   "options": [
+    "Hyperventilation from pain",
+    "Underlying pulmonary contusion",
+    "Mediastinal shift",
+    "Air trapping on expiration",
+    "Diaphragmatic rupture"
+   ],
+   "answer": "B",
+   "explanation": "Hypoxia in flail chest is caused mainly by the underlying pulmonary contusion, aggravated by pain-limited ventilation.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 6
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0053",
+   "chapter": "trauma",
+   "order": 1007,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q7",
+   "status": "new",
+   "topics": [
+    "Chest trauma"
+   ],
+   "notes": "",
+   "stem": "A 45-year-old man is brought after a car crash. The right chest moves paradoxically with bruising, reduced expansion and diminished breath sounds. He is conscious but distressed; BP 95/60 mmHg, SpO2 86%. Chest X-ray and CT show a massive haemothorax. What is the next immediate step?",
+   "options": [
+    "Urgent thoracotomy",
+    "Intubation and positive-pressure ventilation",
+    "Chest drain insertion",
+    "Needle decompression",
+    "Pericardiocentesis"
+   ],
+   "answer": "C",
+   "explanation": "Massive haemothorax is treated with a large-bore chest drain and resuscitation; thoracotomy if > 1500 mL initially or > 200 mL/h.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 7
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0054",
+   "chapter": "trauma",
+   "order": 1008,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 1 Q8",
+   "status": "new",
+   "topics": [
+    "Chest trauma"
+   ],
+   "notes": "",
+   "stem": "A 45-year-old man is brought after a car crash. The right chest moves paradoxically with bruising, reduced expansion and diminished breath sounds. He is conscious but distressed; BP 95/60 mmHg, SpO2 86%. He improves but remains hypoxic with paradoxical movement. What is the next definitive step?",
+   "options": [
+    "Analgesia and oxygen only",
+    "Intubation and mechanical ventilation",
+    "Surgical rib fixation",
+    "Repeat chest X-ray after 24 hours",
+    "Chest strapping"
+   ],
+   "answer": "B",
+   "explanation": "Persistent hypoxia despite analgesia and oxygen needs intubation and ventilation (internal splinting); rib fixation is increasingly used to wean.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 1",
+    "num": 8
+   }
+  },
+  "why": "Added from 39th batch Paper 1 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0055",
+   "chapter": "trauma",
+   "order": 2079,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q79",
+   "status": "new",
+   "topics": [
+    "Head injury"
+   ],
+   "notes": "",
+   "stem": "An elderly patient has headache 3 weeks after a minor head injury; CT shows a crescent-shaped collection. What is the diagnosis?",
+   "options": [
+    "Acute subdural haematoma",
+    "Chronic subdural haematoma",
+    "Idiopathic intracranial hypertension",
+    "Subarachnoid haemorrhage",
+    "Cerebral venous sinus thrombosis",
+    "Intracerebral haemorrhage",
+    "Temporal arteritis",
+    "Brain tumour"
+   ],
+   "answer": "B",
+   "explanation": "A crescentic (hypodense) collection weeks after minor trauma in an elderly patient is a chronic subdural haematoma: burr-hole drainage.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2",
+    "num": 79
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0056",
+   "chapter": "trauma",
+   "order": 3513,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 13",
+   "status": "new",
+   "topics": [
+    "Wound care"
+   ],
+   "notes": "",
+   "stem": "A man cuts his forearm on glass; the wound is not deep and its edges are everted. Which closure and immediate drug are most appropriate?",
+   "options": [
+    "Simple interrupted non-absorbable monofilament (e.g. 4/0 nylon) sutures and tetanus prophylaxis",
+    "Absorbable braided sutures and IV antibiotics",
+    "Leave open and give oral steroids",
+    "Staples and antiplatelet",
+    "Skin glue and anticoagulant"
+   ],
+   "answer": "A",
+   "explanation": "Superficial lacerations are closed with interrupted non-absorbable monofilament sutures; check tetanus status and give prophylaxis.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T13"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "trauma-0057",
+   "chapter": "trauma",
+   "order": 3514,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 14",
+   "status": "new",
+   "topics": [
+    "Wound care"
+   ],
+   "notes": "",
+   "stem": "A man cuts his forearm on glass; the wound is not deep and its edges are everted. If the wound is deep, how should it be closed?",
+   "options": [
+    "Layered closure: absorbable subcutaneous sutures, then skin sutures",
+    "Skin sutures only",
+    "Leave open to heal by secondary intention",
+    "Tight single-layer closure",
+    "Skin glue"
+   ],
+   "answer": "A",
+   "explanation": "Deep wounds need layered closure with absorbable (e.g. polyglactin) deep sutures to close dead space and reduce tension, haematoma and infection.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T14"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "shock-0031",
+   "chapter": "shock",
+   "order": 3515,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 15",
+   "status": "new",
+   "topics": [
+    "Haemorrhage"
+   ],
+   "notes": "",
+   "stem": "A 28-year-old man is brought after a road traffic accident with a deep right-thigh laceration and pulsatile bleeding. He is pale and anxious; BP 85/60 mmHg, HR 130/min. What type of bleeding is this?",
+   "options": [
+    "Arterial: bright red and spurting in time with the pulse",
+    "Venous: dark red, steady flow",
+    "Capillary: oozing",
+    "Reactionary haemorrhage",
+    "Secondary haemorrhage"
+   ],
+   "answer": "A",
+   "explanation": "Arterial bleeding is bright red and pulsatile; venous bleeding is dark and flows steadily. Control with direct pressure or a tourniquet.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T15"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "shock-0032",
+   "chapter": "shock",
+   "order": 3516,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 16",
+   "status": "new",
+   "topics": [
+    "Haemorrhage"
+   ],
+   "notes": "",
+   "stem": "A 28-year-old man is brought after a road traffic accident with a deep right-thigh laceration and pulsatile bleeding. He is pale and anxious; BP 85/60 mmHg, HR 130/min. What is the maximum safe tourniquet time?",
+   "options": [
+    "About 2 hours (note the time applied)",
+    "15 minutes",
+    "6 hours",
+    "12 hours",
+    "No limit if the limb is cooled"
+   ],
+   "answer": "A",
+   "explanation": "Limit tourniquet time to about 2 h (record it); complications are nerve palsy, ischaemia, compartment syndrome and reperfusion injury.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T16"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "metab-0005",
+   "chapter": "metab",
+   "order": 3517,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 17",
+   "status": "new",
+   "topics": [
+    "Nasogastric tube"
+   ],
+   "notes": "",
+   "stem": "A sedated, intubated patient in the ICU needs a nasogastric tube. What is the most dangerous complication of insertion?",
+   "options": [
+    "Misplacement into the tracheobronchial tree",
+    "Epistaxis",
+    "Sinusitis",
+    "Nasal discomfort",
+    "Hiccups"
+   ],
+   "answer": "A",
+   "explanation": "In a sedated, intubated patient the tube can pass into the airway unnoticed (no cough reflex); feeding into the lung is the danger.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T17"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "metab-0006",
+   "chapter": "metab",
+   "order": 3518,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 18",
+   "status": "new",
+   "topics": [
+    "Nasogastric tube"
+   ],
+   "notes": "",
+   "stem": "A sedated, intubated patient in the ICU needs a nasogastric tube. After NG insertion and feeding he becomes hypotensive and desaturates with secretions around the mouth and tube. What happened?",
+   "options": [
+    "Aspiration of feed into the lungs",
+    "Anaphylaxis",
+    "Pneumothorax",
+    "Septic shock",
+    "Myocardial infarction"
+   ],
+   "answer": "A",
+   "explanation": "This is aspiration: stop feeds and suction. Prevent it by checking aspirate pH ≤ 5.5 or X-ray before feeding and nursing 30–45° head-up.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T18"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "metab-0007",
+   "chapter": "metab",
+   "order": 3519,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 19",
+   "status": "deleted",
+   "topics": [
+    "Nasogastric tube"
+   ],
+   "notes": "",
+   "stem": "A 72-year-old sedated, ventilated ICU patient needs an NG tube. What are the possible complications and how are they minimised?",
+   "options": [
+    "Misplacement into the tracheobronchial tree",
+    "Epistaxis",
+    "Sinusitis",
+    "Nasal discomfort",
+    "Hiccups"
+   ],
+   "answer": "A",
+   "explanation": "Misplacement into the airway is the major danger; confirm placement (pH ≤ 5.5 or X-ray) before use.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T19"
+   },
+   "dup_of": "metab-0005"
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "metab-0008",
+   "chapter": "metab",
+   "order": 3520,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 20",
+   "status": "deleted",
+   "topics": [
+    "Nasogastric tube"
+   ],
+   "notes": "",
+   "stem": "A 72-year-old sedated, ventilated ICU patient needs an NG tube. After feeding he desaturates with secretions. What happened and what is the immediate management?",
+   "options": [
+    "Aspiration of feed into the lungs",
+    "Anaphylaxis",
+    "Pneumothorax",
+    "Septic shock",
+    "Myocardial infarction"
+   ],
+   "answer": "A",
+   "explanation": "Aspiration: stop feeds, suction and oxygen; confirm tube position before feeding.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T20"
+   },
+   "dup_of": "metab-0006"
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0243",
+   "chapter": "intest",
+   "order": 3521,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 21",
+   "status": "new",
+   "topics": [
+    "Nasogastric tube"
+   ],
+   "notes": "",
+   "stem": "A 65-year-old man with distension, persistent vomiting and absent bowel sounds has intestinal obstruction; an NG tube is ordered for decompression. How is NG tube placement confirmed?",
+   "options": [
+    "Aspirate pH ≤ 5.5, or chest X-ray if no aspirate or pH is high",
+    "Auscultation of injected air (whoosh test)",
+    "Bubbling when the end is placed in water",
+    "Litmus paper colour change to blue",
+    "Patient able to talk"
+   ],
+   "answer": "A",
+   "explanation": "Use gastric aspirate pH ≤ 5.5 first-line and X-ray if that fails; the whoosh and bubble tests are unreliable and unsafe.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T21"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0244",
+   "chapter": "intest",
+   "order": 3522,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 task 22",
+   "status": "new",
+   "topics": [
+    "Nasogastric tube"
+   ],
+   "notes": "",
+   "stem": "A 65-year-old man with distension, persistent vomiting and absent bowel sounds has intestinal obstruction; an NG tube is ordered for decompression. Which is a contraindication to NG tube insertion?",
+   "options": [
+    "Suspected basal skull fracture",
+    "Intestinal obstruction",
+    "Postoperative ileus",
+    "Upper GI bleeding",
+    "Gastric outlet obstruction"
+   ],
+   "answer": "A",
+   "explanation": "Basal skull or severe mid-face fractures risk intracranial passage, so use the orogastric route; recent oesophageal surgery or atresia are others.",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "T22"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "extraemq-0018",
+   "chapter": "extraemq",
+   "order": 2020,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q20–23",
+   "status": "new",
+   "topics": [
+    "Electrolytes"
+   ],
+   "notes": "",
+   "theme": "Electrolyte disturbances",
+   "options": [
+    "Hyponatraemia",
+    "Hypernatraemia",
+    "Hypokalaemia",
+    "Hyperkalaemia",
+    "Hypocalcaemia",
+    "Hypercalcaemia",
+    "Hypomagnesaemia",
+    "Hypermagnesaemia"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "An elderly woman becomes confused 2 days after surgery; plasma osmolality is low.",
+     "answer": "A",
+     "explanation": "Postoperative confusion with low osmolality is hyponatraemia (ADH response plus hypotonic fluids).",
+     "images": [],
+     "src_num": 20
+    },
+    {
+     "n": 2,
+     "stem": "A man with extensive muscle destruction has tall peaked T waves on ECG.",
+     "answer": "D",
+     "explanation": "Rhabdomyolysis releases potassium; peaked T waves signal hyperkalaemia (give IV calcium first).",
+     "images": [],
+     "src_num": 21
+    },
+    {
+     "n": 3,
+     "stem": "A man has prominent U waves on ECG.",
+     "answer": "C",
+     "explanation": "U waves, flat T waves and ST depression are signs of hypokalaemia.",
+     "images": [],
+     "src_num": 22
+    },
+    {
+     "n": 4,
+     "stem": "A malnourished alcoholic given fluids and nutrition has hypokalaemia that does not correct despite repeated potassium infusions.",
+     "answer": "G",
+     "explanation": "Refractory hypokalaemia means hypomagnesaemia (renal K loss); replace magnesium first (and watch for refeeding).",
+     "images": [],
+     "src_num": 23
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "extraemq-0019",
+   "chapter": "extraemq",
+   "order": 2035,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q35–38",
+   "status": "new",
+   "topics": [
+    "Fractures"
+   ],
+   "notes": "",
+   "theme": "Complications of fractures",
+   "options": [
+    "Avascular necrosis",
+    "Fat embolism syndrome",
+    "Pulmonary embolism",
+    "Post-traumatic osteoarthritis",
+    "Compartment syndrome",
+    "Volkmann ischaemic contracture",
+    "Malunion",
+    "Delayed union",
+    "Nerve injury",
+    "Osteomyelitis",
+    "Gas gangrene",
+    "Sudeck atrophy (complex regional pain syndrome)"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A soil-contaminated open fracture from a farm accident develops, days later, rapidly spreading swelling, severe pain, systemic toxicity and sepsis.",
+     "answer": "K",
+     "explanation": "Rapid spreading swelling and toxicity in a soil-contaminated wound is clostridial gas gangrene: radical debridement, penicillin, clindamycin.",
+     "images": [],
+     "src_num": 35
+    },
+    {
+     "n": 2,
+     "stem": "After multiple long-bone fractures a patient develops, within 24–72 hours, respiratory distress, confusion and a petechial rash.",
+     "answer": "B",
+     "explanation": "Hypoxia, neurological signs and petechiae 1–3 days after long-bone fractures is fat embolism syndrome.",
+     "images": [],
+     "src_num": 36
+    },
+    {
+     "n": 3,
+     "stem": "A 19-year-old athlete with a tibial fracture has worsening pain hours later, worse on passive dorsiflexion; distal pulses are present.",
+     "answer": "E",
+     "explanation": "Pain out of proportion and on passive stretch is compartment syndrome; pulses persist until late. Urgent fasciotomy.",
+     "images": [],
+     "src_num": 38
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "extraemq-0020",
+   "chapter": "extraemq",
+   "order": 2051,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q51–55",
+   "status": "new",
+   "topics": [
+    "Reconstruction"
+   ],
+   "notes": "",
+   "theme": "Closure of skin defects",
+   "options": [
+    "Split-thickness skin graft",
+    "Full-thickness skin graft",
+    "Axial (pedicled) flap",
+    "Regional muscle flap",
+    "Free muscle flap",
+    "Free fasciocutaneous flap",
+    "Local random-pattern flap",
+    "Healing by secondary intention",
+    "Delayed primary closure"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A superficial 14 × 10 cm burn wound of the back, after debridement, with a healthy vascular bed and no exposed structures.",
+     "answer": "A",
+     "explanation": "A large wound with a healthy vascular bed is covered by split-thickness skin graft.",
+     "images": [],
+     "src_num": 51
+    },
+    {
+     "n": 2,
+     "stem": "A small nasal ala defect after skin cancer excision needs excellent contour and minimal contraction.",
+     "answer": "B",
+     "explanation": "Full-thickness grafts contract little and match facial skin, so suit small facial defects (local flaps are an alternative).",
+     "images": [],
+     "src_num": 52
+    },
+    {
+     "n": 3,
+     "stem": "A fingertip wound < 1 cm with no exposed bone.",
+     "answer": "H",
+     "explanation": "Small fingertip wounds without exposed bone heal well by secondary intention.",
+     "images": [],
+     "src_num": 53
+    },
+    {
+     "n": 4,
+     "stem": "A cheek defect closed by rotating a flap around a known vascular pedicle.",
+     "answer": "C",
+     "explanation": "A flap based on a named vessel is an axial-pattern flap.",
+     "images": [],
+     "src_num": 54
+    },
+    {
+     "n": 5,
+     "stem": "A 24-year-old has an avulsion over the anterior tibia; after debridement bone without periosteum is exposed and the surrounding tissue is traumatised and previously irradiated.",
+     "answer": "E",
+     "explanation": "Bare bone cannot take a graft and the local tissue is unusable, so a free muscle flap brings well-vascularised cover.",
+     "images": [],
+     "src_num": 55
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "extraemq-0021",
+   "chapter": "extraemq",
+   "order": 2070,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q70–73",
+   "status": "new",
+   "topics": [
+    "Limb ischaemia"
+   ],
+   "notes": "",
+   "theme": "Limb ischaemia",
+   "options": [
+    "Chronic atherosclerotic ischaemia",
+    "Acute limb ischaemia",
+    "Reperfusion injury (compartment syndrome)",
+    "Leriche syndrome",
+    "Buerger disease",
+    "Aortic dissection"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "A 65-year-old with a mechanical mitral valve and infective endocarditis suddenly has a cold, pale, pulseless right leg with sensory loss below the knee; motor function is intact.",
+     "answer": "B",
+     "explanation": "Sudden pain, pallor and pulselessness from an embolus is acute limb ischaemia; with intact motor function the limb is salvageable.",
+     "images": [],
+     "src_num": 70
+    },
+    {
+     "n": 2,
+     "stem": "A patient has absent femoral pulses, buttock claudication and erectile dysfunction.",
+     "answer": "D",
+     "explanation": "Aorto-iliac occlusion gives Leriche syndrome: buttock claudication, impotence and absent femoral pulses.",
+     "images": [],
+     "src_num": 71
+    },
+    {
+     "n": 3,
+     "stem": "A patient develops pain and a tense swollen leg after emergency embolectomy.",
+     "answer": "C",
+     "explanation": "Reperfusion after revascularisation causes oedema and compartment syndrome: fasciotomy.",
+     "images": [],
+     "src_num": 72
+    },
+    {
+     "n": 4,
+     "stem": "A 30-year-old male smoker has ischaemia of the distal digits and previous superficial thrombophlebitis.",
+     "answer": "E",
+     "explanation": "Distal ischaemia with migratory thrombophlebitis in a young smoker is Buerger disease (thromboangiitis obliterans).",
+     "images": [],
+     "src_num": 73
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "extraemq-0022",
+   "chapter": "extraemq",
+   "order": 2093,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Paper 2 Q93–96",
+   "status": "new",
+   "topics": [
+    "Anaesthesia"
+   ],
+   "notes": "",
+   "theme": "Choice of anaesthesia",
+   "options": [
+    "GA with endotracheal intubation",
+    "GA with laryngeal mask airway",
+    "Spinal anaesthesia",
+    "Epidural anaesthesia",
+    "Peripheral nerve block",
+    "Local anaesthesia with sedation",
+    "Bier block (IV regional)"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "An asthmatic patient with wheeze needs ureteroscopic stone extraction.",
+     "answer": "C",
+     "explanation": "Spinal anaesthesia avoids airway instrumentation (bronchospasm) and suits ureteroscopy.",
+     "images": [],
+     "src_num": 93
+    },
+    {
+     "n": 2,
+     "stem": "A patient with COPD needs emergency laparotomy for a perforated viscus.",
+     "answer": "A",
+     "explanation": "Emergency laparotomy (full stomach) needs GA with rapid-sequence intubation to protect the airway.",
+     "images": [],
+     "src_num": 94
+    },
+    {
+     "n": 3,
+     "stem": "A patient with heart failure and CKD needs elective inguinal hernia repair.",
+     "answer": "F",
+     "explanation": "Open inguinal hernia repair under local anaesthesia (± sedation) avoids GA risks in high-risk patients.",
+     "images": [],
+     "src_num": 95
+    },
+    {
+     "n": 4,
+     "stem": "Wide local excision of a basal cell carcinoma of the cheek.",
+     "answer": "F",
+     "explanation": "Small facial skin excisions are done under local anaesthesia ± sedation.",
+     "images": [],
+     "src_num": 96
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Paper 2"
+   }
+  },
+  "why": "Added from 39th batch Paper 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "extraemq-0023",
+   "chapter": "extraemq",
+   "order": 4001,
+   "type": "EMQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 3 Q1–5",
+   "status": "new",
+   "topics": [
+    "Nutrition"
+   ],
+   "notes": "",
+   "theme": "Postoperative and surgical nutrition",
+   "options": [
+    "IV fluids only",
+    "Total parenteral nutrition",
+    "Oral feeding",
+    "Feeding jejunostomy",
+    "Gastrostomy (PEG)",
+    "Nasogastric feeding"
+   ],
+   "option_letters": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "stem": "An elderly woman has inoperable oesophageal cancer with severe dysphagia.",
+     "answer": "E",
+     "explanation": "Inoperable oesophageal cancer needs long-term enteral access below the block: gastrostomy (or stent).",
+     "images": [],
+     "src_num": 1
+    },
+    {
+     "n": 2,
+     "stem": "A man is stable after uncomplicated herniorrhaphy with normal bowel sounds.",
+     "answer": "C",
+     "explanation": "After uncomplicated surgery, early oral feeding is resumed.",
+     "images": [],
+     "src_num": 2
+    },
+    {
+     "n": 3,
+     "stem": "A patient has undergone a Whipple procedure.",
+     "answer": "D",
+     "explanation": "A feeding jejunostomy placed at pancreaticoduodenectomy allows early enteral feeding beyond the anastomoses.",
+     "images": [],
+     "src_num": 3
+    },
+    {
+     "n": 4,
+     "stem": "A patient with multiple fractures has prolonged ileus.",
+     "answer": "B",
+     "explanation": "A non-functioning gut (prolonged ileus) needs parenteral nutrition.",
+     "images": [],
+     "src_num": 4
+    },
+    {
+     "n": 5,
+     "stem": "A patient with severe trauma and a liver injury.",
+     "answer": "F",
+     "explanation": "Critically ill trauma patients should start early enteral (nasogastric) feeding within 24–48 h if the gut works.",
+     "images": [],
+     "src_num": 5
+    }
+   ],
+   "stem": "",
+   "answer": "",
+   "explanation": "",
+   "images": [],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 3"
+   }
+  },
+  "why": "Added from 39th batch Block 3 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "oeso-0035",
+   "chapter": "oeso",
+   "order": 3701,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 radiology 1",
+   "status": "new",
+   "topics": [
+    "Achalasia"
+   ],
+   "notes": "",
+   "stem": "A barium swallow is shown. What is the most likely diagnosis on this image?",
+   "options": [
+    "Achalasia",
+    "Oesophageal carcinoma",
+    "Diffuse oesophageal spasm",
+    "Pharyngeal pouch",
+    "Hiatus hernia"
+   ],
+   "answer": "A",
+   "explanation": "A grossly dilated oesophagus tapering smoothly at the cardia (bird beak) is achalasia.",
+   "images": [
+    "q/b39-p6-1.jpg"
+   ],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "R1"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "acute-0072",
+   "chapter": "acute",
+   "order": 3702,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 radiology 2",
+   "status": "new",
+   "topics": [
+    "Perforation"
+   ],
+   "notes": "",
+   "stem": "An erect chest X-ray is shown. What is the most likely diagnosis on this image?",
+   "options": [
+    "Pneumoperitoneum from a perforated viscus",
+    "Bilateral pneumothorax",
+    "Chilaiditi sign",
+    "Subphrenic abscess",
+    "Pleural effusion"
+   ],
+   "answer": "A",
+   "explanation": "Free gas under both hemidiaphragms on an erect film means pneumoperitoneum, usually a perforated viscus.",
+   "images": [
+    "q/b39-p6-2.jpg"
+   ],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "R2"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0245",
+   "chapter": "intest",
+   "order": 3703,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 radiology 3",
+   "status": "new",
+   "topics": [
+    "Sigmoid volvulus"
+   ],
+   "notes": "",
+   "stem": "A plain abdominal X-ray of a distended elderly patient is shown. What is the most likely diagnosis on this image?",
+   "options": [
+    "Sigmoid volvulus",
+    "Small bowel obstruction",
+    "Caecal volvulus",
+    "Toxic megacolon",
+    "Gallstone ileus"
+   ],
+   "answer": "A",
+   "explanation": "A huge inverted-U (coffee-bean) loop arising from the pelvis is sigmoid volvulus.",
+   "images": [
+    "q/b39-p6-3.jpg"
+   ],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "R3"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "liver-0047",
+   "chapter": "liver",
+   "order": 3704,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 radiology 4",
+   "status": "new",
+   "topics": [
+    "Liver abscess"
+   ],
+   "notes": "",
+   "stem": "A contrast CT of the upper abdomen of a febrile patient is shown. What is the most likely diagnosis on this image?",
+   "options": [
+    "Liver abscess",
+    "Simple liver cyst",
+    "Hepatocellular carcinoma",
+    "Haemangioma",
+    "Hydatid cyst with daughter cysts"
+   ],
+   "answer": "A",
+   "explanation": "A large hypodense collection with an enhancing wall and necrotic debris in the right lobe is a liver abscess.",
+   "images": [
+    "q/b39-p6-4.jpg"
+   ],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "R4"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "intest-0246",
+   "chapter": "intest",
+   "order": 3705,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 radiology 5",
+   "status": "new",
+   "topics": [
+    "Intestinal obstruction"
+   ],
+   "notes": "",
+   "stem": "An erect abdominal X-ray is shown. What is the most likely diagnosis on this image?",
+   "options": [
+    "Small bowel obstruction",
+    "Pneumoperitoneum",
+    "Sigmoid volvulus",
+    "Normal film",
+    "Paralytic ileus of the colon"
+   ],
+   "answer": "A",
+   "explanation": "Multiple central air–fluid levels in dilated small-bowel loops indicate small bowel obstruction.",
+   "images": [
+    "q/b39-p7-1.jpg"
+   ],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "R5"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "panc-0055",
+   "chapter": "panc",
+   "order": 3706,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 radiology 6",
+   "status": "new",
+   "topics": [
+    "Chronic pancreatitis"
+   ],
+   "notes": "",
+   "stem": "A plain abdominal X-ray is shown. What is the most likely diagnosis on this image?",
+   "options": [
+    "Chronic calcific pancreatitis",
+    "Renal stones",
+    "Gallstones",
+    "Calcified lymph nodes",
+    "Splenic artery aneurysm"
+   ],
+   "answer": "A",
+   "explanation": "Speckled calcification across the line of the pancreas (L1–L2) is chronic calcific pancreatitis.",
+   "images": [
+    "q/b39-p7-2.jpg"
+   ],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "R6"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "oeso-0036",
+   "chapter": "oeso",
+   "order": 3707,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 radiology 7",
+   "status": "new",
+   "topics": [
+    "Oesophageal cancer"
+   ],
+   "notes": "",
+   "stem": "A barium swallow of a patient with progressive dysphagia and weight loss is shown. What is the most likely diagnosis on this image?",
+   "options": [
+    "Oesophageal carcinoma",
+    "Achalasia",
+    "Benign peptic stricture",
+    "Oesophageal web",
+    "Diffuse oesophageal spasm"
+   ],
+   "answer": "A",
+   "explanation": "An irregular stricture with shouldering and proximal dilatation is oesophageal carcinoma.",
+   "images": [
+    "q/b39-p7-3.jpg"
+   ],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "R7"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ },
+ {
+  "new": {
+   "id": "gb-0081",
+   "chapter": "gb",
+   "order": 3708,
+   "type": "MCQ",
+   "bank": "39th Batch Exams",
+   "source": "39th batch Block 2 radiology 8",
+   "status": "new",
+   "topics": [
+    "Choledocholithiasis"
+   ],
+   "notes": "",
+   "stem": "An MRCP of a jaundiced patient is shown. What is the most likely diagnosis on this image?",
+   "options": [
+    "Choledocholithiasis",
+    "Hilar cholangiocarcinoma",
+    "Choledochal cyst",
+    "Primary sclerosing cholangitis",
+    "Normal biliary tree"
+   ],
+   "answer": "A",
+   "explanation": "Filling defects within a dilated common bile duct on MRCP are CBD stones.",
+   "images": [
+    "q/b39-p7-4.jpg"
+   ],
+   "src": {
+    "file": "39-surgery",
+    "paper": "Block 2",
+    "num": "R8"
+   }
+  },
+  "why": "Added from 39th batch Block 2 (recalled exam)"
+ }
+]

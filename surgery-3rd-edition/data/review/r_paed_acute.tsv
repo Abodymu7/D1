@@ -1,0 +1,177 @@
+paed-0001	DUP	intest-0001
+paed-0002	DUP	intest-0002
+paed-0003	EX	False: A — in infants a transverse incision gives better access (the abdomen is wider than it is long). Horizontal pliable ribs, intra-abdominal liver/bladder, large head and high larynx are true.
+paed-0004	EX	Only D is false: neonates have small glycogen stores and poor gluconeogenesis, so they become hypoglycaemic quickly. The other statements are true.
+paed-0005	OPTS	Children are regarded as small adults, and therefore their surgical management is adjusted according to their size.|Attention to thermoregulation is very important.|Postoperative management requires extreme care because of an inadequate stress response.|Minimal access surgery (MAS) can be used at all ages.
+paed-0005	KEY	BCD
+paed-0005	EX	False: A — children are not small adults; their anatomy and physiology differ. Thermoregulation and postoperative care need special attention, and MAS is feasible at any age.
+paed-0006	STEM	Which of the following statements regarding paediatric trauma are true?
+paed-0007	EX	False: C — paediatric inguinal hernias are (virtually) always indirect via a patent processus vaginalis; E — most infant hydroceles resolve spontaneously and are observed until about 2 years.
+paed-0008	OPTB	The operation is recommended at 6–18 months of age.
+paed-0008	EX	False: C — an impalpable testis may be inguinal, intra-abdominal or absent, so laparoscopy (not laparotomy) is used; E — orchidopexy aids examination but does not remove the malignancy risk.
+paed-0009	EX	False: C — Doppler ultrasound must not delay scrotal exploration when torsion is suspected, and a normal scan does not exclude it.
+paed-0011	OPTS	Viral gastroenteritis|Gastro-oesophageal reflux|Urinary tract sepsis|Pyloric stenosis|Milk protein allergy
+paed-0011	EX	Progressive non-bilious (projectile) vomiting in a hungry 3–6-week-old with visible gastric peristalsis is hypertrophic pyloric stenosis.
+paed-0012	OPTS	Abdominal ultrasound|Careful clinical examination with palpation of an epigastric mass|Upper GI contrast study|Surgical exploration|Endoscopy
+paed-0012	EX	Ultrasound is the investigation of choice, showing a thickened (>3–4 mm), elongated (>15 mm) pyloric muscle; a palpable ‘olive’ is diagnostic but often not felt.
+paed-0013	OPTS	Na 145, K 3.0, Cl 110, CO2 17, urine pH 8.0|Na 130, K 3.0, Cl 80, CO2 36, urine pH 4.0|Na 135, K 4.0, Cl 104, CO2 23, urine pH 7.0|Na 140, K 5.2, Cl 100, CO2 16, urine pH 4.0|Na 132, K 3.2, Cl 96, CO2 25, urine pH 7.0
+paed-0013	EX	Loss of gastric HCl gives hypochloraemic, hypokalaemic metabolic alkalosis; the kidney then excretes H⁺ to conserve Na⁺ and K⁺, causing paradoxical aciduria.
+paed-0014	OPTS	Immediate surgical exploration|Send the child home with an oral electrolyte rehydration solution|Change the infant’s formula and feeding regimen|IV fluid resuscitation, followed by surgical intervention|Initiate therapy with a prokinetic agent
+paed-0014	EX	Pyloric stenosis is not a surgical emergency: correct dehydration and alkalosis with IV fluids (with potassium) before Ramstedt pyloromyotomy.
+paed-0015	DUP	intest-0137
+paed-0016	DUP	intest-0138
+paed-0017	OPTS	Anorectal malformation|Oesophageal atresia|Hirschsprung’s disease|Pyloric stenosis|Jejunal atresia
+paed-0017	EX	Bilious vomiting with dilated small-bowel loops and an unused microcolon on contrast enema indicates jejunoileal atresia; Hirschsprung disease shows a transition zone.
+paed-0021	DUP	intest-0147
+paed-0023	DUP	intest-0175
+paed-0025	DUP	intest-0184
+paed-0029	EX	Correct dehydration and electrolytes first with weight-adjusted IV 0.9% saline (then dextrose-saline with KCl) before pyloromyotomy; bicarbonate would worsen the alkalosis.
+paed-0030	DUP	intest-0204
+paed-0049	DUP	intest-0232
+paed-0050	DUP	stom-0040
+paedemq-0001#1	EX	Bilious then faeculent vomiting with a tender, irreducible groin swelling in a toxic, dehydrated toddler is an incarcerated (obstructed) inguinal hernia.
+paedemq-0001#2	EX	Non-bilious vomiting in a hungry 5-week-old with a pyloric ‘olive’ felt during a feed is pyloric stenosis; the twitching (tetany) reflects metabolic alkalosis.
+paedemq-0001#3	EX	Colicky screaming episodes, vomiting and redcurrant-jelly stool with an empty right iliac fossa (Dance sign) in a 10-month-old is intussusception.
+paedemq-0002#1	EX	High fever, toxicity, rebound and rigidity with an abdominal wall that does not move on respiration indicate perforated appendicitis with peritonitis.
+paedemq-0002#2	STEM	Kerry, a 5-year-old girl, has been brought in by her parents with generalised abdominal pain, which has been recurrent over 6 months or so. On this occasion she looks ill, out of sorts and anorexic, and she has been vomiting. She has marked urinary frequency. On examination she has a temperature of 38°C, looks toxic, listless and dehydrated and has generalised abdominal and bilateral loin tenderness.
+paedemq-0002#2	EX	Fever, vomiting, urinary frequency and bilateral loin tenderness indicate UTI (pyelonephritis); recurrent episodes warrant imaging for reflux or obstruction.
+paedemq-0002#3	EX	A well child with recurrent self-limiting pain and soft generalised tenderness without peritonism has non-specific abdominal pain, the commonest diagnosis in children.
+paedemq-0003#1	EX	Delayed meconium, chronic constipation, distension and failure to thrive in a Down syndrome infant suggest Hirschsprung disease; confirm by suction rectal biopsy.
+paedemq-0003#2	EX	Antenatally detected abdominal contents in the chest with severe respiratory failure at birth is congenital diaphragmatic hernia; stabilise first, repair later.
+paedemq-0003#3	EX	Frothy saliva, choking on feeds and an orogastric tube coiled in the chest with gas in the abdomen is oesophageal atresia with distal tracheo-oesophageal fistula.
+paedemq-0003#4	EX	Polyhydramnios, Down syndrome, bilious vomiting and a ‘double-bubble’ X-ray indicate duodenal atresia, treated by duodenoduodenostomy.
+paedemq-0003#5	EX	Bilious vomiting with bloody stools and a subhepatic caecum on contrast study is malrotation with midgut volvulus: emergency Ladd procedure.
+paedemq-0003#6	EX	Jaundice persisting beyond 2 weeks with bruising (vitamin K malabsorption) suggests biliary atresia; Kasai portoenterostomy is best before 6–8 weeks.
+paedemq-0003#7	EX	Distension, bloody stools and bilious vomiting with septic shock in a neonate is necrotising enterocolitis (pneumatosis intestinalis on X-ray).
+paedemq-0004#1	EX	Inconsolable colicky crying with legs drawn up, vomiting, bloody stools and a right upper quadrant mass in a 7-month-old is intussusception.
+paedemq-0004#2	EX	Projectile non-bilious vomiting in a hungry 6-week-old with visible gastric peristalsis is pyloric stenosis; rehydrate, then pyloromyotomy.
+paedemq-0004#3	EX	Failure to pass meconium in 48 hours with distension and no rectal gas is Hirschsprung disease; confirm by suction rectal biopsy.
+paedemq-0004#4	EX	Bilious vomiting from birth, a scaphoid abdomen and a ‘double bubble’ in a trisomy 21 neonate indicate duodenal atresia.
+paedemq-0005	DUP	gitemq-0042
+paedemq-0006#1	EX	Intussusception in a stable infant without peritonitis is first treated by image-guided air enema reduction; laparotomy if it fails or perforation occurs.
+paedemq-0006#4	EX	Recent URTI, cervical lymphadenopathy, low-grade fever and a normal white count suggest mesenteric adenitis; active observation is appropriate.
+paedemq-0006#5	KEY	C
+paedemq-0006#5	EX	A preterm neonate with bloody stools and pneumatosis but no perforation has necrotising enterocolitis: bowel rest, NG decompression and broad-spectrum antibiotics.
+paedemq-0007#1	EX	Bilious vomiting with gas only in the stomach and duodenal cap (‘double bubble’) indicates duodenal atresia.
+paedemq-0007#3	STEM	A baby is born with loops of small intestine, not covered by any membrane, herniating through a defect in the anterior abdominal wall just to the right of the umbilicus.
+paedemq-0007#3	EX	Gastroschisis is a para-umbilical (usually right-sided) defect with uncovered bowel; exomphalos is a central defect with a membrane-covered sac that may contain liver.
+paedemq-0007#5	KEY	G
+paedemq-0007#5	EX	Painless rectal bleeding in a well child is typically a Meckel diverticulum (ectopic gastric mucosa); confirm with a technetium-99m pertechnetate scan.
+acute-0002	CH	trauma
+acute-0002	EX	AAST grade III liver injury is a parenchymal laceration >3 cm deep (or subcapsular haematoma >50% of surface); grade II is 1–3 cm deep.
+acute-0003	CH	trauma
+acute-0003	STEM	A 35-year-old man is involved in a motor vehicle collision in which he was thrown against the steering column, sustaining blunt trauma to his left upper abdomen. On arrival at the emergency department he complains of abdominal pain but is haemodynamically stable. CT shows a splenic tear with a small intra-abdominal haematoma; the tear extends through the splenic capsule but not to the hilum. Which one of the following treatment options is least likely to be indicated at this time?
+acute-0003	OPTB	Serial haemoglobin measurement and abdominal examination.
+acute-0003	EX	A haemodynamically stable patient with a non-hilar splenic laceration is managed non-operatively (HDU monitoring, cross-match, serial examination/imaging); laparotomy is for instability or peritonitis.
+acute-0004	STEM	Regarding imaging in the acute abdomen, all of the following statements are true except:
+acute-0005	STEM	Regarding examination of the abdomen, which of the following statements are true?
+acute-0005	OPTC	Free movement of the abdominal wall on respiration makes generalised peritonitis unlikely.
+acute-0005	EX	False: E — an intra-abdominal lump becomes less prominent when the abdominal muscles are tensed (head-raising test); a lump in the abdominal wall stays palpable.
+acute-0008	STEM	Regarding localised and diffuse peritonitis, which of the following statements are true?
+acute-0009	STEM	Regarding the management of peritonitis, which of the following statements is not true?
+acute-0010	STEM	Regarding special forms of peritonitis, all of the following statements are true except:
+acute-0011	STEM	Regarding intraperitoneal abscess, which of the following statements are correct?
+acute-0012	STEM	Regarding ascites, which of the following statements are not true?
+acute-0013	STEM	Regarding tumours of the peritoneum, which of the following statements are true?
+acute-0014	STEM	Regarding adhesions, all of the following statements are true except:
+acute-0015	STEM	Regarding the omentum and mesentery, which of the following statements are true?
+acute-0015	EX	False: D — a mesenteric cyst is a mobile periumbilical mass that moves at right angles to the line of the mesentery (Tillaux sign).
+acute-0016	STEM	Regarding the retroperitoneal space, which of the following statements is not true?
+acute-0017	CH	liver
+acute-0018	CH	liver
+acute-0019	CH	liver
+acute-0019	OPTE	Gamma-glutamyl transpeptidase (GGT) 10–50 IU/L
+acute-0019	KEY	BCD
+acute-0019	EX	Normal adult values: bilirubin <17–21 µmol/L, ALP ~30–130 IU/L, AST/ALT <40 IU/L, GGT <50 IU/L; ranges B, C and D lie wholly above normal.
+acute-0020	CH	liver
+acute-0020	STEM	Regarding liver imaging, which of the following statements are true?
+acute-0021	CH	liver
+acute-0021	STEM	Regarding acute and chronic liver disease, which of the following statements are not true?
+acute-0022	CH	liver
+acute-0022	STEM	Regarding liver trauma, which of the following statements are not true?
+acute-0022	KEY	D
+acute-0022	EX	False: D — CECT is only for haemodynamically stable patients; unstable patients go straight to laparotomy. The liver is one of the most commonly injured abdominal organs.
+acute-0023	CH	liver
+acute-0023	OPTA	Penetrating injuries with haemodynamic instability or peritonitis should be explored.
+acute-0023	KEY	ABCDE
+acute-0023	EX	All true: unstable or peritonitic penetrating injuries need laparotomy via a long midline incision; most blunt injuries settle conservatively; packing controls crush injury.
+acute-0024	CH	liver
+acute-0024	STEM	Regarding portal hypertension, all of the following statements are true except:
+acute-0025	CH	trauma
+acute-0025	OPTS	Abdominal CT scan|Insertion of a Swan–Ganz catheter|Exploratory laparotomy|Focused assessment with sonography for trauma (FAST)|Diagnostic peritoneal lavage
+acute-0025	EX	A hypotensive non-responder with a distended abdomen after blunt trauma has intra-abdominal haemorrhage and needs immediate laparotomy; CT is only for stable patients.
+acute-0026	OPTS	CT scan|Upper GI water-soluble contrast study|Lower GI water-soluble contrast study|Abdominal ultrasound|None of the above
+acute-0026	EX	Peritonitis with pneumoperitoneum on plain films in a patient with ulcer symptoms is enough to proceed to surgery; further imaging only delays treatment.
+acute-0027	OPTS	Immediate laparotomy|Non-operative management with NG decompression and antibiotics|Fluid resuscitation|Administration of H2 blockers|Placement of a central venous line
+acute-0027	KEY	C
+acute-0027	EX	Resuscitate with IV fluids (plus analgesia, antibiotics and a urinary catheter) before urgent laparotomy and omental patch repair; a central line is not the priority.
+acute-0028	CH	trauma
+acute-0028	STEM	A 23-year-old man presents to the emergency department after sustaining a single gunshot wound to the right chest. He is awake and alert and complaining of significant abdominal pain and chest pain. He has a pulse of 110, blood pressure (BP) of 90/60, respirations of 24. On examination, his breath sounds are decreased on the right. His chest is dull to percussion on the right. His abdomen is slightly distended and diffusely tender. His pulse oximeter shows 88% on 6 L oxygen by face mask. A right chest drain is inserted and he responds to resuscitation. Which of the following is the most appropriate next step?
+acute-0028	EX	A gunshot wound to the lower chest with abdominal distension and tenderness implies transdiaphragmatic injury and mandates laparotomy once the haemothorax is drained.
+acute-0029	CH	oeso
+acute-0030	CH	oeso
+acute-0030	STEM	Which diagnostic test is most appropriate for suspected spontaneous oesophageal perforation (Boerhaave syndrome)?
+acute-0030	EX	A water-soluble contrast oesophagogram is the classic test to confirm and localise the leak; CT with oral contrast is used if it is equivocal or the patient is unwell.
+acute-0031	CH	oeso
+acute-0032	CH	trauma
+acute-0033	CH	trauma
+acute-0033	STEM	Which is the treatment of choice for a post-traumatic duodenal haematoma causing obstruction?
+acute-0033	EX	Most duodenal haematomas resolve within 2–3 weeks with NG decompression and parenteral nutrition; surgery only if obstruction persists or perforation is suspected.
+acute-0034	CH	trauma
+acute-0034	OPTB	It is more sensitive than computed tomography and focused assessment with sonography for trauma (FAST) scanning
+acute-0034	EX	DPL misses retroperitoneal injuries (pancreas, duodenum, kidney), so a pancreatic injury may give a negative lavage; it is very sensitive for intraperitoneal blood.
+acute-0035	CH	trauma
+acute-0035	STEM	Which of the following is not an independent indication for laparotomy following trauma?
+acute-0036	DUP	acute-0003
+acute-0037	CH	trauma
+acute-0037	STEM	The following factors detract from the diagnostic sensitivity of focused assessment with sonography for trauma (FAST) scanning, except:
+acute-0038	CH	trauma
+acute-0039	CH	trauma
+acute-0040	OPTA	IV Hartmann’s solution 500mL, over 15min
+acute-0040	EX	A tachycardic patient with peritonitis needs prompt balanced crystalloid resuscitation (500 mL bolus over <15 min, then reassess); blood is for haemorrhage and bicarbonate is not indicated.
+acute-0041	EX	Increasing lower abdominal pain with sudden worsening, guarding, tachycardia and poor capillary refill in a young woman is a ruptured ectopic pregnancy until a pregnancy test excludes it.
+acute-0042	CH	trauma
+acute-0042	EX	An NG tube coiling into the left chest after blunt trauma means acute diaphragmatic rupture; repair via laparotomy, which also allows assessment of associated abdominal injuries.
+acute-0043	CH	trauma
+acute-0043	EX	A seatbelt sign with free fluid but no solid-organ injury on CT suggests hollow viscus or mesenteric injury; diagnostic laparoscopy (or laparotomy) is indicated.
+acute-0044	CH	trauma
+acute-0044	EX	A haemodynamically stable patient with a positive FAST should have CT of the abdomen and pelvis to define the injury; laparotomy is for instability or peritonitis.
+acute-0045	CH	trauma
+acute-0045	EX	Severe respiratory distress with markedly reduced breath sounds on one side after trauma needs immediate pleural decompression (then chest drain) before any imaging.
+acute-0046	CH	trauma
+acute-0046	EX	A stable patient with a stab wound to the left lower chest (thoracoabdominal zone) needs diagnostic laparoscopy to exclude a diaphragmatic injury, which CT may miss.
+acute-0047	CH	trauma
+acute-0047	EX	Expanding haematoma, dysphagia, dysphonia and haemoptysis signal major vascular or aerodigestive injury and mandate exploration; pneumothorax needs a chest drain and is only relative.
+acute-0048	CH	trauma
+acute-0048	EX	Coiled-spring duodenal obstruction after blunt trauma is an intramural duodenal haematoma: manage non-operatively with NG decompression and parenteral nutrition.
+acute-0049	CH	trauma
+acute-0049	EX	Lateralising neurology with a normal head CT and a high-risk mechanism (mandibular fracture) suggests blunt cerebrovascular injury; CT angiography of the neck is the screening test.
+acute-0050	CH	trauma
+acute-0050	EX	A falling level of consciousness (GCS) is the earliest sign of rising ICP; pupillary dilatation, hemiparesis and the Cushing response are late signs.
+acute-0051	CH	trauma
+acute-0051	EX	In a hypotensive patient mannitol and head-up tilt worsen hypotension, so brief hyperventilation (PaCO₂ ~4–4.5 kPa) is the initial temporising measure.
+acute-0052	CH	trauma
+acute-0052	STEM	A 31-year-old man is brought to the ER following an automobile accident in which his chest struck the steering wheel. His vital signs are heart rate of 78 beats/minute, blood pressure of 129/65, respirations of 14 breaths/minute, and oxygen saturation of 98% on room air. Examination reveals no evidence of respiratory distress, but the patient exhibits multiple right-sided palpable rib fractures. A right-sided chest wall segment appears to move inward rather than outward during inspiration and outward rather than inward during expiration. Chest x-ray shows no evidence of pneumothorax or hemothorax. Which of the following is the most appropriate initial management of this patient?
+acute-0052	EX	Flail chest without respiratory compromise is managed with good analgesia (e.g. epidural or regional block) and physiotherapy; ventilation only if respiratory failure develops.
+acute-0053	CH	trauma
+acute-0053	EX	A gunshot wound below the nipple line may cross the diaphragm and needs laparotomy; thoracotomy is reserved for massive or persistent chest drain output.
+acute-0054	CH	trauma
+acute-0054	EX	Hypotension after trauma is haemorrhage until proven otherwise, not head injury; FAST rapidly identifies abdominal bleeding in the unstable patient.
+acute-0055	CH	trauma
+acute-0055	EX	Hypothermia, acidosis and coagulopathy form the lethal triad; correct with rewarming and balanced blood product transfusion (damage-control resuscitation), not bicarbonate.
+acute-0056	CH	trauma
+acute-0056	EX	Hypotension, distended neck veins and absent unilateral breath sounds are tension pneumothorax: immediate needle decompression (4th/5th intercostal space, mid-axillary line), then chest drain.
+acute-0057	CH	shock
+acute-0057	KEY	D
+acute-0057	EX	Hypotension with tachycardia and a base deficit of −6 to −10 indicates ATLS class III haemorrhage, a 30–40% loss of blood volume.
+acute-0058	CH	trauma
+acute-0058	EX	A normotensive pregnant patient with a positive FAST needs CT abdomen/pelvis; maternal stabilisation and diagnosis take priority over fetal radiation risk.
+acute-0059	CH	trauma
+acute-0059	EX	A haemodynamically stable patient with splenic injury and no contrast extravasation is managed non-operatively with observation; angioembolisation if there is a blush.
+acute-0060	CH	trauma
+acute-0060	EX	Abdominal compartment syndrome raises peak airway pressure and lowers cardiac and urine output; with bladder pressure >20–25 mmHg it warrants decompressive laparotomy.
+acute-0061	CH	trauma
+acute-0061	EX	ATLS: the initial bolus for a hypotensive child is 20 mL/kg warmed isotonic crystalloid (600 mL for 30 kg); give 10 mL/kg packed red cells if there is no response.
+acute-0062	CH	oeso
+acute-0062	KEY	C
+acute-0062	EX	Fever, tachycardia and severe pain after caustic ingestion suggest perforation: erect chest X-ray (then CT) first; endoscopy is contraindicated if perforation is suspected.

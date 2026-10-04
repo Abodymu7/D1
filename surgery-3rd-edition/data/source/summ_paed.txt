@@ -1,0 +1,41 @@
+Hirschsprung Disease
+Esophageal Atresia & Tracheoesophageal Fistula (TEF)
+Intussusception
+Infantile Hypertrophic Pyloric Stenosis (IHPS)
+Anorectal Malformations (ARM)
+Clinical Definition
+• Congenital absence of enteric ganglion cells in the distal colon\n• Results in functional obstruction and megacolon
+• Congenital discontinuity of the esophagus\n• Often accompanied by an abnormal connection (fistula) between the esophagus and trachea
+• Telescoping of a proximal bowel segment into the distal segment\n• Leads to bowel obstruction and possible vascular compromise
+• Obstruction of the gastric outlet\n• Caused by marked hypertrophy and elongation of the pyloric muscle
+• Spectrum of congenital anomalies of the distal rectum/anus\n• Ranges from low”type defects to complex high lesions with fistulous communications
+Causes & Risk Factors
+• Defective neural crest cell migration/differentiation\n• Associated with Down syndrome and other neurocristopathy syndromes\n• Incidence approximates 1 in 5000 live births
+• Multifactorial congenital defect\n• Environmental exposures (e.g., methimazole, maternal diabetes, thalidomide)\n• Increased familial recurrence and related anomalies (cardiac, vertebral, renal)
+• Mostly idiopathic; may follow a recent respiratory or gastrointestinal infection\n• Secondary causes include lead points (Meckel’s diverticulum, polyps, duplications)
+• Multifactorial etiology with genetic predisposition\n• Abnormal neuromuscular innervation; macrolide exposure; predisposition in first”born males
+• Abnormal hindgut development\n• Familial predisposition, first”born status; association with VACTERL anomalies and sacral defects
+Clinical Features
+• Delayed passage of meconium (typically >24 hours)\n• Abdominal distension and bilious vomiting\n• May develop Hirschsprung”associated enterocolitis (fever, explosive ‘red currant jelly’ stools)
+• Excessive salivation and choking during feeding\n• Prenatal signs include polyhydramnios and a small/absent stomach bubble on ultrasound
+• Paroxysmal, severe, crampy abdominal pain\n• Passage of ‘red currant jelly’ stools (blood and mucus)\n• Palpable abdominal mass and an ‘empty’ right iliac fossa
+• Projectile, nonbilious vomiting between 3 and 12 weeks of life\n• Palpable ‘olive’ in the epigastrium; dehydration, persistent hunger, potential jaundice
+• Abnormal perineal findings (e.g., additional fistulous openings)\n• In males, meconium may pass via the urethra (suggesting a rectourethral fistula)\n• In females, may see a third opening (rectovestibular fistula) or common channel (cloacal malformation)
+Management (Investigations & Treatments)
+• Imaging: Plain abdominal X‑ray (shows obstruction); contrast enema reveals a transition zone\n• Anorectal manometry supports diagnosis\n• Definitive confirmation via rectal biopsy demonstrating absent ganglion cells\n• Treatment: IV fluid and electrolyte resuscitation; gastrointestinal decompression\n• Definitive staged surgical approach (e.g., pull‑through procedures – Swenson, Duhamel, Soave)
+• Imaging: Catheter insertion (stops at T2–T4 on radiograph)\n• Additional screening with echocardiography and abdominal ultrasound for associated anomalies\n• Treatment: Stabilize with IV fluids, electrolyte correction, and NG decompression\n• Definitive surgical repair is performed electively
+• Imaging: Abdominal ultrasound shows a ‘target’ (doughnut) sign\n• Plain radiographs may indicate obstruction; contrast enema can reveal a ‘claw’ sign and serve therapeutically\n• Treatment: Stabilize with IV fluids and correction of imbalances\n• Begin nonoperative reduction using pneumatic or hydrostatic enema; proceed to operative reduction if unsuccessful or if signs of perforation
+• Investigations: Abdominal ultrasound measuring pyloric muscle thickness (>4 mm) and canal length (>16 mm)\n• Laboratory analysis typically shows hypochloremic, hypokalemic metabolic alkalosis\n• Treatment: IV fluid resuscitation with electrolyte/acid–base correction\n• Definitive surgical pyloromyotomy (Ramstedt procedure) is performed once stabilized
+• Evaluation: Perineal inspection and cross‑table lateral radiographs assess the rectal pouch relative to the coccyx\n• Additional imaging (renal/spinal ultrasound) to rule out other anomalies\n• Treatment: IV fluid stabilization with antibiotics\n• Low lesions may undergo primary repair (PSARP), while complex/high anomalies are managed with an initial protective colostomy followed by definitive repair
+Differential Diagnosis & Exclusion
+• Differential:\n – Functional constipation\n – Meconium ileus (e.g., in cystic fibrosis)\n – Hypothyroidism”related motility issues\n• Exclusion:\n – Absence of a transition zone on imaging\n – Normal anorectal manometry and rectal biopsy\n – Specific CF markers or thyroid panel abnormalities
+• Differential:\n – Severe gastroesophageal reflux disease\n – Laryngeal cleft\n – Tracheomalacia\n• Exclusion:\n – Catheter insertion demonstrates an abrupt obstruction\n – Radiographic evidence of esophageal discontinuity\n – Endoscopic/bronchoscopic evaluation distinguishes clefts or excludes airway collapse
+• Differential:\n – Acute gastroenteritis\n – Midgut volvulus\n – Meckel’s diverticulum as a lead point\n• Exclusion:\n – Ultrasound reveals a characteristic target sign\n – Contrast enema displays the typical ‘claw’ sign\n – Upper GI series confirms normal rotation
+• Differential:\n – Gastroesophageal reflux disorder\n – Milk protein allergy/formula intolerance\n – Other upper gastrointestinal obstructions\n• Exclusion:\n – Ultrasound confirms abnormal pyloric muscle measurements\n – Lack of improvement with dietary changes\n – Imaging localizes obstruction to the pyloric region exclusively
+• Differential:\n – Simple rectal prolapse\n – Isolated anal stenosis\n – Other gastrointestinal atresias\n• Exclusion:\n – Normal neonatal perineal evaluation demonstrating expected anatomic positioning\n – Imaging that reveals a continuous rectal canal\n – Radiological studies that localize the obstruction outside the anorectal region
+Complications
+• Hirschsprung”associated enterocolitis\n• Risk of bowel perforation and sepsis if diagnosis/treatment is delayed\n• Long”term issues: chronic constipation and bowel dysmotility
+• Postoperative complications: anastomotic leak, stricture formation, and recurrent fistula\n• Secondary risks: significant gastroesophageal reflux with potential aspiration events
+• Bowel necrosis resulting from strangulation\n• Perforation leading to peritonitis and systemic sepsis; recurrence possible (≈10% post nonoperative reduction)
+• Preoperative dehydration, electrolyte imbalance, and risk of shock\n• Iatrogenic perforation during nonoperative reduction; postoperative adhesions
+• Preoperative severe dehydration, electrolyte derangements, and shock risk if delayed\n• Postoperative anal strictures, wound complications, and potential neurologic (e.g., transient nerve palsy) or urologic injuries (e.g., urethral trauma)

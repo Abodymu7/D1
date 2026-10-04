@@ -1,0 +1,49 @@
+Division
+Urinary Lithiasis (Stones)
+Urinary Tract Infections (UTIs)
+Benign Prostatic Hyperplasia (BPH)
+Prostate Cancer
+Congenital Anomalies
+Urological Emergencies
+Clinical Definition
+• Formation of crystalline calculi; • Occurs when urine becomes supersaturated
+• Infection anywhere along the urinary tract; • Can affect lower (cystitis) or upper (pyelonephritis) segments
+• Nonmalignant prostate enlargement; • Hyperplastic growth (mainly in transitional zone) causing outlet obstruction
+• Malignant adenocarcinoma of the prostate; • Often originates in the peripheral zone; usually asymptomatic early
+• Congenital/developmental malformations; • Includes agenesis, fusion anomalies, reflux, and valve anomalies
+• Acute disruptions in urogenital structures; • Traumatic and iatrogenic injuries requiring prompt intervention
+Causes & Risk Factors
+• Metabolic imbalances: hypercalciuria, hyperoxaluria, hypocitraturia, hyperuricosuria; • Inadequate hydration; dietary factors; • Male predominance (except for some infection stones)
+• Bacterial (predominantly E. coli; sometimes Gram”positive); • Risk enhanced by poor perineal hygiene, sexual activity (females); • Instrumentation (catheters, recent procedures) and immunocompromise in complicated cases
+• Hormonal influences (androgens/estrogens); • Age >60 years with genetic predisposition
+• Multifactorial: genetic mutations, hormonal drives; • Advanced age (≥65); family history; higher incidence in certain races
+• Aberrant embryologic development (ureteric bud/metanephric mesenchyme); • Genetic factors and associated syndromes
+• Trauma (blunt, penetrating) and iatrogenic damage; • High-impact injuries (RTA, falls), surgical mishaps
+Clinical Features
+• Severe colicky flank pain radiating from the costovertebral area; • Hematuria (microscopic or gross); • Nausea and vomiting
+• Cystitis: Dysuria, frequency, urgency, suprapubic pain; • Pyelonephritis: Fever, chills, flank pain, nausea/vomiting
+• Obstructive: weak urinary stream, hesitancy, straining; • Irritative: frequency, urgency, nocturia; smooth, firm prostate on DRE
+• Early stages often asymptomatic (detected on screening); • Advanced disease may present with urinary obstruction, hematuria, bone pain (metastasis)
+• Frequently asymptomatic; may be incidentally found; • Can present with recurrent UTIs, hydronephrosis; specific signs (e.g., Potter facies in bilateral agenesis)
+• Renal injuries: Hematuria, flank pain, shock; • Ureteral injuries: Delayed pain, urinoma formation; • Bladder/urethral injuries: Inability to void, blood at meatus, pelvic pain
+Management Lines
+Investigations: • Urinalysis (hematuria, crystals); • KUB X-ray; ultrasound; CT urography; • Stone composition analysis; Treatments: • Analgesia (NSAIDs/opioids), hydration; • Medical expulsive therapy (α-blockers); • ESWL for small stones; PCNL, ureteroscopy, or surgery for larger/complex cases
+Investigations: • Urinalysis (leukocyte esterase, nitrites, pyuria); • Urine culture; • Imaging (ultrasound/CT) for complicated cases; Treatments: • Antibiotic regimens (oral short-course for cystitis; IV for pyelonephritis); • Supportive care (hydration, antipyretics)
+Investigations: • Serum PSA (modestly elevated); • Bladder ultrasound; selective urodynamic studies; Treatments: • Medical therapy: α1-blockers, 5α-reductase inhibitors; • Minimally invasive methods: laser therapy, TUIP; • Surgical intervention: TURP or open prostatectomy as needed
+Investigations: • Serum PSA, digital rectal evaluation findings; • TRUS with biopsy; CT/MRI and bone scan for staging; Treatments: • Local: Radical prostatectomy or radiation (external beam, brachytherapy); • Advanced: Hormonal therapy (GnRH analogues, antiandrogens), chemotherapy; • Consideration of active surveillance in select low-risk cases
+Investigations: • Ultrasound; IV urography (IVU) or diuretic renogram; • VCUG for reflux; DMSA scan for functional assessment; Treatments: • Surgical correction (pyeloplasty, reimplantation, valve ablation); • Conservative observation for asymptomatic cases; • Timed repairs (e.g., hypospadias surgery in infancy)
+Investigations: • Contrast-enhanced CT scan; • Retrograde urethrogram (for urethral injury); • Voiding cystogram (for bladder rupture); Treatments: • Stabilization: IV fluids and supportive care; • Interventional radiology (embolization for hemorrhage); • Surgical repair: stenting, bladder/urethral repair, drainage as necessary
+Differential Diagnosis & Exclusion Criteria
+Compare with: • Acute pyelonephritis (fever, positive culture, renal inflammation); • Musculoskeletal pain (localized tenderness, lack of urinary findings); • Ureteral stricture (chronic obstruction with imaging showing narrowing)
+Differentiate from: • Pyelonephritis (imaging evidence of pelvis involvement, bacteremia); • Interstitial cystitis (chronic pain with negative cultures); • Prostatitis in men (PSA levels, treatment response)
+Exclude: • Prostate cancer (hard, nodular gland, marked PSA elevation); • Chronic prostatitis (persistent pain with inflammatory markers); • Urethral stricture (focal narrowing on urodynamics/imaging)
+Exclude: • BPH (diffuse, benign enlargement with modest PSA elevation); • Prostatitis (responds to antimicrobials; no malignant cells on biopsy)
+Distinguish from: • Multicystic dysplastic kidney (nonfunctional, multiple isolated cysts on DMSA/IVU); • Simple renal cyst (well-defined, anechoic on CT/US); • Polycystic kidney disease (bilateral, familial pattern with numerous cysts)
+Differentiate using imaging: • Renal contusion vs. laceration (CT defines capsule integrity); • Intraperitoneal vs. extraperitoneal bladder rupture (voiding cystogram leak pattern); • Anterior vs. posterior urethral injury (retrograde urethrogram shows location; pelvic fracture association)
+Complications
+• Secondary infections (UTIs); • Obstruction leading to hydronephrosis, renal impairment; • Sepsis if untreated; chronic kidney damage
+• Progression to acute pyelonephritis or renal abscess; • Possible sepsis in complicated cases; • Recurrent infections may cause renal scarring
+• Acute/chronic urinary retention; • Recurrent UTIs; • Bladder calculus formation; possible renal compromise
+• Post-treatment sequelae: incontinence, erectile dysfunction, bleeding; • Potential metastatic spread (bone, lymphatic)
+• Recurrent UTIs; obstruction or reflux may lead to renal failure; • Hypertension and electrolyte imbalance in advanced cases
+• Hemorrhagic shock in severe trauma; • Urinary extravasation (urinoma, peritonitis, sepsis); • Late strictures leading to chronic renal impairment

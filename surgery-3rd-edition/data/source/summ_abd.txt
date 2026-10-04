@@ -1,0 +1,152 @@
+Category
+Acute Abdomen & Intraperitoneal Abscess
+Acute Appendicitis
+Clinical Definition
+• Sudden onset of abdominal pain requiring urgent intervention; • Localized purulent collection in peritoneal compartments to localized right lower quadrant (RLQ) discomfort
+• Inflammatory process of the vermiform appendix; • Transition from diffuse visceral (periumbilical) pain to focused RLQ tenderness
+Causes
+• Intra”abdominal events: - Perforated viscus (peptic ulcer, appendicitis, diverticulitis), - Inflammatory conditions (cholecystitis, pancreatitis); • Trauma/postoperative infections leading to abscess formation; • Extra”abdominal or functional pain etiologies
+• Primarily due to luminal obstruction from: - Fecolith, lymphoid hyperplasia, vegetable matter, parasites, or rarely neoplasm; • Progressive ischemia and bacterial invasion
+Risk Factors
+• Extremes of age (children and elderly); • Immunocompromised status and chronic illnesses (e.g., diabetes); • Previous abdominal surgeries (adhesions, altered anatomy); • Female reproductive age (consider gynecologic emergencies); • Obesity causing delayed or obscured findings
+• Extremes of age; • Immunosuppression and metabolic disorders (diabetes); • Variations in appendix position (retrocecal, pelvic); • Prior abdominal surgery impacting local tissue planes
+Clinical Features (Symptoms/Signs)
+• Diffuse or midline abdominal pain that may later localize; • Nausea and vomiting (often pain precedes vomiting); • Fever ranging from low grade to high; signs of systemic toxicity; • Abdominal distension, rebound tenderness, guarding, tachycardia and hypotension as disease progresses
+• Initial anorexia with periumbilical discomfort; • Migratory pain from periumbilical area to RLQ; • Mild vomiting and low”grade fever; • Localized tenderness (McBurney’s point), rebound, guarding; • Special signs (e.g., Rovsing’s, psoas, obturator)
+Management (Investigations & Treatments)
+• Laboratory tests: CBC (noting leukocytosis), CRP, electrolytes, LFTs, ABG; • Imaging: - Plain X-Ray (detect free air or obstruction signs), - Ultrasound (identify fluid collections, abscesses, cholecystitis), - CT scan for precise localization, abscess detection, wall thickening; • Treatments: - Initiate broad-spectrum antibiotics (covering Gram negatives, anaerobes), - Image–guided percutaneous drainage for localized abscesses, - Urgent surgical intervention when indicated (perforation, ischemia)
+• Laboratory studies: CBC (notable neutrophilia), urinalysis, pregnancy test; • Imaging: Ultrasound (enlarged, noncompressible appendix; appendicolith), CT scan to confirm diagnosis if ultrasound is equivocal; • Treatments: - Appendectomy (laparoscopic or open), - Conservative management (for well-localized inflammatory masses, with IV fluids and antibiotics)
+Differential Diagnosis & How to Exclude Other Similar DDX
+• Consider conditions such as: - Appendicitis, diverticulitis, pancreatitis, cholecystitis; - Gynecological emergencies (ectopic pregnancy, ovarian cysts); - Gastrointestinal perforations; • Exclusion Strategy: Use CT imaging and ultrasound to localize the inflammatory focus, evaluate laboratory inflammatory markers, exclude extra–abdominal causes by correlating imaging findings
+• Consider conditions including: - Mesenteric lymphadenitis; - Gastroenteritis, pelvic inflammatory disease (PID), urinary tract infection/ureteric stone, ovarian torsion; • Exclusion Strategy: Utilize imaging modalities (US, CT) and pelvic ultrasonography, along with laboratory tests
+Complications
+• Generalized peritonitis from a perforated viscus; • Sepsis and septic shock; • Intra–abdominal abscess requiring further drainage; • Bowel ischemia/necrosis and subsequent adhesive small bowel obstruction; • Postoperative wound infections, incisional hernia, fistula formation
+• Perforation leading to generalized peritonitis; • Formation of a periappendiceal abscess; • Septic shock and systemic inflammatory response; • Postoperative complications (wound infection, ileus, adhesions)
+Summary & Key Points
+• Rapid, objective diagnostic testing (laboratory and imaging) is essential to distinguish these conditions; • Imaging (X‑Ray, ultrasound, CT) is pivotal both for diagnosis and to exclude alternative DDX; • Treatment is tailored based on findings—urgent surgery is warranted in complicated cases while a conservative regimen may be considered for localized inflammatory masses; • Recognizing specific risk factors and distinct clinical features aids in timely diagnosis and mitigation of complications
+Category
+Reducible Hernia
+Irreducible Hernia
+Obstructed Hernia
+Strangulated Hernia
+Inflamed Hernia
+Clinical Definition
+Protrusion through a defect; Sac containing viscera, fat, or fluid; Contents can be returned to the abdomen
+Protrusion through a defect; Sac containing viscera, fat, or fluid; Contents can be returned to the abdomen
+Protrusion through a defect; Sac containing viscera, fat, or fluid; Contents can be returned to the abdomen
+Protrusion through a defect; Sac containing viscera, fat, or fluid; Contents can be returned to the abdomen
+Protrusion through a defect; Sac containing viscera, fat, or fluid; Contents can be returned to the abdomen
+Causes & Risk Factors
+Increased intra‑abdominal pressure (heavy lifting, obesity); Congenital wall weakness or acquired defects
+Increased intra‑abdominal pressure (heavy lifting, obesity); Congenital wall weakness or acquired defects; Longstanding hernia leading to adhesions
+Increased intra‑abdominal pressure (heavy lifting, obesity); Congenital wall weakness or acquired defects; Tight sac neck causing bowel entrapment
+Increased intra‑abdominal pressure (heavy lifting, obesity); Congenital wall weakness or acquired defects; Narrow neck with compromised vascular supply
+Increased intra‑abdominal pressure (heavy lifting, obesity); Congenital wall weakness or acquired defects; Irritation from local infection or external support devices
+Clinical Features (Symptoms & Signs)
+Painless or mild discomfort; Visible, soft mass that reduces in supine position; Positive cough impulse
+Persistent mass, non‑mobile; Loss of cough impulse; Mild tenderness may be present
+Signs of bowel obstruction (nausea, vomiting); Colicky pain, abdominal distension; Tender localized swelling
+Sudden, severe localized pain progressing to systemic signs; Tense and irreducible mass with marked tenderness; Skin redness or ecchymosis over the lesion
+Localized pain with overlying redness and edema; Mild–moderate discomfort with signs of local inflammation
+Management (Investigations, Findings, Treatments)
+Ultrasound imaging to assess sac size, neck diameter, and contents; CT scan for complex or recurrent cases; Elective surgical repair (herniotomy or herniorrhaphy; mesh or tissue repair); Temporary external support (truss) if surgery is deferred
+Cross‑sectional imaging (ultrasound/CT) to evaluate adhesion and sac anatomy; Scheduled surgical repair with sac excision and posterior wall reinforcement
+Ultrasound/CT to document bowel entrapment and obstruction signs; Laboratory tests for electrolytes and infection markers; Preoperative stabilization with IV fluids and nasogastric decompression; Urgent operative intervention to relieve obstruction
+Duplex ultrasonography/CT to evaluate vascular flow and bowel viability; Investigations for systemic inflammation (elevated white cell count, lactate); Emergency surgical repair; avoid mesh use in contaminated fields; Preoperative IV antibiotics and fluid replacement
+Imaging (ultrasound) to assess sac inflammation and exclude abscess; Laboratory tests for infection markers (CRP, WBC); Surgical intervention with debridement of inflamed tissue; Administration of broad‑spectrum antibiotics
+Differential Diagnoses & Exclusion Criteria
+Consider hydrocele or lipoma; Excluded by ultrasound showing bowel/omentum content and positive cough impulse
+Differentiate from encysted hydrocele of the cord; Excluded by imaging demonstrating absence of cystic isolated fluid; Exclude abnormal testicular descent using sonographic evaluation
+Distinguish from simple incarceration (no bowel compromise); Excluded by imaging that shows patent vascular flow; Rule out other causes of bowel obstruction via CT scan findings
+Differential includes acute abdomen (appendicitis, abscess formation); Excluded by imaging evidence of compromised blood flow and localized hernial sac involvement
+Mimics localized abscess or inguinal lymphadenitis; Excluded by ultrasound identifying hernial sac contents and a consistent anatomical defect
+Complications
+Low immediate risk; potential for recurrence if untreated; Risk of progressing to incarceration over time
+Increased adhesions complicating repair; Potential evolution to incarceration
+Bowel ischemia if obstruction persists; Increased risk of perforation and peritonitis with delay
+Bowel gangrene and perforation leading to septicemia; Systemic infection, peritonitis, and high morbidity
+Local wound infection and tissue necrosis; Abscess formation in the hernial sac if inflammation progresses
+Parameter
+Obstructive Jaundice
+Hepatocellular Jaundice
+Hemolytic Jaundice
+Clinical Definition
+• Bile flow obstruction with blocked extrahepatic (or rarely intrahepatic) ducts; • Predominant conjugated (direct) hyperbilirubinemia
+• Injury to liver parenchyma; • Mixed bilirubin elevation reflecting hepatocyte damage; • Impaired conjugation accompanied by parenchymal dysfunction; • Jaundice due to liver cell injury; • Uncertain bile transport secondary to damaged hepatocytes; • Mainly hepatocellular release of enzymes
+• Overwhelmed RBC clearance leading to high unconjugated bilirubin; • Inability of liver conjugation to keep pace with rapid RBC breakdown
+Causes
+• Gallstones (choledocholithiasis); • Benign or malignant biliary strictures; • Tumors (pancreatic head, cholangiocarcinoma, periampullary carcinoma); • Parasitic infections (eg, hydatid cysts) and external compression; • Occasionally, drug”induced intrahepatic cholestasis
+• Viral hepatitis (A, B, C, etc.); • Alcohol”induced liver injury; • Drug toxicity or autoimmune hepatitis; • Metabolic and genetic liver disorders; • Hepatocyte injury resulting directly from toxins
+• Inherited or acquired hemolytic anemias (eg, autoimmune, hereditary spherocytosis); • Microangiopathic processes (TTP, HUS) and drug”induced hemolysis
+Risk Factors
+• Older age (especially with malignancy); • Previous biliary stone disease or interventions; • Obesity, rapid weight loss, high”cholesterol diet; • Smoking, alcohol use, genetic predisposition toward malignancy
+• Chronic alcohol consumption and viral exposures; • Obesity/metabolic syndrome; • Hepatotoxic medications and environmental toxins
+• Inherited hemolytic disorders; • Autoimmune conditions; • Exposure to hemolytic triggers (certain drugs/infections)
+Clinical Features
+• Progressive yellow discoloration (skin/sclera); • Intense pruritus (bile salt deposition); • Clay”colored stools and dark urine; • Right upper quadrant discomfort/pain; • Fever/chills when cholangitis is present; • Palpable non”tender gallbladder (Courvoisier’s sign)
+• Jaundice with signs of liver dysfunction; • Fatigue, anorexia, weight loss; • Stigmata of chronic liver disease (spider angiomata, palmar erythema); • May manifest coagulopathy or encephalopathy in advanced cases
+• Jaundice associated with fatigue, pallor, tachycardia; • Laboratory evidence of hemolysis (reticulocytosis); • Normal stool color; • Anemia signs are prominent
+Management (Investigations & Treatments)
+• Laboratory investigation: – Marked elevation of conjugated bilirubin; – High alkaline phosphatase (AKP) & Gamma”glutamyl transferase (GGT); – Minimal or mild transaminase rise; • Radiologic imaging: – Ultrasound (first”‘line); – CT scan, MRCP for detailed ductal evaluation; – ERCP (diagnostic and therapeutic) and PTC when needed; • Treatment approach: – ERCP with sphincterotomy, stone extraction, stent placement; – Surgical resection or biliary–enteric bypass for malignancies; – Urgent drainage with antibiotics in cholangitis
+• Laboratory investigation: – Significant elevation of AST/ALT; – Variable, often modest, AKP elevation; • Imaging: – CT/MRI showing diffuse parenchymal injury or cirrhotic changes; • Treatment approach: – Supportive management with antiviral therapy if viral; – Cease any hepatotoxic agents; – Nutritional/vitamin support and evaluation for transplantation
+• Laboratory evaluation: – Predominantly unconjugated hyperbilirubinemia; – Elevated lactate dehydrogenase (LDH) and reticulocyte count; – Coombs test (in suspected autoimmune hemolysis); • Treatment approach: – Specific therapy for the underlying hemolytic condition; – Use of immunosuppressants, transfusions, or supportive care
+Differential Diagnosis & Exclusion Criteria
+• Confirmed by imaging evidence of bile duct dilation; • Cholestatic enzyme pattern and direct bilirubin predominance support an obstructive cause; • Exclude hepatocellular by the absence of marked transaminase elevation; • Exclude hemolytic causes by demonstrating lack of hemolysis markers (normal LDH, haptoglobin)
+• Diagnosis relies on marked hepatocyte enzyme elevation and parenchymal abnormalities; • Exclude obstructive causes if imaging shows no ductal dilation; • Exclude hemolytic causes if there is no laboratory evidence of hemolysis
+• Confirmed by hematological work”up (peripheral smear, reticulocyte count, Coombs test); • Exclude obstructive process if imaging is normal and cholestasis enzymes are not elevated; • Exclude hepatocellular injury if liver enzymes remain within near”‘normal limits
+Complications
+• Biliary sepsis/ascending cholangitis; • Secondary biliary cirrhosis from chronic cholestasis; • Coagulopathy due to vitamin K malabsorption; • Renal dysfunction from bile salt toxicity; • Cardiovascular compromise and gallbladder (cholecystitis, perforation) complications
+• Progression to liver failure or decompensated cirrhosis; • Portal hypertension, ascites, hepatic encephalopathy, variceal bleeding; • Coagulopathy resulting from impaired synthetic function
+• Severe anemia with potential cardiac decompensation; • Formation of pigmented gallstones and risks from repeated hemolytic crises
+Notes on Differential Exclusion
+Excluded when imaging demonstrates normal biliary tract caliber and a non”cholestatic enzyme profile.
+Ruled out by the absence of significant transaminase elevation and parenchymal changes on imaging.
+Discounted when there is no laboratory evidence of hemolysis and when conjugated bilirubin predominates.
+Division
+Splenic Infarction
+Splenic Abscess
+Traumatic Splenic Injury
+Portal Hypertensive Splenomegaly
+Immune Thrombocytopenic Purpura (ITP)
+Clinical Definition
+• Ischemic necrosis of splenic tissue; • Wedge-shaped hypoattenuation on imaging
+• Suppurative lesion within splenic parenchyma; • Focal pus collection and inflammatory changes
+• Parenchymal disruption due to injury; • Lacerations, hematomas, or rupture seen on imaging
+• Splenic enlargement secondary to increased portal venous pressure
+• Autoimmune-mediated drop in platelet count; • Isolated thrombocytopenia with normal marrow
+Causes
+• Embolic events (e.g., atrial fibrillation, endocarditis); • In situ thrombosis due to hypercoagulability
+• Septic emboli from infective endocarditis; • Bacterial infections (e.g., typhoid, tuberculosis)
+• Blunt trauma (vehicular accidents, falls); • Penetrating injuries (stabs, gunshots)
+• Liver cirrhosis causing portal hypertension; • Splenic/portal vein thrombosis
+• Autoimmune platelet destruction; • Possible post-infectious triggers or idiopathic
+Risk Factors
+• Cardiac arrhythmias and endocarditis history; • Prothrombotic states
+• Immunosuppression; • Recent bacteremia or continuous sepsis
+• High-impact/severe trauma exposure; • Previous splenic pathology
+• Chronic liver disease (alcohol abuse, hepatitis); • Portal vein thrombosis
+• Genetic predisposition; • Viral triggers; adult females more commonly
+Clinical Features
+• Sudden left upper quadrant (LUQ) pain; • Associated fever, chills; • LUQ tenderness
+• High-grade fever with rigors; • Persistent LUQ pain; • Possible gastrointestinal upset
+• LUQ pain often radiating to the left shoulder (Kehr’s sign); • Signs of internal hemorrhage (tachycardia, hypotension)
+• Gradual LUQ fullness or discomfort; • May be discovered incidentally; • Signs of cirrhosis (ascites, jaundice, varices)
+• Petechiae, easy bruising, mucosal bleeding; • Bleeding risk increases sharply when counts fall below critical levels
+Management Lines (Investigations & Treatments)
+• Investigations: CT scan (wedge-shaped hypoattenuation), Ultrasound (enlargement), Laboratory inflammatory markers; • Treatments: Supportive care with analgesia, appropriate anticoagulation, Splenectomy when complications arise
+• Investigations: CT scan (rim-enhancing lesions), Ultrasound (hypoechoic focal lesions), Elevated WBC, CRP, positive blood cultures; • Treatments: Broad-spectrum antibiotics followed by targeted regimens, Percutaneous drainage for lesions <4 cm
+• Investigations: CT scan (lacerations, hematomas), FAST exam for free intra-abdominal fluid; • Treatments: Non-operative management for low-grade injuries, Splenectomy for high-grade injury or ongoing hemorrhage
+• Investigations: Ultrasound/CT (splenic enlargement with concurrent liver changes), Abnormal liver function tests; • Treatments: Manage underlying liver disease (pharmacologic measures, beta blockers, possible shunt e.g., TIPS)
+• Investigations: CBC (isolated thrombocytopenia), Peripheral smear (absence of schistocytes); • Treatments: Short course corticosteroids, IV immunoglobulin for bleeding, Splenectomy for refractory cases, Immunomodulators (e.g., Rituximab, TPO agonists)
+Differential Diagnosis & Exclusion Strategies
+• Exclude abscess by: lack of rim enhancement and systemic infection; • No history of trauma
+• Differentiated from infarction by: presence of rim enhancement and systemic infection; • Positive microbial cultures and inflammatory labs
+• Ruled out infarction by clear trauma history; • Imaging shows parenchymal disruption specific to trauma; • No acute embolic phenomena evident
+• Distinguish from primary hematologic causes by: abnormal liver parameters and cirrhotic features; • Imaging ruling out splenic infarcts
+• Exclude alternative thrombocytopenias by: absence of microangiopathic hemolysis (as seen in TTP); • Bone marrow evaluation showing normal cellularity
+Complications
+• Potential progression to splenic rupture; • Secondary infection leading to abscess formation
+• Rupture causing peritonitis; • Septic shock and subdiaphragmatic abscess formation
+• Ongoing hemorrhage requiring transfusions; • Post-splenectomy infection risk if splenic removal performed
+• Development of hypersplenism (pancytopenia); • Exacerbation of portal hypertensive complications
+• Recurrent bleeding episodes; • Medication side effects; • Overwhelming postsplenectomy sepsis (OPSI) risk
